@@ -1,0 +1,28 @@
+name: Atualizar Feed Sellar
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Roda a cada 6 horas
+  workflow_dispatch: # Permite que você rode manualmente se quiser
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v3
+
+      - name: Configurar PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.1'
+
+      - name: Rodar o script unificador
+        run: php merger.php
+
+      - name: Salvar e publicar o arquivo XML
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Atualização automática do feed XML"
+          file_pattern: 'feed_unificado_sellar.xml'
