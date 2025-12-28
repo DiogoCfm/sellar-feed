@@ -3,167 +3,98 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2025-12-27T18:13:37</Date>
+  <Date>2025-12-28T00:54:29</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>VISTA-SE191</ListingID>
+      <ListingID>VISTA-SE200</ListingID>
       <ContactInfo>
         <Email>diogocobucci@gmail.com</Email>
         <Name>SELLAR ADMINISTRACAO E REPRESENTACAO IMOBILIARIA</Name>
       </ContactInfo>
       <Destaque>Nao</Destaque>
       <Details>
-        <Bathrooms>1</Bathrooms>
+        <Bathrooms>2</Bathrooms>
         <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[- Apartamento de 51m² (privativos) + 32,5m² de garagem, total = 83m²
-- 2 dormitórios bem distribuídos
-- Sala ampla com ambiente integrado e excelente iluminação natural
-- Sacada com vista livre e permanente
-- Cozinha com móveis planejados
-- Área de serviço funcional
-- 2 vagas de garagem cobertas, localizadas na mesma torre
-- Localizado no último andar garantindo privacidade e tranquilidade
-- Incidência do sol da manhã em todos os ambientes
+        <Description><![CDATA[Se você busca localização estratégica e um imóvel com potencial para ficar exatamente do seu jeito, esta é a sua chance. Localizado no coração de Perdizes, este apartamento de 63m² oferece a planta perfeita para quem valoriza praticidade e qualidade de vida.
 
+O Imóvel:
+Área: 63m² muito bem distribuídos.
 
-Infraestrutura do Condomínio:
-- Portaria 24 horas com controle de acesso
-- Mini mercado 24h no condomínio, ideal para emergências e conveniência
-- Piscina moderna
-- Salão de festas equipado
-- Playground para crianças
-- Quadra poliesportiva para lazer e prática esportiva
+Configuração: 2 dormitórios espaçosos + dependência completa de empregada (ideal para reverter em um moderno home office).
 
+Banheiros: 2 banheiros totais.
 
-Diferenciais:
-Apartamento exclusivo no último andar, com vista livre de todos os cômodos, excelente orientação solar (sol da manhã) e duas vagas cobertas na mesma torre. Ideal para quem busca conforto, praticidade e qualidade de vida em um dos condomínios mais completos de Itupeva.
+Destaque: Sacada com vista agradável e 1 vaga de garagem garantida.
 
+IMPORTANTE: As fotos apresentadas neste anúncio são sugestões de reforma e decoração (perspectivas artísticas). Elas foram elaboradas para ilustrar o enorme potencial de modernização deste imóvel, permitindo que você visualize como o espaço pode se tornar um dos apartamentos mais modernos da região.
 
-Localização:
-Excelente localização em Itupeva! Imóvel situado em ponto estratégico, em frente ao Supermercado Monte Serrat, na principal avenida da cidade. Rodeado por uma ampla rede de comércios, como escolas, creches, restaurantes e cafeterias, oferece praticidade e conveniência para o dia a dia. Além disso, possui fácil e rápido acesso às Rodovias Anhanguera, Bandeirantes e Dom Gabriel, bem como aos principais parques industriais da região, o que o torna ideal tanto para fins residenciais quanto comerciais/profissionais.]]></Description>
-        <Garage>2</Garage>
-        <LivingArea>51</LivingArea>
-        <LotArea>51</LotArea>
-        <PropertyAdministrationFee>420</PropertyAdministrationFee>
+Condomínio e Lazer:
+Desfrute de uma infraestrutura completa para toda a família:
+
+Portaria 24 horas para sua total segurança.
+
+Piscina para momentos de relaxamento.
+
+Salão de festas para celebrações especiais.
+
+Área de brinquedos para as crianças.
+
+Localização Imbatível:
+Viva cercado de conveniência e mobilidade:
+
+Educação: Próximo à PUC-SP.
+
+Lazer: A apenas 500 metros do Parque da Água Branca.
+
+Mobilidade: 900 metros da Estação Barra Funda e a apenas 350 metros da futura Estação Perdizes do Metrô.
+
+Facilidades: Ciclovias, farmácias, supermercados, padarias e os melhores bares e restaurantes do bairro ao seu redor.]]></Description>
+        <Garage>1</Garage>
+        <LivingArea>65</LivingArea>
+        <LotArea>65</LotArea>
+        <PropertyAdministrationFee>1690</PropertyAdministrationFee>
         <PropertyType>Residential / Apartment</PropertyType>
-        <YearlyTax>70</YearlyTax>
+        <YearlyTax>450</YearlyTax>
         <Features>
           <Feature>Balcony</Feature>
-          <Feature>Fenced Yard</Feature>
-          <Feature>Game room</Feature>
-          <Feature>Gym</Feature>
-          <Feature>Party Room</Feature>
-          <Feature>Playground</Feature>
+          <Feature>Maids Quarters</Feature>
         </Features>
         <Warranties/>
-        <ListPrice currency="BRL">357000</ListPrice>
+        <ListPrice currency="BRL">625000</ListPrice>
       </Details>
       <Location displayAddress="Neighborhood">
-        <Address>Rua Adélia de Oliveira</Address>
-        <City><![CDATA[Itupeva]]></City>
-        <Complement>555</Complement>
-        <Latitude>-23.156229</Latitude>
-        <Longitude>-47.0404546</Longitude>
-        <Neighborhood><![CDATA[Residencial Pacaembu]]></Neighborhood>
-        <PostalCode>13295-478</PostalCode>
+        <Address>Minerva</Address>
+        <City><![CDATA[São Paulo]]></City>
+        <Complement>13</Complement>
+        <Latitude>-23.5333451</Latitude>
+        <Longitude>-46.6722498</Longitude>
+        <Neighborhood><![CDATA[Perdizes]]></Neighborhood>
+        <PostalCode>05007-030</PostalCode>
         <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>94</StreetNumber>
+        <StreetNumber>119</StreetNumber>
       </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Oportunidade única! Apartamento no último andar à venda no Torres de Monte Carlo]]></Title>
+      <PublicationType>SUPER_PREMIUM</PublicationType>
+      <Title><![CDATA[Perdizes Prox Puc com Portaria 24hrs]]></Title>
       <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/191/i3Y8T1GwQi23U13L21p5_191683991a37a3c7.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/191/i3Y8T1GwQi23U13L21p5_191683991a685005.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/191/i3Y8T1GwQi23U13L21p5_1916839918a8b18c.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/191/i3Y8T1GwQi23U13L21p5_19168399187ba611.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/191/i3Y8T1GwQi23U13L21p5_1916839918ee76e8.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/191/i3Y8T1GwQi23U13L21p5_19168399191d3b51.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/191/i3Y8T1GwQi23U13L21p5_19168399194d5825.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/191/i3Y8T1GwQi23U13L21p5_191683991976df39.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/191/i3Y8T1GwQi23U13L21p5_1916839919aa0f52.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/191/i3Y8T1GwQi23U13L21p5_1916839919dbb318.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/191/i3Y8T1GwQi23U13L21p5_191683991a04facb.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/191/i3Y8T1GwQi23U13L21p5_191683991aa963e2.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/191/i3Y8T1GwQi23U13L21p5_191683991ad21ad1.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/191/i3Y8T1GwQi23U13L21p5_191683991b02f9a7.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/191/i3Y8T1GwQi23U13L21p5_191683991b2608a1.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/191/i3Y8T1GwQi23U13L21p5_191683991b5a9216.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/191/i3Y8T1GwQi23U13L21p5_191683991b7f2629.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/191/i3Y8T1GwQi23U13L21p5_191683991ba26c8f.jpg</Item>
+        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/200/ijf96_200694ff5890dade.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/200/ijf96_200694ff58bd6f96.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/200/ijf96_200694ff58eba8c1.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/200/ijf96_200694ff5915878c.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/200/ijf96_200694ff5939a2ea.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/200/ijf96_200694ff5a25fcfe.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/200/ijf96_200694ff5a5445f2.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/200/ijf96_200694ff5a7f37b4.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/200/ijf96_200694ff5aaa7f5d.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/200/ijf96_200694ff5ad5b0da.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/200/ijf96_200694ff5afeba6d.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/200/ijf96_200694ff5b2c0fd5.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/200/ijf96_200694ff5b57bb40.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/200/ijf96_200694ff5b8230a0.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/200/ijf96_200694ff5ba77fc1.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>VISTA-SE174</ListingID>
-      <ContactInfo>
-        <Email>diogocobucci@gmail.com</Email>
-        <Name>SELLAR ADMINISTRACAO E REPRESENTACAO IMOBILIARIA</Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Descrição:
-2 Quartos, 1 Vaga na Garagem, Wc, Sala, Cozinha. .
-
- Para uso do FGTS, consulte condições e enquadramento.
- Imóvel NÃO aceita financiamento habitacional.
- Imóvel NÃO aceita parcelamento.
- Imóvel NÃO aceita consórcio.
- O pagamento das despesas de tributos incidentes sobre o imóvel ficará a cargo do comprador.
- O pagamento das despesas de condomínio também ficará a cargo do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação.
-
-Está procurando um imóvel com preço acessível e condições especiais? A modalidade de Venda Direta da Caixa oferece imóveis com valores abaixo do mercado e diversas facilidades para você realizar o sonho da casa própria ou fazer um ótimo investimento.
-
-Com opções de financiamento, uso do FGTS e imóveis em várias regiões, essa é a chance perfeita para adquirir seu imóvel de forma segura e prática.
-
-Por que comprar com a gente?
-
-Segurança: Credenciamento oficial pela Caixa Econômica Federal.
-
-Transparência: Informações claras sobre a situação jurídica do imóvel.
-
-Suporte Personalizado: Acompanhamos você em todas as etapas, desde a análise até a regularização.
-
-Somos especialistas credenciados na Caixa para venda e assessoramento, garantindo que você tenha toda a assistência necessária.
-
-Sellar Imóveis - CRECI: 47244-J
-
-Para garantir que você seja atendido por nossa equipe, é importante incluir nosso número de registro CRECI na proposta. Assim, você terá certeza de que estará sendo assessorado por nós em todas as etapas do processo.
-
-Importante: Por se tratar de imóvel em leilão ou retomado, não há fotos adicionais disponíveis e visitas não são permitidas. Todas as informações necessárias serão fornecidas para que você possa tomar uma decisão informada.
-
-Entre em contato conosco agora mesmo e descubra as melhores opções para você. O imóvel dos seus sonhos pode estar mais perto do que imagina!]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>126</LivingArea>
-        <LotArea>150</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Home</PropertyType>
-        <YearlyTax>0</YearlyTax>
-        <Features/>
-        <Warranties/>
-        <ListPrice currency="BRL">270221</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address>Doutor Ernesto Sprogis</Address>
-        <City><![CDATA[Nova Odessa]]></City>
-        <Latitude>-22.7907854</Latitude>
-        <Longitude>-47.29715340000001</Longitude>
-        <Neighborhood><![CDATA[Jardim de Éden]]></Neighborhood>
-        <PostalCode>13382-020</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>1055</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Imóvel com Venda Direta da Caixa - Aproveite essa Oportunidade!]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/174/i3phC35OHN99M_17467d4860311cc9.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/174/i3phC35OHN99M_17467d48604dd46b.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/174/i3phC35OHN99M_17467d486072e4a8.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/174/i3phC35OHN99M_17467d4860fc6e24.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>VISTA-SE168</ListingID>
+      <ListingID>VISTA-SE197</ListingID>
       <ContactInfo>
         <Email>diogocobucci@gmail.com</Email>
         <Name>SELLAR ADMINISTRACAO E REPRESENTACAO IMOBILIARIA</Name>
@@ -172,744 +103,89 @@ Entre em contato conosco agora mesmo e descubra as melhores opções para você.
       <Details>
         <Bathrooms>2</Bathrooms>
         <Bedrooms>3</Bedrooms>
-        <Description><![CDATA[Descrição:
-3 Quartos, 2 Vagas na Garagem, Área de Serviço, 2 Wc, Sala, Cozinha. Indisponibilidade Averbada na Av-04, Av-05, Av-07 a Av-09, Av-11 e Av-12. Penhora Gravada na Av-10. Regularização Dos Gravames Por Conta do Adquirente.
+        <Description><![CDATA[Casa bem cuidada, pronta para morar, com ótima distribuição de espaços:
 
- Imóvel NÃO aceita utilização de FGTS.
- Imóvel NÃO aceita financiamento habitacional.
- Imóvel NÃO aceita parcelamento.
- Imóvel NÃO aceita consórcio.
- As despesas de tributos, até a data da venda, inferiores a R$ 1.000,00 (mil reais) ficarão a cargo do comprador.
+3 dormitórios (sendo 1 no térreo com lavabo) e 2 com ar condicionado
 
-Por que comprar com a gente?
+Sala aconchegante
 
-Segurança: Credenciamento oficial Caixa Econômica.
+Cozinha ampla com armários planejados
 
-Transparência: Informações claras sobre a situação jurídica.
+2 vagas de garagem
 
-Suporte Personalizado: Ajudamos desde a análise até a regularização.
+Banheiro social no piso superior
 
-(Informações atualizadas em . Sujeito a alterações sem aviso prévio.)
+Quintal com churrasqueira
 
-Somos credenciados na Caixa para venda e assessoramento.]]></Description>
+Lavanderia com área coberta e descoberta
+
+Localização estratégica
+Próxima a vias de acesso como Av. Paula Ferreira e Marginal Tietê.
+E com grande potencial de valorização: a futura Estação Freguesia do Ó da Linha 6-Laranja do Metrô está em obras e prevista para inauguração em 2026/27.]]></Description>
         <Garage>2</Garage>
-        <LivingArea>72</LivingArea>
-        <LotArea>188</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Condo</PropertyType>
-        <YearlyTax>0</YearlyTax>
-        <Features/>
-        <Warranties/>
-        <ListPrice currency="BRL">328223</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>Belvedere</Address>
-        <City><![CDATA[São José do Rio Preto]]></City>
-        <Complement>186</Complement>
-        <Latitude>-20.7811554</Latitude>
-        <Longitude>-49.3470766</Longitude>
-        <Neighborhood><![CDATA[Condomínio Residencial Village Maria Stella]]></Neighborhood>
-        <PostalCode>15056-071</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>505</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[VILLAGGIO MARIA STELLA - Venda Caixa]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/168/i71E7498_16867d048e4d9a7d.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/168/i71E7498_16867d048e6d6275.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/168/i71E7498_16867d048e9372ab.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/168/i71E7498_16867d048ebc044a.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/168/i71E7498_16867d048ee56552.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/168/i71E7498_16867d06e4685bc5.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>VISTA-SE167</ListingID>
-      <ContactInfo>
-        <Email>diogocobucci@gmail.com</Email>
-        <Name>SELLAR ADMINISTRACAO E REPRESENTACAO IMOBILIARIA</Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>1</Bedrooms>
-        <Description><![CDATA[Descrição:
-Consta a Edificação de Uma Edícula - Averbação Por Conta do Adquirente.
-
- Imóvel NÃO aceita utilização de FGTS.
- Imóvel NÃO aceita financiamento habitacional.
- Imóvel NÃO aceita parcelamento.
- Imóvel NÃO aceita consórcio.
- Existe área não averbada.
- As despesas de tributos, até a data da venda, inferiores a R$ 1.000,00 (mil reais) ficarão a cargo do comprador.
-
-Por que comprar com a gente?
-
-Segurança: Credenciamento oficial Caixa Econômica.
-
-Transparência: Informações claras sobre a situação jurídica.
-
-Suporte Personalizado: Ajudamos desde a análise até a regularização.
-
-(Informações atualizadas em . Sujeito a alterações sem aviso prévio.)
-
-Somos credenciados na Caixa para venda e assessoramento]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>1</LivingArea>
-        <LotArea>5079</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Agricultural</PropertyType>
-        <YearlyTax>0</YearlyTax>
-        <Features/>
-        <Warranties/>
-        <ListPrice currency="BRL">339084</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address>Alameda Alvorada</Address>
-        <City><![CDATA[Jarinu]]></City>
-        <Latitude>-23.1241418</Latitude>
-        <Longitude>-46.7001183</Longitude>
-        <Neighborhood><![CDATA[Agua Preta]]></Neighborhood>
-        <PostalCode>13240-000</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>56</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[5000m2 Jarinu - Venda Caixa]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/167/i1I263t_16767cf3b8f9bcd8.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/167/i1I263t_16767cf3b7e56a82.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/167/i1I263t_16767cf3b806d43d.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/167/i1I263t_16767cf3b82ed2e5.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/167/i1I263t_16767cf3b8d4f807.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>VISTA-SE165</ListingID>
-      <ContactInfo>
-        <Email>diogocobucci@gmail.com</Email>
-        <Name>SELLAR ADMINISTRACAO E REPRESENTACAO IMOBILIARIA</Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>0</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Descrição:
-.
-
- Imóvel NÃO aceita utilização de FGTS.
- Imóvel NÃO aceita financiamento habitacional.
- Imóvel NÃO aceita parcelamento.
- Imóvel NÃO aceita consórcio.
- Existe área não averbada.
- O pagamento das despesas de tributos incidentes sobre o imóvel ficará a cargo do comprador.
- O pagamento das despesas de condomínio também ficará a cargo do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação.
-
-
-
-Por que comprar com a gente?
-
-Segurança: Credenciamento oficial Caixa Econômica.
-
-Transparência: Informações claras sobre a situação jurídica.
-
-Suporte Personalizado: Ajudamos desde a análise até a regularização.
-
-(Informações atualizadas em . Sujeito a alterações sem aviso prévio.)
-
-Somos credenciados na Caixa para venda e assessoramento.]]></Description>
-        <LivingArea>0</LivingArea>
-        <LotArea>1000</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Land Lot</PropertyType>
-        <YearlyTax>0</YearlyTax>
-        <Features/>
-        <Warranties/>
-        <ListPrice currency="BRL">398321</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address>das Carmélias</Address>
-        <City><![CDATA[Franco da Rocha]]></City>
-        <Latitude>-23.32192</Latitude>
-        <Longitude>-46.7527344</Longitude>
-        <Neighborhood><![CDATA[Parque Santa Delfa]]></Neighborhood>
-        <PostalCode>07809-200</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>161</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Terreno Franco da Rocha - Venda Caixa]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/165/irr4212r2Fy83M2w4_16567cf2e7f6eef3.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/165/irr4212r2Fy83M2w4_16567cf2e81b2976.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/165/irr4212r2Fy83M2w4_16567cf2e83b0c95.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/165/irr4212r2Fy83M2w4_16567cf2e8fad5ee.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>VISTA-SE161</ListingID>
-      <ContactInfo>
-        <Email>diogocobucci@gmail.com</Email>
-        <Name>SELLAR ADMINISTRACAO E REPRESENTACAO IMOBILIARIA</Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>3</Bathrooms>
-        <Bedrooms>4</Bedrooms>
-        <Description><![CDATA[Endereço:
-RUA DOS EBANOS ANTIGA RUA UM,N. 58 LT 07 QD 05, DOS CASA - CEP: 09840-140, SAO BERNARDO DO CAMPO - SAO PAULO
-
-
-Descrição:
-4 Quartos, 3 Vagas na Garagem, Área de Serviço, 2 Wc, wc Emp, Sala, Lavabo, Cozinha. .
-
- Para uso do FGTS, consulte condições e enquadramento.
- Permite financiamento. Consulte condições antes de efetuar a proposta.
- Imóvel NÃO aceita parcelamento.
- Imóvel NÃO aceita consórcio.
- As despesas de tributos, até a data da venda, inferiores a R$ 1.000,00 (mil reais) ficarão a cargo do comprador.
-
-Por que comprar com a gente?
-
-Segurança: Credenciamento oficial Caixa Econômica.
-
-Transparência: Informações claras sobre a situação jurídica.
-
-Suporte Personalizado: Ajudamos desde a análise até a regularização.
-
-(Informações atualizadas em . Sujeito a alterações sem aviso prévio.)
-
-Somos credenciados na Caixa para venda e assessoramento.]]></Description>
-        <Garage>3</Garage>
-        <LivingArea>223</LivingArea>
-        <LotArea>368</LotArea>
+        <LivingArea>180</LivingArea>
+        <LotArea>110</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
         <PropertyType>Residential / Home</PropertyType>
-        <Suites>1</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features/>
-        <Warranties/>
-        <ListPrice currency="BRL">522598</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address>dos Ébanos</Address>
-        <City><![CDATA[São Bernardo do Campo]]></City>
-        <Latitude>-23.738149</Latitude>
-        <Longitude>-46.5700276</Longitude>
-        <Neighborhood><![CDATA[Dos Casa]]></Neighborhood>
-        <PostalCode>09840-140</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>58</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa - São Bernando - Venda Caixa]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/161/i4SP8h8o6La_16167cf139d392c5.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/161/i4SP8h8o6La_16167cf13a0858b1.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/161/i4SP8h8o6La_16167cf13ae2ffcf.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>VISTA-SE160</ListingID>
-      <ContactInfo>
-        <Email>diogocobucci@gmail.com</Email>
-        <Name>SELLAR ADMINISTRACAO E REPRESENTACAO IMOBILIARIA</Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>0</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Valor de avaliação: R$ 1.060.000,00
-Valor mínimo de venda: R$ 675.553,16 ( desconto de 36,27%)
-
-Endereço:
-RUA EUGENIA DE OLIVEIRA CIRNE,N. SN ., TERRA VERMELHA - CEP: 18071-283, SOROCABA - SAO PAULO
-
-
-Descrição:
-.
-
- Imóvel NÃO aceita utilização de FGTS.
- Permite financiamento. Consulte condições antes de efetuar a proposta.
- Imóvel NÃO aceita parcelamento.
- Imóvel NÃO aceita consórcio.
- As despesas de tributos, até a data da venda, inferiores a R$ 1.000,00 (mil reais) ficarão a cargo do comprador.
-
-Por que comprar com a gente?
-
-Segurança: Credenciamento oficial Caixa Econômica.
-
-Transparência: Informações claras sobre a situação jurídica.
-
-Suporte Personalizado: Ajudamos desde a análise até a regularização.
-
-(Informações atualizadas em . Sujeito a alterações sem aviso prévio.)
-
-Somos credenciados na Caixa para venda e assessoramento.]]></Description>
-        <LivingArea>0</LivingArea>
-        <LotArea>4140</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Land Lot</PropertyType>
-        <YearlyTax>0</YearlyTax>
-        <Features/>
-        <Warranties/>
-        <ListPrice currency="BRL">675553</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>Eugênia de Oliveira Cirne</Address>
-        <City><![CDATA[Sorocaba]]></City>
-        <Latitude>-23.47581703717738</Latitude>
-        <Longitude>-47.50837444714355</Longitude>
-        <Neighborhood><![CDATA[Lopes de Oliveira]]></Neighborhood>
-        <PostalCode>18071-283</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>100</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Oportunidade Terreno em Sorocaba - Caixa Economica]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/160/i89UmBRT69M6E_16067cc568c3d3f0.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/160/i89UmBRT69M6E_16067cc568e74f90.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/160/i89UmBRT69M6E_16067cc569094e24.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/160/i89UmBRT69M6E_16067cc569452bc6.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/160/i89UmBRT69M6E_16067cc569669778.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/160/i89UmBRT69M6E_16067cc56a1147a4.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>VISTA-SE159</ListingID>
-      <ContactInfo>
-        <Email>diogocobucci@gmail.com</Email>
-        <Name>SELLAR ADMINISTRACAO E REPRESENTACAO IMOBILIARIA</Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>3</Bathrooms>
-        <Bedrooms>3</Bedrooms>
-        <Description><![CDATA[Valor de avaliação: R$ 1.092.000,00
-Valor mínimo de venda: R$ 695.947,22 ( desconto de 36,27%)
-
-
-RUA ISANGA ANTIGA R DOIS,N. 280 ., VILA AMERICA - CEP: 02928-040, SAO PAULO - SAO PAULO
-
-
-Descrição:
-.
-
- Para uso do FGTS, consulte condições e enquadramento.
- Imóvel NÃO aceita financiamento habitacional.
- Imóvel NÃO aceita parcelamento.
- Imóvel NÃO aceita consórcio.
- O pagamento das despesas de tributos incidentes sobre o imóvel ficará a cargo do comprador.
- O pagamento das despesas de condomínio também ficará a cargo do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação.
-
-
-Por que comprar com a gente?
-
-Segurança: Credenciamento oficial Caixa Econômica.
-
-Transparência: Informações claras sobre a situação jurídica.
-
-Suporte Personalizado: Ajudamos desde a análise até a regularização.
-
-(Informações atualizadas em . Sujeito a alterações sem aviso prévio.)
-
-Somos credenciados na Caixa para venda e assessoramento.]]></Description>
-        <Garage>6</Garage>
-        <LivingArea>229</LivingArea>
-        <LotArea>320</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Sobrado</PropertyType>
-        <Suites>1</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features/>
-        <Warranties/>
-        <ListPrice currency="BRL">695947</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>Isanga</Address>
-        <City><![CDATA[São Paulo]]></City>
-        <Latitude>-23.4945261</Latitude>
-        <Longitude>-46.7046352</Longitude>
-        <Neighborhood><![CDATA[Vila América]]></Neighborhood>
-        <PostalCode>02928-040</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>280</StreetNumber>
-      </Location>
-      <PublicationType>PREMIUM</PublicationType>
-      <Title><![CDATA[Oportunidade Caixa na Freguesia!]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/159/iRlGo5559F691_15967cc5326f020d.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/159/iRlGo5559F691_15967cc5329026b3.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/159/iRlGo5559F691_15967cc532b64040.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/159/iRlGo5559F691_15967cc53185ddcf.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>VISTA-SE156</ListingID>
-      <ContactInfo>
-        <Email>diogocobucci@gmail.com</Email>
-        <Name>SELLAR ADMINISTRACAO E REPRESENTACAO IMOBILIARIA</Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>0</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[RUA D ORO,N. 201 APTO. . ., DISTRITO INDUSTRIAL - CEP: 18120-000, MAIRINQUE - SAO PAULO
-
-
-
-.
-
- Imóvel NÃO aceita utilização de FGTS.
- Imóvel NÃO aceita financiamento habitacional.
- Imóvel NÃO aceita parcelamento.
- Imóvel NÃO aceita consórcio.
- As despesas de tributos, até a data da venda, inferiores a R$ 1.000,00 (mil reais) ficarão a cargo do comprador.
-
-Por que comprar com a gente?
-
-Segurança: Credenciamento oficial Caixa Econômica.
-
-Transparência: Informações claras sobre a situação jurídica.
-
-Suporte Personalizado: Ajudamos desde a análise até a regularização.
-
-(Informações atualizadas em . Sujeito a alterações sem aviso prévio.)
-
-Somos credenciados na Caixa para venda e assessoramento.]]></Description>
-        <LivingArea>0</LivingArea>
-        <LotArea>12092</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Land Lot</PropertyType>
-        <YearlyTax>0</YearlyTax>
-        <Features/>
-        <Warranties/>
-        <ListPrice currency="BRL">1511349</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address>Raposo Tavares</Address>
-        <City><![CDATA[Mairinque]]></City>
-        <Latitude>-23.54009182714685</Latitude>
-        <Longitude>-47.18780549592286</Longitude>
-        <Neighborhood><![CDATA[Centro]]></Neighborhood>
-        <PostalCode>18120-000</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>201</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Terreno - Venda Caixa Prox Raposo]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/156/ivgw6N26k7X1o_15667cb37950fae1.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/156/ivgw6N26k7X1o_15667cb37974e525.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/156/ivgw6N26k7X1o_15667cb3798c4b51.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/156/ivgw6N26k7X1o_15667cb379aaa72a.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/156/ivgw6N26k7X1o_15667cb379c1d3fd.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/156/ivgw6N26k7X1o_15667cb379e0039a.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/156/ivgw6N26k7X1o_15667cb37a04bc48.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/156/ivgw6N26k7X1o_15667cb37acb547e.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>VISTA-SE155</ListingID>
-      <ContactInfo>
-        <Email>diogocobucci@gmail.com</Email>
-        <Name>SELLAR ADMINISTRACAO E REPRESENTACAO IMOBILIARIA</Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>3</Bathrooms>
-        <Bedrooms>4</Bedrooms>
-        <Description><![CDATA[Descrição:
-4 Quartos, 4 Vagas na Garagem, 3 Wc, wc Emp, 2 Salas, Lavabo, Dce, Cozinha. .
-
- Imóvel NÃO aceita utilização de FGTS.
- Imóvel NÃO aceita financiamento habitacional.
- Imóvel NÃO aceita parcelamento.
- Imóvel NÃO aceita consórcio.
- O pagamento das despesas de tributos incidentes sobre o imóvel ficará a cargo do comprador.
- O pagamento das despesas de condomínio também ficará a cargo do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação.
-
-Por que comprar com a gente?
-
-Segurança: Credenciamento oficial Caixa Econômica.
-
-Transparência: Informações claras sobre a situação jurídica.
-
-Suporte Personalizado: Ajudamos desde a análise até a regularização.
-
-(Informações atualizadas em . Sujeito a alterações sem aviso prévio.)
-
-Somos credenciados na Caixa para venda e assessoramento.]]></Description>
-        <Garage>4</Garage>
-        <LivingArea>171</LivingArea>
-        <LotArea>171</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <YearlyTax>0</YearlyTax>
-        <Features/>
-        <Warranties/>
-        <ListPrice currency="BRL">870571</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address>D</Address>
-        <City><![CDATA[Guarujá]]></City>
-        <Complement>53</Complement>
-        <Latitude>-23.98416395655987</Latitude>
-        <Longitude>-46.22972218218383</Longitude>
-        <Neighborhood><![CDATA[Enseada]]></Neighborhood>
-        <PostalCode>11441-347</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>60</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Oportunidade no Guarujá - Venda Caixa]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/155/i8FT7lS628D234T6c8C_15567c8bf4dc2d69.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/155/i8FT7lS628D234T6c8C_15567c8bf49991df.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/155/i8FT7lS628D234T6c8C_15567c8bf4b63c8f.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/155/i8FT7lS628D234T6c8C_15567c8bf3d22fdc.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>VISTA-SE152</ListingID>
-      <ContactInfo>
-        <Email>diogocobucci@gmail.com</Email>
-        <Name>SELLAR ADMINISTRACAO E REPRESENTACAO IMOBILIARIA</Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[2 Quartos, Wc, Sala, Cozinha. .
-
- Imóvel NÃO aceita utilização de FGTS.
- Imóvel NÃO aceita financiamento habitacional.
- Imóvel NÃO aceita parcelamento.
- Imóvel NÃO aceita consórcio.
- O pagamento das despesas de tributos incidentes sobre o imóvel ficará a cargo do comprador.
- O pagamento das despesas de condomínio também ficará a cargo do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação.
-
-Por que comprar com a gente?
-
-Segurança: Credenciamento oficial Caixa Econômica.
-
-Transparência: Informações claras sobre a situação jurídica.
-
-Suporte Personalizado: Ajudamos desde a análise até a regularização.
-
-(Informações atualizadas em . Sujeito a alterações sem aviso prévio.)
-
-Somos credenciados na Caixa para venda e assessoramento.]]></Description>
-        <LivingArea>64</LivingArea>
-        <LotArea>138</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Home</PropertyType>
-        <YearlyTax>0</YearlyTax>
-        <Features/>
-        <Warranties/>
-        <ListPrice currency="BRL">84892</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address>Vila Nova</Address>
-        <City><![CDATA[Ribeirão Preto]]></City>
-        <Latitude>-21.1468726</Latitude>
-        <Longitude>-47.8245771</Longitude>
-        <Neighborhood><![CDATA[Vila Recreio]]></Neighborhood>
-        <PostalCode>14060-010</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>25</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Ribeirão Preto - Venda Caixa]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/152/ii73o52ze488t8hgl6_15267c8b2ef08ad5.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/152/ii73o52ze488t8hgl6_15267c8b2f14e6ac.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/152/ii73o52ze488t8hgl6_15267c8b2f3cc16e.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/152/ii73o52ze488t8hgl6_15267c8b2e3a7f74.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>VISTA-SE150</ListingID>
-      <ContactInfo>
-        <Email>diogocobucci@gmail.com</Email>
-        <Name>SELLAR ADMINISTRACAO E REPRESENTACAO IMOBILIARIA</Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>1</Bedrooms>
-        <Description><![CDATA[Imóvel a venda pelo banco Caixa. 
-
-Descrição:
-Quarto, 1 Vaga na Garagem, Wc, Cozinha. .
-
- Para uso do FGTS, consulte condições e enquadramento.
- Imóvel NÃO aceita financiamento habitacional.
- Imóvel NÃO aceita parcelamento.
- Imóvel NÃO aceita consórcio.
- O pagamento das despesas de tributos incidentes sobre o imóvel ficará a cargo do comprador.
- O pagamento das despesas de condomínio também ficará a cargo do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. 
-
- Por que comprar com a gente?
-
-Segurança: Credenciamento oficial Caixa Econômica.
-
-Transparência: Informações claras sobre a situação jurídica.
-
-Suporte Personalizado: Ajudamos desde a análise até a regularização.
-
-(Informações atualizadas em . Sujeito a alterações sem aviso prévio.)
-
-Somos credenciados na Caixa para venda e assessoramento.]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>26</LivingArea>
-        <LotArea>26</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Home</PropertyType>
-        <YearlyTax>0</YearlyTax>
-        <Features/>
-        <Warranties/>
-        <ListPrice currency="BRL">69361</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address>Eugênio Caserta</Address>
-        <City><![CDATA[Sorocaba]]></City>
-        <Complement>3</Complement>
-        <Latitude>-23.4816099</Latitude>
-        <Longitude>-47.4961347</Longitude>
-        <Neighborhood><![CDATA[Jardim Nogueira]]></Neighborhood>
-        <PostalCode>18066-198</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>279</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Venda Caixa- RES SUNSET XXI]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/150/ivHGXdKgb28pV9178_15067c8a85457a70.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/150/ivHGXdKgb28pV9178_15067c8a85670b07.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/150/ivHGXdKgb28pV9178_15067c8a858d2795.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/150/ivHGXdKgb28pV9178_15067c8a847ea511.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>VISTA-SE147</ListingID>
-      <ContactInfo>
-        <Email>diogocobucci@gmail.com</Email>
-        <Name>SELLAR ADMINISTRACAO E REPRESENTACAO IMOBILIARIA</Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>5</Bathrooms>
-        <Bedrooms>5</Bedrooms>
-        <Description><![CDATA[Descrição do Imóvel:
-5 Quartos (4 suítes), Área de Serviço, 1 Banheiro Social, WC Empregada, 2 Salas, Cozinha.
-
-Destaques:
-
-Amplo Espaço: 5 quartos (sendo 4 suítes), 2 salas, cozinha e área de serviço.
-
-Conforto Premium: Suítes privativas para maior comodidade.
-
-
-Informações Relevantes:
-
-Recursos Financeiros:
-
-Uso do FGTS: Verifique condições e enquadramento.
-
-Financiamento Bancário: Consulte requisitos antes de enviar proposta.
-
-Restrições:
-
-Não aceita parcelamento direto.
-
-Não aceita consórcio.
-
-Responsabilidades do Comprador:
-
-Pagamento de tributos incidentes até a data da venda, se inferiores a R$ 1.000,00 (mil reais).]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>392</LivingArea>
-        <LotArea>3825</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Agricultural</PropertyType>
-        <Suites>4</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-          <Feature>Pool</Feature>
+          <Feature>Backyard</Feature>
+          <Feature>BBQ</Feature>
+          <Feature>Cooling</Feature>
+          <Feature>Kitchen</Feature>
+          <Feature>Maids Quarters</Feature>
         </Features>
         <Warranties/>
-        <ListPrice currency="BRL">772855</ListPrice>
+        <ListPrice currency="BRL">800000</ListPrice>
       </Details>
       <Location displayAddress="All">
-        <Address>Congonhas</Address>
-        <City><![CDATA[Embu das Artes]]></City>
-        <Latitude>-23.6366202</Latitude>
-        <Longitude>-46.8815566</Longitude>
-        <Neighborhood><![CDATA[Chácaras São Cristóvão]]></Neighborhood>
-        <PostalCode>06846-040</PostalCode>
+        <Address>Manuel de Sousa Moreira</Address>
+        <City><![CDATA[São Paulo]]></City>
+        <Latitude>-23.5036551</Latitude>
+        <Longitude>-46.7038279</Longitude>
+        <Neighborhood><![CDATA[Vila Arcádia]]></Neighborhood>
+        <PostalCode>02911-110</PostalCode>
         <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>130</StreetNumber>
+        <StreetNumber>343</StreetNumber>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Chacara Embu das Artes - Venda Caixa]]></Title>
+      <Title><![CDATA[Casa à venda na Freguesia do Ó - Rua Manuel de Souza Moreira]]></Title>
       <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/147/iZJg1HSg6_14767c1d12321e91.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/147/iZJg1HSg6_14767c1d12601f05.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/147/iZJg1HSg6_14767c1d12b631c2.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/147/iZJg1HSg6_14767c1d115ce268.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/147/iZJg1HSg6_14767c1d12953dbb.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>VISTA-SE144</ListingID>
-      <ContactInfo>
-        <Email>diogocobucci@gmail.com</Email>
-        <Name>SELLAR ADMINISTRACAO E REPRESENTACAO IMOBILIARIA</Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>1</Bedrooms>
-        <Description><![CDATA[Quarto, 4 Wc, 9 Salas, 2 Cozinhas. Equipamento de Segurança, Espaço Com Churrasqueira, Espaço c/ Churrasqueira Privativo, Playground, Portaria E/ou Guarita, Salão de Festas.
-
-Imóvel de propriedade da Caixa Econômica, para venda direta. 
-
-Aceita FGTS e Financiamento Bancário. 
-
-
-Somos credenciados na Caixa para venda e assessoramento. 
-
-Entre em contato]]></Description>
-        <LivingArea>360</LivingArea>
-        <LotArea>499</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Home</PropertyType>
-        <YearlyTax>0</YearlyTax>
-        <Features/>
-        <Warranties/>
-        <ListPrice currency="BRL">961694</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>Prudente de Morais</Address>
-        <City><![CDATA[Ribeirão Preto]]></City>
-        <Latitude>-21.1842913</Latitude>
-        <Longitude>-47.8045655</Longitude>
-        <Neighborhood><![CDATA[Centro]]></Neighborhood>
-        <PostalCode>14015-100</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>1395</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Ribeirão Preto - Imóvel Caixa]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/144/iO69SUBY74K9_14467c1bf74008e4.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/144/iO69SUBY74K9_14467c1bf7631cc2.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/144/iO69SUBY74K9_14467c1bf7805b7a.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/144/iO69SUBY74K9_14467c1bf79e0def.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/144/iO69SUBY74K9_14467c1bf86ab0f3.jpg</Item>
+        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/197/i415M4WJpDY648ASt_19768b1eddaa6c81.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/197/i415M4WJpDY648ASt_19768b1edfa64772.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/197/i415M4WJpDY648ASt_19768b1edfdcc548.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/197/i415M4WJpDY648ASt_19768b1ede889877.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/197/i415M4WJpDY648ASt_19768b1edeb4739f.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/197/i415M4WJpDY648ASt_19768b1edeed3b47.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/197/i415M4WJpDY648ASt_19768b1edf27639e.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/197/i415M4WJpDY648ASt_19768b1edf67fa4e.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/197/i415M4WJpDY648ASt_19768b1ee01464dc.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/197/i415M4WJpDY648ASt_19768b1ee04e442f.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/197/i415M4WJpDY648ASt_19768b1ee08c8776.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/197/i415M4WJpDY648ASt_19768b1ee0c39a99.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/197/i415M4WJpDY648ASt_19768b1ee1011e2c.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/197/i415M4WJpDY648ASt_19768b1ee13a9c97.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/197/i415M4WJpDY648ASt_19768b1ee17880bf.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/197/i415M4WJpDY648ASt_19768b1ee1b022d1.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/197/i415M4WJpDY648ASt_19768b1ee1ea1834.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/197/i415M4WJpDY648ASt_19768b1ee265ab4a.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/197/i415M4WJpDY648ASt_19768b1ee2b4b02d.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/197/i415M4WJpDY648ASt_19768b1ee30cf6b0.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/197/i415M4WJpDY648ASt_19768b1ee34a9047.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/197/i415M4WJpDY648ASt_19768b1ee39df3e8.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/197/i415M4WJpDY648ASt_19768b1ee3d2225e.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/197/i415M4WJpDY648ASt_19768b1ee40c432e.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/197/i415M4WJpDY648ASt_19768b1ee44380dd.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/197/i415M4WJpDY648ASt_19768b1ee47cea11.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/197/i415M4WJpDY648ASt_19768b1ee4ba51c6.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/197/i415M4WJpDY648ASt_19768b1ee4f878b7.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/197/i415M4WJpDY648ASt_19768b1ee531c947.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/197/i415M4WJpDY648ASt_19768b1ee5690c8f.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/197/i415M4WJpDY648ASt_19768b1ee5aa98b1.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/197/i415M4WJpDY648ASt_19768b1ee5f4406d.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/197/i415M4WJpDY648ASt_19768b1ee6330d94.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/197/i415M4WJpDY648ASt_19768b1ee66b966e.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/197/i415M4WJpDY648ASt_19768b1ee6b36fa0.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
@@ -1000,431 +276,6 @@ Aproveite esta oportunidade para adquirir um imóvel em um dos destinos mais val
         <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/143/iQ1p6zwx8p24sk694cm96_14367c0d73140bf8.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>VISTA-SE139</ListingID>
-      <ContactInfo>
-        <Email>diogocobucci@gmail.com</Email>
-        <Name>SELLAR ADMINISTRACAO E REPRESENTACAO IMOBILIARIA</Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[IMÓVEL: Uma casa sob o nº 340, da Rua Carlos Gomes, Bairro da Ponte de São João, nesta cidade, construída em terreno medindo 10,00m de frente, por 40,00m da frente aos fundo
-Para mais informações, entre em contato conosco. 
- 
-? Saiba mais sobre as condições de parcelamento e possíveis descontos!
-
-? Envie sua proposta de acordo com as opções disponíveis.
-? Venda exclusiva através do site: comprei.pgfn.gov.br
-
-? Localize meu anúncio e faça sua proposta - Simples, rápido e seguro!
-? Conte com meu suporte do início ao fim da negociação. Qualquer dúvida, estou à disposição para te auxiliar em cada etapa da compra.
-?? Importante:
-O bem é vendido no estado em que se encontra, sem responsabilidade do corretor, da plataforma COMPREI ou da União quanto a reparos, retirada, impostos ou transporte;
-Os lances são irrevogáveis e irretratáveis;
-As imagens são ilustrativas, baseadas no laudo e localização cadastrada;
-O site COMPREI pode atualizar as informações sem aviso prévio - me consulte para conferir os detalhes mais recentes!
-? Entre em contato e garanta um atendimento exclusivo!]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>100</LivingArea>
-        <LotArea>400</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Home</PropertyType>
-        <YearlyTax>0</YearlyTax>
-        <Features/>
-        <Warranties/>
-        <ListPrice currency="BRL">736000</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>Carlos Gomes</Address>
-        <City><![CDATA[Jundiaí]]></City>
-        <Latitude>-23.1829455</Latitude>
-        <Longitude>-46.8766943</Longitude>
-        <Neighborhood><![CDATA[Ponte de São João]]></Neighborhood>
-        <PostalCode>13218-005</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>340</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa Rua Carlos Gomes, Jundiai - 10x40 terreno]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/139/iu8PX65t57gVF45yRgv_13967bdd1a36fc7c.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/139/iu8PX65t57gVF45yRgv_13967bdd1a5d1787.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/139/iu8PX65t57gVF45yRgv_13967bdd1a853eb4.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>VISTA-SE138</ListingID>
-      <ContactInfo>
-        <Email>diogocobucci@gmail.com</Email>
-        <Name>SELLAR ADMINISTRACAO E REPRESENTACAO IMOBILIARIA</Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>0</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[IMÓVEL: Um terreno sem benfeitorias, situado no lugar denominado Sítio Moinho, e São Miguel ou S.Miguel-Moinho, perímetro urbano, com a área de 10.000m², situado a 364,30m da esquina da Avenida Miguel Ackel, medindo a partir daí, em linha reta 63,50m de frente para a Rua 6; no lado direito de quem desta olha para o mesmo, mede 154,60m da frente aos fundos, confinando com propriedade de Rodízios e Carrinhos &quot;Rod-Car&quot;; no lado esquerdo mede 161,50m, confinando com Fernando Antonio Barbosa Tamassia e nos fundos, confinando com propriedade de Negrão Textil (IC.094.24.86.0281 00.000.6).
-
-
-Conforme laudo de avaliação:
-O bem em questão está matriculado sob o nº 50.082 no 1º Cartório de Registro de Imóveis de Guarulhos/SP e consta apenas o registro R. 1/50.082 - da alienação do imóvel por parte dos proprietários originais para a empresa executada, no ano de 1987.
-Do que se observa das averbações/registros acima mencionados, o imóvel em questão não possui averbada qualquer área construída, mas apenas a terra nua de 10.000,00m².
-Ocorre que o imóvel possui, sim, área construída, a despeito de não averbada.
-Este Oficial de Justiça diligenciou no local e pode notar que o imóvel possui uma área construída de aproximadamente 480,00m², anexa ao grande armazém que ocupa o imóvel vizinho, também pertencente à empresa.
-
-Para mais informações, entre em contato comigo, Diogo, pelo número (11) 976036193 
-? Saiba mais sobre as condições de parcelamento e possíveis descontos!
-
-? Envie sua proposta de acordo com as opções disponíveis.
-? Venda exclusiva através do site: comprei.pgfn.gov.br
-
-? Localize meu anúncio e faça sua proposta - Simples, rápido e seguro!
-? Conte com meu suporte do início ao fim da negociação. Qualquer dúvida, estou à disposição para te auxiliar em cada etapa da compra.
-?? Importante:
-O bem é vendido no estado em que se encontra, sem responsabilidade do corretor, da plataforma COMPREI ou da União quanto a reparos, retirada, impostos ou transporte;
-Os lances são irrevogáveis e irretratáveis;
-As imagens são ilustrativas, baseadas no laudo e localização cadastrada;
-O site COMPREI pode atualizar as informações sem aviso prévio - me consulte para conferir os detalhes mais recentes!
-? Entre em contato e garanta um atendimento exclusivo!]]></Description>
-        <LivingArea>480</LivingArea>
-        <LotArea>10000</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Commercial / Industrial</PropertyType>
-        <YearlyTax>0</YearlyTax>
-        <Features/>
-        <Warranties/>
-        <ListPrice currency="BRL">6771237</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>Sílvio Manfredi</Address>
-        <City><![CDATA[Guarulhos]]></City>
-        <Latitude>-23.4458518</Latitude>
-        <Longitude>-46.4331269</Longitude>
-        <Neighborhood><![CDATA[Parque Industrial Cumbica]]></Neighborhood>
-        <PostalCode>07241-000</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>214</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[10.000m² Rua Silvio Manfredi, 214, Parque Industrial Cumbica]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/138/iD8QjI6_13867bdd00d1ffec.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/138/iD8QjI6_13867bdd01006a01.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/138/iD8QjI6_13867bdd012eb1d1.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/138/iD8QjI6_13867bdd0155a6b2.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>VISTA-SE137</ListingID>
-      <ContactInfo>
-        <Email>diogocobucci@gmail.com</Email>
-        <Name>SELLAR ADMINISTRACAO E REPRESENTACAO IMOBILIARIA</Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>4</Bathrooms>
-        <Bedrooms>3</Bedrooms>
-        <Description><![CDATA[Para mais informações, entre em contato conosco. 
-
-? Saiba mais sobre as condições de parcelamento e possíveis descontos!
-
-? Envie sua proposta de acordo com as opções disponíveis.
-? Venda exclusiva através do site: comprei.pgfn.gov.br
-
-? Localize meu anúncio e faça sua proposta - Simples, rápido e seguro!
-? Conte com meu suporte do início ao fim da negociação. Qualquer dúvida, estou à disposição para te auxiliar em cada etapa da compra.
-?? Importante:
-O bem é vendido no estado em que se encontra, sem responsabilidade do corretor, da plataforma COMPREI ou da União quanto a reparos, retirada, impostos ou transporte;
-Os lances são irrevogáveis e irretratáveis;
-As imagens são ilustrativas, baseadas no laudo e localização cadastrada;
-O site COMPREI pode atualizar as informações sem aviso prévio - me consulte para conferir os detalhes mais recentes!
-? Entre em contato e garanta um atendimento exclusivo!]]></Description>
-        <Garage>3</Garage>
-        <LivingArea>489</LivingArea>
-        <LotArea>768</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Home</PropertyType>
-        <Suites>3</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features/>
-        <Warranties/>
-        <ListPrice currency="BRL">1710589</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>Bandeirante Sampaio Soares</Address>
-        <City><![CDATA[São Paulo]]></City>
-        <Latitude>-23.6094991</Latitude>
-        <Longitude>-46.7114499</Longitude>
-        <Neighborhood><![CDATA[Vila Morumbi]]></Neighborhood>
-        <PostalCode>05688-050</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>38</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa Morumbi, Avaliada em 3.400.000 Disponivel para venda.]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/137/i34sKfG47J7ZEWU5hP34_13767bdc846bf70e.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/137/i34sKfG47J7ZEWU5hP34_13767bdc84a98ff6.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/137/i34sKfG47J7ZEWU5hP34_13767bdc84dab341.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>VISTA-SE136</ListingID>
-      <ContactInfo>
-        <Email>diogocobucci@gmail.com</Email>
-        <Name>SELLAR ADMINISTRACAO E REPRESENTACAO IMOBILIARIA</Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>4</Bathrooms>
-        <Bedrooms>3</Bedrooms>
-        <Description><![CDATA[IMÓVEL: Um terreno de forma triangular, designado por lote n. 23, tendo as medidas aproximadas e as confrontações seguintes: na frente com a rua Pedro Dias Campos, antiga rua n. 1, nesta cidade, na extensão de 10,00 metros, em linha reta, seguindo em curva até a rua n. 2; no lado esquerdo onde mede 24,50 metros, com o lote n. 22; no lado direito, onde mede 17,00 metros, com parte do lote n. 23-A
-
-O imóvel em questão é um terreno de forma triangular, designado como lote nº 23, localizado na Rua Cel. Pedro Dias de Campos, 63, em Sorocaba. Possui uma área construída de 197,50m², conforme inscrição cadastral sob nº 44.51.81.0188.01.000.
-A casa, construída há aproximadamente 48 anos, possui três suítes, sala, cozinha, lavanderia, área de luz, garagem coberta para três carros de pequeno/médio porte e porão com suíte e um banheiro externo.
-Características e Condições
-Pisos: A casa possui piso assoalho na sala e em um dos quartos; nos outros dois quartos o piso é de taco de madeira, sendo que em um deles o piso necessita de reparos e no outro há necessidade de reparos em duas paredes. Os demais cômodos possuem piso cerâmico.
-Banheiros: Duas suítes possuem box no banheiro e outra possui banheira de hidromassagem. Os banheiros, a cozinha e a lavanderia são revestidos com revestimentos cerâmicos até o teto e possuem bancadas de granito.
-Área de Luz: Possui uma churrasqueira pré-fabricada de tamanho pequeno.
-Reparos: Além dos pontos já citados, o imóvel necessita de reparos no lado externo dos portões, troca das calhas (totalmente corroídas pela ferrugem) e troca do interfone.
-Localização e Acesso
-O imóvel está localizado em uma área que pode parecer valorizada pela localização, ao final de uma das principais avenidas da cidade, com intenso fluxo de veículos e de visibilidade significativa. No entanto, o acesso ao imóvel é dificultado em virtude das limitações impostas pelas normas de trânsito locais, com o ponto mais próximo para um visitante parar o veículo a cerca de 100m da residência.
-
-Observações
-A descrição do imóvel foi realizada com base nas informações no laudo de avaliação.  
-
-Para mais informações, entre em contato conosco. 
-
-
-
-? Envie sua proposta de acordo com as opções disponíveis.
-? Venda exclusiva através do site: comprei.pgfn.gov.br
-
-? Localize meu anúncio e faça sua proposta - Simples, rápido e seguro!
-? Conte com meu suporte do início ao fim da negociação. Qualquer dúvida, estou à disposição para te auxiliar em cada etapa da compra.
-Importante:
-O bem é vendido no estado em que se encontra, sem responsabilidade do corretor, da plataforma COMPREI ou da União quanto a reparos, retirada, impostos ou transporte;
-Os lances são irrevogáveis e irretratáveis;
-As imagens são ilustrativas, baseadas no laudo e localização cadastrada;
-O site COMPREI pode atualizar as informações sem aviso prévio - me consulte para conferir os detalhes mais recentes!
- Entre em contato e garanta um atendimento exclusivo!]]></Description>
-        <Garage>3</Garage>
-        <LivingArea>198</LivingArea>
-        <LotArea>198</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Home</PropertyType>
-        <Suites>3</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features/>
-        <Warranties/>
-        <ListPrice currency="BRL">420000</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address>Coronel Pedro Dias de Campos</Address>
-        <City><![CDATA[Sorocaba]]></City>
-        <Latitude>-23.503225272892056</Latitude>
-        <Longitude>-47.4817875552948</Longitude>
-        <Neighborhood><![CDATA[Wanel Ville]]></Neighborhood>
-        <PostalCode>18055-031</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>63</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa de Esquina prox ao Centro]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/136/iI7678yzr1Wwwn175r7R_13667bdc3a05762e.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/136/iI7678yzr1Wwwn175r7R_13667bdc3a3aa007.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/136/iI7678yzr1Wwwn175r7R_13667bdc3a87f3eb.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/136/iI7678yzr1Wwwn175r7R_13667bdc3ac720a4.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>VISTA-SE134</ListingID>
-      <ContactInfo>
-        <Email>diogocobucci@gmail.com</Email>
-        <Name>SELLAR ADMINISTRACAO E REPRESENTACAO IMOBILIARIA</Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>0</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[R. Sara Helena Mantello, 397
-Terminal Intermodal De Cargas (tic) - Campinas/SP
-CEP: 13.069-133
-Um lote de terra sob o nº 11, da quadra B, do loteamento denominado TERMINAL INTERMODAL DE CARGA, situado neste município e comarca, medindo 25,88 m de frente para a rua 03, confrontando a direita com o lote 12, numa distância de 50,25 m; a esquerda com o lote 10, numa distância de 50,25 m e nos fundos, com o lote 04, numa distância de 25,88 m, encerrando a área de 1.300,47 m². 
-
-O Ticlog é um Terminal Industrial de Carga e Logistica, localizado em Campinas com acesso as principais rodovias, Anhanguera, Dom Pedro I e Bandeirantes. No seu interior estão instaladas 90 empresas em uma área aproximada de 530.000 m². Conta com infra-estrutura  de segurança, fibra ótica, telecomunicações, serviços de manutenções e amplos estacionamentos internos para veículos pesados e leves.
-
-Oportunidade para adquirir este imóvel por um valor atrativo. Antes de dar seu lance, confira as regras:
-Venda no estado atual: O imóvel é vendido no estado em que se encontra, sem garantia ou possibilidade de vistoria interna. É fundamental analisar a documentação antes de participar.
-Pagamento e parcelamento: O leilão permite parcelamento em até 60 vezes, conforme as condições estabelecidas no edital. Consulte-me para mais detalhes sobre as opções de pagamento.
-Desocupação: Caso o imóvel esteja ocupado, a responsabilidade pela desocupação será do comprador, conforme as regras do leilão.
-Encargos: Débitos como IPTU e condomínio podem ser de responsabilidade do comprador ou do vendedor, dependendo do edital. Recomenda-se a leitura atenta das condições antes de fazer um lance.]]></Description>
-        <LivingArea>1300</LivingArea>
-        <LotArea>1300</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Land Lot</PropertyType>
-        <YearlyTax>0</YearlyTax>
-        <Features/>
-        <Warranties/>
-        <ListPrice currency="BRL">927500</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>Rua Sara Helena Mantello</Address>
-        <City><![CDATA[Campinas]]></City>
-        <Latitude>-22.8435391</Latitude>
-        <Longitude>-47.1576416</Longitude>
-        <Neighborhood><![CDATA[Terminal Intermodal de Cargas (TIC)]]></Neighborhood>
-        <PostalCode>13069-133</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>397</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Terreno Terminal Intermodal De Cargas (tic) - Campinas/SP]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/134/io83HpT26C77Z7_13467a22d42ac016.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/134/io83HpT26C77Z7_13467a22d44bd465.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/134/io83HpT26C77Z7_13467a22d4650ea6.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/134/io83HpT26C77Z7_13467a22d4961504.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/134/io83HpT26C77Z7_13467a22d4b4fbc3.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>VISTA-SE133</ListingID>
-      <ContactInfo>
-        <Email>diogocobucci@gmail.com</Email>
-        <Name>SELLAR ADMINISTRACAO E REPRESENTACAO IMOBILIARIA</Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>0</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Sobre o Imóvel:
-Localizado no coração do Centro de Santos, uma região histórica, bem estruturada e em plena revitalização.
-Próximo a comércios, serviços, bancos, restaurantes e pontos turísticos como o Museu do Café e o Jardim da Orla da Praia.
-Excelente infraestrutura: transporte público, supermercados, escolas, hospitais e muito mais.
-A Rua Amador Bueno fica próxima ao Porto de Santos, o maior porto da América Latina,]]></Description>
-        <LivingArea>325</LivingArea>
-        <LotArea>0</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Commercial / Edificio Comercial</PropertyType>
-        <YearlyTax>4504</YearlyTax>
-        <Features/>
-        <Warranties/>
-        <ListPrice currency="BRL">536250</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address>Amador Bueno</Address>
-        <City><![CDATA[Santos]]></City>
-        <Latitude>-23.9377102</Latitude>
-        <Longitude>-46.32052179999999</Longitude>
-        <Neighborhood><![CDATA[Centro]]></Neighborhood>
-        <PostalCode>11013-152</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>386</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Imóvel em Leilão Procuradoria da Fazenda - Oportunidade Imperdível!]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/133/iGW12B3aP_13367a10e47ca0dd.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/133/iGW12B3aP_13367a10e4a670fe.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/133/iGW12B3aP_13367a10e4d5335e.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/133/iGW12B3aP_13367a10e4fa0c85.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>VISTA-SE130</ListingID>
-      <ContactInfo>
-        <Email>diogocobucci@gmail.com</Email>
-        <Name>SELLAR ADMINISTRACAO E REPRESENTACAO IMOBILIARIA</Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>4</Bathrooms>
-        <Bedrooms>4</Bedrooms>
-        <Description><![CDATA[Este imóvel é perfeito para quem busca conforto e espaço! Ele possui:
-
-4 dormitórios, sendo 1 suíte;
-Sala ampla, ideal para receber amigos e família;
-Área de lazer com piscina e churrasqueira;
-Cômodo extra na parte de baixo, que pode ser usado como depósito ou escritório.
-? Localizado na Vila Romana, a apenas 1km do Allianz Parque, com fácil acesso a comércios, restaurantes e serviços.
-
-? Obs.: O imóvel não possui vaga para carro.
-
-? Entre em contato para mais informações ou para agendar uma visita!]]></Description>
-        <LivingArea>220</LivingArea>
-        <LotArea>265</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Home</PropertyType>
-        <Suites>1</Suites>
-        <YearlyTax>920</YearlyTax>
-        <Features>
-          <Feature>Backyard</Feature>
-          <Feature>Balcony</Feature>
-          <Feature>BBQ</Feature>
-          <Feature>Cooling</Feature>
-          <Feature>Furnished</Feature>
-          <Feature>Home Office</Feature>
-          <Feature>Kitchen</Feature>
-          <Feature>Maids Quarters</Feature>
-          <Feature>Pool</Feature>
-        </Features>
-        <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">7000</RentalPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address>Crasso</Address>
-        <City><![CDATA[São Paulo]]></City>
-        <Latitude>-23.5247774</Latitude>
-        <Longitude>-46.6898572</Longitude>
-        <Neighborhood><![CDATA[Vila Romana]]></Neighborhood>
-        <PostalCode>05043-010</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>222</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[? Amplo imóvel na Vila Romana]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/130/iUPn9R1936sm_1306797a97e2df59.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/130/iUPn9R1936sm_1306797a9881b1aa.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/130/iUPn9R1936sm_1306797a98cba13d.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/130/iUPn9R1936sm_1306797aa021228c.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/130/iUPn9R1936sm_1306797a96ecae5f.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/130/iUPn9R1936sm_1306797a96bd4659.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/130/iUPn9R1936sm_1306797a977e47db.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/130/iUPn9R1936sm_1306797a982829d3.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/130/iUPn9R1936sm_1306797a99161a42.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/130/iUPn9R1936sm_1306797a994ed3a1.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/130/iUPn9R1936sm_1306797a99940df0.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/130/iUPn9R1936sm_1306797a99dc81cd.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/130/iUPn9R1936sm_1306797a9a1e2009.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/130/iUPn9R1936sm_1306797a9a5d6dd0.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/130/iUPn9R1936sm_1306797a9a9e61fb.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/130/iUPn9R1936sm_1306797a9af31e1c.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/130/iUPn9R1936sm_1306797a9b3abd11.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/130/iUPn9R1936sm_1306797a9b7ad334.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/130/iUPn9R1936sm_1306797a9bba9cc7.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/130/iUPn9R1936sm_1306797a9c115d17.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/130/iUPn9R1936sm_1306797a9c4a7100.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/130/iUPn9R1936sm_1306797a9c819075.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/130/iUPn9R1936sm_1306797a9cae0354.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/130/iUPn9R1936sm_1306797a9cdf2127.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/130/iUPn9R1936sm_1306797a9d173b6f.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/130/iUPn9R1936sm_1306797a9d67ec2a.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/130/iUPn9R1936sm_1306797a9dbed51e.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/130/iUPn9R1936sm_1306797a9e07a107.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/130/iUPn9R1936sm_1306797a9e7870d9.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/130/iUPn9R1936sm_1306797a9ebbfca2.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/130/iUPn9R1936sm_1306797a9efd8f94.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/130/iUPn9R1936sm_1306797a9f740214.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/130/iUPn9R1936sm_1306797a9fc960f1.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/130/iUPn9R1936sm_1306797aa062520a.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/130/iUPn9R1936sm_1306797a96769c7d.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/130/iUPn9R1936sm_1306797aa0b9afd7.jpg</Item>
-      </Media>
-      <TransactionType>For Rent</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE127</ListingID>
       <ContactInfo>
@@ -1517,102 +368,6 @@ Entre em contato para mais informações ou agendar uma visita e venha conhecer 
       </Media>
       <TransactionType>For Rent</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>VISTA-SE121</ListingID>
-      <ContactInfo>
-        <Email>diogocobucci@gmail.com</Email>
-        <Name>SELLAR ADMINISTRACAO E REPRESENTACAO IMOBILIARIA</Name>
-      </ContactInfo>
-      <Destaque>Sim</Destaque>
-      <Details>
-        <Bathrooms>3</Bathrooms>
-        <Bedrooms>3</Bedrooms>
-        <Description><![CDATA[Situado em uma rua tranquila na Vila Clementino, este apartamento combina conforto e praticidade com uma localização estratégica. Está a poucos minutos da Avenida 23 de Maio e próximo a hospitais, supermercados, padarias e farmácias, garantindo conveniência para o seu dia a dia.
-
-Principais características do imóvel:
-
-Área de lazer completa: Piscina, churrasqueira, salão de festas, academia equipada para musculação e aeróbico, quadra poliesportiva, salão de jogos e área infantil, oferecendo diversas opções de lazer para toda a família.
-Espaço e conforto: Com 3 dormitórios, sendo 1 suíte com banheira, o imóvel é ideal para quem busca bem-estar. A planta inteligente proporciona sol da manhã na cozinha, lavanderia e em um dos quartos, enquanto o sol da tarde ilumina a sala e os demais quartos.
-Comodidades modernas: Aquecimento a gás em chuveiros e torneiras, ar-condicionado atende dois quartos e um na sala, além de redes de proteção nas janelas, garantindo segurança e conforto.
-Este apartamento é a escolha perfeita para quem valoriza qualidade de vida em um bairro completo e bem localizado.]]></Description>
-        <Garage>2</Garage>
-        <LivingArea>97</LivingArea>
-        <LotArea>97</LotArea>
-        <PropertyAdministrationFee>1629</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>1</Suites>
-        <UnitFloor>12</UnitFloor>
-        <YearBuilt>2000</YearBuilt>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-          <Feature>Cooling</Feature>
-          <Feature>Fenced Yard</Feature>
-          <Feature>Gym</Feature>
-          <Feature>Maids Quarters</Feature>
-        </Features>
-        <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">4500</RentalPrice>
-      </Details>
-      <Location displayAddress="Street">
-        <Address>Agostinho Rodrigues Filho</Address>
-        <City><![CDATA[São Paulo]]></City>
-        <Complement>11</Complement>
-        <Latitude>-23.5998751</Latitude>
-        <Longitude>-46.64766059999999</Longitude>
-        <Neighborhood><![CDATA[Vila Mariana]]></Neighborhood>
-        <PostalCode>04026-040</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>350</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Vila Mariana, 3 Dorm 2 Vagas- Com ou sem mobilia]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/i73Jv5p9jUd163k_121674c74a667c85.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/i73Jv5p9jUd163k_121674c74a9c4d41.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/i73Jv5p9jUd163k_121674c74adc8ab1.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/i73Jv5p9jUd163k_121674c74b0efd8d.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/i73Jv5p9jUd163k_121674c74b4bf814.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/i73Jv5p9jUd163k_121674c74b816d28.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/i73Jv5p9jUd163k_121674c74bbbbba3.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/i73Jv5p9jUd163k_121674c74bf1581c.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/i73Jv5p9jUd163k_121674c74c350fd2.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/i73Jv5p9jUd163k_121674c74c68ab09.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/i73Jv5p9jUd163k_121674c74cacce64.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/i73Jv5p9jUd163k_121674c74ce55e37.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/i73Jv5p9jUd163k_121674c74d0e8812.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/i73Jv5p9jUd163k_121674c74e30401f.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/i73Jv5p9jUd163k_121674c74e55e761.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/i73Jv5p9jUd163k_121674c74d651a0e.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/i73Jv5p9jUd163k_121674c74d8ed88e.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/i73Jv5p9jUd163k_121674c74de3ce26.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/i73Jv5p9jUd163k_121674c74e0979bd.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/i73Jv5p9jUd163k_121674c74e8677b5.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/i73Jv5p9jUd163k_121674c74eb26792.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/i73Jv5p9jUd163k_121674c74edd88cc.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/i73Jv5p9jUd163k_121674c74f053e7e.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/i73Jv5p9jUd163k_121674c74f2cdb8a.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/i73Jv5p9jUd163k_121674c74f5656a6.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/i73Jv5p9jUd163k_121674c74f7e0853.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/i73Jv5p9jUd163k_121674c74fa963e6.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/i73Jv5p9jUd163k_121674c74fd1e816.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/i73Jv5p9jUd163k_121674c74ff9835c.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/i73Jv5p9jUd163k_121674c75028547a.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/i73Jv5p9jUd163k_121674c75052d1f3.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/i73Jv5p9jUd163k_121674c7507e0426.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/iy566I11lr68_121674dea2d1b0cd.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/iy566I11lr68_121674dea2feb7e1.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/iy566I11lr68_121674dea330f289.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/iy566I11lr68_121674dea35e430b.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/iy566I11lr68_121674dea38e899f.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/iy566I11lr68_121674dea3bb9415.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/iy566I11lr68_121674dea4f46277.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/iy566I11lr68_121674dea52535c6.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/iy566I11lr68_121674dea54d1674.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/iy566I11lr68_121674dea57637f4.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/iy566I11lr68_121674dea5a408dc.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/121/iy566I11lr68_121674dea5c9e0fe.jpg</Item>
-      </Media>
-      <TransactionType>For Rent</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE118</ListingID>
       <ContactInfo>
         <Email>diogocobucci@gmail.com</Email>
@@ -1671,213 +426,6 @@ Este apartamento é a escolha perfeita para quem valoriza qualidade de vida em u
         <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/118/iA86EG7CN8_11867463c2cb44cd.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/118/iA86EG7CN8_11867463c2f287d4.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/118/iA86EG7CN8_11867463c31efc59.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>VISTA-SE116</ListingID>
-      <ContactInfo>
-        <Email>diogocobucci@gmail.com</Email>
-        <Name>SELLAR ADMINISTRACAO E REPRESENTACAO IMOBILIARIA</Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>2</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Descubra o seu novo lar em um ótimo apartamento localizado na Rua Raul Pompéia, 375, no vibrante bairro da Pompéia, São Paulo. Com 71 m², este imóvel oferece 2 dormitórios, 2 banheiros e 2 vagas de garagem, ideal para quem busca conforto e praticidade. O apartamento conta com sacada, armário embutido e área de serviço. O condomínio possui infraestrutura completa, incluindo churrasqueira, playground, quadra de esportes, sala de fitness e sauna, além de portaria 24 horas para sua segurança. Não perca a oportunidade de viver em um dos melhores bairros da cidade, cercado de conveniências e com fácil acesso ao transporte público.
- Entre em contato e agende uma visita!]]></Description>
-        <Garage>2</Garage>
-        <LivingArea>71</LivingArea>
-        <LotArea>71</LotArea>
-        <PropertyAdministrationFee>1173</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <UnitFloor>7</UnitFloor>
-        <YearlyTax>369</YearlyTax>
-        <Features>
-          <Feature>Balcony</Feature>
-          <Feature>Gym</Feature>
-          <Feature>Maids Quarters</Feature>
-          <Feature>Playground</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">695000</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address>Raul Pompéia</Address>
-        <City><![CDATA[São Paulo]]></City>
-        <Complement>72</Complement>
-        <Latitude>-23.5293761</Latitude>
-        <Longitude>-46.6867762</Longitude>
-        <Neighborhood><![CDATA[Pompeia]]></Neighborhood>
-        <PostalCode>05025-010</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>375</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento à venda na Pompéia, SP]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/116/i8oi93TZ62U797F4w1_1166740c354e83d6.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/116/i8oi93TZ62U797F4w1_1166740c34f12a91.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/116/i8oi93TZ62U797F4w1_1166740c3490b94f.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/116/i8oi93TZ62U797F4w1_1166740c30948343.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/116/i8oi93TZ62U797F4w1_1166740c30e966b7.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/116/i8oi93TZ62U797F4w1_1166740c3110ae8f.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/116/i8oi93TZ62U797F4w1_1166740c313858eb.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/116/i8oi93TZ62U797F4w1_1166740c3160b89f.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/116/i8oi93TZ62U797F4w1_1166740c31888c0c.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/116/i8oi93TZ62U797F4w1_1166740c31b0927d.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/116/i8oi93TZ62U797F4w1_1166740c31da8b8a.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/116/i8oi93TZ62U797F4w1_1166740c32085a93.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/116/i8oi93TZ62U797F4w1_1166740c32356a2a.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/116/i8oi93TZ62U797F4w1_1166740c325e1a39.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/116/i8oi93TZ62U797F4w1_1166740c328421b0.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/116/i8oi93TZ62U797F4w1_1166740c32ad2ed9.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/116/i8oi93TZ62U797F4w1_1166740c32d8d3a4.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/116/i8oi93TZ62U797F4w1_1166740c33039eeb.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/116/i8oi93TZ62U797F4w1_1166740c333397c6.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/116/i8oi93TZ62U797F4w1_1166740c336e4309.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/116/i8oi93TZ62U797F4w1_1166740c33a91293.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/116/i8oi93TZ62U797F4w1_1166740c33e41005.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/116/i8oi93TZ62U797F4w1_1166740c34135568.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/116/i8oi93TZ62U797F4w1_1166740c3445d055.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/116/i8oi93TZ62U797F4w1_1166740c34699ca1.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/116/i8oi93TZ62U797F4w1_1166740c306bf752.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/116/i8oi93TZ62U797F4w1_1166740c30c09ad1.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/116/i8oi93TZ62U797F4w1_1166740c34c0c1de.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/116/i8oi93TZ62U797F4w1_1166740c303cc39a.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/116/i8oi93TZ62U797F4w1_1166740c3521d129.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>VISTA-SE101</ListingID>
-      <ContactInfo>
-        <Email>diogocobucci@gmail.com</Email>
-        <Name>SELLAR ADMINISTRACAO E REPRESENTACAO IMOBILIARIA</Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>1</Bedrooms>
-        <Description><![CDATA[Este encantador studio, localizado em um prédio completo e moderno, é a oportunidade perfeita para quem busca um imóvel funcional e bem localizado. Com sol da manhã e vista livre, o apartamento oferece uma atmosfera agradável e iluminada.
-
-Destaques:
-
-Localização privilegiada: Próximo ao metrô, você terá fácil acesso a toda a cidade e poderá desfrutar de toda a infraestrutura que a Vila Mariana oferece, como comércio, restaurantes, parques e muito mais.
-Conforto e praticidade: O studio é ideal para quem busca um espaço otimizado e funcional, perfeito para o dia a dia ou para receber visitas.
-Investimento inteligente: Com a possibilidade de alugar por plataformas como o Airbnb, este imóvel é uma excelente opção para quem busca um investimento seguro e com alta rentabilidade.
-Lazer completo: O prédio oferece uma variedade de opções de lazer para você aproveitar seus momentos de descanso, como academia, coworking, piscina e lavanderia.
-Vaga de garagem: Garanta a sua comodidade com uma vaga de garagem.
-Características do imóvel:
-
-Sol da manhã
-Vista livre
-1 vaga de garagem
-Condomínio permite Airbnb
-Prédio com academia, coworking, piscina e lavanderia
-Não perca esta oportunidade única de adquirir um studio completo e com excelente localização na Vila Mariana!
-
-Agende agora mesmo sua visita e encante-se com este imóvel!]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>25</LivingArea>
-        <LotArea>25</LotArea>
-        <PropertyAdministrationFee>823</PropertyAdministrationFee>
-        <PropertyType>Residential / Studio</PropertyType>
-        <YearBuilt>2023</YearBuilt>
-        <YearlyTax>212</YearlyTax>
-        <Features>
-          <Feature>Balcony</Feature>
-          <Feature>Exterior View</Feature>
-          <Feature>Fenced Yard</Feature>
-          <Feature>Garden Area</Feature>
-          <Feature>Gourmet Area</Feature>
-          <Feature>Gym</Feature>
-          <Feature>Intercom</Feature>
-          <Feature>Laundry</Feature>
-          <Feature>Party Room</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">390000</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>Afonso Celso</Address>
-        <City><![CDATA[São Paulo]]></City>
-        <Complement>305</Complement>
-        <Latitude>-23.5982309</Latitude>
-        <Longitude>-46.63475409999999</Longitude>
-        <Neighborhood><![CDATA[Vila Mariana]]></Neighborhood>
-        <PostalCode>04119-060</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>773</StreetNumber>
-      </Location>
-      <PublicationType>SUPER_PREMIUM</PublicationType>
-      <Title><![CDATA[Studio Moderno à Venda na Vila Mariana]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/101/i8ey8_1016719458f78908.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/101/i8ey8_1016719459d6753c.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/101/i8ey8_1016719459534ffb.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/101/i8ey8_1016719459aed78a.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/101/i8ey8_101671945987f242.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/101/i8ey8_1016719459235d5f.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/101/i8ey8_101671945a07959f.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/101/i8ey8_101671945809c32c.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/101/i8ey8_101671945838909b.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/101/i8ey8_1016719458694560.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/101/i8ey8_10167194589ab6d8.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/101/i8ey8_1016719458c88775.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/101/i8ey8_101671945a2ea970.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/101/i8ey8_101671945a5b4f82.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/101/i8ey8_101671945a836f45.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/101/i8ey8_101671945ad84522.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/101/i8ey8_101671945b0622f9.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/101/i8ey8_101671945b35d844.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/101/i8ey8_101671945b662525.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/101/i8ey8_101671945b8eb926.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>VISTA-SE99</ListingID>
-      <ContactInfo>
-        <Email>diogocobucci@gmail.com</Email>
-        <Name>SELLAR ADMINISTRACAO E REPRESENTACAO IMOBILIARIA</Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>3</Bedrooms>
-        <Description><![CDATA[Descubra o seu novo lar no coração de Perdizes, São Paulo! Este aconchegante apartamento possui uma área privativa de 80 m² e está localizado na Rua Pinto Gonçalves. Com uma torre única, oferece conforto e privacidade. O bairro é conhecido por sua excelente infraestrutura, com diversas opções de comércio, restaurantes e fácil acesso a transporte público, tornando o dia a dia mais prático. Aproveite a oportunidade de viver em um dos bairros mais desejados da cidade. Para mais informações, entre em contato!]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>80</LivingArea>
-        <LotArea>80</LotArea>
-        <PropertyAdministrationFee>1030</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <YearlyTax>183</YearlyTax>
-        <Features>
-          <Feature>Exterior View</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">680000</ListPrice>
-      </Details>
-      <Location displayAddress="Street">
-        <Address>Pinto Gonçalves</Address>
-        <City><![CDATA[São Paulo]]></City>
-        <Complement>12</Complement>
-        <Latitude>-23.53315</Latitude>
-        <Longitude>-46.6737921</Longitude>
-        <Neighborhood><![CDATA[Perdizes]]></Neighborhood>
-        <PostalCode>05005-010</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>128</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento à venda em Perdizes - SP]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/99/i6IF73838151m423149U_996712ccc35a5e8.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/99/i6IF73838151m423149U_996712ccc5084fe.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/99/i6IF73838151m423149U_996712ccc6ab29d.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/99/i6IF73838151m423149U_996712ccc8a13dc.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/99/i6IF73838151m423149U_996712ccca71eff.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/99/i6IF73838151m423149U_996712cccc0b226.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/99/i6IF73838151m423149U_996712cccd74bfd.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/99/i6IF73838151m423149U_996712cccf139f1.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
@@ -1962,291 +510,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/28/i399917_28673cb6a890f41.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/28/i399917_28673cb6acc90a5.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/28/i399917_28673cb6b0d5df5.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>VISTA-SE27</ListingID>
-      <ContactInfo>
-        <Email>diogocobucci@gmail.com</Email>
-        <Name>SELLAR ADMINISTRACAO E REPRESENTACAO IMOBILIARIA</Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>4</Bathrooms>
-        <Bedrooms>3</Bedrooms>
-        <Description><![CDATA[Este sofisticado apartamento no bairro Vila Romana possui 206 metros quadrados, oferecendo uma experiência de vida incomparável. Com três suítes espaçosas e cinco banheiros bem distribuídos, este imóvel foi projetado para proporcionar máximo conforto e privacidade.
-
-O condomínio conta com uma infraestrutura completa de lazer e conveniência, incluindo uma academia moderna, espaço gourmet para suas reuniões sociais, um amplo salão de festas e uma charmosa lareira para os dias mais frios. Nos dias quentes, você pode relaxar na piscina ou praticar esportes na quadra poliesportiva. Além disso, o ar condicionado instalado em todo o apartamento garante uma temperatura agradável durante todo o ano.
-
-Para os momentos de lazer com a família e amigos, o espaço reservado para churrasco é perfeito. E para sua total conveniência, o apartamento já vem completamente mobiliado com móveis de alta qualidade.
-
-A segurança é uma prioridade, com o condomínio protegido por grades, oferecendo tranquilidade para você e sua família.
-
-Não perca a oportunidade de viver com conforto, estilo e segurança em um dos bairros mais desejados da cidade.]]></Description>
-        <Garage>3</Garage>
-        <LivingArea>206</LivingArea>
-        <LotArea>206</LotArea>
-        <PropertyAdministrationFee>3200</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>3</Suites>
-        <UnitFloor>18</UnitFloor>
-        <YearlyTax>1600</YearlyTax>
-        <Features>
-          <Feature>Balcony</Feature>
-          <Feature>BarbecueBalcony</Feature>
-          <Feature>BBQ</Feature>
-          <Feature>Cooling</Feature>
-          <Feature>Exterior View</Feature>
-          <Feature>Fenced Yard</Feature>
-          <Feature>Fireplace</Feature>
-          <Feature>Furnished</Feature>
-          <Feature>Garden Area</Feature>
-          <Feature>Gourmet Area</Feature>
-          <Feature>Gym</Feature>
-          <Feature>Home Office</Feature>
-          <Feature>Intercom</Feature>
-          <Feature>Maids Quarters</Feature>
-          <Feature>Party Room</Feature>
-          <Feature>Playground</Feature>
-          <Feature>TV Security</Feature>
-          <Feature>Warehouse</Feature>
-        </Features>
-        <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">15000</RentalPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>Fábia</Address>
-        <City><![CDATA[São Paulo]]></City>
-        <Complement>181</Complement>
-        <Latitude>-23.5273425</Latitude>
-        <Longitude>-46.6961483</Longitude>
-        <Neighborhood><![CDATA[Vila Romana]]></Neighborhood>
-        <PostalCode>05051-030</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>517</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Alto Padrão, Prédio exclusivo na Vila Romana]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c0424a387b.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c0419a9581.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c03fe5ec33.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c040176058.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c041639611.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c040b00d2a.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c041297db1.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c040eec849.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c0403f1244.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iM5fV4dVc_2766e1edc20cec8.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iM5fV4dVc_2766e1edf52a934.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iM5fV4dVc_2766e1ee5a9bdd5.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iM5fV4dVc_2766e1ee5f878e4.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iM5fV4dVc_2766e1ee826e1b0.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iM5fV4dVc_2766e1ee871cf32.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iM5fV4dVc_2766e1ee99edaed.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iM5fV4dVc_2766e1ee9e95adc.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iM5fV4dVc_2766e1eea292158.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iM5fV4dVc_2766e1eea513f60.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iM5fV4dVc_2766e1eea824cfe.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iM5fV4dVc_2766e1eeacbeca1.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iM5fV4dVc_2766e1eeb178534.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iM5fV4dVc_2766e1eeb5dc370.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iM5fV4dVc_2766e1eec761cd7.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iM5fV4dVc_2766e1eece88825.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iM5fV4dVc_2766e1eed381e4e.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iM5fV4dVc_2766e1eed89e4fe.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iM5fV4dVc_2766e1ef0fa9fa1.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iM5fV4dVc_2766e1ef150d325.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iM5fV4dVc_2766e1ef1a82d64.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iM5fV4dVc_2766e1ef1f39619.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iM5fV4dVc_2766e1ef2441e6d.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iM5fV4dVc_2766e1ef289df6a.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iM5fV4dVc_2766e1ef2d772ce.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c03fae41f3.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c04077f689.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c041d700a8.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c042114590.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c04285b940.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c042c20b89.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c042f7d2a3.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c0432db745.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c043655cad.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c0439d5631.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c043d5c9c1.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c04411758f.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c0444bd781.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c04488d248.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c044c1fe55.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c0450dddf9.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c045476fdb.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c04586fb8b.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c045c1adae.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c045fb0901.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c04638c2bd.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c046718b71.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c046adca3d.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c046e7b1ce.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c047d1f563.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c04722755b.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c0475be875.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c04794b270.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c05314fdea.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c053408c8b.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c053702a8b.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c0539c1365.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c054081702.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c0544387a6.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c0547dace9.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c054b57102.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c054f1e12d.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c0553211fb.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c0556cd781.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/27/iIrKZ9z2p9MV33g341OI8_27671c055a48ee4.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/26/i5C938FKT9n6s_2666e1ec440a357.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/26/i5C938FKT9n6s_2666e1ec46e84e6.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/26/i5C938FKT9n6s_2666e1ec4ab8468.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/26/i5C938FKT9n6s_2666e1ec4dc2915.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/26/i5C938FKT9n6s_2666e1ec514ca42.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/26/i5C938FKT9n6s_2666e1ec54d55e5.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/26/i5C938FKT9n6s_2666e1ec587a788.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/26/i5C938FKT9n6s_2666e1ec5b17568.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/26/i5C938FKT9n6s_2666e1ec5de4618.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/26/i5C938FKT9n6s_2666e1ec6105c0e.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/26/i5C938FKT9n6s_2666e1ec643b620.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/26/i5C938FKT9n6s_2666e1ec6767bd8.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/26/i5C938FKT9n6s_2666e1ec6aa031c.jpg</Item>
-        <Item medium="video">https://www.youtube.com/watch?v=WtxeggUsf94</Item>
-      </Media>
-      <TransactionType>For Rent</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>VISTA-SE25</ListingID>
-      <ContactInfo>
-        <Email>diogocobucci@gmail.com</Email>
-        <Name>SELLAR ADMINISTRACAO E REPRESENTACAO IMOBILIARIA</Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>5</Bathrooms>
-        <Bedrooms>4</Bedrooms>
-        <Description><![CDATA[Apartamento de 253m² com 4 dormitórios, incluindo 2 suítes, e uma sala para 3 ambientes com lavabo, é o lar perfeito para quem valoriza o espaço e o conforto. A varanda fechada com vidro proporciona vistas deslumbrantes e um ambiente acolhedor durante todo o ano. A cozinha e a copa são espaçosas e convidativas, enquanto a área de serviços inclui dependência de empregados e acesso à área íntima.
-
-Localizado entre as estações Eucalipto e Campo Belo da linha Lilás do metrô, oferece conveniência excepcional para se locomover pela cidade. Além disso, este apartamento único é o único por andar, garantindo privacidade e exclusividade.
-
-O condomínio dispõe de piscina, academia e salão de festas. Com 3 vagas de garagem espaçosas e fixas, este é o lugar ideal para quem busca o melhor em estilo de vida urbano na Zona Sul de São Paulo.
-
-**Fotos com mobília ilustrativas**
-
-Agende uma visita!]]></Description>
-        <Garage>3</Garage>
-        <LivingArea>253</LivingArea>
-        <LotArea>253</LotArea>
-        <PropertyAdministrationFee>3473</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>2</Suites>
-        <UnitFloor>7</UnitFloor>
-        <YearBuilt>1987</YearBuilt>
-        <YearlyTax>1920</YearlyTax>
-        <Features>
-          <Feature>Cooling</Feature>
-          <Feature>Game room</Feature>
-          <Feature>Garden Area</Feature>
-          <Feature>Gym</Feature>
-          <Feature>Home Office</Feature>
-          <Feature>Kitchen</Feature>
-          <Feature>Maids Quarters</Feature>
-          <Feature>Party Room</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">1500000</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>Morais de Barros</Address>
-        <City><![CDATA[São Paulo]]></City>
-        <Complement>71</Complement>
-        <Latitude>-23.6155704</Latitude>
-        <Longitude>-46.6727181</Longitude>
-        <Neighborhood><![CDATA[Campo Belo]]></Neighborhood>
-        <PostalCode>04614-001</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>854</StreetNumber>
-      </Location>
-      <PublicationType>PREMIUM</PublicationType>
-      <Title><![CDATA[1 por andar - Campo Belo - 4 Dorm - 3 Vagas]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/iuO2c35p76_2566f4211307363.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/iuO2c35p76_2566f42116a51f9.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/iuO2c35p76_2566f42135d6d89.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/iuO2c35p76_2566f4211a50e83.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/iuO2c35p76_2566f42138aff4e.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/iuO2c35p76_2566f4213ba1c91.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/iuO2c35p76_2566f4215bb8ba9.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/iuO2c35p76_2566f421589bb68.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/iuO2c35p76_2566f42155af16e.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e74486b32.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e7473c807.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e74a28572.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e74d04984.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e74fd2a50.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e754780f1.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e759b8be0.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e75e8b427.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e7640f460.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e76908cec.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e76de4a56.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e772e5175.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e777d6221.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e77c5d99f.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e78175531.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e786b63e1.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e78b5d21c.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e79031df7.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e794ca0bc.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e79960828.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e79e1897c.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e7a3352a5.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e7a7b66a3.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e7ac81198.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e7b11909c.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e7b6ae532.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e7bbae796.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e7c1c93e2.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e7c49de2f.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e7ccbf407.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e7cf8e4ff.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e7d29709b.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e7d54755e.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e7d837e26.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e7db8124f.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e7dee111b.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e7e14cf8b.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e7e4344bb.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e7e6c4ff4.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e7e96bac9.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e7ebe13fa.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e7eff1bc6.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e7f2bd596.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e7f7181ff.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e7f9ddd29.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e7fc93af7.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e7ff5b1a3.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e80220c7e.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e804d37c0.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e809be028.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e80ea0a7c.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e811741ee.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e8142fc24.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e81755e5f.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e819ea204.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e81cd4d09.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e81fe2c97.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e82331a31.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e826a7163.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e8297ae66.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e82d2b328.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e83030266.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e833004b7.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e835d629d.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/25/id468VH7wP344j71_2566e1e838ca06c.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
@@ -2821,7 +1084,7 @@ Agende uma visita!]]></Description>
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX10196806SP</ListingID>
-      <Title>Oportunidade Única em FERNANDOPOLIS - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em FERNANDOPOLIS - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -2935,7 +1198,7 @@ Agende uma visita!]]></Description>
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX10197445SP</ListingID>
-      <Title>Oportunidade Única em VARGEM GRANDE PAULISTA - SP | Tipo: Terreno | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em VARGEM GRANDE PAULISTA - SP | Tipo: Terreno | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -2955,7 +1218,7 @@ Agende uma visita!]]></Description>
         <Description>
           <![CDATA[Existe Indisponibilidade Gravada no Av.20 da Matrícula. Regularização Por Conta do Adquirente.Baixar matrícula do imóvelRUA DA FIGUEIRA,N. 00, CENTRO - CEP: 06730-490, VARGEM GRANDE PAULISTA - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Exclusivamente à vista (somente recursos próprios).REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Imóveis retomados da Venda Direta CAIXA com preços abaixo do mercado. Somos especialista em imóveis da Caixa &lt;br&gt;  &lt;br&gt; Sellar Imóveis – CRECI 47244-J. Inclua nosso CRECI na etapa 3 da proposta para ser atendido por nós. Chame no WhatsApp. Valor avalidação : R$ 2750000.00  ]]>
         </Description>
-        <ListPrice currency="BRL" period="Monthly">1175403</ListPrice>
+        <ListPrice currency="BRL" period="Monthly">1091446</ListPrice>
         
         
         <UnitFloor/>
@@ -4360,7 +2623,7 @@ Agende uma visita!]]></Description>
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX10211751SP</ListingID>
-      <Title>Oportunidade Única em AMERICANA - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em AMERICANA - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -4380,7 +2643,7 @@ Agende uma visita!]]></Description>
         <Description>
           <![CDATA[.Baixar matrícula do imóvelRUA FRANCA,N. 105, VILA SANTA MARIA - CEP: 13471-650, AMERICANA - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Exclusivamente à vista (somente recursos próprios).REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Imóveis retomados da Venda Direta CAIXA com preços abaixo do mercado. Somos especialista em imóveis da Caixa &lt;br&gt;  &lt;br&gt; Sellar Imóveis – CRECI 47244-J. Inclua nosso CRECI na etapa 3 da proposta para ser atendido por nós. Chame no WhatsApp. Valor avalidação : R$ 1700000.00  ]]>
         </Description>
-        <ListPrice currency="BRL" period="Monthly">1083434</ListPrice>
+        <ListPrice currency="BRL" period="Monthly">1056348</ListPrice>
         
         
         <UnitFloor/>
@@ -4645,7 +2908,7 @@ Agende uma visita!]]></Description>
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX10213036SP</ListingID>
-      <Title>Oportunidade Única em ASSIS - SP | Tipo: Terreno | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em ASSIS - SP | Tipo: Terreno | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -6355,7 +4618,7 @@ Agende uma visita!]]></Description>
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1444404030427SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Sala | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Sala | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -6754,7 +5017,7 @@ Agende uma visita!]]></Description>
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1444406389686SP</ListingID>
-      <Title>Oportunidade Única em ITU - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em ITU - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -8008,7 +6271,7 @@ Agende uma visita!]]></Description>
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1444412467570SP</ListingID>
-      <Title>Oportunidade Única em AMERICANA - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em AMERICANA - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -8692,7 +6955,7 @@ Agende uma visita!]]></Description>
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1444415137058SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -9262,7 +7525,7 @@ Agende uma visita!]]></Description>
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1444416217713SP</ListingID>
-      <Title>Oportunidade Única em PRAIA GRANDE - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em PRAIA GRANDE - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -9282,7 +7545,7 @@ Agende uma visita!]]></Description>
         <Description>
           <![CDATA[.Baixar matrícula do imóvelAVENIDA ROCHA PITA,N. 787  CASA 04, RIBEIROPOLIS - CEP: 11714-440, PRAIA GRANDE - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Exclusivamente à vista (somente recursos próprios).REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Imóveis retomados da Venda Direta CAIXA com preços abaixo do mercado. Somos especialista em imóveis da Caixa &lt;br&gt;  &lt;br&gt; Sellar Imóveis – CRECI 47244-J. Inclua nosso CRECI na etapa 3 da proposta para ser atendido por nós. Chame no WhatsApp. Valor avalidação : R$ 240000.00  ]]>
         </Description>
-        <ListPrice currency="BRL" period="Monthly">141483</ListPrice>
+        <ListPrice currency="BRL" period="Monthly">137659</ListPrice>
         
         
         <UnitFloor/>
@@ -10231,7 +8494,7 @@ Agende uma visita!]]></Description>
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1444418696260SP</ListingID>
-      <Title>Oportunidade Única em NOVA ODESSA - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em NOVA ODESSA - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -10573,7 +8836,7 @@ Agende uma visita!]]></Description>
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1444419697171SP</ListingID>
-      <Title>Oportunidade Única em MIRASSOL - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em MIRASSOL - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -10972,7 +9235,7 @@ Agende uma visita!]]></Description>
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1444420493592SP</ListingID>
-      <Title>Oportunidade Única em BATATAIS - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em BATATAIS - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -11998,7 +10261,7 @@ Agende uma visita!]]></Description>
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1555512449761SP</ListingID>
-      <Title>Oportunidade Única em PIRACICABA - SP | Tipo: Gleba | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em PIRACICABA - SP | Tipo: Gleba | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -12018,7 +10281,7 @@ Agende uma visita!]]></Description>
         <Description>
           <![CDATA[.Baixar matrícula do imóvelAV DR ALEXANDRE GUIMARAES DOS SANTOS,N. S/N  ST 53, QD 0209, LOTE 1666 NUM FIS 265, DOIS CORREGOS - CEP: 13423-190, PIRACICABA - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Exclusivamente à vista (somente recursos próprios).REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Imóveis retomados da Venda Direta CAIXA com preços abaixo do mercado. Somos especialista em imóveis da Caixa &lt;br&gt;  &lt;br&gt; Sellar Imóveis – CRECI 47244-J. Inclua nosso CRECI na etapa 3 da proposta para ser atendido por nós. Chame no WhatsApp. Valor avalidação : R$ 5500000.00  ]]>
         </Description>
-        <ListPrice currency="BRL" period="Monthly">2077924</ListPrice>
+        <ListPrice currency="BRL" period="Monthly">1939396</ListPrice>
         
         
         <UnitFloor/>
@@ -12739,7 +11002,7 @@ Agende uma visita!]]></Description>
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1555537634538SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -14791,7 +13054,7 @@ Agende uma visita!]]></Description>
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8444411035909SP</ListingID>
-      <Title>Oportunidade Única em AMPARO - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em AMPARO - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -14811,7 +13074,7 @@ Agende uma visita!]]></Description>
         <Description>
           <![CDATA[2  Quartos, 1 Vaga na Garagem. .Baixar matrícula do imóvelRUA EUGENIO DORIGAN,N. 104  LT 28 QD L, JARDIM SILMARA - CEP: 13905-304, AMPARO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Exclusivamente à vista (somente recursos próprios).REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Imóveis retomados da Venda Direta CAIXA com preços abaixo do mercado. Somos especialista em imóveis da Caixa &lt;br&gt;  &lt;br&gt; Sellar Imóveis – CRECI 47244-J. Inclua nosso CRECI na etapa 3 da proposta para ser atendido por nós. Chame no WhatsApp. Valor avalidação : R$ 324000.00  ]]>
         </Description>
-        <ListPrice currency="BRL" period="Monthly">196165</ListPrice>
+        <ListPrice currency="BRL" period="Monthly">191003</ListPrice>
         
         
         <UnitFloor/>
@@ -16273,7 +14536,7 @@ Agende uma visita!]]></Description>
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8444420269720SP</ListingID>
-      <Title>Oportunidade Única em MONGAGUA - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em MONGAGUA - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -17071,7 +15334,7 @@ Agende uma visita!]]></Description>
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8444425226027SP</ListingID>
-      <Title>Oportunidade Única em GUARA - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em GUARA - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -17698,7 +15961,7 @@ Agende uma visita!]]></Description>
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8444428557717SP</ListingID>
-      <Title>Oportunidade Única em PRAIA GRANDE - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em PRAIA GRANDE - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -17718,7 +15981,7 @@ Agende uma visita!]]></Description>
         <Description>
           <![CDATA[Quarto, 1 Vaga na Garagem. .Baixar matrícula do imóvelRUA MEDEIROS E ALBUQUERQUE,N. 76  CS 01, RIBEIROPOLIS - CEP: 11714-540, PRAIA GRANDE - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Exclusivamente à vista (somente recursos próprios).REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Imóveis retomados da Venda Direta CAIXA com preços abaixo do mercado. Somos especialista em imóveis da Caixa &lt;br&gt;  &lt;br&gt; Sellar Imóveis – CRECI 47244-J. Inclua nosso CRECI na etapa 3 da proposta para ser atendido por nós. Chame no WhatsApp. Valor avalidação : R$ 273000.00  ]]>
         </Description>
-        <ListPrice currency="BRL" period="Monthly">158801</ListPrice>
+        <ListPrice currency="BRL" period="Monthly">154622</ListPrice>
         
         
         <UnitFloor/>
@@ -18211,7 +16474,7 @@ Agende uma visita!]]></Description>
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8444430699957SP</ListingID>
-      <Title>Oportunidade Única em COTIA - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em COTIA - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -18553,7 +16816,7 @@ Agende uma visita!]]></Description>
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8444432044222SP</ListingID>
-      <Title>Oportunidade Única em PEREIRA BARRETO - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em PEREIRA BARRETO - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -19864,7 +18127,7 @@ Agende uma visita!]]></Description>
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8555524001769SP</ListingID>
-      <Title>Oportunidade Única em PRAIA GRANDE - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em PRAIA GRANDE - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -19884,7 +18147,7 @@ Agende uma visita!]]></Description>
         <Description>
           <![CDATA[2  Quartos, 1 Vaga na Garagem,  Área de Serviço,  Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelRUA GENI APARECIDA DE MOURA (RUA B),N. 402, GLORIA - CEP: 11724-165, PRAIA GRANDE - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Imóveis retomados da Venda Direta CAIXA com preços abaixo do mercado. Somos especialista em imóveis da Caixa &lt;br&gt;  &lt;br&gt; Sellar Imóveis – CRECI 47244-J. Inclua nosso CRECI na etapa 3 da proposta para ser atendido por nós. Chame no WhatsApp. Valor avalidação : R$ 227000.00  ]]>
         </Description>
-        <ListPrice currency="BRL" period="Monthly">130341</ListPrice>
+        <ListPrice currency="BRL" period="Monthly">126911</ListPrice>
         
         
         <UnitFloor/>
