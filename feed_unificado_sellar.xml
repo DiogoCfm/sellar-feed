@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2025-12-31T00:48:28</Date>
+  <Date>2025-12-31T06:16:47</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE200</ListingID>
@@ -4902,6 +4902,63 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Telephone/>
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>COLIBEX-IMCX1444409845097SP</ListingID>
+      <Title>Oportunidade Única em OLIMPIA - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <TransactionType>For Sale</TransactionType>
+      
+      
+      <Media>
+       
+        <Item medium="video"/> 
+        <Item medium="image" caption="img0" primary="true">https://xml.colibex.com.br/foto/21244439.jpg</Item><Item medium="image" caption="img1">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_c0683aaa_jpg.jpg</Item><Item medium="image" caption="img2">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1744898543159_Pag_Proposta_jpg.jpg</Item><Item medium="image" caption="img3">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_ee7e9b11_jpg.jpg</Item><Item medium="image" caption="img4">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_79b69625_jpg.jpg</Item><Item medium="image" caption="img5">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_38d9222e_jpg.jpg</Item><Item medium="image" caption="img6">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_ba877a96_jpg.jpg</Item>
+        
+        
+        
+
+      </Media>
+      <Details>
+  <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+      
+        <Description>
+          <![CDATA[4  Quartos, 2 Wc,  wc Emp, 4 Salas,  Lavabo,  Cozinha. .Baixar matrícula do imóvelRUA DAVID DE OLIVEIRA,N. 620  QUARTEIRÃO Nº 84, PATRIMONIO DE SAO JOAO BATISTA - CEP: 15400-009, OLIMPIA - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Imóveis retomados da Venda Direta CAIXA com preços abaixo do mercado. Somos especialista em imóveis da Caixa &lt;br&gt;  &lt;br&gt; Sellar Imóveis – CRECI 47244-J. Inclua nosso CRECI na etapa 3 da proposta para ser atendido por nós. Chame no WhatsApp. Valor avalidação : R$ 680000.00  ]]>
+        </Description>
+        <ListPrice currency="BRL" period="Monthly">433373</ListPrice>
+        
+        
+        <UnitFloor/>
+        <Suites>0</Suites>
+        <LotArea unit="square metres">195</LotArea>
+        <LivingArea unit="square metres">242</LivingArea>
+        <PropertyAdministrationFee currency="BRL"/>
+        <YearlyTax currency="BRL"/>
+        <YearBuilt/>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>4</Bedrooms>
+        <Garage type="Parking Space">0</Garage>
+        <Floors/>
+        <Features>
+          
+        </Features>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>OLIMPIA</City>
+        <Neighborhood>PATRIMONIO DE SAO JOAO BATISTA</Neighborhood>
+        <Address>RUA DAVID DE OLIVEIRA</Address>
+        <StreetNumber>N. 620  QUARTEIRÃO Nº 84</StreetNumber>
+        <Complement/>
+        <PostalCode>15400-009</PostalCode>
+        <Zone/>
+      </Location>
+      <ContactInfo>
+        <Name> Sellar Representacao e Administracao Imobiliaria LTDA</Name>
+        <Email>diogocobucci@gmail.com</Email>
+        <Website>sellarleiloes.com.br</Website>
+        <Telephone/>
+      </ContactInfo>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1444410134395SP</ListingID>
       <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Prédio | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
@@ -7173,6 +7230,63 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <StreetNumber>N. 185</StreetNumber>
         <Complement/>
         <PostalCode>11712-170</PostalCode>
+        <Zone/>
+      </Location>
+      <ContactInfo>
+        <Name> Sellar Representacao e Administracao Imobiliaria LTDA</Name>
+        <Email>diogocobucci@gmail.com</Email>
+        <Website>sellarleiloes.com.br</Website>
+        <Telephone/>
+      </ContactInfo>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>COLIBEX-IMCX1444420203624SP</ListingID>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <TransactionType>For Sale</TransactionType>
+      
+      
+      <Media>
+       
+        <Item medium="video"/> 
+        <Item medium="image" caption="img0" primary="true">https://xml.colibex.com.br/foto/21432041.jpg</Item><Item medium="image" caption="img1">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_c0683aaa_jpg.jpg</Item><Item medium="image" caption="img2">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1744898543159_Pag_Proposta_jpg.jpg</Item><Item medium="image" caption="img3">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_ee7e9b11_jpg.jpg</Item><Item medium="image" caption="img4">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_79b69625_jpg.jpg</Item><Item medium="image" caption="img5">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_38d9222e_jpg.jpg</Item><Item medium="image" caption="img6">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_ba877a96_jpg.jpg</Item>
+        
+        
+        
+
+      </Media>
+      <Details>
+  <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+      
+        <Description>
+          <![CDATA[2  Quartos. .Baixar matrícula do imóvelRUA FILIPE GALVAO,N. 47 APTO. 31, VILA GRANADA         - CEP: 03654-020, SAO PAULO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Imóveis retomados da Venda Direta CAIXA com preços abaixo do mercado. Somos especialista em imóveis da Caixa &lt;br&gt;  &lt;br&gt; Sellar Imóveis – CRECI 47244-J. Inclua nosso CRECI na etapa 3 da proposta para ser atendido por nós. Chame no WhatsApp. Valor avalidação : R$ 300000.00  ]]>
+        </Description>
+        <ListPrice currency="BRL" period="Monthly">191194</ListPrice>
+        
+        
+        <UnitFloor/>
+        <Suites>0</Suites>
+        <LotArea unit="square metres">111</LotArea>
+        <LivingArea unit="square metres">49</LivingArea>
+        <PropertyAdministrationFee currency="BRL"/>
+        <YearlyTax currency="BRL"/>
+        <YearBuilt/>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Garage type="Parking Space">0</Garage>
+        <Floors/>
+        <Features>
+          
+        </Features>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>SAO PAULO</City>
+        <Neighborhood>VILA GRANADA</Neighborhood>
+        <Address>RUA FILIPE GALVAO</Address>
+        <StreetNumber>N. 47 APTO. 31</StreetNumber>
+        <Complement/>
+        <PostalCode>03654-020</PostalCode>
         <Zone/>
       </Location>
       <ContactInfo>
