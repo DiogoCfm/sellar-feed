@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-01-15T06:16:44</Date>
+  <Date>2026-01-15T12:20:07</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE200</ListingID>
@@ -789,63 +789,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <StreetNumber>N. 1490</StreetNumber>
         <Complement/>
         <PostalCode>18278-440</PostalCode>
-        <Zone/>
-      </Location>
-      <ContactInfo>
-        <Name> Sellar Representacao e Administracao Imobiliaria LTDA</Name>
-        <Email>diogocobucci@gmail.com</Email>
-        <Website>sellarleiloes.com.br</Website>
-        <Telephone/>
-      </ContactInfo>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>COLIBEX-IMCX10142076SP</ListingID>
-      <Title>Oportunidade Única em SAO JOSE DO RIO PRETO - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
-      <TransactionType>For Sale</TransactionType>
-      
-      
-      <Media>
-       
-        <Item medium="video"/> 
-        <Item medium="image" caption="img0" primary="true">https://xml.colibex.com.br/foto/33858179.jpg</Item><Item medium="image" caption="img1">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_c0683aaa_jpg.jpg</Item><Item medium="image" caption="img2">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1744898543159_Pag_Proposta_jpg.jpg</Item><Item medium="image" caption="img3">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_ee7e9b11_jpg.jpg</Item><Item medium="image" caption="img4">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_79b69625_jpg.jpg</Item><Item medium="image" caption="img5">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_38d9222e_jpg.jpg</Item><Item medium="image" caption="img6">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_ba877a96_jpg.jpg</Item>
-        
-        
-        
-
-      </Media>
-      <Details>
-  <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-      
-        <Description>
-          <![CDATA[3  Quartos, 2  Vagas na Garagem,  Varanda/sacada,  Área de Serviço, 2 Wc,  wc Emp,  Sala,  Cozinha. Proc Judicial 50050987020204036106.Baixar matrícula do imóvelCONCEICAO DA SILVA ALVES,N. 1605  QUADRA N, LOTE 08, SAO JOSE DO RIO PRET - CEP: 15042-014, SAO JOSE DO RIO PRETO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Exclusivamente à vista (somente recursos próprios).REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Imóvel com gravame/penhora/indisponibilidade averbada na matrícula. Regularização por conta do adquirente. Corretores credenciados Imóveis retomados da Venda Direta CAIXA com preços abaixo do mercado. Somos especialista em imóveis da Caixa &lt;br&gt;  &lt;br&gt; Sellar Imóveis – CRECI 47244-J. Inclua nosso CRECI na etapa 3 da proposta para ser atendido por nós. Chame no WhatsApp. Valor avalidação : R$ 345000.00  ]]>
-        </Description>
-        <ListPrice currency="BRL" period="Monthly">192223</ListPrice>
-        
-        
-        <UnitFloor/>
-        <Suites>0</Suites>
-        <LotArea unit="square metres">119</LotArea>
-        <LivingArea unit="square metres">119</LivingArea>
-        <PropertyAdministrationFee currency="BRL"/>
-        <YearlyTax currency="BRL"/>
-        <YearBuilt/>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>3</Bedrooms>
-        <Garage type="Parking Space">2</Garage>
-        <Floors/>
-        <Features>
-          
-        </Features>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>SAO JOSE DO RIO PRETO</City>
-        <Neighborhood>SAO JOSE DO RIO PRET</Neighborhood>
-        <Address>CONCEICAO DA SILVA ALVES</Address>
-        <StreetNumber>N. 1605  QUADRA N</StreetNumber>
-        <Complement/>
-        <PostalCode>15042-014</PostalCode>
         <Zone/>
       </Location>
       <ContactInfo>
@@ -2223,6 +2166,63 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Telephone/>
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>COLIBEX-IMCX10211901SP</ListingID>
+      <Title>Oportunidade Única em MARILIA - SP | Tipo: Terreno | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <TransactionType>For Sale</TransactionType>
+      
+      
+      <Media>
+       
+        <Item medium="video"/> 
+        <Item medium="image" caption="img0" primary="true">https://xml.colibex.com.br/foto/8574990.jpg</Item><Item medium="image" caption="img1">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_c0683aaa_jpg.jpg</Item><Item medium="image" caption="img2">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1744898543159_Pag_Proposta_jpg.jpg</Item><Item medium="image" caption="img3">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_ee7e9b11_jpg.jpg</Item><Item medium="image" caption="img4">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_79b69625_jpg.jpg</Item><Item medium="image" caption="img5">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_38d9222e_jpg.jpg</Item><Item medium="image" caption="img6">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_ba877a96_jpg.jpg</Item>
+        
+        
+        
+
+      </Media>
+      <Details>
+  <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Land Lot</PropertyType>
+      
+        <Description>
+          <![CDATA[.Baixar matrícula do imóvelAVENIDA SABIA,N. SN  QD 13, LT 04, RESIDENCIAL PORTAL DA SERRA - CEP: 17514-872, MARILIA - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Exclusivamente à vista (somente recursos próprios).REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Imóveis retomados da Venda Direta CAIXA com preços abaixo do mercado. Somos especialista em imóveis da Caixa &lt;br&gt;  &lt;br&gt; Sellar Imóveis – CRECI 47244-J. Inclua nosso CRECI na etapa 3 da proposta para ser atendido por nós. Chame no WhatsApp. Valor avalidação : R$ 427839.78  ]]>
+        </Description>
+        <ListPrice currency="BRL" period="Monthly">265851</ListPrice>
+        
+        
+        <UnitFloor/>
+        <Suites>0</Suites>
+        <LotArea unit="square metres">50</LotArea>
+        <LivingArea unit="square metres">1702</LivingArea>
+        <PropertyAdministrationFee currency="BRL"/>
+        <YearlyTax currency="BRL"/>
+        <YearBuilt/>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>1</Bedrooms>
+        <Garage type="Parking Space">0</Garage>
+        <Floors/>
+        <Features>
+          
+        </Features>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>MARILIA</City>
+        <Neighborhood>RESIDENCIAL PORTAL DA SERRA</Neighborhood>
+        <Address>AVENIDA SABIA</Address>
+        <StreetNumber>N. SN  QD 13</StreetNumber>
+        <Complement/>
+        <PostalCode>17514-872</PostalCode>
+        <Zone/>
+      </Location>
+      <ContactInfo>
+        <Name> Sellar Representacao e Administracao Imobiliaria LTDA</Name>
+        <Email>diogocobucci@gmail.com</Email>
+        <Website>sellarleiloes.com.br</Website>
+        <Telephone/>
+      </ContactInfo>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX10211904SP</ListingID>
       <Title>Oportunidade Única em DOLCINOPOLIS - SP | Tipo: Outros | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
@@ -2964,63 +2964,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Telephone/>
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>COLIBEX-IMCX10219353SP</ListingID>
-      <Title>Oportunidade Única em SAO BERNARDO DO CAMPO - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
-      <TransactionType>For Sale</TransactionType>
-      
-      
-      <Media>
-       
-        <Item medium="video"/> 
-        <Item medium="image" caption="img0" primary="true">https://xml.colibex.com.br/foto/33859551.jpg</Item><Item medium="image" caption="img1">https://xml.colibex.com.br/foto/33859553.jpg</Item><Item medium="image" caption="img2">https://xml.colibex.com.br/foto/33859555.jpg</Item><Item medium="image" caption="img3">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_c0683aaa_jpg.jpg</Item><Item medium="image" caption="img4">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1744898543159_Pag_Proposta_jpg.jpg</Item><Item medium="image" caption="img5">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_ee7e9b11_jpg.jpg</Item><Item medium="image" caption="img6">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_79b69625_jpg.jpg</Item><Item medium="image" caption="img7">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_38d9222e_jpg.jpg</Item><Item medium="image" caption="img8">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_ba877a96_jpg.jpg</Item>
-        
-        
-        
-
-      </Media>
-      <Details>
-  <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-      
-        <Description>
-          <![CDATA[.Baixar matrícula do imóvelRUA AMPARO,N. 288  QD 18, LT 22, BAETA NEVES - CEP: 09751-350, SAO BERNARDO DO CAMPO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Exclusivamente à vista (somente recursos próprios).REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Imóveis retomados da Venda Direta CAIXA com preços abaixo do mercado. Somos especialista em imóveis da Caixa &lt;br&gt;  &lt;br&gt; Sellar Imóveis – CRECI 47244-J. Inclua nosso CRECI na etapa 3 da proposta para ser atendido por nós. Chame no WhatsApp. Valor avalidação : R$ 2070000.00  ]]>
-        </Description>
-        <ListPrice currency="BRL" period="Monthly">1286259</ListPrice>
-        
-        
-        <UnitFloor/>
-        <Suites>0</Suites>
-        <LotArea unit="square metres">463</LotArea>
-        <LivingArea unit="square metres">468</LivingArea>
-        <PropertyAdministrationFee currency="BRL"/>
-        <YearlyTax currency="BRL"/>
-        <YearBuilt/>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>1</Bedrooms>
-        <Garage type="Parking Space">0</Garage>
-        <Floors/>
-        <Features>
-          
-        </Features>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>SAO BERNARDO DO CAMPO</City>
-        <Neighborhood>BAETA NEVES</Neighborhood>
-        <Address>RUA AMPARO</Address>
-        <StreetNumber>N. 288  QD 18</StreetNumber>
-        <Complement/>
-        <PostalCode>09751-350</PostalCode>
-        <Zone/>
-      </Location>
-      <ContactInfo>
-        <Name> Sellar Representacao e Administracao Imobiliaria LTDA</Name>
-        <Email>diogocobucci@gmail.com</Email>
-        <Website>sellarleiloes.com.br</Website>
-        <Telephone/>
-      </ContactInfo>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1026941748668SP</ListingID>
       <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
@@ -3297,63 +3240,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <StreetNumber>N. 696</StreetNumber>
         <Complement/>
         <PostalCode>03118-020</PostalCode>
-        <Zone/>
-      </Location>
-      <ContactInfo>
-        <Name> Sellar Representacao e Administracao Imobiliaria LTDA</Name>
-        <Email>diogocobucci@gmail.com</Email>
-        <Website>sellarleiloes.com.br</Website>
-        <Telephone/>
-      </ContactInfo>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>COLIBEX-IMCX1444400135640SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
-      <TransactionType>For Sale</TransactionType>
-      
-      
-      <Media>
-       
-        <Item medium="video"/> 
-        <Item medium="image" caption="img0" primary="true">https://xml.colibex.com.br/foto/8553594.jpg</Item><Item medium="image" caption="img1">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_c0683aaa_jpg.jpg</Item><Item medium="image" caption="img2">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1744898543159_Pag_Proposta_jpg.jpg</Item><Item medium="image" caption="img3">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_ee7e9b11_jpg.jpg</Item><Item medium="image" caption="img4">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_79b69625_jpg.jpg</Item><Item medium="image" caption="img5">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_38d9222e_jpg.jpg</Item><Item medium="image" caption="img6">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_ba877a96_jpg.jpg</Item>
-        
-        
-        
-
-      </Media>
-      <Details>
-  <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-      
-        <Description>
-          <![CDATA[1 Vaga na Garagem. .Baixar matrícula do imóvelRUA CORONEL FRANCISCO INACIO,N. 149 APTO. 23, VILA MOINHO VELHO - CEP: 04286-000, SAO PAULO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Exclusivamente à vista (somente recursos próprios).REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Imóvel com gravame/penhora/indisponibilidade averbada na matrícula. Regularização por conta do adquirente. Corretores credenciados Imóveis retomados da Venda Direta CAIXA com preços abaixo do mercado. Somos especialista em imóveis da Caixa &lt;br&gt;  &lt;br&gt; Sellar Imóveis – CRECI 47244-J. Inclua nosso CRECI na etapa 3 da proposta para ser atendido por nós. Chame no WhatsApp. Valor avalidação : R$ 360000.00  ]]>
-        </Description>
-        <ListPrice currency="BRL" period="Monthly">229433</ListPrice>
-        
-        
-        <UnitFloor/>
-        <Suites>0</Suites>
-        <LotArea unit="square metres">60</LotArea>
-        <LivingArea unit="square metres">60</LivingArea>
-        <PropertyAdministrationFee currency="BRL"/>
-        <YearlyTax currency="BRL"/>
-        <YearBuilt/>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>1</Bedrooms>
-        <Garage type="Parking Space">1</Garage>
-        <Floors/>
-        <Features>
-          
-        </Features>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>SAO PAULO</City>
-        <Neighborhood>VILA MOINHO VELHO</Neighborhood>
-        <Address>RUA CORONEL FRANCISCO INACIO</Address>
-        <StreetNumber>N. 149 APTO. 23</StreetNumber>
-        <Complement/>
-        <PostalCode>04286-000</PostalCode>
         <Zone/>
       </Location>
       <ContactInfo>
@@ -3867,63 +3753,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <StreetNumber>N. 536  QD 18 LT 07</StreetNumber>
         <Complement/>
         <PostalCode>11443-170</PostalCode>
-        <Zone/>
-      </Location>
-      <ContactInfo>
-        <Name> Sellar Representacao e Administracao Imobiliaria LTDA</Name>
-        <Email>diogocobucci@gmail.com</Email>
-        <Website>sellarleiloes.com.br</Website>
-        <Telephone/>
-      </ContactInfo>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>COLIBEX-IMCX1444403419886SP</ListingID>
-      <Title>Oportunidade Única em SAO JOSE DO RIO PRETO - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
-      <TransactionType>For Sale</TransactionType>
-      
-      
-      <Media>
-       
-        <Item medium="video"/> 
-        <Item medium="image" caption="img0" primary="true">https://xml.colibex.com.br/foto/33859077.jpg</Item><Item medium="image" caption="img1">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_c0683aaa_jpg.jpg</Item><Item medium="image" caption="img2">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1744898543159_Pag_Proposta_jpg.jpg</Item><Item medium="image" caption="img3">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_ee7e9b11_jpg.jpg</Item><Item medium="image" caption="img4">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_79b69625_jpg.jpg</Item><Item medium="image" caption="img5">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_38d9222e_jpg.jpg</Item><Item medium="image" caption="img6">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_ba877a96_jpg.jpg</Item>
-        
-        
-        
-
-      </Media>
-      <Details>
-  <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-      
-        <Description>
-          <![CDATA[3  Quartos, 2  Vagas na Garagem,  Área de Serviço, 2 Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelRUA SEBASTIAO FUZA,N. 85  LT 09 QD E,  , CONJUNTO HABITACIONAL COSTA DO SOL - CEP: 15043-230, SAO JOSE DO RIO PRETO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Imóveis retomados da Venda Direta CAIXA com preços abaixo do mercado. Somos especialista em imóveis da Caixa &lt;br&gt;  &lt;br&gt; Sellar Imóveis – CRECI 47244-J. Inclua nosso CRECI na etapa 3 da proposta para ser atendido por nós. Chame no WhatsApp. Valor avalidação : R$ 350000.00  ]]>
-        </Description>
-        <ListPrice currency="BRL" period="Monthly">211907</ListPrice>
-        
-        
-        <UnitFloor/>
-        <Suites>0</Suites>
-        <LotArea unit="square metres">152</LotArea>
-        <LivingArea unit="square metres">200</LivingArea>
-        <PropertyAdministrationFee currency="BRL"/>
-        <YearlyTax currency="BRL"/>
-        <YearBuilt/>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>3</Bedrooms>
-        <Garage type="Parking Space">2</Garage>
-        <Floors/>
-        <Features>
-          
-        </Features>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>SAO JOSE DO RIO PRETO</City>
-        <Neighborhood>CONJUNTO HABITACIONAL COSTA DO SOL</Neighborhood>
-        <Address>RUA SEBASTIAO FUZA</Address>
-        <StreetNumber>N. 85  LT 09 QD E</StreetNumber>
-        <Complement/>
-        <PostalCode>15043-230</PostalCode>
         <Zone/>
       </Location>
       <ContactInfo>
@@ -5235,6 +5064,63 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <StreetNumber>N. 12 APTO. 62</StreetNumber>
         <Complement/>
         <PostalCode>14090-092</PostalCode>
+        <Zone/>
+      </Location>
+      <ContactInfo>
+        <Name> Sellar Representacao e Administracao Imobiliaria LTDA</Name>
+        <Email>diogocobucci@gmail.com</Email>
+        <Website>sellarleiloes.com.br</Website>
+        <Telephone/>
+      </ContactInfo>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>COLIBEX-IMCX1444414368420SP</ListingID>
+      <Title>Oportunidade Única em MARILIA - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <TransactionType>For Sale</TransactionType>
+      
+      
+      <Media>
+       
+        <Item medium="video"/> 
+        <Item medium="image" caption="img0" primary="true">https://xml.colibex.com.br/foto/8574924.jpg</Item><Item medium="image" caption="img1">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_c0683aaa_jpg.jpg</Item><Item medium="image" caption="img2">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1744898543159_Pag_Proposta_jpg.jpg</Item><Item medium="image" caption="img3">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_ee7e9b11_jpg.jpg</Item><Item medium="image" caption="img4">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_79b69625_jpg.jpg</Item><Item medium="image" caption="img5">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_38d9222e_jpg.jpg</Item><Item medium="image" caption="img6">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_ba877a96_jpg.jpg</Item>
+        
+        
+        
+
+      </Media>
+      <Details>
+  <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+      
+        <Description>
+          <![CDATA[2  Quartos,  Área de Serviço,  Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelRUA LUIZ ANTONIO SILVA CAMPASSI,N. SN  QD 21 LT 06, ALTOS DO PALMITAL    - CEP: 17512-000, MARILIA - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Exclusivamente à vista (somente recursos próprios).REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Imóveis retomados da Venda Direta CAIXA com preços abaixo do mercado. Somos especialista em imóveis da Caixa &lt;br&gt;  &lt;br&gt; Sellar Imóveis – CRECI 47244-J. Inclua nosso CRECI na etapa 3 da proposta para ser atendido por nós. Chame no WhatsApp. Valor avalidação : R$ 410000.00  ]]>
+        </Description>
+        <ListPrice currency="BRL" period="Monthly">261298</ListPrice>
+        
+        
+        <UnitFloor/>
+        <Suites>0</Suites>
+        <LotArea unit="square metres">44</LotArea>
+        <LivingArea unit="square metres">250</LivingArea>
+        <PropertyAdministrationFee currency="BRL"/>
+        <YearlyTax currency="BRL"/>
+        <YearBuilt/>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Garage type="Parking Space">0</Garage>
+        <Floors/>
+        <Features>
+          
+        </Features>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>MARILIA</City>
+        <Neighborhood>ALTOS DO PALMITAL</Neighborhood>
+        <Address>RUA LUIZ ANTONIO SILVA CAMPASSI</Address>
+        <StreetNumber>N. SN  QD 21 LT 06</StreetNumber>
+        <Complement/>
+        <PostalCode>17512-000</PostalCode>
         <Zone/>
       </Location>
       <ContactInfo>
@@ -8598,6 +8484,63 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <StreetNumber>N. 140 APTO. . QD 135</StreetNumber>
         <Complement/>
         <PostalCode>15044-520</PostalCode>
+        <Zone/>
+      </Location>
+      <ContactInfo>
+        <Name> Sellar Representacao e Administracao Imobiliaria LTDA</Name>
+        <Email>diogocobucci@gmail.com</Email>
+        <Website>sellarleiloes.com.br</Website>
+        <Telephone/>
+      </ContactInfo>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>COLIBEX-IMCX8444434626369SP</ListingID>
+      <Title>Oportunidade Única em MARILIA - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <TransactionType>For Sale</TransactionType>
+      
+      
+      <Media>
+       
+        <Item medium="video"/> 
+        <Item medium="image" caption="img0" primary="true">https://xml.colibex.com.br/foto/8574690.jpg</Item><Item medium="image" caption="img1">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_c0683aaa_jpg.jpg</Item><Item medium="image" caption="img2">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1744898543159_Pag_Proposta_jpg.jpg</Item><Item medium="image" caption="img3">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_ee7e9b11_jpg.jpg</Item><Item medium="image" caption="img4">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_79b69625_jpg.jpg</Item><Item medium="image" caption="img5">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_38d9222e_jpg.jpg</Item><Item medium="image" caption="img6">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_ba877a96_jpg.jpg</Item>
+        
+        
+        
+
+      </Media>
+      <Details>
+  <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+      
+        <Description>
+          <![CDATA[2  Quartos, 1 Vaga na Garagem,  Área de Serviço,  Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelRUA ORLY LUIZ LIVERO,N. 224, RESIDENCIAL VIDA NOVA MARACA (PADRE - CEP: 17533-369, MARILIA - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Imóveis retomados da Venda Direta CAIXA com preços abaixo do mercado. Somos especialista em imóveis da Caixa &lt;br&gt;  &lt;br&gt; Sellar Imóveis – CRECI 47244-J. Inclua nosso CRECI na etapa 3 da proposta para ser atendido por nós. Chame no WhatsApp. Valor avalidação : R$ 332000.00  ]]>
+        </Description>
+        <ListPrice currency="BRL" period="Monthly">203285</ListPrice>
+        
+        
+        <UnitFloor/>
+        <Suites>0</Suites>
+        <LotArea unit="square metres">79</LotArea>
+        <LivingArea unit="square metres">231</LivingArea>
+        <PropertyAdministrationFee currency="BRL"/>
+        <YearlyTax currency="BRL"/>
+        <YearBuilt/>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Garage type="Parking Space">1</Garage>
+        <Floors/>
+        <Features>
+          
+        </Features>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>MARILIA</City>
+        <Neighborhood>RESIDENCIAL VIDA NOVA MARACA (PADRE</Neighborhood>
+        <Address>RUA ORLY LUIZ LIVERO</Address>
+        <StreetNumber>N. 224</StreetNumber>
+        <Complement/>
+        <PostalCode>17533-369</PostalCode>
         <Zone/>
       </Location>
       <ContactInfo>
@@ -24354,87 +24297,6 @@ Agende uma visita em venha conhecer essa bela oportunidade de negócio..]]></Des
                 <Bedrooms>4</Bedrooms>
                 <Garage>6</Garage>
                 <Suites>4</Suites>
-                <UsageType>Residential</UsageType>
-            </Details>
-        </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-            <ListingID>NONSTOP-sellarimoveis#05YDQ</ListingID>
-            <Title><![CDATA[Casa para venda em Jardim Tannus com 3 quartos, sendo 1 suíte , 157m²]]></Title>
-            <TransactionType>For Sale</TransactionType>
-            <Location displayAddress="All">
-                <Country abbreviation="BR">Brasil</Country>
-                <State abbreviation="SP"><![CDATA[São Paulo]]></State>
-                <City><![CDATA[Jundiaí]]></City>
-                <Neighborhood><![CDATA[Jardim Tannus]]></Neighborhood>
-                <Address><![CDATA[Rua Manoel Fagundes Cotrim]]></Address>
-                <StreetNumber><![CDATA[213]]></StreetNumber>
-                <PostalCode>13212-062</PostalCode>
-                <Longitude>-46.9593934</Longitude>
-                <Latitude>-23.1839074</Latitude>
-            </Location>
-            <VirtualTourLink><![CDATA[https://youtu.be/fbwSQid4BzI]]></VirtualTourLink>
-            <Media>
-                <Item medium="video"><![CDATA[https://www.youtube.com/watch?v=fbwSQid4BzI]]></Item>
-                <Item medium="image" caption="cc5ff049-811a-4505-a9b8-94880d3df5bf" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/685f08d8411548b7b6e3a8b4/images/cc5ff049-811a-4505-a9b8-94880d3df5bf.jpeg]]></Item>
-                <Item medium="image" caption="49c68044-90bf-45cb-98d5-8695466b8b5e" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f08d8411548b7b6e3a8b4/images/49c68044-90bf-45cb-98d5-8695466b8b5e.jpeg]]></Item>
-                <Item medium="image" caption="7cf45c20-ddb1-4d3b-a2e1-fc48a1921e15" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f08d8411548b7b6e3a8b4/images/7cf45c20-ddb1-4d3b-a2e1-fc48a1921e15.jpeg]]></Item>
-                <Item medium="image" caption="5ff52bc3-5524-407e-9655-6f84842c3e2e" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f08d8411548b7b6e3a8b4/images/5ff52bc3-5524-407e-9655-6f84842c3e2e.jpeg]]></Item>
-                <Item medium="image" caption="31ca204c-bab1-46bc-a7fc-7ee4fd7df51e" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f08d8411548b7b6e3a8b4/images/31ca204c-bab1-46bc-a7fc-7ee4fd7df51e.jpeg]]></Item>
-                <Item medium="image" caption="952dec7f-3017-480f-af08-1b74dcf28f2e" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f08d8411548b7b6e3a8b4/images/952dec7f-3017-480f-af08-1b74dcf28f2e.jpeg]]></Item>
-                <Item medium="image" caption="e6459377-6dc9-4a95-8d4b-338d77038b7e" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f08d8411548b7b6e3a8b4/images/e6459377-6dc9-4a95-8d4b-338d77038b7e.jpeg]]></Item>
-                <Item medium="image" caption="5fe684b4-6646-4483-992f-016293a44b5c" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f08d8411548b7b6e3a8b4/images/5fe684b4-6646-4483-992f-016293a44b5c.jpeg]]></Item>
-                <Item medium="image" caption="dd8691a4-d34d-4848-a29e-8ac5859c82b1" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f08d8411548b7b6e3a8b4/images/dd8691a4-d34d-4848-a29e-8ac5859c82b1.jpeg]]></Item>
-                <Item medium="image" caption="39999c37-335f-4713-a96a-43f98f1fbfe5" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f08d8411548b7b6e3a8b4/images/39999c37-335f-4713-a96a-43f98f1fbfe5.jpeg]]></Item>
-                <Item medium="image" caption="b33ba0f6-aa75-4c37-983e-2c8697d07d92" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f08d8411548b7b6e3a8b4/images/b33ba0f6-aa75-4c37-983e-2c8697d07d92.jpeg]]></Item>
-                <Item medium="image" caption="9a6c3f36-f819-4466-9132-b42d1e32ba57" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f08d8411548b7b6e3a8b4/images/9a6c3f36-f819-4466-9132-b42d1e32ba57.jpeg]]></Item>
-                <Item medium="image" caption="5e767c66-b886-4fbc-b328-f07ca2786953" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f08d8411548b7b6e3a8b4/images/5e767c66-b886-4fbc-b328-f07ca2786953.jpeg]]></Item>
-                <Item medium="image" caption="04bcb002-9b71-4feb-b311-c471c79f4d6e" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f08d8411548b7b6e3a8b4/images/04bcb002-9b71-4feb-b311-c471c79f4d6e.jpeg]]></Item>
-                <Item medium="image" caption="0c8b0bb2-3482-4b3b-a252-f6cc62e876de" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f08d8411548b7b6e3a8b4/images/0c8b0bb2-3482-4b3b-a252-f6cc62e876de.jpeg]]></Item>
-                <Item medium="image" caption="985f5b35-f9e8-4369-87e7-9e668769b093" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f08d8411548b7b6e3a8b4/images/985f5b35-f9e8-4369-87e7-9e668769b093.jpeg]]></Item>
-                <Item medium="image" caption="c54deca5-8a3c-4efa-9771-ee940e817799" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f08d8411548b7b6e3a8b4/images/c54deca5-8a3c-4efa-9771-ee940e817799.jpeg]]></Item>
-                <Item medium="image" caption="efc07c0c-8436-477a-a31e-dc3c18366020" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f08d8411548b7b6e3a8b4/images/efc07c0c-8436-477a-a31e-dc3c18366020.jpeg]]></Item>
-                <Item medium="image" caption="37546d49-2f6c-41ba-8035-42c6cd923b5f" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f08d8411548b7b6e3a8b4/images/37546d49-2f6c-41ba-8035-42c6cd923b5f.jpeg]]></Item>
-                <Item medium="image" caption="f1dfcc24-88b2-444f-b174-b05a49f0164a" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f08d8411548b7b6e3a8b4/images/f1dfcc24-88b2-444f-b174-b05a49f0164a.jpeg]]></Item>
-                <Item medium="image" caption="a323488a-c400-436e-a711-6bbd006bc004" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f08d8411548b7b6e3a8b4/images/a323488a-c400-436e-a711-6bbd006bc004.jpeg]]></Item>
-                <Item medium="image" caption="0d7748fa-5ee6-4c8e-8a52-218af7e258d8" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f08d8411548b7b6e3a8b4/images/0d7748fa-5ee6-4c8e-8a52-218af7e258d8.jpeg]]></Item>
-                <Item medium="image" caption="eb0d0bed-a695-44f2-a767-0b935f049895" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f08d8411548b7b6e3a8b4/images/eb0d0bed-a695-44f2-a767-0b935f049895.jpeg]]></Item>
-                <Item medium="image" caption="837cca23-e91a-444a-ba4a-675724ff4e5e" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f08d8411548b7b6e3a8b4/images/837cca23-e91a-444a-ba4a-675724ff4e5e.jpeg]]></Item>
-                <Item medium="image" caption="f3959f43-7caa-4b56-aadb-98028338a4c2" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f08d8411548b7b6e3a8b4/images/f3959f43-7caa-4b56-aadb-98028338a4c2.jpeg]]></Item>
-                <Item medium="image" caption="a070dac2-c843-45f5-b04c-311f76d87aed" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f08d8411548b7b6e3a8b4/images/a070dac2-c843-45f5-b04c-311f76d87aed.jpeg]]></Item>
-                <Item medium="image" caption="e6f2b5bd-ad12-40e0-a53f-e1cb8ee2accc" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f08d8411548b7b6e3a8b4/images/e6f2b5bd-ad12-40e0-a53f-e1cb8ee2accc.jpeg]]></Item>
-                <Item medium="image" caption="5670cbe6-315b-4d28-aea1-3127c3cf546d" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f08d8411548b7b6e3a8b4/images/5670cbe6-315b-4d28-aea1-3127c3cf546d.jpeg]]></Item>
-                <Item medium="image" caption="9d2f9cba-250e-4705-9f0b-14bb54092bd2" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f08d8411548b7b6e3a8b4/images/9d2f9cba-250e-4705-9f0b-14bb54092bd2.jpeg]]></Item>
-                <Item medium="image" caption="d127198e-1ed9-4406-b6d8-973b764e920a" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f08d8411548b7b6e3a8b4/images/d127198e-1ed9-4406-b6d8-973b764e920a.jpeg]]></Item>
-                <Item medium="image" caption="bf284508-4af4-4220-acfb-65129483aebf" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f08d8411548b7b6e3a8b4/images/bf284508-4af4-4220-acfb-65129483aebf.jpeg]]></Item>
-                <Item medium="image" caption="c2db7e5f-c6e1-4169-b1fd-61985599c223" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f08d8411548b7b6e3a8b4/images/c2db7e5f-c6e1-4169-b1fd-61985599c223.jpeg]]></Item>
-                <Item medium="image" caption="caba2d90-05ea-4a1d-8b70-cd89add07c55" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f08d8411548b7b6e3a8b4/images/caba2d90-05ea-4a1d-8b70-cd89add07c55.jpeg]]></Item>
-                <Item medium="image" caption="edf975e7-2fbe-4746-816c-2064bd6e6033" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f08d8411548b7b6e3a8b4/images/edf975e7-2fbe-4746-816c-2064bd6e6033.jpeg]]></Item>
-            </Media>
-            <PublicationType>STANDARD</PublicationType>
-            <Details>
-                <YearBuilt>1994</YearBuilt>
-                <ListPrice currency="BRL">958000</ListPrice>
-                <YearlyTax currency="BRL">1414</YearlyTax>
-                <Description><![CDATA[Descubra a casa perfeita para sua família em Jundiaí, localizada no desejado bairro Jardim Tannus, Rua Manoel Fagundes Contrim Parque Botânico Eloy Chaves. Esta residência contemporânea, desocupada e disponível para permuta, oferece o equilíbrio ideal entre conforto, modernidade e praticidade.
-
-Com 250m² de área útil e 157m² de área construída, a propriedade possui 3 quartos e 3 banheiros, proporcionando espaço e privacidade. Sua ampla sala possibilita receber amigos e familiares com todo conforto e comodidade, isso sem falar na área gourmet coberta e que conta com uma churrasqueira. A cozinha equipada com armários embutidos  integrada a sala de jantar facilita o dia a dia. O espaçoso jardim e a garagem coberta para 3 veículos, além de 3 vagas descobertas, são ideais para acomodar com segurança e proteção os veículos da sua família e visitas.
-
-Localizada em uma rua tranquila, a casa oferece fácil acessibilidade. e infraestrutura completa, com eletricidade, conexão à internet, interfone, TV a cabo e portão eletrônico.
-
-Próxima da esplendorosa Serra do Japi e do parque botânico do Eloy Chaves, lugares ideais para a prática de esportes ou para simplesmente contemplar a natureza. Perto de escolas, lojas, parques, igreja e com fácil acesso à rodovia e transporte público, você terá tudo ao seu alcance. Construída em dezembro de 1994, esta casa de um único proprietário é uma oportunidade imperdível em uma região residencial charmosa e segura. Não perca a chance de viver com estilo e praticidade em São Paulo. Visite agora e surpreenda-se!]]></Description>
-                <PropertyType>Residential / Home</PropertyType>
-                <LivingArea unit="square metres">157</LivingArea>
-                <LotArea unit="square metres">250</LotArea>
-                <Features>
-                    <Feature>Barbecue Balcony</Feature>
-                    <Feature>Copa</Feature>
-                    <Feature>Garden Area</Feature>
-                    <Feature>Gourmet Area</Feature>
-                    <Feature>Pets Allowed</Feature>
-                </Features>
-                <Bathrooms>3</Bathrooms>
-                <Bedrooms>3</Bedrooms>
-                <Garage>6</Garage>
-                <Suites>1</Suites>
                 <UsageType>Residential</UsageType>
             </Details>
         </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
@@ -58131,125 +57993,6 @@ A localização é simplesmente excepcional: próximo a escolas, hospitais, tran
                 <Garage>0</Garage>
                 <UnitFloor>11</UnitFloor>
                 <Suites>3</Suites>
-                <UsageType>Residential</UsageType>
-            </Details>
-        </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-            <ListingID>NONSTOP-sellarimoveis#ZWOUK</ListingID>
-            <Title><![CDATA[Sobrado para venda em Jardim Itália com 4 quartos, sendo 2 suítes , 514m²]]></Title>
-            <TransactionType>For Sale</TransactionType>
-            <Location displayAddress="All">
-                <Country abbreviation="BR">Brasil</Country>
-                <State abbreviation="SP"><![CDATA[São Paulo]]></State>
-                <City><![CDATA[Jundiaí]]></City>
-                <Neighborhood><![CDATA[Jardim Itália]]></Neighborhood>
-                <Address><![CDATA[Avenida Monsenhor Venerando Nalini]]></Address>
-                <StreetNumber><![CDATA[273]]></StreetNumber>
-                <PostalCode>13219-790</PostalCode>
-                <Longitude>-46.8522512</Longitude>
-                <Latitude>-23.1797729</Latitude>
-            </Location>
-            <VirtualTourLink><![CDATA[https://youtu.be/EExtKMCV7A0]]></VirtualTourLink>
-            <Media>
-                <Item medium="video"><![CDATA[https://www.youtube.com/watch?v=EExtKMCV7A0]]></Item>
-                <Item medium="image" caption="21cee20c-8f4d-4dd4-8876-bf2c7583f930" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/21cee20c-8f4d-4dd4-8876-bf2c7583f930.jpeg]]></Item>
-                <Item medium="image" caption="54af7f14-e6c0-41d2-b29d-dd5e9d3194f5" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/54af7f14-e6c0-41d2-b29d-dd5e9d3194f5.jpeg]]></Item>
-                <Item medium="image" caption="e4f11a0b-62bc-45a2-ba5e-e67998c2e5a8" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/e4f11a0b-62bc-45a2-ba5e-e67998c2e5a8.jpeg]]></Item>
-                <Item medium="image" caption="47e546d2-cf31-4891-8d75-75387e24a6d7" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/47e546d2-cf31-4891-8d75-75387e24a6d7.jpeg]]></Item>
-                <Item medium="image" caption="c718d38b-692c-40b3-88cb-222813729a12" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/c718d38b-692c-40b3-88cb-222813729a12.jpeg]]></Item>
-                <Item medium="image" caption="3a5b2f38-5d70-46eb-be86-8f65dad9ac1d" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/3a5b2f38-5d70-46eb-be86-8f65dad9ac1d.jpeg]]></Item>
-                <Item medium="image" caption="82f2df39-0749-41db-9ea6-97e7df4dcbf8" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/82f2df39-0749-41db-9ea6-97e7df4dcbf8.jpeg]]></Item>
-                <Item medium="image" caption="d5174ab8-d3b5-4d2d-b76f-6288caeba376" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/d5174ab8-d3b5-4d2d-b76f-6288caeba376.jpeg]]></Item>
-                <Item medium="image" caption="0f02f6fa-e085-4296-97c9-5e358140c018" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/0f02f6fa-e085-4296-97c9-5e358140c018.jpeg]]></Item>
-                <Item medium="image" caption="92a12eec-df8c-4c2c-95a9-235907939707" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/92a12eec-df8c-4c2c-95a9-235907939707.jpeg]]></Item>
-                <Item medium="image" caption="1754ff9b-0c45-4c9d-85e0-002e91ba796d" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/1754ff9b-0c45-4c9d-85e0-002e91ba796d.jpeg]]></Item>
-                <Item medium="image" caption="6754a426-3573-4883-840e-9be496997542" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/6754a426-3573-4883-840e-9be496997542.jpeg]]></Item>
-                <Item medium="image" caption="f5082964-d6dc-4738-b741-699f4d629703" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/f5082964-d6dc-4738-b741-699f4d629703.jpeg]]></Item>
-                <Item medium="image" caption="c2b49be5-d79e-47d4-9251-743a888784ff" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/c2b49be5-d79e-47d4-9251-743a888784ff.jpeg]]></Item>
-                <Item medium="image" caption="fb7b4923-0029-4946-a70f-385103ce6eb0" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/fb7b4923-0029-4946-a70f-385103ce6eb0.jpeg]]></Item>
-                <Item medium="image" caption="81a6064e-dc0f-4fd1-8456-6a9628dcb80e" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/81a6064e-dc0f-4fd1-8456-6a9628dcb80e.jpeg]]></Item>
-                <Item medium="image" caption="11a8d3ed-c6f0-4fd1-bc85-791b47b10387" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/11a8d3ed-c6f0-4fd1-bc85-791b47b10387.jpeg]]></Item>
-                <Item medium="image" caption="339ceb7a-e366-40a7-8da4-bfc55e386b52" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/339ceb7a-e366-40a7-8da4-bfc55e386b52.jpeg]]></Item>
-                <Item medium="image" caption="3cb04389-287d-47ba-86ce-47b27747e489" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/3cb04389-287d-47ba-86ce-47b27747e489.jpeg]]></Item>
-                <Item medium="image" caption="f1bbe145-f0bf-4738-9b19-04b809865a59" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/f1bbe145-f0bf-4738-9b19-04b809865a59.jpeg]]></Item>
-                <Item medium="image" caption="ab0090fa-6f14-4930-83cc-8b4903510807" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/ab0090fa-6f14-4930-83cc-8b4903510807.jpeg]]></Item>
-                <Item medium="image" caption="4633a0cc-c03b-4b5a-9e12-11664d85b46c" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/4633a0cc-c03b-4b5a-9e12-11664d85b46c.jpeg]]></Item>
-                <Item medium="image" caption="5557b027-dd75-495d-9efc-d7c03b141b8f" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/5557b027-dd75-495d-9efc-d7c03b141b8f.jpeg]]></Item>
-                <Item medium="image" caption="332a0c2b-48a6-40f8-92ef-e179e94b9b70" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/332a0c2b-48a6-40f8-92ef-e179e94b9b70.jpeg]]></Item>
-                <Item medium="image" caption="bd2e40b9-5e99-46b5-89a7-a076020a7f95" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/bd2e40b9-5e99-46b5-89a7-a076020a7f95.jpeg]]></Item>
-                <Item medium="image" caption="3f8097be-c64f-4714-9341-450ec8252f71" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/3f8097be-c64f-4714-9341-450ec8252f71.jpeg]]></Item>
-                <Item medium="image" caption="641c06a7-c073-4d3d-b520-2339baf62ea0" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/641c06a7-c073-4d3d-b520-2339baf62ea0.jpeg]]></Item>
-                <Item medium="image" caption="96b386a2-be9d-4055-ad5b-7f8175ad1270" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/96b386a2-be9d-4055-ad5b-7f8175ad1270.jpeg]]></Item>
-                <Item medium="image" caption="76494a4e-ccb9-48e7-937e-e8489f085fb5" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/76494a4e-ccb9-48e7-937e-e8489f085fb5.jpeg]]></Item>
-                <Item medium="image" caption="2477c460-219a-45f6-a65e-e02eceb34e9a" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/2477c460-219a-45f6-a65e-e02eceb34e9a.jpeg]]></Item>
-                <Item medium="image" caption="3176aa81-77ca-46a7-9022-20b6b2c489ff" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/3176aa81-77ca-46a7-9022-20b6b2c489ff.jpeg]]></Item>
-                <Item medium="image" caption="77a5f059-a86a-4968-805a-94ea8f20199c" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/77a5f059-a86a-4968-805a-94ea8f20199c.jpeg]]></Item>
-                <Item medium="image" caption="4f8cd273-91d2-4601-88c7-028081783253" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/4f8cd273-91d2-4601-88c7-028081783253.jpeg]]></Item>
-                <Item medium="image" caption="9969d2ac-d453-431e-9b60-2b55fdbef825" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/9969d2ac-d453-431e-9b60-2b55fdbef825.jpeg]]></Item>
-                <Item medium="image" caption="45ea0b39-7d3f-4651-bc77-71a1e2b51179" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/45ea0b39-7d3f-4651-bc77-71a1e2b51179.jpeg]]></Item>
-                <Item medium="image" caption="a3d6bf20-9a63-425b-b41c-49c7140d8c20" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/a3d6bf20-9a63-425b-b41c-49c7140d8c20.jpeg]]></Item>
-                <Item medium="image" caption="742dc0d0-37bd-4d58-8f3f-4929bdc834e3" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/742dc0d0-37bd-4d58-8f3f-4929bdc834e3.jpeg]]></Item>
-                <Item medium="image" caption="febb86dd-8ada-4ad6-9c9b-7e219f805966" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/febb86dd-8ada-4ad6-9c9b-7e219f805966.jpeg]]></Item>
-                <Item medium="image" caption="3ae902e0-02cc-40ee-b34a-44753d91bb48" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/3ae902e0-02cc-40ee-b34a-44753d91bb48.jpeg]]></Item>
-                <Item medium="image" caption="4003d5ed-1a8b-48f5-97b7-555e4607cb08" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/4003d5ed-1a8b-48f5-97b7-555e4607cb08.jpeg]]></Item>
-                <Item medium="image" caption="c72f3b6a-9f6a-41e0-ba31-edff611ceef6" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/c72f3b6a-9f6a-41e0-ba31-edff611ceef6.jpeg]]></Item>
-                <Item medium="image" caption="8915969d-7cef-4d42-be8f-2e7717035c86" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/8915969d-7cef-4d42-be8f-2e7717035c86.jpeg]]></Item>
-                <Item medium="image" caption="0ed3926d-44d9-4f0b-94f7-09a73903f6ac" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/0ed3926d-44d9-4f0b-94f7-09a73903f6ac.jpeg]]></Item>
-                <Item medium="image" caption="0405f97d-6d9f-460f-a890-2b09982792c7" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/0405f97d-6d9f-460f-a890-2b09982792c7.jpeg]]></Item>
-                <Item medium="image" caption="40f7cf8a-71fa-46b2-82c2-1974d4ce2bbc" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/40f7cf8a-71fa-46b2-82c2-1974d4ce2bbc.jpeg]]></Item>
-                <Item medium="image" caption="bdabc87e-5e9d-4054-8714-2c128c33e18b" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/bdabc87e-5e9d-4054-8714-2c128c33e18b.jpeg]]></Item>
-                <Item medium="image" caption="91ad88ae-4722-4355-909f-0b623ed488c5" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/91ad88ae-4722-4355-909f-0b623ed488c5.jpeg]]></Item>
-                <Item medium="image" caption="a7fafcea-68d5-404f-8a86-50550dc07d78" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/a7fafcea-68d5-404f-8a86-50550dc07d78.jpeg]]></Item>
-                <Item medium="image" caption="5c432277-df68-48ef-b7a9-e81e37088534" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/5c432277-df68-48ef-b7a9-e81e37088534.jpeg]]></Item>
-                <Item medium="image" caption="9c79d482-c119-4437-8aed-7f367fe525af" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/9c79d482-c119-4437-8aed-7f367fe525af.jpeg]]></Item>
-                <Item medium="image" caption="8a9f2e93-2137-4e67-9f00-8a993980eafd" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/8a9f2e93-2137-4e67-9f00-8a993980eafd.jpeg]]></Item>
-                <Item medium="image" caption="38d8b552-0dba-4ec5-ae53-4fde08f936b3" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/38d8b552-0dba-4ec5-ae53-4fde08f936b3.jpeg]]></Item>
-                <Item medium="image" caption="c3915cb6-ab0d-436f-8c32-7aded0428d3a" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/c3915cb6-ab0d-436f-8c32-7aded0428d3a.jpeg]]></Item>
-                <Item medium="image" caption="333967f4-c5f8-4bb1-8452-138193820d82" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/333967f4-c5f8-4bb1-8452-138193820d82.jpeg]]></Item>
-                <Item medium="image" caption="9db1ab68-cf8b-42a1-8d66-73a5a02e1d84" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/9db1ab68-cf8b-42a1-8d66-73a5a02e1d84.jpeg]]></Item>
-                <Item medium="image" caption="16925794-af94-447d-b203-fa794c526d18" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/16925794-af94-447d-b203-fa794c526d18.jpeg]]></Item>
-                <Item medium="image" caption="d98c642e-4662-45a2-84bc-0221377bcd97" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/d98c642e-4662-45a2-84bc-0221377bcd97.jpeg]]></Item>
-                <Item medium="image" caption="ff2ee560-be92-4b33-8cf6-177aef6fa2e5" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/ff2ee560-be92-4b33-8cf6-177aef6fa2e5.jpeg]]></Item>
-                <Item medium="image" caption="f1d7f7ea-55b9-4657-a295-90d2aad2e5af" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/f1d7f7ea-55b9-4657-a295-90d2aad2e5af.jpeg]]></Item>
-                <Item medium="image" caption="528ff5c2-f75d-4fe1-b6b9-7068d0a6916b" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/694559bacacbf62edddd086f/images/528ff5c2-f75d-4fe1-b6b9-7068d0a6916b.jpeg]]></Item>
-            </Media>
-            <PublicationType>STANDARD</PublicationType>
-            <Details>
-                <YearBuilt>2010</YearBuilt>
-                <ListPrice currency="BRL">1515000</ListPrice>
-                <YearlyTax currency="BRL">5250</YearlyTax>
-                <Description><![CDATA[Casa no Jardim Itália (Colônia) com 4 Quartos (2 suítes/3 banheiros) e 4 vagas
-
-O sobrado tem projeto arquitetônico com bom aproveitamento do terreno. A planta bem distribuída e a vista permanente para a mata, além de garantir a privacidade, também valorizam o imóvel tornando os ambientes mais agradáveis.
-
-São 514 m² de área construída em terreno de 376 m², em uma das melhores localizações da cidade.
-
-A construção, com acabamento de muito boa qualidade, oferece conforto acústico e térmico, este último é complementado nos dormitórios com equipamentos de ar-condicionado. As janelas amplas e varandas distribuídas estrategicamente pela casa também permitem boa insolação e iluminação nos vários ambientes.
-
-Situado em um dos bairros mais tradicionais da Colônia, esta casa de esquina em uma rua tranquila, oferece fácil acesso à região mais próxima do centro de Jundiaí e aos principais pontos de interesse da cidade.
-
-São 3 pavimentos, distribuídos da seguinte forma:
-	Piso Térreo: O acesso ao hall de entrada, através de um jardim muito bem cuidado, leva à área social da casa, onde estão o lavabo, uma sala com três ambientes, sala de estar e de jantar com varanda, escritório, cozinha planejada e lavanderia.
-	Piso Superior: Duas suítes com closet e varanda, 3 banheiros + 2 dormitórios com armários planejados e banheiro social.
-	Piso Inferior: Garagem coberta para 4 veículos, despensa, jardim de inverno, piscina aquecida com vestiários e cômodo multiuso.
-
-Se este é o imóvel que procura, agende agora mesmo uma visita e venha conhecer os detalhes deste confortável sobrado!]]></Description>
-                <PropertyType>Residential / Sobrado</PropertyType>
-                <LivingArea unit="square metres">514</LivingArea>
-                <LotArea unit="square metres">376</LotArea>
-                <Features>
-                    <Feature>Balcony</Feature>
-                    <Feature>Closet</Feature>
-                    <Feature>Cooling</Feature>
-                    <Feature>Copa</Feature>
-                    <Feature>Garden Area</Feature>
-                    <Feature>Home Office</Feature>
-                    <Feature>Pets Allowed</Feature>
-                    <Feature>Pool</Feature>
-                </Features>
-                <Bathrooms>6</Bathrooms>
-                <Bedrooms>4</Bedrooms>
-                <Garage>4</Garage>
-                <Suites>2</Suites>
                 <UsageType>Residential</UsageType>
             </Details>
         </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
