@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-01-14T18:17:08</Date>
+  <Date>2026-01-15T00:45:44</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE200</ListingID>
@@ -742,7 +742,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX10006312SP</ListingID>
-      <Title>Oportunidade Única em TATUI - SP | Tipo: Comercial | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em TATUI - SP | Tipo: Comercial | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -1084,7 +1084,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX10197445SP</ListingID>
-      <Title>Oportunidade Única em VARGEM GRANDE PAULISTA - SP | Tipo: Terreno | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em VARGEM GRANDE PAULISTA - SP | Tipo: Terreno | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -1245,63 +1245,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <StreetNumber>N. 22 APTO. 41 4º ANDAR</StreetNumber>
         <Complement/>
         <PostalCode>11440-480</PostalCode>
-        <Zone/>
-      </Location>
-      <ContactInfo>
-        <Name> Sellar Representacao e Administracao Imobiliaria LTDA</Name>
-        <Email>diogocobucci@gmail.com</Email>
-        <Website>sellarleiloes.com.br</Website>
-        <Telephone/>
-      </ContactInfo>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>COLIBEX-IMCX10204781SP</ListingID>
-      <Title>Oportunidade Única em ASSIS - SP | Tipo: Terreno | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
-      <TransactionType>For Sale</TransactionType>
-      
-      
-      <Media>
-       
-        <Item medium="video"/> 
-        <Item medium="image" caption="img0" primary="true">https://xml.colibex.com.br/foto/8546654.jpg</Item><Item medium="image" caption="img1">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_c0683aaa_jpg.jpg</Item><Item medium="image" caption="img2">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1744898543159_Pag_Proposta_jpg.jpg</Item><Item medium="image" caption="img3">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_ee7e9b11_jpg.jpg</Item><Item medium="image" caption="img4">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_79b69625_jpg.jpg</Item><Item medium="image" caption="img5">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_38d9222e_jpg.jpg</Item><Item medium="image" caption="img6">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_ba877a96_jpg.jpg</Item>
-        
-        
-        
-
-      </Media>
-      <Details>
-  <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Land Lot</PropertyType>
-      
-        <Description>
-          <![CDATA[.Baixar matrícula do imóvelAVENIDA GETULIO VARGAS,N. 00  ST 02, QD 64, LT 05, VILA NOVA SANTANA - CEP: 19807-130, ASSIS - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Exclusivamente à vista (somente recursos próprios).REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Imóveis retomados da Venda Direta CAIXA com preços abaixo do mercado. Somos especialista em imóveis da Caixa &lt;br&gt;  &lt;br&gt; Sellar Imóveis – CRECI 47244-J. Inclua nosso CRECI na etapa 3 da proposta para ser atendido por nós. Chame no WhatsApp. Valor avalidação : R$ 3330000.00  ]]>
-        </Description>
-        <ListPrice currency="BRL" period="Monthly">1982463</ListPrice>
-        
-        
-        <UnitFloor/>
-        <Suites>0</Suites>
-        <LotArea unit="square metres">50</LotArea>
-        <LivingArea unit="square metres">4238</LivingArea>
-        <PropertyAdministrationFee currency="BRL"/>
-        <YearlyTax currency="BRL"/>
-        <YearBuilt/>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>1</Bedrooms>
-        <Garage type="Parking Space">0</Garage>
-        <Floors/>
-        <Features>
-          
-        </Features>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>ASSIS</City>
-        <Neighborhood>VILA NOVA SANTANA</Neighborhood>
-        <Address>AVENIDA GETULIO VARGAS</Address>
-        <StreetNumber>N. 00  ST 02</StreetNumber>
-        <Complement/>
-        <PostalCode>19807-130</PostalCode>
         <Zone/>
       </Location>
       <ContactInfo>
@@ -1540,7 +1483,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX10208119SP</ListingID>
-      <Title>Oportunidade Única em SOROCABA - SP | Tipo: Terreno | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SOROCABA - SP | Tipo: Terreno | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -1825,7 +1768,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX10208968SP</ListingID>
-      <Title>Oportunidade Única em TAMBAU - SP | Tipo: Terreno | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em TAMBAU - SP | Tipo: Terreno | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -1882,7 +1825,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX10208970SP</ListingID>
-      <Title>Oportunidade Única em TAMBAU - SP | Tipo: Galpão | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em TAMBAU - SP | Tipo: Galpão | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -1939,7 +1882,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX10208973SP</ListingID>
-      <Title>Oportunidade Única em TAMBAU - SP | Tipo: Terreno | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em TAMBAU - SP | Tipo: Terreno | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -1996,7 +1939,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX10208974SP</ListingID>
-      <Title>Oportunidade Única em TAMBAU - SP | Tipo: Terreno | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em TAMBAU - SP | Tipo: Terreno | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -2053,7 +1996,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX10208976SP</ListingID>
-      <Title>Oportunidade Única em TAMBAU - SP | Tipo: Terreno | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em TAMBAU - SP | Tipo: Terreno | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -2167,7 +2110,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX10211720SP</ListingID>
-      <Title>Oportunidade Única em SOROCABA - SP | Tipo: Terreno | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SOROCABA - SP | Tipo: Terreno | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -2271,63 +2214,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <StreetNumber>N. 105</StreetNumber>
         <Complement/>
         <PostalCode>13471-650</PostalCode>
-        <Zone/>
-      </Location>
-      <ContactInfo>
-        <Name> Sellar Representacao e Administracao Imobiliaria LTDA</Name>
-        <Email>diogocobucci@gmail.com</Email>
-        <Website>sellarleiloes.com.br</Website>
-        <Telephone/>
-      </ContactInfo>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>COLIBEX-IMCX10211901SP</ListingID>
-      <Title>Oportunidade Única em MARILIA - SP | Tipo: Terreno | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
-      <TransactionType>For Sale</TransactionType>
-      
-      
-      <Media>
-       
-        <Item medium="video"/> 
-        <Item medium="image" caption="img0" primary="true">https://xml.colibex.com.br/foto/8574990.jpg</Item><Item medium="image" caption="img1">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_c0683aaa_jpg.jpg</Item><Item medium="image" caption="img2">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1744898543159_Pag_Proposta_jpg.jpg</Item><Item medium="image" caption="img3">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_ee7e9b11_jpg.jpg</Item><Item medium="image" caption="img4">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_79b69625_jpg.jpg</Item><Item medium="image" caption="img5">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_38d9222e_jpg.jpg</Item><Item medium="image" caption="img6">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_ba877a96_jpg.jpg</Item>
-        
-        
-        
-
-      </Media>
-      <Details>
-  <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Land Lot</PropertyType>
-      
-        <Description>
-          <![CDATA[.Baixar matrícula do imóvelAVENIDA SABIA,N. SN  QD 13, LT 04, RESIDENCIAL PORTAL DA SERRA - CEP: 17514-872, MARILIA - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Exclusivamente à vista (somente recursos próprios).REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Imóveis retomados da Venda Direta CAIXA com preços abaixo do mercado. Somos especialista em imóveis da Caixa &lt;br&gt;  &lt;br&gt; Sellar Imóveis – CRECI 47244-J. Inclua nosso CRECI na etapa 3 da proposta para ser atendido por nós. Chame no WhatsApp. Valor avalidação : R$ 427839.78  ]]>
-        </Description>
-        <ListPrice currency="BRL" period="Monthly">265851</ListPrice>
-        
-        
-        <UnitFloor/>
-        <Suites>0</Suites>
-        <LotArea unit="square metres">50</LotArea>
-        <LivingArea unit="square metres">1702</LivingArea>
-        <PropertyAdministrationFee currency="BRL"/>
-        <YearlyTax currency="BRL"/>
-        <YearBuilt/>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>1</Bedrooms>
-        <Garage type="Parking Space">0</Garage>
-        <Floors/>
-        <Features>
-          
-        </Features>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>MARILIA</City>
-        <Neighborhood>RESIDENCIAL PORTAL DA SERRA</Neighborhood>
-        <Address>AVENIDA SABIA</Address>
-        <StreetNumber>N. SN  QD 13</StreetNumber>
-        <Complement/>
-        <PostalCode>17514-872</PostalCode>
         <Zone/>
       </Location>
       <ContactInfo>
@@ -3877,7 +3763,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1444402975491SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Prédio | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Prédio | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -5358,63 +5244,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Telephone/>
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>COLIBEX-IMCX1444414368420SP</ListingID>
-      <Title>Oportunidade Única em MARILIA - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
-      <TransactionType>For Sale</TransactionType>
-      
-      
-      <Media>
-       
-        <Item medium="video"/> 
-        <Item medium="image" caption="img0" primary="true">https://xml.colibex.com.br/foto/8574924.jpg</Item><Item medium="image" caption="img1">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_c0683aaa_jpg.jpg</Item><Item medium="image" caption="img2">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1744898543159_Pag_Proposta_jpg.jpg</Item><Item medium="image" caption="img3">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_ee7e9b11_jpg.jpg</Item><Item medium="image" caption="img4">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_79b69625_jpg.jpg</Item><Item medium="image" caption="img5">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_38d9222e_jpg.jpg</Item><Item medium="image" caption="img6">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_ba877a96_jpg.jpg</Item>
-        
-        
-        
-
-      </Media>
-      <Details>
-  <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-      
-        <Description>
-          <![CDATA[2  Quartos,  Área de Serviço,  Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelRUA LUIZ ANTONIO SILVA CAMPASSI,N. SN  QD 21 LT 06, ALTOS DO PALMITAL    - CEP: 17512-000, MARILIA - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Exclusivamente à vista (somente recursos próprios).REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Imóveis retomados da Venda Direta CAIXA com preços abaixo do mercado. Somos especialista em imóveis da Caixa &lt;br&gt;  &lt;br&gt; Sellar Imóveis – CRECI 47244-J. Inclua nosso CRECI na etapa 3 da proposta para ser atendido por nós. Chame no WhatsApp. Valor avalidação : R$ 410000.00  ]]>
-        </Description>
-        <ListPrice currency="BRL" period="Monthly">261298</ListPrice>
-        
-        
-        <UnitFloor/>
-        <Suites>0</Suites>
-        <LotArea unit="square metres">44</LotArea>
-        <LivingArea unit="square metres">250</LivingArea>
-        <PropertyAdministrationFee currency="BRL"/>
-        <YearlyTax currency="BRL"/>
-        <YearBuilt/>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Garage type="Parking Space">0</Garage>
-        <Floors/>
-        <Features>
-          
-        </Features>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>MARILIA</City>
-        <Neighborhood>ALTOS DO PALMITAL</Neighborhood>
-        <Address>RUA LUIZ ANTONIO SILVA CAMPASSI</Address>
-        <StreetNumber>N. SN  QD 21 LT 06</StreetNumber>
-        <Complement/>
-        <PostalCode>17512-000</PostalCode>
-        <Zone/>
-      </Location>
-      <ContactInfo>
-        <Name> Sellar Representacao e Administracao Imobiliaria LTDA</Name>
-        <Email>diogocobucci@gmail.com</Email>
-        <Website>sellarleiloes.com.br</Website>
-        <Telephone/>
-      </ContactInfo>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1444415130584SP</ListingID>
       <Title>Oportunidade Única em DIADEMA - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
@@ -5929,7 +5758,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1444416335511SP</ListingID>
-      <Title>Oportunidade Única em BAURU - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em BAURU - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -7582,7 +7411,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1555507801029SP</ListingID>
-      <Title>Oportunidade Única em SERRANA - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SERRANA - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -7753,7 +7582,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1555521235884SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -8038,7 +7867,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1555539962621SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -8778,63 +8607,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Telephone/>
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>COLIBEX-IMCX8444434626369SP</ListingID>
-      <Title>Oportunidade Única em MARILIA - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
-      <TransactionType>For Sale</TransactionType>
-      
-      
-      <Media>
-       
-        <Item medium="video"/> 
-        <Item medium="image" caption="img0" primary="true">https://xml.colibex.com.br/foto/8574690.jpg</Item><Item medium="image" caption="img1">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_c0683aaa_jpg.jpg</Item><Item medium="image" caption="img2">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1744898543159_Pag_Proposta_jpg.jpg</Item><Item medium="image" caption="img3">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_ee7e9b11_jpg.jpg</Item><Item medium="image" caption="img4">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_79b69625_jpg.jpg</Item><Item medium="image" caption="img5">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_38d9222e_jpg.jpg</Item><Item medium="image" caption="img6">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_ba877a96_jpg.jpg</Item>
-        
-        
-        
-
-      </Media>
-      <Details>
-  <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-      
-        <Description>
-          <![CDATA[2  Quartos, 1 Vaga na Garagem,  Área de Serviço,  Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelRUA ORLY LUIZ LIVERO,N. 224, RESIDENCIAL VIDA NOVA MARACA (PADRE - CEP: 17533-369, MARILIA - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Imóveis retomados da Venda Direta CAIXA com preços abaixo do mercado. Somos especialista em imóveis da Caixa &lt;br&gt;  &lt;br&gt; Sellar Imóveis – CRECI 47244-J. Inclua nosso CRECI na etapa 3 da proposta para ser atendido por nós. Chame no WhatsApp. Valor avalidação : R$ 332000.00  ]]>
-        </Description>
-        <ListPrice currency="BRL" period="Monthly">203285</ListPrice>
-        
-        
-        <UnitFloor/>
-        <Suites>0</Suites>
-        <LotArea unit="square metres">79</LotArea>
-        <LivingArea unit="square metres">231</LivingArea>
-        <PropertyAdministrationFee currency="BRL"/>
-        <YearlyTax currency="BRL"/>
-        <YearBuilt/>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Garage type="Parking Space">1</Garage>
-        <Floors/>
-        <Features>
-          
-        </Features>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>MARILIA</City>
-        <Neighborhood>RESIDENCIAL VIDA NOVA MARACA (PADRE</Neighborhood>
-        <Address>RUA ORLY LUIZ LIVERO</Address>
-        <StreetNumber>N. 224</StreetNumber>
-        <Complement/>
-        <PostalCode>17533-369</PostalCode>
-        <Zone/>
-      </Location>
-      <ContactInfo>
-        <Name> Sellar Representacao e Administracao Imobiliaria LTDA</Name>
-        <Email>diogocobucci@gmail.com</Email>
-        <Website>sellarleiloes.com.br</Website>
-        <Telephone/>
-      </ContactInfo>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8444435262859SP</ListingID>
       <Title>Oportunidade Única em PRAIA GRANDE - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
@@ -9121,7 +8893,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787703112280SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -9178,7 +8950,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787705537548SP</ListingID>
-      <Title>Oportunidade Única em SAO VICENTE - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO VICENTE - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -35160,125 +34932,6 @@ Com iluminação abundante, ventilação cruzada e vistas totalmente livres, est
                 <UsageType>Residential</UsageType>
             </Details>
         </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-            <ListingID>NONSTOP-sellarimoveis#CVIL0</ListingID>
-            <Title><![CDATA[Apartamento para venda em Água Branca com 3 quartos, sendo 3 suítes , 168m²]]></Title>
-            <TransactionType>For Sale</TransactionType>
-            <Location displayAddress="All">
-                <Country abbreviation="BR">Brasil</Country>
-                <State abbreviation="SP"><![CDATA[São Paulo]]></State>
-                <City><![CDATA[São Paulo]]></City>
-                <Neighborhood><![CDATA[Água Branca]]></Neighborhood>
-                <Address><![CDATA[Avenida Francisco Matarazzo]]></Address>
-                <StreetNumber><![CDATA[1850]]></StreetNumber>
-                <Complement><![CDATA[101]]></Complement>
-                <PostalCode>05001-200</PostalCode>
-                <Longitude>-46.68047540000001</Longitude>
-                <Latitude>-23.5253311</Latitude>
-            </Location>
-            <Media>
-                <Item medium="image" caption="d68041d7-95bb-4530-9542-f0a5a1f94273" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/68b4c17c76240f6652259e13/images/d68041d7-95bb-4530-9542-f0a5a1f94273.jpeg]]></Item>
-                <Item medium="image" caption="c236c709-786f-4617-a512-3ba335f3a274" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68b4c17c76240f6652259e13/images/c236c709-786f-4617-a512-3ba335f3a274.jpeg]]></Item>
-                <Item medium="image" caption="03e2155a-37b0-4bba-a830-a1ca71ee3b11" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68b4c17c76240f6652259e13/images/03e2155a-37b0-4bba-a830-a1ca71ee3b11.jpeg]]></Item>
-                <Item medium="image" caption="8de22b24-29e3-4fb1-a6fa-96860b7322e0" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68b4c17c76240f6652259e13/images/8de22b24-29e3-4fb1-a6fa-96860b7322e0.jpeg]]></Item>
-                <Item medium="image" caption="1335a7cf-3c1d-47cd-8a5c-a7c4d630ca5d" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68b4c17c76240f6652259e13/images/1335a7cf-3c1d-47cd-8a5c-a7c4d630ca5d.jpeg]]></Item>
-                <Item medium="image" caption="024d299c-bc44-4eef-9826-028f48e43f70" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68b4c17c76240f6652259e13/images/024d299c-bc44-4eef-9826-028f48e43f70.jpeg]]></Item>
-                <Item medium="image" caption="f0970611-c7a7-48c0-bcd6-7ec79106539e" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68b4c17c76240f6652259e13/images/f0970611-c7a7-48c0-bcd6-7ec79106539e.jpeg]]></Item>
-                <Item medium="image" caption="cd48f258-ffc0-438a-a276-851c31488fae" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68b4c17c76240f6652259e13/images/cd48f258-ffc0-438a-a276-851c31488fae.jpeg]]></Item>
-                <Item medium="image" caption="bdfdebda-04a6-4451-acb6-98b8926da341" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68b4c17c76240f6652259e13/images/bdfdebda-04a6-4451-acb6-98b8926da341.jpeg]]></Item>
-                <Item medium="image" caption="7c5464f5-8672-4222-a9aa-5a03c3665d40" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68b4c17c76240f6652259e13/images/7c5464f5-8672-4222-a9aa-5a03c3665d40.jpeg]]></Item>
-                <Item medium="image" caption="6e80aee2-b23c-4815-823e-4405128e8613" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68b4c17c76240f6652259e13/images/6e80aee2-b23c-4815-823e-4405128e8613.jpeg]]></Item>
-                <Item medium="image" caption="e3506161-ad6f-451e-8f2c-bc35a9d87bb8" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68b4c17c76240f6652259e13/images/e3506161-ad6f-451e-8f2c-bc35a9d87bb8.jpeg]]></Item>
-                <Item medium="image" caption="3b59fb8f-aa26-46bd-bf0f-e6fcf1d8e2c5" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68b4c17c76240f6652259e13/images/3b59fb8f-aa26-46bd-bf0f-e6fcf1d8e2c5.jpeg]]></Item>
-                <Item medium="image" caption="5b66426b-a919-4ff9-910a-17f578e6e1e4" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68b4c17c76240f6652259e13/images/5b66426b-a919-4ff9-910a-17f578e6e1e4.jpeg]]></Item>
-                <Item medium="image" caption="7b857263-f038-4fb0-a195-2ae2a2bcb4ae" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68b4c17c76240f6652259e13/images/7b857263-f038-4fb0-a195-2ae2a2bcb4ae.jpeg]]></Item>
-                <Item medium="image" caption="1cda2c53-8547-40b1-bad2-21966b4eeaa3" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68b4c17c76240f6652259e13/images/1cda2c53-8547-40b1-bad2-21966b4eeaa3.jpeg]]></Item>
-                <Item medium="image" caption="ad7798d1-9b6b-42ef-9290-5bf75b460308" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68b4c17c76240f6652259e13/images/ad7798d1-9b6b-42ef-9290-5bf75b460308.jpeg]]></Item>
-                <Item medium="image" caption="d14f5a90-5138-41e9-ae53-bf6484a41963" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68b4c17c76240f6652259e13/images/d14f5a90-5138-41e9-ae53-bf6484a41963.jpeg]]></Item>
-                <Item medium="image" caption="ccc5c6a4-d254-4227-ab8b-dbd1fe11bc32" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68b4c17c76240f6652259e13/images/ccc5c6a4-d254-4227-ab8b-dbd1fe11bc32.jpeg]]></Item>
-                <Item medium="image" caption="57ae1b65-c573-4002-8e76-c52fc40dcbf6" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68b4c17c76240f6652259e13/images/57ae1b65-c573-4002-8e76-c52fc40dcbf6.jpeg]]></Item>
-                <Item medium="image" caption="70b2fc51-75f7-40c8-b161-e1fe27099c9e" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68b4c17c76240f6652259e13/images/70b2fc51-75f7-40c8-b161-e1fe27099c9e.jpeg]]></Item>
-                <Item medium="image" caption="3fa9ad33-2fe4-4b87-b14b-442d1918f263" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68b4c17c76240f6652259e13/images/3fa9ad33-2fe4-4b87-b14b-442d1918f263.jpeg]]></Item>
-                <Item medium="image" caption="caacdb63-8356-484b-8d3e-235d90353f5a" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68b4c17c76240f6652259e13/images/caacdb63-8356-484b-8d3e-235d90353f5a.jpeg]]></Item>
-                <Item medium="image" caption="9014a3f3-76b5-4808-b894-4b8052491231" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68b4c17c76240f6652259e13/images/9014a3f3-76b5-4808-b894-4b8052491231.jpeg]]></Item>
-                <Item medium="image" caption="a82415c7-c6c4-4083-9214-8e6149ecc201" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68b4c17c76240f6652259e13/images/a82415c7-c6c4-4083-9214-8e6149ecc201.jpeg]]></Item>
-                <Item medium="image" caption="de07574e-69b1-4f0a-b564-aebd3682705f" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68b4c17c76240f6652259e13/images/de07574e-69b1-4f0a-b564-aebd3682705f.jpeg]]></Item>
-                <Item medium="image" caption="5fbfa316-08f8-45cb-8809-cf6c456e577d" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68b4c17c76240f6652259e13/images/5fbfa316-08f8-45cb-8809-cf6c456e577d.jpeg]]></Item>
-                <Item medium="image" caption="8ddabe67-574f-489b-bf23-fa5742691e99" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68b4c17c76240f6652259e13/images/8ddabe67-574f-489b-bf23-fa5742691e99.jpeg]]></Item>
-                <Item medium="image" caption="eb99a462-9006-42da-8ed3-5e2409218a2b" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68b4c17c76240f6652259e13/images/eb99a462-9006-42da-8ed3-5e2409218a2b.jpeg]]></Item>
-                <Item medium="image" caption="be3e8340-5ea4-44ab-8687-cb2f60cfba45" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68b4c17c76240f6652259e13/images/be3e8340-5ea4-44ab-8687-cb2f60cfba45.jpeg]]></Item>
-            </Media>
-            <PublicationType>STANDARD</PublicationType>
-            <Details>
-                <YearBuilt>2014</YearBuilt>
-                <ListPrice currency="BRL">2680000</ListPrice>
-                <PropertyAdministrationFee currency="BRL">2130</PropertyAdministrationFee>
-                <YearlyTax currency="BRL">15000</YearlyTax>
-                <Description><![CDATA[CASA DAS CALDEIRAS – Unidade andar alto 168 m2 - 3 suítes - 3 vagas livres .
-
-Icônico condomínio, com requintes de conforto e luxo, como poucos do bairro. Exclusividade e praticidade em forma de grife imobiliária.
-
-4 Torres, com distância e disposição perfeitas, garantindo privacidade para cada apartamento. Terreno amplo, com lazer completo de clube.
-
-24 andares, com 4 unidades por pavimento / 2 sub-solos de garagem.
-
-O apartamento: 168 m2 de área útil, plenamente aproveitáveis em planta inteligente e agradabilíssima:
-Originalmente com 4 dormitórios, optou-se aqui pela planta com sala estendida, permanecendo portanto 3 dormitórios, todos configurados como suítes.
-Sacada gourmet completa, com churrasqueira e pia, e fechamento em vidro temperado (além de um pequeno depósito complementar, no mesmo ambiente, ocultado).
-Sala ampla com 2 ambientes; Lavabo; WC de empregada  ( dormitório de empregada foi suprimido para ampliação da sala, a gosto dos proprietários), com saída para hall de serviço;
-Riquíssimo em marcenaria personalizada: Armários em todas as suítes, além de gabinetes nos ambientes frios.
-Dormitórios com piso em tacão, madeira de lei, lindíssimos e em excelente estado. Ar condicionado na suíte master, sala, e sacada.
-
-Aquecedor central de água, à gás, tipo passagem.
-
-Elevador com hall exclusivo para a prumada.
-
-3 vagas de garagem sempre livres.
-
-( Condomínio traz inclusos água e gás )
-
-Entrar, visitar, e pensar no fechamento e mudança. Apaixonante.
-Cada das Caldeiras. O nome e o local falam por si só, dispensando apresentações ( localização / mobilidade / serviço e comércio de todo tipo e espécie na redondeza próxima, enfim... )
-
-Itens de lazer e conveniência:
-
-    Academia de ginastica
-    Brinquedoteca
-    Child care
-    Churrasqueira
-    Cinema
-    Deck
-    Espaco gourmet
-    Hall
-    Lounge
-    Piscina adulto descoberta
-    Piscina infantil descoberta
-    Playground
-    Praca
-    Quadra poliesportiva
-    Salao de beleza
-    Salao de festas adulto
-    Salao de festas infantil
-    Spa
-
-
-Documentação OK, com pequeno saldo pendente junto ao banco financiador ( aproximadamente R$.500 k ), passíveis de quitação quando na entrada/sinal, ou ainda por interveniente quitante, se for o caso de emprego de financiamento imobiliário, por parte do novo proprietário.]]></Description>
-                <PropertyType>Residential / Apartment</PropertyType>
-                <LivingArea unit="square metres">168</LivingArea>
-                <Features>
-                    <Feature>Barbecue Balcony</Feature>
-                    <Feature>Closet</Feature>
-                    <Feature>Copa</Feature>
-                    <Feature>Pets Allowed</Feature>
-                    <Feature>Pool</Feature>
-                </Features>
-                <Bathrooms>5</Bathrooms>
-                <Bedrooms>3</Bedrooms>
-                <Garage>3</Garage>
-                <UnitFloor>10</UnitFloor>
-                <Suites>3</Suites>
-                <UsageType>Residential</UsageType>
-            </Details>
-        </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
             <ListingID>NONSTOP-sellarimoveis#CO2IW</ListingID>
             <Title><![CDATA[Apartamento para venda em Itaim Bibi com 2 quartos, sendo 1 suíte , 134m²]]></Title>
             <TransactionType>For Sale</TransactionType>
@@ -40030,7 +39683,7 @@ Todo o conforto que sua família merece, em uma rua pequena e tranquila do bairr
             </Media>
             <PublicationType>STANDARD</PublicationType>
             <Details>
-                <ListPrice currency="BRL">1830000</ListPrice>
+                <ListPrice currency="BRL">1700000</ListPrice>
                 <PropertyAdministrationFee currency="BRL">4739</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">9895</YearlyTax>
                 <Description><![CDATA[Descubra Seu Novo Lar no Sumaré!
