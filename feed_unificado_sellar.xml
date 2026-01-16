@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-01-16T00:49:50</Date>
+  <Date>2026-01-16T06:17:00</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE201</ListingID>
@@ -1337,6 +1337,63 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <StreetNumber>N. 22 APTO. 41 4º ANDAR</StreetNumber>
         <Complement/>
         <PostalCode>11440-480</PostalCode>
+        <Zone/>
+      </Location>
+      <ContactInfo>
+        <Name> Sellar Representacao e Administracao Imobiliaria LTDA</Name>
+        <Email>diogocobucci@gmail.com</Email>
+        <Website>sellarleiloes.com.br</Website>
+        <Telephone/>
+      </ContactInfo>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>COLIBEX-IMCX10204781SP</ListingID>
+      <Title>Oportunidade Única em ASSIS - SP | Tipo: Terreno | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <TransactionType>For Sale</TransactionType>
+      
+      
+      <Media>
+       
+        <Item medium="video"/> 
+        <Item medium="image" caption="img0" primary="true">https://xml.colibex.com.br/foto/36202745.jpg</Item><Item medium="image" caption="img1">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_c0683aaa_jpg.jpg</Item><Item medium="image" caption="img2">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1744898543159_Pag_Proposta_jpg.jpg</Item><Item medium="image" caption="img3">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_ee7e9b11_jpg.jpg</Item><Item medium="image" caption="img4">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_79b69625_jpg.jpg</Item><Item medium="image" caption="img5">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_38d9222e_jpg.jpg</Item><Item medium="image" caption="img6">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_ba877a96_jpg.jpg</Item>
+        
+        
+        
+
+      </Media>
+      <Details>
+  <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Land Lot</PropertyType>
+      
+        <Description>
+          <![CDATA[.Baixar matrícula do imóvelAVENIDA GETULIO VARGAS,N. 00  ST 02, QD 64, LT 05, VILA NOVA SANTANA - CEP: 19807-130, ASSIS - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Exclusivamente à vista (somente recursos próprios).REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Imóveis retomados da Venda Direta CAIXA com preços abaixo do mercado. Somos especialista em imóveis da Caixa &lt;br&gt;  &lt;br&gt; Sellar Imóveis – CRECI 47244-J. Inclua nosso CRECI na etapa 3 da proposta para ser atendido por nós. Chame no WhatsApp. Valor avalidação : R$ 3330000.00  ]]>
+        </Description>
+        <ListPrice currency="BRL" period="Monthly">1931630</ListPrice>
+        
+        
+        <UnitFloor/>
+        <Suites>0</Suites>
+        <LotArea unit="square metres">50</LotArea>
+        <LivingArea unit="square metres">4238</LivingArea>
+        <PropertyAdministrationFee currency="BRL"/>
+        <YearlyTax currency="BRL"/>
+        <YearBuilt/>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>1</Bedrooms>
+        <Garage type="Parking Space">0</Garage>
+        <Floors/>
+        <Features>
+          
+        </Features>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>ASSIS</City>
+        <Neighborhood>VILA NOVA SANTANA</Neighborhood>
+        <Address>AVENIDA GETULIO VARGAS</Address>
+        <StreetNumber>N. 00  ST 02</StreetNumber>
+        <Complement/>
+        <PostalCode>19807-130</PostalCode>
         <Zone/>
       </Location>
       <ContactInfo>
@@ -3740,63 +3797,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Telephone/>
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>COLIBEX-IMCX1444402007746SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
-      <TransactionType>For Sale</TransactionType>
-      
-      
-      <Media>
-       
-        <Item medium="video"/> 
-        <Item medium="image" caption="img0" primary="true">https://xml.colibex.com.br/foto/34719749.jpg</Item><Item medium="image" caption="img1">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_c0683aaa_jpg.jpg</Item><Item medium="image" caption="img2">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1744898543159_Pag_Proposta_jpg.jpg</Item><Item medium="image" caption="img3">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_ee7e9b11_jpg.jpg</Item><Item medium="image" caption="img4">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_79b69625_jpg.jpg</Item><Item medium="image" caption="img5">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_38d9222e_jpg.jpg</Item><Item medium="image" caption="img6">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_ba877a96_jpg.jpg</Item>
-        
-        
-        
-
-      </Media>
-      <Details>
-  <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-      
-        <Description>
-          <![CDATA[2  Quartos, 2 Wc,  Sala,  Lavabo,  Cozinha. .Baixar matrícula do imóvelRUA BAIXADA SANTISTA,N. 863  CS 07, ITAQUERA - CEP: 08295-360, SAO PAULO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Imóveis retomados da Venda Direta CAIXA com preços abaixo do mercado. Somos especialista em imóveis da Caixa &lt;br&gt;  &lt;br&gt; Sellar Imóveis – CRECI 47244-J. Inclua nosso CRECI na etapa 3 da proposta para ser atendido por nós. Chame no WhatsApp. Valor avalidação : R$ 315000.00  ]]>
-        </Description>
-        <ListPrice currency="BRL" period="Monthly">192338</ListPrice>
-        
-        
-        <UnitFloor/>
-        <Suites>0</Suites>
-        <LotArea unit="square metres">59</LotArea>
-        <LivingArea unit="square metres">75</LivingArea>
-        <PropertyAdministrationFee currency="BRL"/>
-        <YearlyTax currency="BRL"/>
-        <YearBuilt/>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Garage type="Parking Space">0</Garage>
-        <Floors/>
-        <Features>
-          
-        </Features>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>SAO PAULO</City>
-        <Neighborhood>ITAQUERA</Neighborhood>
-        <Address>RUA BAIXADA SANTISTA</Address>
-        <StreetNumber>N. 863  CS 07</StreetNumber>
-        <Complement/>
-        <PostalCode>08295-360</PostalCode>
-        <Zone/>
-      </Location>
-      <ContactInfo>
-        <Name> Sellar Representacao e Administracao Imobiliaria LTDA</Name>
-        <Email>diogocobucci@gmail.com</Email>
-        <Website>sellarleiloes.com.br</Website>
-        <Telephone/>
-      </ContactInfo>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1444402975491SP</ListingID>
       <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Prédio | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
@@ -4253,6 +4253,63 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Telephone/>
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>COLIBEX-IMCX1444407300670SP</ListingID>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <TransactionType>For Sale</TransactionType>
+      
+      
+      <Media>
+       
+        <Item medium="video"/> 
+        <Item medium="image" caption="img0" primary="true">https://xml.colibex.com.br/foto/36204673.jpg</Item><Item medium="image" caption="img1">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_c0683aaa_jpg.jpg</Item><Item medium="image" caption="img2">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1744898543159_Pag_Proposta_jpg.jpg</Item><Item medium="image" caption="img3">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_ee7e9b11_jpg.jpg</Item><Item medium="image" caption="img4">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_79b69625_jpg.jpg</Item><Item medium="image" caption="img5">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_38d9222e_jpg.jpg</Item><Item medium="image" caption="img6">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_ba877a96_jpg.jpg</Item>
+        
+        
+        
+
+      </Media>
+      <Details>
+  <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+      
+        <Description>
+          <![CDATA[2  Quartos, 3 Varandas/sacadas,  Área de Serviço, 2 Wc,  wc Emp,  Sala,  Cozinha. .Baixar matrícula do imóvelRUA MIGUEL GONCALVES CORREIA,N. 458  LT 17A QD 11 GLEBA B, VILA PIRAJUSSARA - CEP: 05786-160, SAO PAULO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Imóveis retomados da Venda Direta CAIXA com preços abaixo do mercado. Somos especialista em imóveis da Caixa &lt;br&gt;  &lt;br&gt; Sellar Imóveis – CRECI 47244-J. Inclua nosso CRECI na etapa 3 da proposta para ser atendido por nós. Chame no WhatsApp. Valor avalidação : R$ 815000.00  ]]>
+        </Description>
+        <ListPrice currency="BRL" period="Monthly">410547</ListPrice>
+        
+        
+        <UnitFloor/>
+        <Suites>0</Suites>
+        <LotArea unit="square metres">269</LotArea>
+        <LivingArea unit="square metres">234</LivingArea>
+        <PropertyAdministrationFee currency="BRL"/>
+        <YearlyTax currency="BRL"/>
+        <YearBuilt/>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Garage type="Parking Space">0</Garage>
+        <Floors/>
+        <Features>
+          
+        </Features>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>SAO PAULO</City>
+        <Neighborhood>VILA PIRAJUSSARA</Neighborhood>
+        <Address>RUA MIGUEL GONCALVES CORREIA</Address>
+        <StreetNumber>N. 458  LT 17A QD 11 GLEBA B</StreetNumber>
+        <Complement/>
+        <PostalCode>05786-160</PostalCode>
+        <Zone/>
+      </Location>
+      <ContactInfo>
+        <Name> Sellar Representacao e Administracao Imobiliaria LTDA</Name>
+        <Email>diogocobucci@gmail.com</Email>
+        <Website>sellarleiloes.com.br</Website>
+        <Telephone/>
+      </ContactInfo>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1444407359101SP</ListingID>
       <Title>Oportunidade Única em SAO VICENTE - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
@@ -4415,63 +4472,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <StreetNumber>N. 1900 APTO. 202B EDIFICIO 2</StreetNumber>
         <Complement/>
         <PostalCode>06711-250</PostalCode>
-        <Zone/>
-      </Location>
-      <ContactInfo>
-        <Name> Sellar Representacao e Administracao Imobiliaria LTDA</Name>
-        <Email>diogocobucci@gmail.com</Email>
-        <Website>sellarleiloes.com.br</Website>
-        <Telephone/>
-      </ContactInfo>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>COLIBEX-IMCX1444408265330SP</ListingID>
-      <Title>Oportunidade Única em OSASCO - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
-      <TransactionType>For Sale</TransactionType>
-      
-      
-      <Media>
-       
-        <Item medium="video"/> 
-        <Item medium="image" caption="img0" primary="true">https://xml.colibex.com.br/foto/34724329.jpg</Item><Item medium="image" caption="img1">https://xml.colibex.com.br/foto/34724331.jpg</Item><Item medium="image" caption="img2">https://xml.colibex.com.br/foto/34724333.jpg</Item><Item medium="image" caption="img3">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_c0683aaa_jpg.jpg</Item><Item medium="image" caption="img4">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1744898543159_Pag_Proposta_jpg.jpg</Item><Item medium="image" caption="img5">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_ee7e9b11_jpg.jpg</Item><Item medium="image" caption="img6">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_79b69625_jpg.jpg</Item><Item medium="image" caption="img7">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_38d9222e_jpg.jpg</Item><Item medium="image" caption="img8">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_ba877a96_jpg.jpg</Item>
-        
-        
-        
-
-      </Media>
-      <Details>
-  <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-      
-        <Description>
-          <![CDATA[2  Quartos,  Área de Serviço, 2 Wc, 2 Salas,  Cozinha. .Baixar matrícula do imóvelRUA AGUAS DE SAO PEDRO,N. 629  QD 58 LT 14, ROCHDALE - CEP: 06223-150, OSASCO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Imóveis retomados da Venda Direta CAIXA com preços abaixo do mercado. Somos especialista em imóveis da Caixa &lt;br&gt;  &lt;br&gt; Sellar Imóveis – CRECI 47244-J. Inclua nosso CRECI na etapa 3 da proposta para ser atendido por nós. Chame no WhatsApp. Valor avalidação : R$ 620000.00  ]]>
-        </Description>
-        <ListPrice currency="BRL" period="Monthly">312318</ListPrice>
-        
-        
-        <UnitFloor/>
-        <Suites>0</Suites>
-        <LotArea unit="square metres">184</LotArea>
-        <LivingArea unit="square metres">350</LivingArea>
-        <PropertyAdministrationFee currency="BRL"/>
-        <YearlyTax currency="BRL"/>
-        <YearBuilt/>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Garage type="Parking Space">0</Garage>
-        <Floors/>
-        <Features>
-          
-        </Features>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>OSASCO</City>
-        <Neighborhood>ROCHDALE</Neighborhood>
-        <Address>RUA AGUAS DE SAO PEDRO</Address>
-        <StreetNumber>N. 629  QD 58 LT 14</StreetNumber>
-        <Complement/>
-        <PostalCode>06223-150</PostalCode>
         <Zone/>
       </Location>
       <ContactInfo>
@@ -5792,6 +5792,63 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Telephone/>
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>COLIBEX-IMCX1444416333470SP</ListingID>
+      <Title>Oportunidade Única em RIBEIRAO PRETO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <TransactionType>For Sale</TransactionType>
+      
+      
+      <Media>
+       
+        <Item medium="video"/> 
+        <Item medium="image" caption="img0" primary="true">https://xml.colibex.com.br/foto/36204647.jpg</Item><Item medium="image" caption="img1">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_c0683aaa_jpg.jpg</Item><Item medium="image" caption="img2">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1744898543159_Pag_Proposta_jpg.jpg</Item><Item medium="image" caption="img3">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_ee7e9b11_jpg.jpg</Item><Item medium="image" caption="img4">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_79b69625_jpg.jpg</Item><Item medium="image" caption="img5">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_38d9222e_jpg.jpg</Item><Item medium="image" caption="img6">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_ba877a96_jpg.jpg</Item>
+        
+        
+        
+
+      </Media>
+      <Details>
+  <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+      
+        <Description>
+          <![CDATA[4  Quartos, 3  Vagas na Garagem,  Área de Serviço, 3 Wc,  wc Emp, 2 Salas,  Dce,  Cozinha. .Baixar matrícula do imóvelRUA CERQUEIRA CESAR,N. 1070 APTO. 12, CENTRO - CEP: 14010-130, RIBEIRAO PRETO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Imóvel com gravame/penhora/indisponibilidade averbada na matrícula. Regularização por conta do adquirente. Corretores credenciados Imóveis retomados da Venda Direta CAIXA com preços abaixo do mercado. Somos especialista em imóveis da Caixa &lt;br&gt;  &lt;br&gt; Sellar Imóveis – CRECI 47244-J. Inclua nosso CRECI na etapa 3 da proposta para ser atendido por nós. Chame no WhatsApp. Valor avalidação : R$ 1350000.00  ]]>
+        </Description>
+        <ListPrice currency="BRL" period="Monthly">860374</ListPrice>
+        
+        
+        <UnitFloor/>
+        <Suites>0</Suites>
+        <LotArea unit="square metres">580</LotArea>
+        <LivingArea unit="square metres">486</LivingArea>
+        <PropertyAdministrationFee currency="BRL"/>
+        <YearlyTax currency="BRL"/>
+        <YearBuilt/>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>4</Bedrooms>
+        <Garage type="Parking Space">3</Garage>
+        <Floors/>
+        <Features>
+          
+        </Features>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>RIBEIRAO PRETO</City>
+        <Neighborhood>CENTRO</Neighborhood>
+        <Address>RUA CERQUEIRA CESAR</Address>
+        <StreetNumber>N. 1070 APTO. 12</StreetNumber>
+        <Complement/>
+        <PostalCode>14010-130</PostalCode>
+        <Zone/>
+      </Location>
+      <ContactInfo>
+        <Name> Sellar Representacao e Administracao Imobiliaria LTDA</Name>
+        <Email>diogocobucci@gmail.com</Email>
+        <Website>sellarleiloes.com.br</Website>
+        <Telephone/>
+      </ContactInfo>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1444416335511SP</ListingID>
       <Title>Oportunidade Única em BAURU - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
@@ -5897,6 +5954,63 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <StreetNumber>N. 871  10 PAV SUPERIOR</StreetNumber>
         <Complement/>
         <PostalCode>11706-360</PostalCode>
+        <Zone/>
+      </Location>
+      <ContactInfo>
+        <Name> Sellar Representacao e Administracao Imobiliaria LTDA</Name>
+        <Email>diogocobucci@gmail.com</Email>
+        <Website>sellarleiloes.com.br</Website>
+        <Telephone/>
+      </ContactInfo>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>COLIBEX-IMCX1444416972864SP</ListingID>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <TransactionType>For Sale</TransactionType>
+      
+      
+      <Media>
+       
+        <Item medium="video"/> 
+        <Item medium="image" caption="img0" primary="true">https://xml.colibex.com.br/foto/36204685.jpg</Item><Item medium="image" caption="img1">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_c0683aaa_jpg.jpg</Item><Item medium="image" caption="img2">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1744898543159_Pag_Proposta_jpg.jpg</Item><Item medium="image" caption="img3">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_ee7e9b11_jpg.jpg</Item><Item medium="image" caption="img4">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_79b69625_jpg.jpg</Item><Item medium="image" caption="img5">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_38d9222e_jpg.jpg</Item><Item medium="image" caption="img6">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_ba877a96_jpg.jpg</Item>
+        
+        
+        
+
+      </Media>
+      <Details>
+  <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+      
+        <Description>
+          <![CDATA[4  Quartos, 3  Vagas na Garagem,  Área de Serviço, 4 Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelAVENIDA DOUTOR GUILHERME DUMONT VILARES,N. 601 APTO. 122, JARDIM LONDRINA - CEP: 05640-001, SAO PAULO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Imóveis retomados da Venda Direta CAIXA com preços abaixo do mercado. Somos especialista em imóveis da Caixa &lt;br&gt;  &lt;br&gt; Sellar Imóveis – CRECI 47244-J. Inclua nosso CRECI na etapa 3 da proposta para ser atendido por nós. Chame no WhatsApp. Valor avalidação : R$ 825000.00  ]]>
+        </Description>
+        <ListPrice currency="BRL" period="Monthly">525784</ListPrice>
+        
+        
+        <UnitFloor/>
+        <Suites>0</Suites>
+        <LotArea unit="square metres">320</LotArea>
+        <LivingArea unit="square metres">155</LivingArea>
+        <PropertyAdministrationFee currency="BRL"/>
+        <YearlyTax currency="BRL"/>
+        <YearBuilt/>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>4</Bedrooms>
+        <Garage type="Parking Space">3</Garage>
+        <Floors/>
+        <Features>
+          
+        </Features>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>SAO PAULO</City>
+        <Neighborhood>JARDIM LONDRINA</Neighborhood>
+        <Address>AVENIDA DOUTOR GUILHERME DUMONT VILARES</Address>
+        <StreetNumber>N. 601 APTO. 122</StreetNumber>
+        <Complement/>
+        <PostalCode>05640-001</PostalCode>
         <Zone/>
       </Location>
       <ContactInfo>
@@ -7607,63 +7721,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <StreetNumber>N. 310  LT-11 QD-39</StreetNumber>
         <Complement/>
         <PostalCode>11444-700</PostalCode>
-        <Zone/>
-      </Location>
-      <ContactInfo>
-        <Name> Sellar Representacao e Administracao Imobiliaria LTDA</Name>
-        <Email>diogocobucci@gmail.com</Email>
-        <Website>sellarleiloes.com.br</Website>
-        <Telephone/>
-      </ContactInfo>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>COLIBEX-IMCX1555521235884SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
-      <TransactionType>For Sale</TransactionType>
-      
-      
-      <Media>
-       
-        <Item medium="video"/> 
-        <Item medium="image" caption="img0" primary="true">https://xml.colibex.com.br/foto/30670037.jpg</Item><Item medium="image" caption="img1">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_c0683aaa_jpg.jpg</Item><Item medium="image" caption="img2">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1744898543159_Pag_Proposta_jpg.jpg</Item><Item medium="image" caption="img3">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_ee7e9b11_jpg.jpg</Item><Item medium="image" caption="img4">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_79b69625_jpg.jpg</Item><Item medium="image" caption="img5">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_38d9222e_jpg.jpg</Item><Item medium="image" caption="img6">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_ba877a96_jpg.jpg</Item>
-        
-        
-        
-
-      </Media>
-      <Details>
-  <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-      
-        <Description>
-          <![CDATA[2  Quartos, 1 Vaga na Garagem,  Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelRUA RIO VERDE,N. 879 APTO. 52  PAV 7, VILA BRUNA - CEP: 02934-000, SAO PAULO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Imóveis retomados da Venda Direta CAIXA com preços abaixo do mercado. Somos especialista em imóveis da Caixa &lt;br&gt;  &lt;br&gt; Sellar Imóveis – CRECI 47244-J. Inclua nosso CRECI na etapa 3 da proposta para ser atendido por nós. Chame no WhatsApp. Valor avalidação : R$ 311000.00  ]]>
-        </Description>
-        <ListPrice currency="BRL" period="Monthly">183339</ListPrice>
-        
-        
-        <UnitFloor/>
-        <Suites>0</Suites>
-        <LotArea unit="square metres">52</LotArea>
-        <LivingArea unit="square metres">52</LivingArea>
-        <PropertyAdministrationFee currency="BRL"/>
-        <YearlyTax currency="BRL"/>
-        <YearBuilt/>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Garage type="Parking Space">1</Garage>
-        <Floors/>
-        <Features>
-          
-        </Features>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>SAO PAULO</City>
-        <Neighborhood>VILA BRUNA</Neighborhood>
-        <Address>RUA RIO VERDE</Address>
-        <StreetNumber>N. 879 APTO. 52  PAV 7</StreetNumber>
-        <Complement/>
-        <PostalCode>02934-000</PostalCode>
         <Zone/>
       </Location>
       <ContactInfo>
