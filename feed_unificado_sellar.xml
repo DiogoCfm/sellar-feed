@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-01-17T12:16:29</Date>
+  <Date>2026-01-17T18:13:33</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE201</ListingID>
@@ -29680,7 +29680,7 @@ Infraestrutura para recarga de veículos elétricos
             <PublicationType>STANDARD</PublicationType>
             <Details>
                 <YearBuilt>2010</YearBuilt>
-                <ListPrice currency="BRL">3050000</ListPrice>
+                <ListPrice currency="BRL">2800000</ListPrice>
                 <YearlyTax currency="BRL">22093</YearlyTax>
                 <Description><![CDATA[Casa de 3 suítes com 356m² no Alto da Lapa
 Casa ampla e confortável no Alto da Lapa Rua Duarte da Costa, 765
@@ -68364,110 +68364,6 @@ Este é o imóvel ideal para quem busca qualidade de vida, conforto, segurança 
                 <Bedrooms>4</Bedrooms>
                 <Garage>2</Garage>
                 <UnitFloor>21</UnitFloor>
-                <Suites>3</Suites>
-                <UsageType>Residential</UsageType>
-            </Details>
-        </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-            <ListingID>NONSTOP-sellarimoveis#0STCI</ListingID>
-            <Title><![CDATA[Apartamento para venda em Perdizes com 4 quartos, sendo 3 suítes , 131m²]]></Title>
-            <TransactionType>For Sale</TransactionType>
-            <Location displayAddress="All">
-                <Country abbreviation="BR">Brasil</Country>
-                <State abbreviation="SP"><![CDATA[São Paulo]]></State>
-                <City><![CDATA[São Paulo]]></City>
-                <Neighborhood><![CDATA[Perdizes]]></Neighborhood>
-                <Address><![CDATA[Rua Cayowaá]]></Address>
-                <StreetNumber><![CDATA[560]]></StreetNumber>
-                <Complement><![CDATA[41]]></Complement>
-                <PostalCode>05018-001</PostalCode>
-                <Longitude>-46.6803956</Longitude>
-                <Latitude>-23.5337409</Latitude>
-            </Location>
-            <Media>
-                <Item medium="image" caption="ca57bb0d-872b-42c5-a3b5-bfd682fc8e02" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/ca57bb0d-872b-42c5-a3b5-bfd682fc8e02.jpeg]]></Item>
-                <Item medium="image" caption="d9816d5b-a068-4310-91c0-634f20778de6" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/d9816d5b-a068-4310-91c0-634f20778de6.jpeg]]></Item>
-                <Item medium="image" caption="15398df2-c03a-4abc-8391-cfd34f6577a8" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/15398df2-c03a-4abc-8391-cfd34f6577a8.jpeg]]></Item>
-                <Item medium="image" caption="6ff829c6-a4e4-416f-a114-ae3ceb584f0a" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/6ff829c6-a4e4-416f-a114-ae3ceb584f0a.jpeg]]></Item>
-                <Item medium="image" caption="a51c6c47-7a0a-41ef-b58a-2e5b41985a0d" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/a51c6c47-7a0a-41ef-b58a-2e5b41985a0d.jpeg]]></Item>
-                <Item medium="image" caption="abb7ec72-159c-4e13-999e-879a0f7eef67" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/abb7ec72-159c-4e13-999e-879a0f7eef67.jpeg]]></Item>
-                <Item medium="image" caption="f403725d-9609-4412-b524-f02ef8ffb982" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/f403725d-9609-4412-b524-f02ef8ffb982.jpeg]]></Item>
-                <Item medium="image" caption="2960a0f1-4a8f-42f3-a50a-dff60794b271" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/2960a0f1-4a8f-42f3-a50a-dff60794b271.jpeg]]></Item>
-                <Item medium="image" caption="4ec3184e-af85-4759-890c-dd1ddee35238" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/4ec3184e-af85-4759-890c-dd1ddee35238.jpeg]]></Item>
-                <Item medium="image" caption="1468a25f-7aee-4f39-991d-3db7d326eb5f" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/1468a25f-7aee-4f39-991d-3db7d326eb5f.jpeg]]></Item>
-                <Item medium="image" caption="e7c267a5-0a57-4e0f-a04d-e47b3faa2900" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/e7c267a5-0a57-4e0f-a04d-e47b3faa2900.jpeg]]></Item>
-                <Item medium="image" caption="f631f153-3c5b-4fbb-b82a-5788bf23b106" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/f631f153-3c5b-4fbb-b82a-5788bf23b106.jpeg]]></Item>
-                <Item medium="image" caption="19bff98c-f433-44fc-9380-5644fe34df28" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/19bff98c-f433-44fc-9380-5644fe34df28.jpeg]]></Item>
-                <Item medium="image" caption="6b0a0fe3-d9f3-4cad-805e-5a469105585d" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/6b0a0fe3-d9f3-4cad-805e-5a469105585d.jpeg]]></Item>
-                <Item medium="image" caption="0ce361cc-9026-4fb7-b43f-1b0bcd54fbb1" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/0ce361cc-9026-4fb7-b43f-1b0bcd54fbb1.jpeg]]></Item>
-                <Item medium="image" caption="ef0d84e2-1924-4057-af85-75ddfec10716" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/ef0d84e2-1924-4057-af85-75ddfec10716.jpeg]]></Item>
-                <Item medium="image" caption="0521ddfd-c4f2-425e-80f1-ef6e8e71a692" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/0521ddfd-c4f2-425e-80f1-ef6e8e71a692.jpeg]]></Item>
-                <Item medium="image" caption="f14f173d-aa33-4759-869c-e9374c16535b" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/f14f173d-aa33-4759-869c-e9374c16535b.jpeg]]></Item>
-                <Item medium="image" caption="48e2c0fd-99ec-4070-b107-ef00901d26a2" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/48e2c0fd-99ec-4070-b107-ef00901d26a2.jpeg]]></Item>
-                <Item medium="image" caption="e1bf9595-de90-4cc9-be79-1a25b915bf19" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/e1bf9595-de90-4cc9-be79-1a25b915bf19.jpeg]]></Item>
-                <Item medium="image" caption="d3900955-e7c2-4a08-a4c8-c48ae8c6744d" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/d3900955-e7c2-4a08-a4c8-c48ae8c6744d.jpeg]]></Item>
-                <Item medium="image" caption="588e1ba9-52ca-4ad4-9775-244e85e1f402" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/588e1ba9-52ca-4ad4-9775-244e85e1f402.jpeg]]></Item>
-                <Item medium="image" caption="032ecad9-c59d-4a86-b7ab-9a848ac7cf84" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/032ecad9-c59d-4a86-b7ab-9a848ac7cf84.jpeg]]></Item>
-                <Item medium="image" caption="5cebb7ca-73ca-4387-800c-03d1a651e123" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/5cebb7ca-73ca-4387-800c-03d1a651e123.jpeg]]></Item>
-                <Item medium="image" caption="bcf465c9-d790-4e7e-9e4a-d3c41f25b17d" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/bcf465c9-d790-4e7e-9e4a-d3c41f25b17d.jpeg]]></Item>
-                <Item medium="image" caption="9bc19eb9-9271-40d9-99d1-4465d0fa4b87" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/9bc19eb9-9271-40d9-99d1-4465d0fa4b87.jpeg]]></Item>
-                <Item medium="image" caption="f990a69a-07d5-45af-98dc-55f1edbfbc9c" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/f990a69a-07d5-45af-98dc-55f1edbfbc9c.jpeg]]></Item>
-                <Item medium="image" caption="02060113-9f07-4a85-914a-4cefb022b67f" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/02060113-9f07-4a85-914a-4cefb022b67f.jpeg]]></Item>
-                <Item medium="image" caption="a723bad9-d5d0-42b7-924d-2589b805d23a" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/a723bad9-d5d0-42b7-924d-2589b805d23a.jpeg]]></Item>
-                <Item medium="image" caption="50a046cd-fec8-408e-83d1-74087e2abe76" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/50a046cd-fec8-408e-83d1-74087e2abe76.jpeg]]></Item>
-                <Item medium="image" caption="7cdc312c-edbb-4f87-b483-c0ef2e45ff58" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/7cdc312c-edbb-4f87-b483-c0ef2e45ff58.jpeg]]></Item>
-                <Item medium="image" caption="cde6fb25-3f46-480b-9364-77d538c0a185" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/cde6fb25-3f46-480b-9364-77d538c0a185.jpeg]]></Item>
-                <Item medium="image" caption="0c3f5651-065c-4b37-8092-24be15ba71fe" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/0c3f5651-065c-4b37-8092-24be15ba71fe.jpeg]]></Item>
-                <Item medium="image" caption="3d83de43-0c23-4647-998a-f36ecc25fbe4" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/3d83de43-0c23-4647-998a-f36ecc25fbe4.jpeg]]></Item>
-                <Item medium="image" caption="5bde603b-95ee-44b8-8038-b84d02050480" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/5bde603b-95ee-44b8-8038-b84d02050480.jpeg]]></Item>
-                <Item medium="image" caption="bada9649-940a-40b0-aa93-9e3e8c7beb8b" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/bada9649-940a-40b0-aa93-9e3e8c7beb8b.jpeg]]></Item>
-                <Item medium="image" caption="c34086d2-88a1-4807-ba54-8ac43a7fe258" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/c34086d2-88a1-4807-ba54-8ac43a7fe258.jpeg]]></Item>
-                <Item medium="image" caption="73ee00c6-2b72-478c-960b-1133136c8afb" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/73ee00c6-2b72-478c-960b-1133136c8afb.jpeg]]></Item>
-                <Item medium="image" caption="915f28c7-256b-47ab-93d5-c0bf95d5de52" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/915f28c7-256b-47ab-93d5-c0bf95d5de52.jpeg]]></Item>
-                <Item medium="image" caption="b5c446cd-1d95-4e78-a196-c1ccbae9924b" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/b5c446cd-1d95-4e78-a196-c1ccbae9924b.jpeg]]></Item>
-                <Item medium="image" caption="afba2853-c858-4615-a4c6-202e869a2662" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/afba2853-c858-4615-a4c6-202e869a2662.jpeg]]></Item>
-                <Item medium="image" caption="620a49d4-de23-4d38-ba4b-0480e71e600b" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/620a49d4-de23-4d38-ba4b-0480e71e600b.jpeg]]></Item>
-                <Item medium="image" caption="8ee244d6-f83d-4406-bde1-a8fd53fbe704" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/8ee244d6-f83d-4406-bde1-a8fd53fbe704.jpeg]]></Item>
-                <Item medium="image" caption="7f179a0f-c30f-410a-8855-0ae894389dfe" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/7f179a0f-c30f-410a-8855-0ae894389dfe.jpeg]]></Item>
-                <Item medium="image" caption="0470f7f5-8211-4b4d-8bef-79116e2b0e0c" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/0470f7f5-8211-4b4d-8bef-79116e2b0e0c.jpeg]]></Item>
-                <Item medium="image" caption="8ebee22b-a2f7-4460-b312-cb4abcba59ba" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68fbbf4e2f57eec75e79f687/images/8ebee22b-a2f7-4460-b312-cb4abcba59ba.jpeg]]></Item>
-            </Media>
-            <PublicationType>PREMIUM</PublicationType>
-            <Details>
-                <YearBuilt>1999</YearBuilt>
-                <ListPrice currency="BRL">1400000</ListPrice>
-                <PropertyAdministrationFee currency="BRL">2707</PropertyAdministrationFee>
-                <YearlyTax currency="BRL">9300</YearlyTax>
-                <Description><![CDATA[Apartamento no bairro Perdizes, com 4 quartos, sendo 3 suítes, lavabo e demais dependências. 3 vagas de garagem. Ar condicionado em todos os quartos e sala.
-
-Apartamento ideal para quem gosta de facilidades. Esse edifício situa-se em local especial do bairro, onde se encontra "de tudo", desde farto comércio local, serviços em geral de ótima qualidade, até escolas e universidades de primeira linha. Na região pode-se encontrar bares e restaurantes, hospitais e muito mais. Estação de metrô está em fase de construção nas proximidades - segundo o Google Maps serão 8 minutos à pé até lá. As principais vias de acesso são a Av. Henrique Schauman, Av. Sumaré e Av. Antártica, o que faz com que seja muito fácil e rápido chegar às demais regiões da cidade, visto, da mesma forma, ser fácil e rápido o acesso às marginais.
-
-Alguns equipamentos existentes na região: Hospital Albert Einstein, Hospital São Camilo, Allianz Parque, PUC, Faculdade e Colégio Santa Marcelina, Colégio Bilingue Pueri Domus, Colégio Batista, Colégio São Domingos, Colégio Pentágono, Parque da Água Branca e muitos outros.
-
-O edifício, muito bem cuidado, está em ótimo estado de conservação.
-
-NOTA:  A DOCUMENTAÇÃO DO IMÓVEL E PROPRIETÁRIOS FOI PREVIAMENTE ANALISADA PELO DEPARTAMENTO JURÍDICO DA CASA CARAMBOLA IMÓVEIS, UMA MARCA ASSOCIADA À REDE PILAR.]]></Description>
-                <PropertyType>Residential / Apartment</PropertyType>
-                <LivingArea unit="square metres">131</LivingArea>
-                <Features>
-                    <Feature>BBQ</Feature>
-                    <Feature>Balcony</Feature>
-                    <Feature>Bicycles Place</Feature>
-                    <Feature>Elevator</Feature>
-                    <Feature>Garden Area</Feature>
-                    <Feature>Generator</Feature>
-                    <Feature>Gym</Feature>
-                    <Feature>Indoor Soccer</Feature>
-                    <Feature>Party Room</Feature>
-                    <Feature>Pets Allowed</Feature>
-                    <Feature>Pool</Feature>
-                    <Feature>Recreation Area</Feature>
-                    <Feature>Sauna</Feature>
-                    <Feature>Sports Court</Feature>
-                </Features>
-                <Bathrooms>5</Bathrooms>
-                <Bedrooms>4</Bedrooms>
-                <Garage>3</Garage>
-                <UnitFloor>4</UnitFloor>
                 <Suites>3</Suites>
                 <UsageType>Residential</UsageType>
             </Details>
