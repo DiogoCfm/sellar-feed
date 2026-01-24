@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-01-24T12:17:03</Date>
+  <Date>2026-01-24T18:14:15</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE201</ListingID>
@@ -35487,110 +35487,6 @@ Este apartamento na Região Sudeste de São Paulo está estrategicamente localiz
                     <Feature>Pool</Feature>
                 </Features>
                 <Bathrooms>2</Bathrooms>
-                <Bedrooms>3</Bedrooms>
-                <Garage>2</Garage>
-                <UnitFloor>2</UnitFloor>
-                <Suites>1</Suites>
-                <UsageType>Residential</UsageType>
-            </Details>
-        </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-            <ListingID>NONSTOP-sellarimoveis#1YXXG</ListingID>
-            <Title><![CDATA[Apartamento para venda em Perdizes com 3 quartos, sendo 1 suíte , 138m²]]></Title>
-            <TransactionType>For Sale</TransactionType>
-            <Location displayAddress="All">
-                <Country abbreviation="BR">Brasil</Country>
-                <State abbreviation="SP"><![CDATA[São Paulo]]></State>
-                <City><![CDATA[São Paulo]]></City>
-                <Neighborhood><![CDATA[Perdizes]]></Neighborhood>
-                <Address><![CDATA[Rua Tucuna]]></Address>
-                <StreetNumber><![CDATA[742]]></StreetNumber>
-                <Complement><![CDATA[22]]></Complement>
-                <PostalCode>05021-010</PostalCode>
-                <Longitude>-46.6851141</Longitude>
-                <Latitude>-23.5340552</Latitude>
-            </Location>
-            <VirtualTourLink><![CDATA[https://www.banibconecta.com/site/tour/176772/grupo-imobi/601351175-47/autostart/photo/2099082]]></VirtualTourLink>
-            <Media>
-                <Item medium="video"><![CDATA[https://www.youtube.com/watch?v=5ucIxF1W0d8]]></Item>
-                <Item medium="image" caption="01fotos_011.jpeg" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744216966649-01fotos_011.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_012.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744216966720-01fotos_012.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_013.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744216966738-01fotos_013.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_014.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744216966748-01fotos_014.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_015.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744216966782-01fotos_015.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_016.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744216966794-01fotos_016.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_017.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744216966887-01fotos_017.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_018.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744216966903-01fotos_018.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_019.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744216966919-01fotos_019.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_020.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744216966941-01fotos_020.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_021.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744216966957-01fotos_021.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_022.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744216966967-01fotos_022.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_023.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744216966978-01fotos_023.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_024.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744216966987-01fotos_024.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_025.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744216966998-01fotos_025.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_026.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744216967008-01fotos_026.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_027.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744216967019-01fotos_027.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_028.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744216967030-01fotos_028.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_029.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744216967047-01fotos_029.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_030.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744216967073-01fotos_030.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_031.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744216967082-01fotos_031.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_032.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744216967090-01fotos_032.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_033.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744216967099-01fotos_033.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_034.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744216967107-01fotos_034.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_035.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744216967116-01fotos_035.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_036.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744216967123-01fotos_036.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_037.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744216967130-01fotos_037.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_038.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744216967140-01fotos_038.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_039.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744216967153-01fotos_039.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_001.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744217016289-01fotos_001.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_002.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744217016360-01fotos_002.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_003.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744217016417-01fotos_003.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_004.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744217016461-01fotos_004.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_005.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744217016499-01fotos_005.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_006.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744217016541-01fotos_006.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_007.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744217016582-01fotos_007.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_008.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744217016617-01fotos_008.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_009.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744217016653-01fotos_009.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_010.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/67e40a234fc5dd0040cd2349/images/1744217016685-01fotos_010.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_054.jpeg" primary="true"><![CDATA[https://images.usenonstop.com.br/condo-images/67e40a214fc5dd0040cd2348/images/1744217141924-01fotos_054.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_053.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/67e40a214fc5dd0040cd2348/images/1744217141956-01fotos_053.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_052.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/67e40a214fc5dd0040cd2348/images/1744217142018-01fotos_052.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_051.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/67e40a214fc5dd0040cd2348/images/1744217142032-01fotos_051.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_050.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/67e40a214fc5dd0040cd2348/images/1744217142047-01fotos_050.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_049.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/67e40a214fc5dd0040cd2348/images/1744217142066-01fotos_049.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_048.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/67e40a214fc5dd0040cd2348/images/1744217142080-01fotos_048.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_047.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/67e40a214fc5dd0040cd2348/images/1744217142092-01fotos_047.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_046.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/67e40a214fc5dd0040cd2348/images/1744217142114-01fotos_046.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_045.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/67e40a214fc5dd0040cd2348/images/1744217142131-01fotos_045.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_044.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/67e40a214fc5dd0040cd2348/images/1744217142145-01fotos_044.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_043.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/67e40a214fc5dd0040cd2348/images/1744217142158-01fotos_043.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_042.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/67e40a214fc5dd0040cd2348/images/1744217142173-01fotos_042.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_041.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/67e40a214fc5dd0040cd2348/images/1744217142184-01fotos_041.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_040.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/67e40a214fc5dd0040cd2348/images/1744217142194-01fotos_040.jpeg]]></Item>
-            </Media>
-            <PublicationType>STANDARD</PublicationType>
-            <Details>
-                <YearBuilt>1990</YearBuilt>
-                <ListPrice currency="BRL">1315000</ListPrice>
-                <PropertyAdministrationFee currency="BRL">2700</PropertyAdministrationFee>
-                <YearlyTax currency="BRL">7000</YearlyTax>
-                <Description><![CDATA[Este apartamento tipo, com 138m² de área útil, está localizado no 2º andar do Residencial Tucuna e foi construído em 1990. Conta com três dormitórios, sendo uma suíte, três banheiros, lavabo, sala com sacada, piso de madeira e laminado, gás encanado e está totalmente mobiliado. Possui ainda duas vagas de garagem determinadas. O condomínio oferece uma infraestrutura completa de lazer e segurança, com academia, área de lazer, brinquedoteca, churrasqueira, espaço kids, piscinas adulto e infantil, playground, quadra poliesportiva, sala de jogos, salão de festas, estacionamento 24h, jardim, elevadores (social e de serviço), banheiros masculino e feminino e é pet-friendly. Ideal para quem busca conforto, praticidade e um ambiente familiar.]]></Description>
-                <PropertyType>Residential / Apartment</PropertyType>
-                <LivingArea unit="square metres">138</LivingArea>
-                <Features>
-                    <Feature>BBQ</Feature>
-                    <Feature>Balcony</Feature>
-                    <Feature>Elevator</Feature>
-                    <Feature>Game room</Feature>
-                    <Feature>Garden Area</Feature>
-                    <Feature>Gym</Feature>
-                    <Feature>Party Room</Feature>
-                    <Feature>Pets Allowed</Feature>
-                    <Feature>Playground</Feature>
-                    <Feature>Pool</Feature>
-                    <Feature>Recreation Area</Feature>
-                    <Feature>Sports Court</Feature>
-                </Features>
-                <Bathrooms>3</Bathrooms>
                 <Bedrooms>3</Bedrooms>
                 <Garage>2</Garage>
                 <UnitFloor>2</UnitFloor>
