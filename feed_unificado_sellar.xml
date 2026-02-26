@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-02-26T06:43:00</Date>
+  <Date>2026-02-26T12:34:06</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE201</ListingID>
@@ -481,7 +481,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787708246552SP</ListingID>
-      <Title>Oportunidade Única em SANTA BARBARA D'OESTE - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SANTA BARBARA D'OESTE - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -766,7 +766,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8444434076083SP</ListingID>
-      <Title>Oportunidade Única em PRAIA GRANDE - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em PRAIA GRANDE - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -994,7 +994,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1444420933339SP</ListingID>
-      <Title>Oportunidade Única em PRAIA GRANDE - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em PRAIA GRANDE - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -1450,7 +1450,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX10004144SP</ListingID>
-      <Title>Oportunidade Única em PENAPOLIS - SP | Tipo: Terreno | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em PENAPOLIS - SP | Tipo: Terreno | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -1564,7 +1564,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787714992880SP</ListingID>
-      <Title>Oportunidade Única em PINDAMONHANGABA - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em PINDAMONHANGABA - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -1677,65 +1677,8 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Telephone/>
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>COLIBEX-IMCX1555536115340SP</ListingID>
-      <Title>Oportunidade Única em MONTE APRAZIVEL - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
-      <TransactionType>For Sale</TransactionType>
-      
-      
-      <Media>
-       
-        <Item medium="video"/> 
-        <Item medium="image" caption="img0" primary="true">https://xml.colibex.com.br/foto/8573396.jpg</Item><Item medium="image" caption="img1">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_c0683aaa_jpg.jpg</Item><Item medium="image" caption="img2">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1744898543159_Pag_Proposta_jpg.jpg</Item><Item medium="image" caption="img3">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_ee7e9b11_jpg.jpg</Item><Item medium="image" caption="img4">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_79b69625_jpg.jpg</Item><Item medium="image" caption="img5">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_38d9222e_jpg.jpg</Item><Item medium="image" caption="img6">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_ba877a96_jpg.jpg</Item>
-        
-        
-        
-
-      </Media>
-      <Details>
-  <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-      
-        <Description>
-          <![CDATA[3  Quartos,  Área de Serviço, 2 Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelRUA BLANDIANO MACRI,N. 06  CASA 15, QD B, NOSSO TETO - CEP: 15151-356, MONTE APRAZIVEL - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 310000.00  ]]>
-        </Description>
-        <ListPrice currency="BRL" period="Monthly">192628</ListPrice>
-        
-        
-        <UnitFloor/>
-        <Suites>0</Suites>
-        <LotArea unit="square metres">161</LotArea>
-        <LivingArea unit="square metres">200</LivingArea>
-        <PropertyAdministrationFee currency="BRL"/>
-        <YearlyTax currency="BRL"/>
-        <YearBuilt/>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>3</Bedrooms>
-        <Garage type="Parking Space">0</Garage>
-        <Floors/>
-        <Features>
-          
-        </Features>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>MONTE APRAZIVEL</City>
-        <Neighborhood>NOSSO TETO</Neighborhood>
-        <Address>RUA BLANDIANO MACRI</Address>
-        <StreetNumber>N. 06  CASA 15</StreetNumber>
-        <Complement/>
-        <PostalCode>15151-356</PostalCode>
-        <Zone/>
-      </Location>
-      <ContactInfo>
-        <Name> Sellar Representacao e Administracao Imobiliaria LTDA</Name>
-        <Email>diogocobucci@gmail.com</Email>
-        <Website>sellarleiloes.com.br</Website>
-        <Telephone/>
-      </ContactInfo>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1444418696260SP</ListingID>
-      <Title>Oportunidade Única em NOVA ODESSA - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em NOVA ODESSA - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -1963,7 +1906,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8444434626369SP</ListingID>
-      <Title>Oportunidade Única em MARILIA - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em MARILIA - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -2020,7 +1963,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX10211901SP</ListingID>
-      <Title>Oportunidade Única em MARILIA - SP | Tipo: Terreno | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em MARILIA - SP | Tipo: Terreno | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -2134,7 +2077,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1444406389686SP</ListingID>
-      <Title>Oportunidade Única em ITU - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em ITU - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -2191,7 +2134,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787708928815SP</ListingID>
-      <Title>Oportunidade Única em ITAQUAQUECETUBA - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em ITAQUAQUECETUBA - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -2590,7 +2533,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX10196806SP</ListingID>
-      <Title>Oportunidade Única em FERNANDOPOLIS - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em FERNANDOPOLIS - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -2704,7 +2647,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8444429980338SP</ListingID>
-      <Title>Oportunidade Única em COTIA - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em COTIA - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -2761,7 +2704,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8444430699957SP</ListingID>
-      <Title>Oportunidade Única em COTIA - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em COTIA - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -2875,7 +2818,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787703011301SP</ListingID>
-      <Title>Oportunidade Única em COTIA - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em COTIA - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -2989,7 +2932,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8555539840877SP</ListingID>
-      <Title>Oportunidade Única em CAMPINAS - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em CAMPINAS - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -3103,7 +3046,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787717107870SP</ListingID>
-      <Title>Oportunidade Única em CAMPINAS - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em CAMPINAS - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -3445,7 +3388,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1444413308009SP</ListingID>
-      <Title>Oportunidade Única em BAURU - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em BAURU - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -3502,7 +3445,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1444420493592SP</ListingID>
-      <Title>Oportunidade Única em BATATAIS - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em BATATAIS - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -3559,7 +3502,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8444431785997SP</ListingID>
-      <Title>Oportunidade Única em BARRETOS - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em BARRETOS - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -3616,7 +3559,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX10213036SP</ListingID>
-      <Title>Oportunidade Única em ASSIS - SP | Tipo: Terreno | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em ASSIS - SP | Tipo: Terreno | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -4015,7 +3958,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1444412467570SP</ListingID>
-      <Title>Oportunidade Única em AMERICANA - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em AMERICANA - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -4072,7 +4015,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX10215795SP</ListingID>
-      <Title>Oportunidade Única em AGUAS DE SANTA BARBARA - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em AGUAS DE SANTA BARBARA - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -4186,7 +4129,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787711436502SP</ListingID>
-      <Title>Oportunidade Única em VOTORANTIM - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em VOTORANTIM - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -4642,7 +4585,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8444418763390SP</ListingID>
-      <Title>Oportunidade Única em SUMARE - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SUMARE - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -4984,7 +4927,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787715079879SP</ListingID>
-      <Title>Oportunidade Única em SERTAOZINHO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SERTAOZINHO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -5041,7 +4984,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8444415522170SP</ListingID>
-      <Title>Oportunidade Única em SAO VICENTE - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO VICENTE - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -5098,7 +5041,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8444413560881SP</ListingID>
-      <Title>Oportunidade Única em SAO VICENTE - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO VICENTE - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -5155,7 +5098,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8555523649862SP</ListingID>
-      <Title>Oportunidade Única em SAO VICENTE - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO VICENTE - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -5269,7 +5212,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1444412908088SP</ListingID>
-      <Title>Oportunidade Única em SAO VICENTE - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO VICENTE - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -5383,7 +5326,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8444415497915SP</ListingID>
-      <Title>Oportunidade Única em SAO VICENTE - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO VICENTE - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -5497,7 +5440,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX10210406SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -5554,7 +5497,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1444415709680SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -5839,7 +5782,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1444404030427SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Sala | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Sala | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -5953,7 +5896,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX10192739SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -6010,7 +5953,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8444421201259SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -6124,7 +6067,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787708725329SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -6181,7 +6124,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787709674310SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -6238,7 +6181,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787712714603SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -6352,7 +6295,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787706976987SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -6409,7 +6352,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787708774630SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -6637,7 +6580,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787711614168SP</ListingID>
-      <Title>Oportunidade Única em SAO JOSE DO RIO PRETO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO JOSE DO RIO PRETO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -6694,7 +6637,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787711875840SP</ListingID>
-      <Title>Oportunidade Única em SAO JOSE DO RIO PRETO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO JOSE DO RIO PRETO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -6751,7 +6694,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787715086727SP</ListingID>
-      <Title>Oportunidade Única em SAO JOSE DO RIO PRETO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO JOSE DO RIO PRETO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -6808,7 +6751,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787715635267SP</ListingID>
-      <Title>Oportunidade Única em SAO JOSE DO RIO PRETO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO JOSE DO RIO PRETO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -6865,7 +6808,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787714672495SP</ListingID>
-      <Title>Oportunidade Única em SAO JOSE DO RIO PRETO - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO JOSE DO RIO PRETO - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -7207,7 +7150,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1787702489030SP</ListingID>
-      <Title>Oportunidade Única em SANTA BARBARA D'OESTE - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SANTA BARBARA D'OESTE - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -7663,7 +7606,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8444417600560SP</ListingID>
-      <Title>Oportunidade Única em SAO VICENTE - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO VICENTE - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -9487,7 +9430,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787713050482SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -15358,7 +15301,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787711352490SP</ListingID>
-      <Title>Oportunidade Única em ARARAQUARA - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em ARARAQUARA - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -15415,7 +15358,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8444412631513SP</ListingID>
-      <Title>Oportunidade Única em MOGI DAS CRUZES - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em MOGI DAS CRUZES - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -15472,7 +15415,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8444430453990SP</ListingID>
-      <Title>Oportunidade Única em MARILIA - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em MARILIA - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -15529,7 +15472,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787710210578SP</ListingID>
-      <Title>Oportunidade Única em CRAVINHOS - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em CRAVINHOS - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -15586,7 +15529,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1444420927398SP</ListingID>
-      <Title>Oportunidade Única em COTIA - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em COTIA - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -15643,7 +15586,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787714064568SP</ListingID>
-      <Title>Oportunidade Única em CAMPINAS - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em CAMPINAS - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -15700,7 +15643,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787707360173SP</ListingID>
-      <Title>Oportunidade Única em SOROCABA - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SOROCABA - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -15757,7 +15700,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1444410916121SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -15814,7 +15757,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787716524272SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -15871,7 +15814,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787715384396SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -15928,7 +15871,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787715120968SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -15985,7 +15928,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787706117631SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -16042,7 +15985,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8444423099800SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -16099,7 +16042,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787710289654SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -16156,7 +16099,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8555539230149SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -16213,7 +16156,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787716428133SP</ListingID>
-      <Title>Oportunidade Única em SAO JOSE DO RIO PRETO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO JOSE DO RIO PRETO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -16270,7 +16213,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787714557599SP</ListingID>
-      <Title>Oportunidade Única em SAO JOSE DO RIO PRETO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO JOSE DO RIO PRETO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -16327,7 +16270,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8555510477731SP</ListingID>
-      <Title>Oportunidade Única em SANTA CRUZ DA CONCEICAO - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SANTA CRUZ DA CONCEICAO - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -16384,7 +16327,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787714557998SP</ListingID>
-      <Title>Oportunidade Única em RIBEIRAO PRETO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em RIBEIRAO PRETO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -16441,7 +16384,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8444429647108SP</ListingID>
-      <Title>Oportunidade Única em RIBEIRAO PRETO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em RIBEIRAO PRETO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -16498,7 +16441,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787712326328SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -16555,7 +16498,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787714741829SP</ListingID>
-      <Title>Oportunidade Única em RIBEIRAO PRETO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em RIBEIRAO PRETO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -16612,7 +16555,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787713721409SP</ListingID>
-      <Title>Oportunidade Única em SUZANO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SUZANO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -16669,7 +16612,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787715146738SP</ListingID>
-      <Title>Oportunidade Única em SUZANO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SUZANO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -16726,7 +16669,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8555538842361SP</ListingID>
-      <Title>Oportunidade Única em SUZANO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SUZANO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -16783,7 +16726,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8555531517414SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -16954,7 +16897,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787716384802SP</ListingID>
-      <Title>Oportunidade Única em MOGI GUACU - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em MOGI GUACU - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -17011,7 +16954,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787715729105SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -28810,7 +28753,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1444409617329SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -32598,67 +32541,6 @@ Venha conhecer, esse pode ser o seu próximo lar!]]></Description>
                 <UnitFloor>19</UnitFloor>
                 <Suites>1</Suites>
                 <UsageType>Residential</UsageType>
-            </Details>
-        </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-            <ListingID>NONSTOP-sellarimoveis#F75VM</ListingID>
-            <Title><![CDATA[Conjunto comercial para venda em Pompeia , 39m²]]></Title>
-            <TransactionType>For Sale</TransactionType>
-            <Location displayAddress="All">
-                <Country abbreviation="BR">Brasil</Country>
-                <State abbreviation="SP"><![CDATA[São Paulo]]></State>
-                <City><![CDATA[São Paulo]]></City>
-                <Neighborhood><![CDATA[Pompeia]]></Neighborhood>
-                <Address><![CDATA[Avenida Pompéia]]></Address>
-                <StreetNumber><![CDATA[634]]></StreetNumber>
-                <Complement><![CDATA[5]]></Complement>
-                <PostalCode>05022-000</PostalCode>
-                <Longitude>-46.685257</Longitude>
-                <Latitude>-23.5302162</Latitude>
-            </Location>
-            <Media>
-                <Item medium="image" caption="1eb20d09-2611-4640-8296-655355fe2c8e" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/68ac9716065601c9263c97c7/images/1eb20d09-2611-4640-8296-655355fe2c8e.jpeg]]></Item>
-                <Item medium="image" caption="7f39e976-c7a8-4a98-ad06-4510c062fa86" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68ac9716065601c9263c97c7/images/7f39e976-c7a8-4a98-ad06-4510c062fa86.jpeg]]></Item>
-                <Item medium="image" caption="bc8ca3f4-6db6-4951-8f6a-3be3775bcca0" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68ac9716065601c9263c97c7/images/bc8ca3f4-6db6-4951-8f6a-3be3775bcca0.jpeg]]></Item>
-                <Item medium="image" caption="a52cbabb-e734-49cb-91ad-7c46fe9c7582" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68ac9716065601c9263c97c7/images/a52cbabb-e734-49cb-91ad-7c46fe9c7582.jpeg]]></Item>
-                <Item medium="image" caption="e88de120-7bc5-49f1-9b00-4eaaecdd333b" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68ac9716065601c9263c97c7/images/e88de120-7bc5-49f1-9b00-4eaaecdd333b.jpeg]]></Item>
-                <Item medium="image" caption="be2b600d-ecf3-4856-b8f7-0a77474ee8d3" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68ac9716065601c9263c97c7/images/be2b600d-ecf3-4856-b8f7-0a77474ee8d3.jpeg]]></Item>
-                <Item medium="image" caption="f8c48aa2-81a9-4c9c-aeeb-ca0e22eba67d" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68ac9716065601c9263c97c7/images/f8c48aa2-81a9-4c9c-aeeb-ca0e22eba67d.jpeg]]></Item>
-                <Item medium="image" caption="b9d7c463-4b4a-4483-9343-21ad4c8b4413" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68ac9716065601c9263c97c7/images/b9d7c463-4b4a-4483-9343-21ad4c8b4413.jpeg]]></Item>
-                <Item medium="image" caption="516e9f32-0774-4973-9974-979644d0bedd" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68ac9716065601c9263c97c7/images/516e9f32-0774-4973-9974-979644d0bedd.jpeg]]></Item>
-                <Item medium="image" caption="2349d806-7b39-4d53-b06a-1c5717094ed7" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68ac9716065601c9263c97c7/images/2349d806-7b39-4d53-b06a-1c5717094ed7.jpeg]]></Item>
-                <Item medium="image" caption="c300b74e-cf89-41fc-8140-9f4ef5ba3d33" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68ac9716065601c9263c97c7/images/c300b74e-cf89-41fc-8140-9f4ef5ba3d33.jpeg]]></Item>
-                <Item medium="image" caption="e5340d96-9e9c-401f-bbe3-fde589959421" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68ac9716065601c9263c97c7/images/e5340d96-9e9c-401f-bbe3-fde589959421.jpeg]]></Item>
-                <Item medium="image" caption="131ca0b7-5026-4d93-a5e7-e748d82f5eea" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68ac9716065601c9263c97c7/images/131ca0b7-5026-4d93-a5e7-e748d82f5eea.jpeg]]></Item>
-                <Item medium="image" caption="bbeecba0-0402-49c4-ae85-8c0800bfe30f" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68ac9716065601c9263c97c7/images/bbeecba0-0402-49c4-ae85-8c0800bfe30f.jpeg]]></Item>
-                <Item medium="image" caption="9b340edd-aca8-40b6-ae27-08bedf4c6ab2" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68ac9716065601c9263c97c7/images/9b340edd-aca8-40b6-ae27-08bedf4c6ab2.jpeg]]></Item>
-            </Media>
-            <PublicationType>STANDARD</PublicationType>
-            <Details>
-                <YearBuilt>2013</YearBuilt>
-                <ListPrice currency="BRL">480000</ListPrice>
-                <PropertyAdministrationFee currency="BRL">800</PropertyAdministrationFee>
-                <YearlyTax currency="BRL">6095</YearlyTax>
-                <Description><![CDATA[Investimento Ideal - Sala Comercial na Vila Romana
-
-Invista em uma sala comercial na Vila Romana, um dos bairros mais tradicionais e em constante valorização da zona oeste de São Paulo. Localizada na Avenida Pompéia, próxima ao Metrô Vila Madalena, ao Bourbon Shopping e a uma ampla rede de serviços, a região é marcada pela praticidade e pelo dinamismo da vida urbana.
-
-O imóvel possui 39,5 m² bem distribuídos, com um banheiro e uma vaga de garagem, ideal para quem busca conforto e funcionalidade no dia a dia. Localizado no 1º andar, conta ainda com elevador e fácil acesso, facilitando a rotina de clientes e colaboradores.
-
-Construído em 2013 e já desocupado, o espaço esteve sob o cuidado do primeiro proprietário, garantindo boa conservação e pronto para receber o seu negócio.
-Seja para uso próprio ou investimento, esta é uma oportunidade de unir localização privilegiada, estrutura adequada e potencial de valorização.
-
-Agende uma visita e conheça de perto seu próximo endereço profissional.]]></Description>
-                <PropertyType>Commercial / Office</PropertyType>
-                <LivingArea unit="square metres">39</LivingArea>
-                <Features>
-                    <Feature>Balcony</Feature>
-                    <Feature>Elevator</Feature>
-                    <Feature>Pets Allowed</Feature>
-                </Features>
-                <Bathrooms>1</Bathrooms>
-                <Garage>1</Garage>
-                <UnitFloor>1</UnitFloor>
-                <UsageType>Commercial</UsageType>
             </Details>
         </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
             <ListingID>NONSTOP-sellarimoveis#7XAV1</ListingID>
