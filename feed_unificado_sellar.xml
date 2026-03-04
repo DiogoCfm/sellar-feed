@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-03-04T06:31:12</Date>
+  <Date>2026-03-04T12:28:06</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE201</ListingID>
@@ -1497,63 +1497,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <StreetNumber>N. SN  LT 06</StreetNumber>
         <Complement/>
         <PostalCode>13382-694</PostalCode>
-        <Zone/>
-      </Location>
-      <ContactInfo>
-        <Name> Sellar Representacao e Administracao Imobiliaria LTDA</Name>
-        <Email>diogocobucci@gmail.com</Email>
-        <Website>sellarleiloes.com.br</Website>
-        <Telephone/>
-      </ContactInfo>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>COLIBEX-IMCX8555536874541SP</ListingID>
-      <Title>Oportunidade Única em MOGI DAS CRUZES - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
-      <TransactionType>For Sale</TransactionType>
-      
-      
-      <Media>
-       
-        <Item medium="video"/> 
-        <Item medium="image" caption="img0" primary="true">https://xml.colibex.com.br/foto/8573792.jpg</Item><Item medium="image" caption="img1">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_c0683aaa_jpg.jpg</Item><Item medium="image" caption="img2">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1744898543159_Pag_Proposta_jpg.jpg</Item><Item medium="image" caption="img3">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_ee7e9b11_jpg.jpg</Item><Item medium="image" caption="img4">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_79b69625_jpg.jpg</Item><Item medium="image" caption="img5">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_38d9222e_jpg.jpg</Item><Item medium="image" caption="img6">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_ba877a96_jpg.jpg</Item>
-        
-        
-        
-
-      </Media>
-      <Details>
-  <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-      
-        <Description>
-          <![CDATA[2  Quartos, 1 Vaga na Garagem,  Wc,  Sala,  Lavabo,  Cozinha. .Baixar matrícula do imóvelRUA JOSE PEREIRA,N. 1635  CASA 04 VAGA N 24, JUNDIAPEBA - CEP: 08750-740, MOGI DAS CRUZES - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Imóvel com gravame/penhora/indisponibilidade averbada na matrícula. Regularização por conta do adquirente. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 265000.00  ]]>
-        </Description>
-        <ListPrice currency="BRL" period="Monthly">150091</ListPrice>
-        
-        
-        <UnitFloor/>
-        <Suites>0</Suites>
-        <LotArea unit="square metres">69</LotArea>
-        <LivingArea unit="square metres">77</LivingArea>
-        <PropertyAdministrationFee currency="BRL"/>
-        <YearlyTax currency="BRL"/>
-        <YearBuilt/>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Garage type="Parking Space">1</Garage>
-        <Floors/>
-        <Features>
-          
-        </Features>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>MOGI DAS CRUZES</City>
-        <Neighborhood>JUNDIAPEBA</Neighborhood>
-        <Address>RUA JOSE PEREIRA</Address>
-        <StreetNumber>N. 1635  CASA 04 VAGA N 24</StreetNumber>
-        <Complement/>
-        <PostalCode>08750-740</PostalCode>
         <Zone/>
       </Location>
       <ContactInfo>
@@ -3102,63 +3045,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Telephone/>
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>COLIBEX-IMCX8787707567088SP</ListingID>
-      <Title>Oportunidade Única em ARARAQUARA - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
-      <TransactionType>For Sale</TransactionType>
-      
-      
-      <Media>
-       
-        <Item medium="video"/> 
-        <Item medium="image" caption="img0" primary="true">https://xml.colibex.com.br/foto/8547904.jpg</Item><Item medium="image" caption="img1">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_c0683aaa_jpg.jpg</Item><Item medium="image" caption="img2">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1744898543159_Pag_Proposta_jpg.jpg</Item><Item medium="image" caption="img3">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_ee7e9b11_jpg.jpg</Item><Item medium="image" caption="img4">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_79b69625_jpg.jpg</Item><Item medium="image" caption="img5">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_38d9222e_jpg.jpg</Item><Item medium="image" caption="img6">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_ba877a96_jpg.jpg</Item>
-        
-        
-        
-
-      </Media>
-      <Details>
-  <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-      
-        <Description>
-          <![CDATA[2  Quartos,  Área de Serviço,  Wc,  Sala. .Baixar matrícula do imóvelAVENIDA SEBASTIAO GONCALVES FERREIRA,N. 1231  LT 371, PARQUE RESIDENCIAL LAURA MOLINA - CEP: 14809-252, ARARAQUARA - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 212000.00  ]]>
-        </Description>
-        <ListPrice currency="BRL" period="Monthly">118525</ListPrice>
-        
-        
-        <UnitFloor/>
-        <Suites>0</Suites>
-        <LotArea unit="square metres">43</LotArea>
-        <LivingArea unit="square metres">200</LivingArea>
-        <PropertyAdministrationFee currency="BRL"/>
-        <YearlyTax currency="BRL"/>
-        <YearBuilt/>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Garage type="Parking Space">0</Garage>
-        <Floors/>
-        <Features>
-          
-        </Features>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>ARARAQUARA</City>
-        <Neighborhood>PARQUE RESIDENCIAL LAURA MOLINA</Neighborhood>
-        <Address>AVENIDA SEBASTIAO GONCALVES FERREIRA</Address>
-        <StreetNumber>N. 1231  LT 371</StreetNumber>
-        <Complement/>
-        <PostalCode>14809-252</PostalCode>
-        <Zone/>
-      </Location>
-      <ContactInfo>
-        <Name> Sellar Representacao e Administracao Imobiliaria LTDA</Name>
-        <Email>diogocobucci@gmail.com</Email>
-        <Website>sellarleiloes.com.br</Website>
-        <Telephone/>
-      </ContactInfo>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787707968953SP</ListingID>
       <Title>Oportunidade Única em ARARAQUARA - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
@@ -3264,63 +3150,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <StreetNumber>N. 41 APTO. 304  BL 04</StreetNumber>
         <Complement/>
         <PostalCode>14807-071</PostalCode>
-        <Zone/>
-      </Location>
-      <ContactInfo>
-        <Name> Sellar Representacao e Administracao Imobiliaria LTDA</Name>
-        <Email>diogocobucci@gmail.com</Email>
-        <Website>sellarleiloes.com.br</Website>
-        <Telephone/>
-      </ContactInfo>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>COLIBEX-IMCX8444400423252SP</ListingID>
-      <Title>Oportunidade Única em ARACATUBA - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
-      <TransactionType>For Sale</TransactionType>
-      
-      
-      <Media>
-       
-        <Item medium="video"/> 
-        <Item medium="image" caption="img0" primary="true">https://xml.colibex.com.br/foto/8548968.jpg</Item><Item medium="image" caption="img1">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_c0683aaa_jpg.jpg</Item><Item medium="image" caption="img2">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1744898543159_Pag_Proposta_jpg.jpg</Item><Item medium="image" caption="img3">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_ee7e9b11_jpg.jpg</Item><Item medium="image" caption="img4">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_79b69625_jpg.jpg</Item><Item medium="image" caption="img5">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_38d9222e_jpg.jpg</Item><Item medium="image" caption="img6">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_ba877a96_jpg.jpg</Item>
-        
-        
-        
-
-      </Media>
-      <Details>
-  <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-      
-        <Description>
-          <![CDATA[2  Quartos, 1 Vaga na Garagem,  Área de Serviço, 3 Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelRUA MARIA HELENA NOGUEIRA DE ANDRADE,N. 619  LT 28 QD G,  , JARDIM UNIVERSO - CEP: 16056-810, ARACATUBA - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 300000.00  ]]>
-        </Description>
-        <ListPrice currency="BRL" period="Monthly">176854</ListPrice>
-        
-        
-        <UnitFloor/>
-        <Suites>0</Suites>
-        <LotArea unit="square metres">143</LotArea>
-        <LivingArea unit="square metres">250</LivingArea>
-        <PropertyAdministrationFee currency="BRL"/>
-        <YearlyTax currency="BRL"/>
-        <YearBuilt/>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Garage type="Parking Space">1</Garage>
-        <Floors/>
-        <Features>
-          
-        </Features>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>ARACATUBA</City>
-        <Neighborhood>JARDIM UNIVERSO</Neighborhood>
-        <Address>RUA MARIA HELENA NOGUEIRA DE ANDRADE</Address>
-        <StreetNumber>N. 619  LT 28 QD G</StreetNumber>
-        <Complement/>
-        <PostalCode>16056-810</PostalCode>
         <Zone/>
       </Location>
       <ContactInfo>
@@ -5088,63 +4917,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <StreetNumber>N. 119  QD 03</StreetNumber>
         <Complement/>
         <PostalCode>03892-000</PostalCode>
-        <Zone/>
-      </Location>
-      <ContactInfo>
-        <Name> Sellar Representacao e Administracao Imobiliaria LTDA</Name>
-        <Email>diogocobucci@gmail.com</Email>
-        <Website>sellarleiloes.com.br</Website>
-        <Telephone/>
-      </ContactInfo>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>COLIBEX-IMCX8444421201259SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
-      <TransactionType>For Sale</TransactionType>
-      
-      
-      <Media>
-       
-        <Item medium="video"/> 
-        <Item medium="image" caption="img0" primary="true">https://xml.colibex.com.br/foto/8554488.jpg</Item><Item medium="image" caption="img1">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_c0683aaa_jpg.jpg</Item><Item medium="image" caption="img2">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1744898543159_Pag_Proposta_jpg.jpg</Item><Item medium="image" caption="img3">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_ee7e9b11_jpg.jpg</Item><Item medium="image" caption="img4">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_79b69625_jpg.jpg</Item><Item medium="image" caption="img5">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_38d9222e_jpg.jpg</Item><Item medium="image" caption="img6">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_ba877a96_jpg.jpg</Item>
-        
-        
-        
-
-      </Media>
-      <Details>
-  <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-      
-        <Description>
-          <![CDATA[2  Quartos,  Área de Serviço,  Wc,  Cozinha,  Terraço. .Baixar matrícula do imóvelRUA JERONIMO PEDROSO BARROS,N. 258  CASA 57, GUAIANAZES - CEP: 08452-420, SAO PAULO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 260000.00  ]]>
-        </Description>
-        <ListPrice currency="BRL" period="Monthly">151239</ListPrice>
-        
-        
-        <UnitFloor/>
-        <Suites>0</Suites>
-        <LotArea unit="square metres">92</LotArea>
-        <LivingArea unit="square metres">30</LivingArea>
-        <PropertyAdministrationFee currency="BRL"/>
-        <YearlyTax currency="BRL"/>
-        <YearBuilt/>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Garage type="Parking Space">0</Garage>
-        <Floors/>
-        <Features>
-          
-        </Features>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>SAO PAULO</City>
-        <Neighborhood>GUAIANAZES</Neighborhood>
-        <Address>RUA JERONIMO PEDROSO BARROS</Address>
-        <StreetNumber>N. 258  CASA 57</StreetNumber>
-        <Complement/>
-        <PostalCode>08452-420</PostalCode>
         <Zone/>
       </Location>
       <ContactInfo>
@@ -7663,7 +7435,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8555538085986SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -7681,7 +7453,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <PropertyType>Residential / Apartment</PropertyType>
       
         <Description>
-          <![CDATA[2  Quartos,  Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelAV DOUTOR JOSE MANIERO,N. 225 APTO. 11 BL 13, VILA NOVA PARADA - CEP: 02997-200, SAO PAULO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Exclusivamente à vista (somente recursos próprios).REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Imóvel com gravame/penhora/indisponibilidade averbada na matrícula. Regularização por conta do adquirente. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 240000.00  ]]>
+          <![CDATA[2  Quartos,  Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelAV DOUTOR JOSE MANIERO,N. 225 APTO. 11 BL 13, VILA NOVA PARADA - CEP: 02997-200, SAO PAULO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Imóvel com gravame/penhora/indisponibilidade averbada na matrícula. Regularização por conta do adquirente. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 240000.00  ]]>
         </Description>
         <ListPrice currency="BRL" period="Monthly">146953</ListPrice>
         
@@ -7720,7 +7492,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1444414060698SP</ListingID>
-      <Title>Oportunidade Única em RIBEIRAO PRETO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em RIBEIRAO PRETO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -7738,7 +7510,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <PropertyType>Residential / Apartment</PropertyType>
       
         <Description>
-          <![CDATA[3  Quartos, 1 Vaga na Garagem,  Área de Serviço,  Wc,  wc Emp, 2 Salas,  Cozinha. .Baixar matrícula do imóvelRUA IGUAPE,N. 12 APTO. 62, JARDIM PAULISTA - CEP: 14090-092, RIBEIRAO PRETO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 290000.00  ]]>
+          <![CDATA[3  Quartos, 1 Vaga na Garagem,  Área de Serviço,  Wc,  wc Emp, 2 Salas,  Cozinha. .Baixar matrícula do imóvelRUA IGUAPE,N. 12 APTO. 62, JARDIM PAULISTA - CEP: 14090-092, RIBEIRAO PRETO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 290000.00  ]]>
         </Description>
         <ListPrice currency="BRL" period="Monthly">184821</ListPrice>
         
@@ -7777,7 +7549,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1444420729286SP</ListingID>
-      <Title>Oportunidade Única em PRAIA GRANDE - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em PRAIA GRANDE - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -7795,7 +7567,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <PropertyType>Residential / Home</PropertyType>
       
         <Description>
-          <![CDATA[2  Quartos, 1 Vaga na Garagem,  Área de Serviço,  Wc,  Sala,  Lavabo,  Cozinha. .Baixar matrícula do imóvelAVENIDA PADRE JOSE MAURICIO,N. 283  CS 09, SAMAMBAIA - CEP: 11713-010, PRAIA GRANDE - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 338000.00  ]]>
+          <![CDATA[2  Quartos, 1 Vaga na Garagem,  Área de Serviço,  Wc,  Sala,  Lavabo,  Cozinha. .Baixar matrícula do imóvelAVENIDA PADRE JOSE MAURICIO,N. 283  CS 09, SAMAMBAIA - CEP: 11713-010, PRAIA GRANDE - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 338000.00  ]]>
         </Description>
         <ListPrice currency="BRL" period="Monthly">215412</ListPrice>
         
@@ -7891,7 +7663,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1555533149627SP</ListingID>
-      <Title>Oportunidade Única em COTIA - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em COTIA - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -7909,7 +7681,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <PropertyType>Residential / Apartment</PropertyType>
       
         <Description>
-          <![CDATA[2  Quartos,  Área de Serviço,  Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelESTRADA MUNICIPAL,N. 262 APTO. 04 ED MILAO, JARDIM SANTA IZABEL - CEP: 06709-530, COTIA - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 240000.00  ]]>
+          <![CDATA[2  Quartos,  Área de Serviço,  Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelESTRADA MUNICIPAL,N. 262 APTO. 04 ED MILAO, JARDIM SANTA IZABEL - CEP: 06709-530, COTIA - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 240000.00  ]]>
         </Description>
         <ListPrice currency="BRL" period="Monthly">152955</ListPrice>
         
@@ -9430,7 +9202,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1444423182024SP</ListingID>
-      <Title>Oportunidade Única em COTIA - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em COTIA - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -9448,7 +9220,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <PropertyType>Residential / Home</PropertyType>
       
         <Description>
-          <![CDATA[2  Quartos, 4  Vagas na Garagem,  Área de Serviço, 2 Wc,  Sala,  Cozinha,  Terraço. .Baixar matrícula do imóvelRUA CONSOLACAO,N. 355, GRACA - CEP: 06700-558, COTIA - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 381000.00  ]]>
+          <![CDATA[2  Quartos, 4  Vagas na Garagem,  Área de Serviço, 2 Wc,  Sala,  Cozinha,  Terraço. .Baixar matrícula do imóvelRUA CONSOLACAO,N. 355, GRACA - CEP: 06700-558, COTIA - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 381000.00  ]]>
         </Description>
         <ListPrice currency="BRL" period="Monthly">242816</ListPrice>
         
@@ -9487,7 +9259,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1555504617375SP</ListingID>
-      <Title>Oportunidade Única em SAO VICENTE - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO VICENTE - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -9505,7 +9277,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <PropertyType>Residential / Apartment</PropertyType>
       
         <Description>
-          <![CDATA[2  Quartos,  Área de Serviço,  Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelAVENIDA ANTONIO EMMERICK,N. 683 APTO. 52, JARDIM GUASSU - CEP: 11370-001, SAO VICENTE - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Exclusivamente à vista (somente recursos próprios).REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Imóvel com gravame/penhora/indisponibilidade averbada na matrícula. Regularização por conta do adquirente. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 270000.00  ]]>
+          <![CDATA[2  Quartos,  Área de Serviço,  Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelAVENIDA ANTONIO EMMERICK,N. 683 APTO. 52, JARDIM GUASSU - CEP: 11370-001, SAO VICENTE - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Imóvel com gravame/penhora/indisponibilidade averbada na matrícula. Regularização por conta do adquirente. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 270000.00  ]]>
         </Description>
         <ListPrice currency="BRL" period="Monthly">172074</ListPrice>
         
@@ -9544,7 +9316,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1555526210243SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -9562,7 +9334,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <PropertyType>Residential / Apartment</PropertyType>
       
         <Description>
-          <![CDATA[2  Quartos, 1 Vaga na Garagem,  Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelRUA MARACANA GUACU,N. 218 APTO. 304 TR 06, CANGAIBA - CEP: 03718-015, SAO PAULO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 270000.00  ]]>
+          <![CDATA[2  Quartos, 1 Vaga na Garagem,  Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelRUA MARACANA GUACU,N. 218 APTO. 304 TR 06, CANGAIBA - CEP: 03718-015, SAO PAULO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 270000.00  ]]>
         </Description>
         <ListPrice currency="BRL" period="Monthly">172074</ListPrice>
         
@@ -10683,63 +10455,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Telephone/>
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>COLIBEX-IMCX8444430853999SP</ListingID>
-      <Title>Oportunidade Única em PRAIA GRANDE - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
-      <TransactionType>For Sale</TransactionType>
-      
-      
-      <Media>
-       
-        <Item medium="video"/> 
-        <Item medium="image" caption="img0" primary="true">https://xml.colibex.com.br/foto/41896900.jpg</Item><Item medium="image" caption="img1">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_c0683aaa_jpg.jpg</Item><Item medium="image" caption="img2">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1744898543159_Pag_Proposta_jpg.jpg</Item><Item medium="image" caption="img3">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_ee7e9b11_jpg.jpg</Item><Item medium="image" caption="img4">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_79b69625_jpg.jpg</Item><Item medium="image" caption="img5">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_38d9222e_jpg.jpg</Item><Item medium="image" caption="img6">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_ba877a96_jpg.jpg</Item>
-        
-        
-        
-
-      </Media>
-      <Details>
-  <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-      
-        <Description>
-          <![CDATA[2  Quartos, 1 Vaga na Garagem,  Área de Serviço, 2 Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelRUA FILOMENA DINIZ FERNANDES,N. 415  CASA Nº 01, JARDIM REAL - CEP: 11711-210, PRAIA GRANDE - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 266000.00  ]]>
-        </Description>
-        <ListPrice currency="BRL" period="Monthly">154729</ListPrice>
-        
-        
-        <UnitFloor/>
-        <Suites>0</Suites>
-        <LotArea unit="square metres">64</LotArea>
-        <LivingArea unit="square metres">57</LivingArea>
-        <PropertyAdministrationFee currency="BRL"/>
-        <YearlyTax currency="BRL"/>
-        <YearBuilt/>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Garage type="Parking Space">1</Garage>
-        <Floors/>
-        <Features>
-          
-        </Features>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>PRAIA GRANDE</City>
-        <Neighborhood>JARDIM REAL</Neighborhood>
-        <Address>RUA FILOMENA DINIZ FERNANDES</Address>
-        <StreetNumber>N. 415  CASA Nº 01</StreetNumber>
-        <Complement/>
-        <PostalCode>11711-210</PostalCode>
-        <Zone/>
-      </Location>
-      <ContactInfo>
-        <Name> Sellar Representacao e Administracao Imobiliaria LTDA</Name>
-        <Email>diogocobucci@gmail.com</Email>
-        <Website>sellarleiloes.com.br</Website>
-        <Telephone/>
-      </ContactInfo>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1444405795176SP</ListingID>
       <Title>Oportunidade Única em SANTO ANDRE - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
@@ -10969,7 +10684,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787714064568SP</ListingID>
-      <Title>Oportunidade Única em CAMPINAS - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em CAMPINAS - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -10987,7 +10702,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <PropertyType>Residential / Apartment</PropertyType>
       
         <Description>
-          <![CDATA[2  Quartos,  Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelRUA ALBERTO CARLOS DUPAS VALIN,N. 337 APTO. 23 BL 03, VILA PALACIOS - CEP: 13060-659, CAMPINAS - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 313000.00  ]]>
+          <![CDATA[2  Quartos,  Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelRUA ALBERTO CARLOS DUPAS VALIN,N. 337 APTO. 23 BL 03, VILA PALACIOS - CEP: 13060-659, CAMPINAS - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 313000.00  ]]>
         </Description>
         <ListPrice currency="BRL" period="Monthly">191651</ListPrice>
         
@@ -11083,7 +10798,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787716524272SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -11101,7 +10816,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <PropertyType>Residential / Apartment</PropertyType>
       
         <Description>
-          <![CDATA[2  Quartos,  Área de Serviço,  Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelRUA GOIATA,N. 232 APTO. 604 TORRE 01, PARADA XV DE NOVEMBRO - CEP: 08246-070, SAO PAULO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Exclusivamente à vista (somente recursos próprios).REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 257000.00  ]]>
+          <![CDATA[2  Quartos,  Área de Serviço,  Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelRUA GOIATA,N. 232 APTO. 604 TORRE 01, PARADA XV DE NOVEMBRO - CEP: 08246-070, SAO PAULO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 257000.00  ]]>
         </Description>
         <ListPrice currency="BRL" period="Monthly">157362</ListPrice>
         
@@ -11140,7 +10855,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787715120968SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -11158,7 +10873,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <PropertyType>Residential / Apartment</PropertyType>
       
         <Description>
-          <![CDATA[.Baixar matrícula do imóvelAVENIDA DOUTOR FELIPE PINEL,N. 3581 APTO. 1409 TORRE B, JARAGUA - CEP: 05181-660, SAO PAULO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 272000.00  ]]>
+          <![CDATA[.Baixar matrícula do imóvelAVENIDA DOUTOR FELIPE PINEL,N. 3581 APTO. 1409 TORRE B, JARAGUA - CEP: 05181-660, SAO PAULO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 272000.00  ]]>
         </Description>
         <ListPrice currency="BRL" period="Monthly">166546</ListPrice>
         
@@ -11197,7 +10912,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787706117631SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -11215,7 +10930,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <PropertyType>Residential / Apartment</PropertyType>
       
         <Description>
-          <![CDATA[2  Quartos,  Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelRUA PORTO DE PALOS,N. 31 APTO. 121 TORRE A, VILA ZAT - CEP: 02977-080, SAO PAULO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 255000.00  ]]>
+          <![CDATA[2  Quartos,  Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelRUA PORTO DE PALOS,N. 31 APTO. 121 TORRE A, VILA ZAT - CEP: 02977-080, SAO PAULO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 255000.00  ]]>
         </Description>
         <ListPrice currency="BRL" period="Monthly">156137</ListPrice>
         
@@ -11311,7 +11026,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8555539230149SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -11329,7 +11044,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <PropertyType>Residential / Apartment</PropertyType>
       
         <Description>
-          <![CDATA[2  Quartos. .Baixar matrícula do imóvelRUA ORMINDA PINTO,N. 80 APTO. 03 TORRE 3, VILA CONCEICAO - CEP: 08151-200, SAO PAULO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 220000.00  ]]>
+          <![CDATA[2  Quartos. .Baixar matrícula do imóvelRUA ORMINDA PINTO,N. 80 APTO. 03 TORRE 3, VILA CONCEICAO - CEP: 08151-200, SAO PAULO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 220000.00  ]]>
         </Description>
         <ListPrice currency="BRL" period="Monthly">132970</ListPrice>
         
@@ -11482,7 +11197,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787714557998SP</ListingID>
-      <Title>Oportunidade Única em RIBEIRAO PRETO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em RIBEIRAO PRETO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -11500,7 +11215,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <PropertyType>Residential / Apartment</PropertyType>
       
         <Description>
-          <![CDATA[2  Quartos, 1 Vaga na Garagem,  Área de Serviço,  Sala,  Cozinha. .Baixar matrícula do imóvelAVENIDA EDUARDO ANDREA MATARAZZO,N. 6130 APTO. 802 TORRE 5, CHACARAS PEDRO CORREA DE CARVALHO - CEP: 14075-820, RIBEIRAO PRETO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 240000.00  ]]>
+          <![CDATA[2  Quartos, 1 Vaga na Garagem,  Área de Serviço,  Sala,  Cozinha. .Baixar matrícula do imóvelAVENIDA EDUARDO ANDREA MATARAZZO,N. 6130 APTO. 802 TORRE 5, CHACARAS PEDRO CORREA DE CARVALHO - CEP: 14075-820, RIBEIRAO PRETO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 240000.00  ]]>
         </Description>
         <ListPrice currency="BRL" period="Monthly">146953</ListPrice>
         
@@ -11539,7 +11254,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8444429647108SP</ListingID>
-      <Title>Oportunidade Única em RIBEIRAO PRETO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em RIBEIRAO PRETO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -11557,7 +11272,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <PropertyType>Residential / Apartment</PropertyType>
       
         <Description>
-          <![CDATA[1 Vaga na Garagem. .Baixar matrícula do imóvelRUA EDWIRGES DE CARVALHO CHAIM,N. 55 APTO. 12, PLANALTO VERDE - CEP: 14056-130, RIBEIRAO PRETO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 225000.00  ]]>
+          <![CDATA[1 Vaga na Garagem. .Baixar matrícula do imóvelRUA EDWIRGES DE CARVALHO CHAIM,N. 55 APTO. 12, PLANALTO VERDE - CEP: 14056-130, RIBEIRAO PRETO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 225000.00  ]]>
         </Description>
         <ListPrice currency="BRL" period="Monthly">135993</ListPrice>
         
@@ -11596,7 +11311,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787712326328SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -11614,7 +11329,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <PropertyType>Residential / Apartment</PropertyType>
       
         <Description>
-          <![CDATA[2  Quartos,  Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelRUA ESTADO DO CEARA,N. 1084 APTO. 35 BL 05 N. 1138 TIPO HIS-2, JARDIM EGLE - CEP: 03936-000, SAO PAULO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 225000.00  ]]>
+          <![CDATA[2  Quartos,  Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelRUA ESTADO DO CEARA,N. 1084 APTO. 35 BL 05 N. 1138 TIPO HIS-2, JARDIM EGLE - CEP: 03936-000, SAO PAULO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 225000.00  ]]>
         </Description>
         <ListPrice currency="BRL" period="Monthly">135993</ListPrice>
         
@@ -11767,7 +11482,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8555538842361SP</ListingID>
-      <Title>Oportunidade Única em SUZANO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SUZANO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -11785,7 +11500,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <PropertyType>Residential / Apartment</PropertyType>
       
         <Description>
-          <![CDATA[2  Quartos, 1 Vaga na Garagem,  Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelRUA MANOEL ALABARCE LOPES,N. 100 APTO. 203 BL 08 VG 71, PARQUE RESIDENCIAL CASA BRANCA - CEP: 08663-495, SUZANO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 220000.00  ]]>
+          <![CDATA[2  Quartos, 1 Vaga na Garagem,  Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelRUA MANOEL ALABARCE LOPES,N. 100 APTO. 203 BL 08 VG 71, PARQUE RESIDENCIAL CASA BRANCA - CEP: 08663-495, SUZANO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 220000.00  ]]>
         </Description>
         <ListPrice currency="BRL" period="Monthly">132970</ListPrice>
         
@@ -16269,63 +15984,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Telephone/>
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>COLIBEX-IMCX1444407533799SP</ListingID>
-      <Title>Oportunidade Única em COTIA - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
-      <TransactionType>For Sale</TransactionType>
-      
-      
-      <Media>
-       
-        <Item medium="video"/> 
-        <Item medium="image" caption="img0" primary="true">https://xml.colibex.com.br/foto/16156410.jpg</Item><Item medium="image" caption="img1">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_c0683aaa_jpg.jpg</Item><Item medium="image" caption="img2">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1744898543159_Pag_Proposta_jpg.jpg</Item><Item medium="image" caption="img3">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_ee7e9b11_jpg.jpg</Item><Item medium="image" caption="img4">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_79b69625_jpg.jpg</Item><Item medium="image" caption="img5">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_38d9222e_jpg.jpg</Item><Item medium="image" caption="img6">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_ba877a96_jpg.jpg</Item>
-        
-        
-        
-
-      </Media>
-      <Details>
-  <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-      
-        <Description>
-          <![CDATA[2  Quartos, 1 Vaga na Garagem,  Área de Serviço,  Wc,  wc Emp,  Sala,  Cozinha. .Baixar matrícula do imóvelRUA AMEIXEIRAS,N. 297  CS 40, JARDIM PETROPOLIS - CEP: 06719-052, COTIA - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 400000.00  ]]>
-        </Description>
-        <ListPrice currency="BRL" period="Monthly">242179</ListPrice>
-        
-        
-        <UnitFloor/>
-        <Suites>0</Suites>
-        <LotArea unit="square metres">131</LotArea>
-        <LivingArea unit="square metres">109</LivingArea>
-        <PropertyAdministrationFee currency="BRL"/>
-        <YearlyTax currency="BRL"/>
-        <YearBuilt/>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Garage type="Parking Space">1</Garage>
-        <Floors/>
-        <Features>
-          
-        </Features>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>COTIA</City>
-        <Neighborhood>JARDIM PETROPOLIS</Neighborhood>
-        <Address>RUA AMEIXEIRAS</Address>
-        <StreetNumber>N. 297  CS 40</StreetNumber>
-        <Complement/>
-        <PostalCode>06719-052</PostalCode>
-        <Zone/>
-      </Location>
-      <ContactInfo>
-        <Name> Sellar Representacao e Administracao Imobiliaria LTDA</Name>
-        <Email>diogocobucci@gmail.com</Email>
-        <Website>sellarleiloes.com.br</Website>
-        <Telephone/>
-      </ContactInfo>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8555514748993SP</ListingID>
       <Title>Oportunidade Única em SUMARE - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
@@ -16374,63 +16032,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <StreetNumber>N. 685 APTO. 11 BLOCO G TERREO</StreetNumber>
         <Complement/>
         <PostalCode>13171-105</PostalCode>
-        <Zone/>
-      </Location>
-      <ContactInfo>
-        <Name> Sellar Representacao e Administracao Imobiliaria LTDA</Name>
-        <Email>diogocobucci@gmail.com</Email>
-        <Website>sellarleiloes.com.br</Website>
-        <Telephone/>
-      </ContactInfo>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>COLIBEX-IMCX8555538537445SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
-      <TransactionType>For Sale</TransactionType>
-      
-      
-      <Media>
-       
-        <Item medium="video"/> 
-        <Item medium="image" caption="img0" primary="true">https://xml.colibex.com.br/foto/16159262.jpg</Item><Item medium="image" caption="img1">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_c0683aaa_jpg.jpg</Item><Item medium="image" caption="img2">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1744898543159_Pag_Proposta_jpg.jpg</Item><Item medium="image" caption="img3">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_ee7e9b11_jpg.jpg</Item><Item medium="image" caption="img4">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_79b69625_jpg.jpg</Item><Item medium="image" caption="img5">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_38d9222e_jpg.jpg</Item><Item medium="image" caption="img6">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_ba877a96_jpg.jpg</Item>
-        
-        
-        
-
-      </Media>
-      <Details>
-  <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-      
-        <Description>
-          <![CDATA[2  Quartos,  Área de Serviço,  Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelRUA NOVENTA E CINCO,N. 275 APTO. 22 2 PAVIMENTO DO BL 1 DISTRITO GUAIANAZES, VILA ROSEIRA II - CEP: 08466-003, SAO PAULO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 216000.00  ]]>
-        </Description>
-        <ListPrice currency="BRL" period="Monthly">124025</ListPrice>
-        
-        
-        <UnitFloor/>
-        <Suites>0</Suites>
-        <LotArea unit="square metres">40</LotArea>
-        <LivingArea unit="square metres">40</LivingArea>
-        <PropertyAdministrationFee currency="BRL"/>
-        <YearlyTax currency="BRL"/>
-        <YearBuilt/>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Garage type="Parking Space">0</Garage>
-        <Floors/>
-        <Features>
-          
-        </Features>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>SAO PAULO</City>
-        <Neighborhood>VILA ROSEIRA II</Neighborhood>
-        <Address>RUA NOVENTA E CINCO</Address>
-        <StreetNumber>N. 275 APTO. 22 2 PAVIMENTO DO BL 1 DISTRITO GUAIANAZES</StreetNumber>
-        <Complement/>
-        <PostalCode>08466-003</PostalCode>
         <Zone/>
       </Location>
       <ContactInfo>
@@ -16554,63 +16155,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Telephone/>
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>COLIBEX-IMCX8787711178996SP</ListingID>
-      <Title>Oportunidade Única em SUZANO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
-      <TransactionType>For Sale</TransactionType>
-      
-      
-      <Media>
-       
-        <Item medium="video"/> 
-        <Item medium="image" caption="img0" primary="true">https://xml.colibex.com.br/foto/16157240.jpg</Item><Item medium="image" caption="img1">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_c0683aaa_jpg.jpg</Item><Item medium="image" caption="img2">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1744898543159_Pag_Proposta_jpg.jpg</Item><Item medium="image" caption="img3">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_ee7e9b11_jpg.jpg</Item><Item medium="image" caption="img4">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_79b69625_jpg.jpg</Item><Item medium="image" caption="img5">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_38d9222e_jpg.jpg</Item><Item medium="image" caption="img6">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_ba877a96_jpg.jpg</Item>
-        
-        
-        
-
-      </Media>
-      <Details>
-  <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-      
-        <Description>
-          <![CDATA[2  Quartos,  Área de Serviço,  Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelRUA MITSUHARU MATSUSHITA,N. 90 APTO. 201 BL 13, CHACARA ESTANCIA PAULISTA - CEP: 08653-015, SUZANO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 225000.00  ]]>
-        </Description>
-        <ListPrice currency="BRL" period="Monthly">129193</ListPrice>
-        
-        
-        <UnitFloor/>
-        <Suites>0</Suites>
-        <LotArea unit="square metres">97</LotArea>
-        <LivingArea unit="square metres">40</LivingArea>
-        <PropertyAdministrationFee currency="BRL"/>
-        <YearlyTax currency="BRL"/>
-        <YearBuilt/>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Garage type="Parking Space">0</Garage>
-        <Floors/>
-        <Features>
-          
-        </Features>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>SUZANO</City>
-        <Neighborhood>CHACARA ESTANCIA PAULISTA</Neighborhood>
-        <Address>RUA MITSUHARU MATSUSHITA</Address>
-        <StreetNumber>N. 90 APTO. 201 BL 13</StreetNumber>
-        <Complement/>
-        <PostalCode>08653-015</PostalCode>
-        <Zone/>
-      </Location>
-      <ContactInfo>
-        <Name> Sellar Representacao e Administracao Imobiliaria LTDA</Name>
-        <Email>diogocobucci@gmail.com</Email>
-        <Website>sellarleiloes.com.br</Website>
-        <Telephone/>
-      </ContactInfo>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787710583978SP</ListingID>
       <Title>Oportunidade Única em SUMARE - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
@@ -16659,63 +16203,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <StreetNumber>N. 21 APTO. 24 BL.5</StreetNumber>
         <Complement/>
         <PostalCode>13178-886</PostalCode>
-        <Zone/>
-      </Location>
-      <ContactInfo>
-        <Name> Sellar Representacao e Administracao Imobiliaria LTDA</Name>
-        <Email>diogocobucci@gmail.com</Email>
-        <Website>sellarleiloes.com.br</Website>
-        <Telephone/>
-      </ContactInfo>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>COLIBEX-IMCX8787702759914SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
-      <TransactionType>For Sale</TransactionType>
-      
-      
-      <Media>
-       
-        <Item medium="video"/> 
-        <Item medium="image" caption="img0" primary="true">https://xml.colibex.com.br/foto/16159926.jpg</Item><Item medium="image" caption="img1">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_c0683aaa_jpg.jpg</Item><Item medium="image" caption="img2">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1744898543159_Pag_Proposta_jpg.jpg</Item><Item medium="image" caption="img3">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_ee7e9b11_jpg.jpg</Item><Item medium="image" caption="img4">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_79b69625_jpg.jpg</Item><Item medium="image" caption="img5">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_38d9222e_jpg.jpg</Item><Item medium="image" caption="img6">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_ba877a96_jpg.jpg</Item>
-        
-        
-        
-
-      </Media>
-      <Details>
-  <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-      
-        <Description>
-          <![CDATA[2  Quartos,  Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelRUA BENTO SOARES MOTA,N. 65 APTO. 85 BL 02, GUAIANAZES - CEP: 08412-180, SAO PAULO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 214000.00  ]]>
-        </Description>
-        <ListPrice currency="BRL" period="Monthly">122877</ListPrice>
-        
-        
-        <UnitFloor/>
-        <Suites>0</Suites>
-        <LotArea unit="square metres">63</LotArea>
-        <LivingArea unit="square metres">41</LivingArea>
-        <PropertyAdministrationFee currency="BRL"/>
-        <YearlyTax currency="BRL"/>
-        <YearBuilt/>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Garage type="Parking Space">0</Garage>
-        <Floors/>
-        <Features>
-          
-        </Features>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>SAO PAULO</City>
-        <Neighborhood>GUAIANAZES</Neighborhood>
-        <Address>RUA BENTO SOARES MOTA</Address>
-        <StreetNumber>N. 65 APTO. 85 BL 02</StreetNumber>
-        <Complement/>
-        <PostalCode>08412-180</PostalCode>
         <Zone/>
       </Location>
       <ContactInfo>
@@ -18037,7 +17524,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787711410287SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -18055,7 +17542,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <PropertyType>Residential / Apartment</PropertyType>
       
         <Description>
-          <![CDATA[2  Quartos. .Baixar matrícula do imóvelRUA SERRANA,N. 511 APTO. 903 PAV03 TORREC, DISTRITO DE ITAQUERA - CEP: 08285-010, SAO PAULO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 280900.00  ]]>
+          <![CDATA[2  Quartos. .Baixar matrícula do imóvelRUA SERRANA,N. 511 APTO. 903 PAV03 TORREC, DISTRITO DE ITAQUERA - CEP: 08285-010, SAO PAULO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 280900.00  ]]>
         </Description>
         <ListPrice currency="BRL" period="Monthly">171996</ListPrice>
         
@@ -18094,7 +17581,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787712144815SP</ListingID>
-      <Title>Oportunidade Única em GUARULHOS - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em GUARULHOS - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -18112,7 +17599,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <PropertyType>Residential / Apartment</PropertyType>
       
         <Description>
-          <![CDATA[2  Quartos, 1 Vaga na Garagem,  Área de Serviço,  Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelRUA TURVOLANDIA,N. 839 APTO. 01 BL 02, VILA NOVA BONSUCESSO - CEP: 07176-180, GUARULHOS - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 220000.00  ]]>
+          <![CDATA[2  Quartos, 1 Vaga na Garagem,  Área de Serviço,  Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelRUA TURVOLANDIA,N. 839 APTO. 01 BL 02, VILA NOVA BONSUCESSO - CEP: 07176-180, GUARULHOS - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 220000.00  ]]>
         </Description>
         <ListPrice currency="BRL" period="Monthly">132970</ListPrice>
         
@@ -18606,65 +18093,8 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Telephone/>
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>COLIBEX-IMCX8444419897292SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
-      <TransactionType>For Sale</TransactionType>
-      
-      
-      <Media>
-       
-        <Item medium="video"/> 
-        <Item medium="image" caption="img0" primary="true">https://xml.colibex.com.br/foto/70297301.jpg</Item><Item medium="image" caption="img1">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_c0683aaa_jpg.jpg</Item><Item medium="image" caption="img2">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1744898543159_Pag_Proposta_jpg.jpg</Item><Item medium="image" caption="img3">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_ee7e9b11_jpg.jpg</Item><Item medium="image" caption="img4">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_79b69625_jpg.jpg</Item><Item medium="image" caption="img5">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_38d9222e_jpg.jpg</Item><Item medium="image" caption="img6">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_ba877a96_jpg.jpg</Item>
-        
-        
-        
-
-      </Media>
-      <Details>
-  <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-      
-        <Description>
-          <![CDATA[2  Quartos, 1 Vaga na Garagem,  Área de Serviço,  Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelRUA MANUEL ALVARES PIMENTEL,N. 629  CS 23, GUAIANAZES - CEP: 08141-000, SAO PAULO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 247000.00  ]]>
-        </Description>
-        <ListPrice currency="BRL" period="Monthly">143677</ListPrice>
-        
-        
-        <UnitFloor/>
-        <Suites>0</Suites>
-        <LotArea unit="square metres">92</LotArea>
-        <LivingArea unit="square metres">88</LivingArea>
-        <PropertyAdministrationFee currency="BRL"/>
-        <YearlyTax currency="BRL"/>
-        <YearBuilt/>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Garage type="Parking Space">1</Garage>
-        <Floors/>
-        <Features>
-          
-        </Features>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>SAO PAULO</City>
-        <Neighborhood>GUAIANAZES</Neighborhood>
-        <Address>RUA MANUEL ALVARES PIMENTEL</Address>
-        <StreetNumber>N. 629  CS 23</StreetNumber>
-        <Complement/>
-        <PostalCode>08141-000</PostalCode>
-        <Zone/>
-      </Location>
-      <ContactInfo>
-        <Name> Sellar Representacao e Administracao Imobiliaria LTDA</Name>
-        <Email>diogocobucci@gmail.com</Email>
-        <Website>sellarleiloes.com.br</Website>
-        <Telephone/>
-      </ContactInfo>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8444429832878SP</ListingID>
-      <Title>Oportunidade Única em PRAIA GRANDE - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em PRAIA GRANDE - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -18682,7 +18112,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <PropertyType>Residential / Home</PropertyType>
       
         <Description>
-          <![CDATA[2  Quartos, 1 Vaga na Garagem,  Área de Serviço,  Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelAVENIDA PEDRO AMERICO,N. 1044  04, LOT PQ DAS AMERICAS, SAMAMBAIA - CEP: 11713-070, PRAIA GRANDE - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 250000.00  ]]>
+          <![CDATA[2  Quartos, 1 Vaga na Garagem,  Área de Serviço,  Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelAVENIDA PEDRO AMERICO,N. 1044  04, LOT PQ DAS AMERICAS, SAMAMBAIA - CEP: 11713-070, PRAIA GRANDE - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 250000.00  ]]>
         </Description>
         <ListPrice currency="BRL" period="Monthly">153076</ListPrice>
         
@@ -18835,7 +18265,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX1555532284415SP</ListingID>
-      <Title>Oportunidade Única em SAO JOSE DO RIO PRETO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO JOSE DO RIO PRETO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -18853,7 +18283,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <PropertyType>Residential / Apartment</PropertyType>
       
         <Description>
-          <![CDATA[1 Vaga na Garagem. .Baixar matrícula do imóvelAVENIDA IRMA HELOISA HELENA DE CAMPOS MELO,N. 505 APTO. 74 BL 3, RESIDENCIAL SANTA FILOMENA - CEP: 15057-439, SAO JOSE DO RIO PRETO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 226000.00  ]]>
+          <![CDATA[1 Vaga na Garagem. .Baixar matrícula do imóvelAVENIDA IRMA HELOISA HELENA DE CAMPOS MELO,N. 505 APTO. 74 BL 3, RESIDENCIAL SANTA FILOMENA - CEP: 15057-439, SAO JOSE DO RIO PRETO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 226000.00  ]]>
         </Description>
         <ListPrice currency="BRL" period="Monthly">142249</ListPrice>
         
@@ -18949,7 +18379,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8444428117911SP</ListingID>
-      <Title>Oportunidade Única em PRAIA GRANDE - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em PRAIA GRANDE - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -18967,9 +18397,9 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <PropertyType>Residential / Apartment</PropertyType>
       
         <Description>
-          <![CDATA[2  Quartos, 1 Vaga na Garagem,  Área de Serviço,  Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelRUA AFONSO DESCRAGNOLLE TAUNAY,N. 1847 APTO. 01, ESMERALDA - CEP: 11713-490, PRAIA GRANDE - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 230000.00  ]]>
+          <![CDATA[2  Quartos, 1 Vaga na Garagem,  Área de Serviço,  Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelRUA AFONSO DESCRAGNOLLE TAUNAY,N. 1847 APTO. 01, ESMERALDA - CEP: 11713-490, PRAIA GRANDE - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 230000.00  ]]>
         </Description>
-        <ListPrice currency="BRL" period="Monthly">139015</ListPrice>
+        <ListPrice currency="BRL" period="Monthly">135539</ListPrice>
         
         
         <UnitFloor/>
