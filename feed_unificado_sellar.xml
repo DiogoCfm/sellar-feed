@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-03-16T01:08:35</Date>
+  <Date>2026-03-16T07:02:10</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE202</ListingID>
@@ -2694,63 +2694,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <StreetNumber>N. 1490</StreetNumber>
         <Complement/>
         <PostalCode>18278-440</PostalCode>
-        <Zone/>
-      </Location>
-      <ContactInfo>
-        <Name> Sellar Representacao e Administracao Imobiliaria LTDA</Name>
-        <Email>diogocobucci@gmail.com</Email>
-        <Website>sellarleiloes.com.br</Website>
-        <Telephone/>
-      </ContactInfo>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>COLIBEX-IMCX8787711814922SP</ListingID>
-      <Title>Oportunidade Única em SUZANO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
-      <TransactionType>For Sale</TransactionType>
-      
-      
-      <Media>
-       
-        <Item medium="video"/> 
-        <Item medium="image" caption="img0" primary="true">https://xml.colibex.com.br/foto/8586012.jpg</Item><Item medium="image" caption="img1">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_c0683aaa_jpg.jpg</Item><Item medium="image" caption="img2">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1744898543159_Pag_Proposta_jpg.jpg</Item><Item medium="image" caption="img3">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_ee7e9b11_jpg.jpg</Item><Item medium="image" caption="img4">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_79b69625_jpg.jpg</Item><Item medium="image" caption="img5">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_38d9222e_jpg.jpg</Item><Item medium="image" caption="img6">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_ba877a96_jpg.jpg</Item>
-        
-        
-        
-
-      </Media>
-      <Details>
-  <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-      
-        <Description>
-          <![CDATA[2  Quartos,  Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelRUA MITSUHARU MATSUSHITA,N. 90 APTO. 504 BL 07, CHACARA ESTANCIA PAULISTA - CEP: 08653-015, SUZANO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 235000.00  ]]>
-        </Description>
-        <ListPrice currency="BRL" period="Monthly">138486</ListPrice>
-        
-        
-        <UnitFloor/>
-        <Suites>0</Suites>
-        <LotArea unit="square metres">97</LotArea>
-        <LivingArea unit="square metres">40</LivingArea>
-        <PropertyAdministrationFee currency="BRL"/>
-        <YearlyTax currency="BRL"/>
-        <YearBuilt/>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Garage type="Parking Space">0</Garage>
-        <Floors/>
-        <Features>
-          
-        </Features>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>SUZANO</City>
-        <Neighborhood>CHACARA ESTANCIA PAULISTA</Neighborhood>
-        <Address>RUA MITSUHARU MATSUSHITA</Address>
-        <StreetNumber>N. 90 APTO. 504 BL 07</StreetNumber>
-        <Complement/>
-        <PostalCode>08653-015</PostalCode>
         <Zone/>
       </Location>
       <ContactInfo>
@@ -11595,63 +11538,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Telephone/>
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>COLIBEX-IMCX1444420779534SP</ListingID>
-      <Title>Oportunidade Única em GUARUJA - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
-      <TransactionType>For Sale</TransactionType>
-      
-      
-      <Media>
-       
-        <Item medium="video"/> 
-        <Item medium="image" caption="img0" primary="true">https://xml.colibex.com.br/foto/16155966.jpg</Item><Item medium="image" caption="img1">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_c0683aaa_jpg.jpg</Item><Item medium="image" caption="img2">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1744898543159_Pag_Proposta_jpg.jpg</Item><Item medium="image" caption="img3">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_ee7e9b11_jpg.jpg</Item><Item medium="image" caption="img4">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_79b69625_jpg.jpg</Item><Item medium="image" caption="img5">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_38d9222e_jpg.jpg</Item><Item medium="image" caption="img6">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_ba877a96_jpg.jpg</Item>
-        
-        
-        
-
-      </Media>
-      <Details>
-  <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-      
-        <Description>
-          <![CDATA[1 Vaga na Garagem,  wc Emp. .Baixar matrícula do imóvelAVENIDA DOS CAICARAS,N. 804 APTO. 51 5º ANDAR, JARDIM LAS PALMAS - CEP: 11420-440, GUARUJA - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Imóvel com gravame/penhora/indisponibilidade averbada na matrícula. Regularização por conta do adquirente. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 655679.25  ]]>
-        </Description>
-        <ListPrice currency="BRL" period="Monthly">386533</ListPrice>
-        
-        
-        <UnitFloor/>
-        <Suites>0</Suites>
-        <LotArea unit="square metres">52</LotArea>
-        <LivingArea unit="square metres">52</LivingArea>
-        <PropertyAdministrationFee currency="BRL"/>
-        <YearlyTax currency="BRL"/>
-        <YearBuilt/>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>1</Bedrooms>
-        <Garage type="Parking Space">1</Garage>
-        <Floors/>
-        <Features>
-          
-        </Features>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>GUARUJA</City>
-        <Neighborhood>JARDIM LAS PALMAS</Neighborhood>
-        <Address>AVENIDA DOS CAICARAS</Address>
-        <StreetNumber>N. 804 APTO. 51 5º ANDAR</StreetNumber>
-        <Complement/>
-        <PostalCode>11420-440</PostalCode>
-        <Zone/>
-      </Location>
-      <ContactInfo>
-        <Name> Sellar Representacao e Administracao Imobiliaria LTDA</Name>
-        <Email>diogocobucci@gmail.com</Email>
-        <Website>sellarleiloes.com.br</Website>
-        <Telephone/>
-      </ContactInfo>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX10217508SP</ListingID>
       <Title>Oportunidade Única em GUARUJA - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
@@ -19860,63 +19746,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Telephone/>
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>COLIBEX-IMCX8787713145513SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
-      <TransactionType>For Sale</TransactionType>
-      
-      
-      <Media>
-       
-        <Item medium="video"/> 
-        <Item medium="image" caption="img0" primary="true">https://xml.colibex.com.br/foto/90284867.jpg</Item><Item medium="image" caption="img1">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_c0683aaa_jpg.jpg</Item><Item medium="image" caption="img2">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1744898543159_Pag_Proposta_jpg.jpg</Item><Item medium="image" caption="img3">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_ee7e9b11_jpg.jpg</Item><Item medium="image" caption="img4">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_79b69625_jpg.jpg</Item><Item medium="image" caption="img5">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_38d9222e_jpg.jpg</Item><Item medium="image" caption="img6">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_ba877a96_jpg.jpg</Item>
-        
-        
-        
-
-      </Media>
-      <Details>
-  <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-      
-        <Description>
-          <![CDATA[.Baixar matrícula do imóvelRUA JOAO DE ARAUJO,N. 830 APTO. 108 TR A,  , VILA DOS ANDRADAS - CEP: 04469-000, SAO PAULO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 259000.00  ]]>
-        </Description>
-        <ListPrice currency="BRL" period="Monthly">158586</ListPrice>
-        
-        
-        <UnitFloor/>
-        <Suites>0</Suites>
-        <LotArea unit="square metres">48</LotArea>
-        <LivingArea unit="square metres">32</LivingArea>
-        <PropertyAdministrationFee currency="BRL"/>
-        <YearlyTax currency="BRL"/>
-        <YearBuilt/>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>1</Bedrooms>
-        <Garage type="Parking Space">0</Garage>
-        <Floors/>
-        <Features>
-          
-        </Features>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>SAO PAULO</City>
-        <Neighborhood>VILA DOS ANDRADAS</Neighborhood>
-        <Address>RUA JOAO DE ARAUJO</Address>
-        <StreetNumber>N. 830 APTO. 108 TR A</StreetNumber>
-        <Complement/>
-        <PostalCode>04469-000</PostalCode>
-        <Zone/>
-      </Location>
-      <ContactInfo>
-        <Name> Sellar Representacao e Administracao Imobiliaria LTDA</Name>
-        <Email>diogocobucci@gmail.com</Email>
-        <Website>sellarleiloes.com.br</Website>
-        <Telephone/>
-      </ContactInfo>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX10006343SP</ListingID>
       <Title>Oportunidade Única em ALVARES MACHADO - SP | Tipo: Imóvel rural | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
@@ -20193,63 +20022,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <StreetNumber>N. 90 APTO. 304 BL 09 VG 79</StreetNumber>
         <Complement/>
         <PostalCode>17518-005</PostalCode>
-        <Zone/>
-      </Location>
-      <ContactInfo>
-        <Name> Sellar Representacao e Administracao Imobiliaria LTDA</Name>
-        <Email>diogocobucci@gmail.com</Email>
-        <Website>sellarleiloes.com.br</Website>
-        <Telephone/>
-      </ContactInfo>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>COLIBEX-IMCX8787708682905SP</ListingID>
-      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
-      <TransactionType>For Sale</TransactionType>
-      
-      
-      <Media>
-       
-        <Item medium="video"/> 
-        <Item medium="image" caption="img0" primary="true">https://xml.colibex.com.br/foto/91597395.jpg</Item><Item medium="image" caption="img1">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_c0683aaa_jpg.jpg</Item><Item medium="image" caption="img2">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1744898543159_Pag_Proposta_jpg.jpg</Item><Item medium="image" caption="img3">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_ee7e9b11_jpg.jpg</Item><Item medium="image" caption="img4">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_79b69625_jpg.jpg</Item><Item medium="image" caption="img5">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_38d9222e_jpg.jpg</Item><Item medium="image" caption="img6">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_ba877a96_jpg.jpg</Item>
-        
-        
-        
-
-      </Media>
-      <Details>
-  <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-      
-        <Description>
-          <![CDATA[2  Quartos,  Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelRUA VICENTE CARDUCHO,N. 249 APTO. 64 BL 03, JARDIM REMO - CEP: 05864-220, SAO PAULO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento. Permite financiamento - somente SBPE. Consulte condições antes de efetuar a proposta.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 250000.00  ]]>
-        </Description>
-        <ListPrice currency="BRL" period="Monthly">153076</ListPrice>
-        
-        
-        <UnitFloor/>
-        <Suites>0</Suites>
-        <LotArea unit="square metres">77</LotArea>
-        <LivingArea unit="square metres">44</LivingArea>
-        <PropertyAdministrationFee currency="BRL"/>
-        <YearlyTax currency="BRL"/>
-        <YearBuilt/>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Garage type="Parking Space">0</Garage>
-        <Floors/>
-        <Features>
-          
-        </Features>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>SAO PAULO</City>
-        <Neighborhood>JARDIM REMO</Neighborhood>
-        <Address>RUA VICENTE CARDUCHO</Address>
-        <StreetNumber>N. 249 APTO. 64 BL 03</StreetNumber>
-        <Complement/>
-        <PostalCode>05864-220</PostalCode>
         <Zone/>
       </Location>
       <ContactInfo>
@@ -24012,6 +23784,63 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <StreetNumber>N. 237 APTO. 04 PNE BL 02 QD P</StreetNumber>
         <Complement/>
         <PostalCode>05550-000</PostalCode>
+        <Zone/>
+      </Location>
+      <ContactInfo>
+        <Name> Sellar Representacao e Administracao Imobiliaria LTDA</Name>
+        <Email>diogocobucci@gmail.com</Email>
+        <Website>sellarleiloes.com.br</Website>
+        <Telephone/>
+      </ContactInfo>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>COLIBEX-IMCX1444406903444SP</ListingID>
+      <Title>Oportunidade Única em SAO PAULO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <TransactionType>For Sale</TransactionType>
+      
+      
+      <Media>
+       
+        <Item medium="video"/> 
+        <Item medium="image" caption="img0" primary="true">https://xml.colibex.com.br/foto/96144573.jpg</Item><Item medium="image" caption="img1">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_c0683aaa_jpg.jpg</Item><Item medium="image" caption="img2">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1744898543159_Pag_Proposta_jpg.jpg</Item><Item medium="image" caption="img3">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_ee7e9b11_jpg.jpg</Item><Item medium="image" caption="img4">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_79b69625_jpg.jpg</Item><Item medium="image" caption="img5">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_38d9222e_jpg.jpg</Item><Item medium="image" caption="img6">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_ba877a96_jpg.jpg</Item>
+        
+        
+        
+
+      </Media>
+      <Details>
+  <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+      
+        <Description>
+          <![CDATA[2  Quartos, 1 Vaga na Garagem,  Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelRUA AVELADA,N. 87 APTO. 402 BL 04 VG 129, JARDIM SANTA TEREZINHA (ZONA LESTE) - CEP: 03572-360, SAO PAULO - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Exclusivamente à vista (somente recursos próprios).REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Imóvel com gravame/penhora/indisponibilidade averbada na matrícula. Regularização por conta do adquirente. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 192000.00  ]]>
+        </Description>
+        <ListPrice currency="BRL" period="Monthly">120849</ListPrice>
+        
+        
+        <UnitFloor/>
+        <Suites>0</Suites>
+        <LotArea unit="square metres">82</LotArea>
+        <LivingArea unit="square metres">41</LivingArea>
+        <PropertyAdministrationFee currency="BRL"/>
+        <YearlyTax currency="BRL"/>
+        <YearBuilt/>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Garage type="Parking Space">1</Garage>
+        <Floors/>
+        <Features>
+          
+        </Features>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>SAO PAULO</City>
+        <Neighborhood>JARDIM SANTA TEREZINHA (ZONA LESTE)</Neighborhood>
+        <Address>RUA AVELADA</Address>
+        <StreetNumber>N. 87 APTO. 402 BL 04 VG 129</StreetNumber>
+        <Complement/>
+        <PostalCode>03572-360</PostalCode>
         <Zone/>
       </Location>
       <ContactInfo>
