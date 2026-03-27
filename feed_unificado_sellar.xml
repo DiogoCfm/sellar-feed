@@ -3,9 +3,102 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-03-26T18:46:20</Date>
+  <Date>2026-03-27T01:07:52</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>VISTA-SE204</ListingID>
+      <ContactInfo>
+        <Email>diogocobucci@gmail.com</Email>
+        <Name>SELLAR ADMINISTRACAO E REPRESENTACAO IMOBILIARIA</Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>5</Bathrooms>
+        <Bedrooms>4</Bedrooms>
+        <Description><![CDATA[Excelente oportunidade de locação na Rua Desembargador do Valle, 821. Este imóvel destaca-se por sua metragem generosa (aproximadamente 300m² de área construída) e uma planta extremamente funcional, adaptável a diversos modelos de negócio ou para uma família que busca espaço e conforto.
+
+O imóvel funcionou como uma clínica nos últimos 5 anos, encontrando-se em ótimo estado de conservação.
+
+Destaques do Imóvel:
+
+Distribuição Interna: São 7 salas amplas no total, sendo 4 suítes que oferecem total privacidade e conveniência.
+
+Banheiros: 5 banheiros estrategicamente distribuídos, além de 1 lavabo.
+
+Áreas de Convivência: Cozinha espaçosa e 3 salas de estar/atendimento adicionais.
+
+Lazer/Externo: Um excelente terraço sobre a garagem, ideal para momentos de descompressão ou área de espera externa.
+
+Vagas: 1 vaga de garagem.
+
+Localização Privilegiada:
+Situado no coração da Vila Romana, em rua de excelente fluxo e visibilidade, facilitando o acesso para clientes e pacientes.
+
+Condições:
+
+Aluguel: R$ 6.500,00
+
+IPTU: R$ 314,00 (mensais)]]></Description>
+        <Garage>1</Garage>
+        <LivingArea>300</LivingArea>
+        <LotArea>250</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Home</PropertyType>
+        <Suites>4</Suites>
+        <YearlyTax>314</YearlyTax>
+        <Features/>
+        <Warranties/>
+        <RentalPrice currency="BRL" period="Monthly">6500</RentalPrice>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Address>Desembargador do Vale</Address>
+        <City><![CDATA[São Paulo]]></City>
+        <Latitude>-23.5298344</Latitude>
+        <Longitude>-46.6885042</Longitude>
+        <Neighborhood><![CDATA[Perdizes]]></Neighborhood>
+        <PostalCode>05010-040</PostalCode>
+        <State abbreviation="SP">São Paulo</State>
+        <StreetNumber>821</StreetNumber>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Amplo Imóvel de 300m² na Vila Romana - Ideal para Clínicas, Escritórios ou Residência]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/204/i2x1g19wT931_20469c5373c2ea4d.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/204/i2x1g19wT931_20469c5373e780a0.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/204/i2x1g19wT931_20469c53740db225.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/204/i2x1g19wT931_20469c537430e0e0.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/204/i2x1g19wT931_20469c53744db2c1.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/204/i2x1g19wT931_20469c53746cbc74.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/204/i2x1g19wT931_20469c53749e8d0b.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/204/i2x1g19wT931_20469c5374cdf954.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/204/i2x1g19wT931_20469c5374f68cf7.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/204/i2x1g19wT931_20469c53751a0abf.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/204/i2x1g19wT931_20469c537543cb6b.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/204/i2x1g19wT931_20469c53756a17c6.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/204/i2x1g19wT931_20469c5375979329.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/204/i2x1g19wT931_20469c5375c20ea8.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/204/i2x1g19wT931_20469c5375ec3a88.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/204/i2x1g19wT931_20469c5376206584.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/204/i2x1g19wT931_20469c537650aa79.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/204/i2x1g19wT931_20469c5376796512.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/204/i2x1g19wT931_20469c5376a24082.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/204/i2x1g19wT931_20469c5376ce2225.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/204/i2x1g19wT931_20469c5376f2ce74.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/204/i2x1g19wT931_20469c537718a3b9.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/204/i2x1g19wT931_20469c5377440892.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/204/i2x1g19wT931_20469c53776ba612.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/204/i2x1g19wT931_20469c537793fd1f.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/204/i2x1g19wT931_20469c5377bcba06.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/204/i2x1g19wT931_20469c5377e256b5.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/204/i2x1g19wT931_20469c537806c85c.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/204/i2x1g19wT931_20469c53782eac12.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/204/i2x1g19wT931_20469c537852e7fd.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/204/i2x1g19wT931_20469c5378771265.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/204/i2x1g19wT931_20469c5378a09a80.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/204/i2x1g19wT931_20469c5378cb9f15.jpg</Item>
+      </Media>
+      <TransactionType>For Rent</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE203</ListingID>
       <ContactInfo>
         <Email>diogocobucci@gmail.com</Email>
@@ -2016,63 +2109,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <StreetNumber>N. 00  QD DV</StreetNumber>
         <Complement/>
         <PostalCode>18774-130</PostalCode>
-        <Zone/>
-      </Location>
-      <ContactInfo>
-        <Name> Sellar Representacao e Administracao Imobiliaria LTDA</Name>
-        <Email>diogocobucci@gmail.com</Email>
-        <Website>sellarleiloes.com.br</Website>
-        <Telephone/>
-      </ContactInfo>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>COLIBEX-IMCX8787709407886SP</ListingID>
-      <Title>Oportunidade Única em AMERICANA - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
-      <TransactionType>For Sale</TransactionType>
-      
-      
-      <Media>
-       
-        <Item medium="video"/> 
-        <Item medium="image" caption="img0" primary="true">https://xml.colibex.com.br/foto/8549634.jpg</Item><Item medium="image" caption="img1">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_c0683aaa_jpg.jpg</Item><Item medium="image" caption="img2">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1744898543159_Pag_Proposta_jpg.jpg</Item><Item medium="image" caption="img3">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_ee7e9b11_jpg.jpg</Item><Item medium="image" caption="img4">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_79b69625_jpg.jpg</Item><Item medium="image" caption="img5">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_38d9222e_jpg.jpg</Item><Item medium="image" caption="img6">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_ba877a96_jpg.jpg</Item>
-        
-        
-        
-
-      </Media>
-      <Details>
-  <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-      
-        <Description>
-          <![CDATA[2  Quartos, 1 Vaga na Garagem,  Wc,  Sala,  Cozinha. .Baixar matrícula do imóvelRUA APARECIDA TOGNETTA BASSETTE,N. 1555 APTO. 04 BL I, BALSA - CEP: 13470-755, AMERICANA - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Recursos próprios. Permite utilização de FGTS. Consulte condições e enquadramento.REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 204000.00  ]]>
-        </Description>
-        <ListPrice currency="BRL" period="Monthly">120217</ListPrice>
-        
-        
-        <UnitFloor/>
-        <Suites>0</Suites>
-        <LotArea unit="square metres">54</LotArea>
-        <LivingArea unit="square metres">49</LivingArea>
-        <PropertyAdministrationFee currency="BRL"/>
-        <YearlyTax currency="BRL"/>
-        <YearBuilt/>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Garage type="Parking Space">1</Garage>
-        <Floors/>
-        <Features>
-          
-        </Features>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>AMERICANA</City>
-        <Neighborhood>BALSA</Neighborhood>
-        <Address>RUA APARECIDA TOGNETTA BASSETTE</Address>
-        <StreetNumber>N. 1555 APTO. 04 BL I</StreetNumber>
-        <Complement/>
-        <PostalCode>13470-755</PostalCode>
         <Zone/>
       </Location>
       <ContactInfo>
@@ -4818,63 +4854,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Telephone/>
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>COLIBEX-IMCX10208970SP</ListingID>
-      <Title>Oportunidade Única em TAMBAU - SP | Tipo: Galpão | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
-      <TransactionType>For Sale</TransactionType>
-      
-      
-      <Media>
-       
-        <Item medium="video"/> 
-        <Item medium="image" caption="img0" primary="true">https://xml.colibex.com.br/foto/8585320.jpg</Item><Item medium="image" caption="img1">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_c0683aaa_jpg.jpg</Item><Item medium="image" caption="img2">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1744898543159_Pag_Proposta_jpg.jpg</Item><Item medium="image" caption="img3">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_ee7e9b11_jpg.jpg</Item><Item medium="image" caption="img4">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_59_79b69625_jpg.jpg</Item><Item medium="image" caption="img5">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_38d9222e_jpg.jpg</Item><Item medium="image" caption="img6">https://arquivos.colibex.com.br/arquivos/90821746/fotospadrao/1758810064140_Imagem_do_WhatsApp_de_2025_09_25_a_s_11_19_58_ba877a96_jpg.jpg</Item>
-        
-        
-        
-
-      </Media>
-      <Details>
-  <UsageType>Commercial</UsageType>
-        <PropertyType>Commercial / Industrial</PropertyType>
-      
-        <Description>
-          <![CDATA[Código de Imóvel nº 7726. Imóvel Gravado Com Uma Servidão de Águas Pluviais, Coletora de Esgoto e Abastecimento de Água, Conforme R.1 da Matrícula. Existem Duas Servidões de Passagem, Gravadas no R.3 e R.4 da Matrícula.Baixar matrícula do imóvelAVENIDA JOSÉ GATTO,N. 1274  GLEBA 05, JARDIM ELITE         - CEP: 13710-000, TAMBAU - SAO PAULOFORMAS DE PAGAMENTO ACEITAS: Exclusivamente à vista (somente recursos próprios).REGRAS PARA PAGAMENTO DAS DESPESAS (caso existam): Condomínio: Sob responsabilidade do comprador, até o limite de 10% em relação ao valor de avaliação do imóvel. A CAIXA realizará o pagamento apenas do valor que exceder o limite de 10% do valor de avaliação. Tributos: Sob responsabilidade do comprador. Corretores credenciados Somos a Sellar Imóveis (CRECI 47244-J), empresa credenciada junto à CAIXA ECONÔMICA FEDERAL, especializada na intermediação de imóveis retomados com descontos exclusivos. &lt;br&gt;  &lt;br&gt;  &lt;br&gt; Segurança Jurídica: Possuímos departamento especializado para auxiliar você do início ao fim do processo. &lt;br&gt;  &lt;br&gt; DIFERENCIAL EXCLUSIVO: Se o imóvel estiver ocupado, ao nos indicar para a intermediação na Etapa 3 da sua proposta online, os honorários advocatícios para a ação de IMISSÃO NA POSSE são por nossa conta! &lt;br&gt;  &lt;br&gt; Visitas: Por estarem ocupados, a maioria dos imóveis não permite visitação interna. &lt;br&gt;  &lt;br&gt; Regras de Venda: Não aceitamos permutas ou contrapropostas. Verifique se o imóvel aceita financiamento ou apenas pagamento à vista. &lt;br&gt;  &lt;br&gt; Garanta sua assessoria gratuita indicando a Sellar (CRECI 47244-J) em sua proposta. &lt;br&gt;  &lt;br&gt; Contato via WhatsApp: (11) 976036193 Valor avalidação : R$ 3900000.00  ]]>
-        </Description>
-        <ListPrice currency="BRL" period="Monthly">2381337</ListPrice>
-        
-        
-        <UnitFloor/>
-        <Suites>0</Suites>
-        <LotArea unit="square metres">2525</LotArea>
-        <LivingArea unit="square metres">2613</LivingArea>
-        <PropertyAdministrationFee currency="BRL"/>
-        <YearlyTax currency="BRL"/>
-        <YearBuilt/>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>1</Bedrooms>
-        <Garage type="Parking Space">0</Garage>
-        <Floors/>
-        <Features>
-          
-        </Features>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>TAMBAU</City>
-        <Neighborhood>JARDIM ELITE</Neighborhood>
-        <Address>AVENIDA JOSÉ GATTO</Address>
-        <StreetNumber>N. 1274  GLEBA 05</StreetNumber>
-        <Complement/>
-        <PostalCode>13710-000</PostalCode>
-        <Zone/>
-      </Location>
-      <ContactInfo>
-        <Name> Sellar Representacao e Administracao Imobiliaria LTDA</Name>
-        <Email>diogocobucci@gmail.com</Email>
-        <Website>sellarleiloes.com.br</Website>
-        <Telephone/>
-      </ContactInfo>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX10211720SP</ListingID>
       <Title>Oportunidade Única em SOROCABA - SP | Tipo: Terreno | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
@@ -7042,7 +7021,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787714557599SP</ListingID>
-      <Title>Oportunidade Única em SAO JOSE DO RIO PRETO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SAO JOSE DO RIO PRETO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -9778,7 +9757,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787715349337SP</ListingID>
-      <Title>Oportunidade Única em BAURU - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em BAURU - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -9835,7 +9814,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787716759997SP</ListingID>
-      <Title>Oportunidade Única em RIBEIRAO PRETO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em RIBEIRAO PRETO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -9892,7 +9871,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787702327488SP</ListingID>
-      <Title>Oportunidade Única em RIBEIRAO PRETO - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em RIBEIRAO PRETO - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -9949,7 +9928,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX10217508SP</ListingID>
-      <Title>Oportunidade Única em GUARUJA - SP | Tipo: Casa | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em GUARUJA - SP | Tipo: Casa | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -10006,7 +9985,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8555513425058SP</ListingID>
-      <Title>Oportunidade Única em FERRAZ DE VASCONCELOS - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em FERRAZ DE VASCONCELOS - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -10063,7 +10042,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8555514748993SP</ListingID>
-      <Title>Oportunidade Única em SUMARE - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SUMARE - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -10177,7 +10156,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8027190090877SP</ListingID>
-      <Title>Oportunidade Única em COTIA - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em COTIA - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -10234,7 +10213,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787710583978SP</ListingID>
-      <Title>Oportunidade Única em SUMARE - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em SUMARE - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -11260,7 +11239,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </ContactInfo>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>COLIBEX-IMCX8787711113525SP</ListingID>
-      <Title>Oportunidade Única em GUARULHOS - SP | Tipo: Apartamento | Negociação: Venda Online  | Situação: Imóvel </Title>
+      <Title>Oportunidade Única em GUARULHOS - SP | Tipo: Apartamento | Negociação: Venda Direta Online  | Situação: Imóvel </Title>
       <TransactionType>For Sale</TransactionType>
       
       
@@ -14414,11 +14393,11 @@ Em resumo, essa casa sobrado na Vila Ipojuca combina conforto, funcionalidade e 
             <PublicationType>STANDARD</PublicationType>
             <Details>
                 <YearBuilt>1957</YearBuilt>
-                <ListPrice currency="BRL">2800000</ListPrice>
-                <PropertyAdministrationFee currency="BRL">2887</PropertyAdministrationFee>
-                <YearlyTax currency="BRL">6767</YearlyTax>
+                <ListPrice currency="BRL">3000000</ListPrice>
+                <PropertyAdministrationFee currency="BRL">3100</PropertyAdministrationFee>
+                <YearlyTax currency="BRL">8180</YearlyTax>
                 <Description><![CDATA[Descubra um oásis de conforto numa das regiões mais disputadas, alto astral e charmosas de São Paulo!
-Localizado na prestigiada Rua Oscar Freire,1500, o Paramaribo tem 47 anos de história e é composto por uma torre única. Sua estrutura sólida e bem conservada reflete a qualidade da construção e um cuidado moderno na manutenção. São 224m² de área útil, distribuídos em um living superamplo, quatro quartos, sendo duas suítes, e um total de cinco banheiros, incluindo um lavabo. A cozinha e a copa formam um ambiente de convívio excepcional, voltado para a natureza e com luz ímpar. As áreas molhadas oferecem uma vista encantadora para o jardim do Hospital das Clínicas. O imóvel inclui duas vagas demarcadas e fixas na garagem. O prédio conta com um solário e churrasqueira no rooftop, ideal para momentos de lazer e descontração. É uma torre única com dois blocos separados e um apartamento por andar em cada um. 
+Localizado na prestigiada Rua Oscar Freire 1500, o Paramaribo tem 47 anos de história e é composto por uma torre única. Sua estrutura sólida e bem conservada reflete a qualidade da construção e um cuidado moderno na manutenção. São 224m² de área útil, distribuídos em um living superamplo, quatro quartos, sendo duas suítes, e um total de cinco banheiros, incluindo um lavabo. A cozinha e a copa formam um ambiente de convívio excepcional, voltado para a natureza e com luz ímpar. As áreas molhadas oferecem uma vista encantadora para o jardim do Hospital das Clínicas. O imóvel inclui duas vagas demarcadas e fixas na garagem. O prédio conta com um solário e churrasqueira no rooftop, ideal para momentos de lazer e descontração. É uma torre única com dois blocos separados e um apartamento por andar em cada um. 
 O apartamento em si tem toda sua rede elétrica e hidráulica bem como os pisos dos banheiros, cozinha e área de serviço reformados. É extremamente silencioso e voltado para o verde. Nele vive uma família de profissionais da moda e da música, sendo que conta com um estúdio a prova de som instalado no espaço dos quartos de serviço e um imenso closet na suíte ampliada do casal. A localização na Rua Oscar Freire coloca você no coração de Pinheiros e dos Jardins, bairros reconhecidos por sua vibrante vida cultural e social. No caso, o grande diferencial também é o fácil acesso ao transporte público, com uma estação de metrô a 2mn, ônibus e taxis em profusão. 
 A região é cercada por uma ampla gama de serviços e comércios de alta qualidade, e inúmeras opções de lazer em cinemas, teatros e museus como o Masp e o MIS.  Hotéis de primeira linha como o Rosewood, o Renaisssance, o Emiliano e o Fasano, restaurantes renomados como Rodeio, Gero, 348, Figueira entre tantos outros estão a poucos minutos de distância, oferecendo experiências incomparáveis. Para as necessidades diárias e compras, o melhor da cidade fica também a poucos minutos - supermercados como Santa Luzia, St Marché e Mambo, inúmeros cafés como o Sto Grão e o Astor, padarias como a Galeria dos Pães, alto luxo no Shopping CJ e a Livraria da Vila sempre animada. A proximidade do Hospital das Clínicas e de muitos outros como o Sírio Libanês e o Hospital do Coração proporciona tranquilidade e conveniência em termos de excelência em serviços de saúde. Para as famílias, a região oferece excelentes opções educacionais, incluindo as renomadas Escola Peretz e o Colégio Dante Alighieri bem como instituições de ensino superior como a Universidade de São Paulo (USP) e a Fundação Getúlio Vargas (FGV). Os amantes da natureza e do ar livre podem desfrutar de áreas planas e arborizadas para passear e caminhar como na Av. Brasil, no Jardim Paulistano ou no Jardim Europa.]]></Description>
                 <PropertyType>Residential / Apartment</PropertyType>
@@ -49801,7 +49780,7 @@ A gastronomia é uma celebração ao seu redor: da tradicional Lellis Trattoria 
                 <YearBuilt>1985</YearBuilt>
                 <ListPrice currency="BRL">2150000</ListPrice>
                 <PropertyAdministrationFee currency="BRL">3465</PropertyAdministrationFee>
-                <YearlyTax currency="BRL">12426</YearlyTax>
+                <YearlyTax currency="BRL">14077</YearlyTax>
                 <Description><![CDATA[Apartamento Lindo em  Perdizes!
 
 Descubra o privilégio de morar em um apartamento amplo, bem iluminado, totalmente reformado, ar condicionado e móveis planejados em todos os ambientes. Localização excelente no melhor de Perdizes.  Ideal para pessoas que valorizam conforto, praticidade e espaço!
@@ -55283,7 +55262,7 @@ Transforme a Rua Pereira Leite no novo endereço da sua empresa!]]></Description
             <PublicationType>STANDARD</PublicationType>
             <Details>
                 <YearBuilt>1960</YearBuilt>
-                <ListPrice currency="BRL">785000</ListPrice>
+                <ListPrice currency="BRL">749000</ListPrice>
                 <PropertyAdministrationFee currency="BRL">1430</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">0</YearlyTax>
                 <Description><![CDATA[🌳 Encanto e Charme em Cada Detalhe: Seu Novo Lar ao Lado do Metrô Clínicas!
@@ -56342,7 +56321,7 @@ Não perca essa oportunidade única! Agende agora mesmo uma visita e venha conhe
             <PublicationType>STANDARD</PublicationType>
             <Details>
                 <YearBuilt>1998</YearBuilt>
-                <ListPrice currency="BRL">770000</ListPrice>
+                <ListPrice currency="BRL">740000</ListPrice>
                 <PropertyAdministrationFee currency="BRL">1042</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">1956</YearlyTax>
                 <Description><![CDATA[Descubra o prazer de viver com conforto, praticidade e elegância neste lindo apartamento de 70,23m², cuidadosamente projetado para oferecer bem-estar em cada ambiente. À venda por R$ 800.000,00, este imóvel une modernidade, funcionalidade e uma localização privilegiada na charmosa Vila Leopoldina.
@@ -80846,7 +80825,7 @@ A proximidade com Jardim Vertical, Estação Marechal Deodoro, Instituto Naciona
             <PublicationType>STANDARD</PublicationType>
             <Details>
                 <YearBuilt>1996</YearBuilt>
-                <ListPrice currency="BRL">2600000</ListPrice>
+                <ListPrice currency="BRL">2380000</ListPrice>
                 <PropertyAdministrationFee currency="BRL">2500</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">20000</YearlyTax>
                 <Description><![CDATA[Oportunidade incrível de adquirir um apartamento no Jequitibá, localizado nas Perdizes, São Paulo. Com 191 m² de área privativa, este imóvel oferece conforto e sofisticação, contando com 3 dormitórios + 1 reversível, 3 suítes e 4 banheiros sociais + 1 empregada. Ideal para quem busca qualidade de vida em uma região privilegiada, o apartamento também dispõe de 3 vagas de garagem. Não perca a chance de morar em um dos bairros mais desejados da cidade!]]></Description>
@@ -85816,144 +85795,6 @@ Rua plana e arborizada, com ampla oferta de comércio, restaurantes, escolas e s
                 <UsageType>Residential</UsageType>
             </Details>
         </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-            <ListingID>NONSTOP-sellarimoveis#7ND1N</ListingID>
-            <Title><![CDATA[Apartamento para venda em Pinheiros com 1 quarto , 40m²]]></Title>
-            <TransactionType>For Sale</TransactionType>
-            <Location displayAddress="All">
-                <Country abbreviation="BR">Brasil</Country>
-                <State abbreviation="SP"><![CDATA[São Paulo]]></State>
-                <City><![CDATA[São Paulo]]></City>
-                <Neighborhood><![CDATA[Pinheiros]]></Neighborhood>
-                <Address><![CDATA[Avenida Rebouças]]></Address>
-                <StreetNumber><![CDATA[2636]]></StreetNumber>
-                <Complement><![CDATA[1502]]></Complement>
-                <PostalCode>05402-400</PostalCode>
-                <Longitude>-46.6849172</Longitude>
-                <Latitude>-23.5677103</Latitude>
-            </Location>
-            <Media>
-                <Item medium="image" caption="ee11118a-5ef7-432e-8a16-12d699862167" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/ee11118a-5ef7-432e-8a16-12d699862167.jpeg]]></Item>
-                <Item medium="image" caption="14640c08-9956-4ae6-a5d1-668492cdb048" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/14640c08-9956-4ae6-a5d1-668492cdb048.jpeg]]></Item>
-                <Item medium="image" caption="a4e7e9de-2bb6-4cb7-90c5-a01d87788876" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/a4e7e9de-2bb6-4cb7-90c5-a01d87788876.jpeg]]></Item>
-                <Item medium="image" caption="d2f9a58a-c37e-4d1c-b937-18825b0c5aa9" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/d2f9a58a-c37e-4d1c-b937-18825b0c5aa9.jpeg]]></Item>
-                <Item medium="image" caption="c8baf1ec-18db-4725-9dc1-a6ef7da9bf48" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/c8baf1ec-18db-4725-9dc1-a6ef7da9bf48.jpeg]]></Item>
-                <Item medium="image" caption="65e6a86a-1be1-46d6-963f-5b3c372bca19" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/65e6a86a-1be1-46d6-963f-5b3c372bca19.jpeg]]></Item>
-                <Item medium="image" caption="6d402a4c-548d-4c09-a08b-460422cdf02b" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/6d402a4c-548d-4c09-a08b-460422cdf02b.jpeg]]></Item>
-                <Item medium="image" caption="a66f4d91-71c8-4a36-b888-f72b485cf4ec" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/a66f4d91-71c8-4a36-b888-f72b485cf4ec.jpeg]]></Item>
-                <Item medium="image" caption="af2a7ef3-f116-4e06-813b-5711d63df374" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/af2a7ef3-f116-4e06-813b-5711d63df374.jpeg]]></Item>
-                <Item medium="image" caption="6b7b3bed-0ff6-46d3-980c-17b8c1c85efc" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/6b7b3bed-0ff6-46d3-980c-17b8c1c85efc.jpeg]]></Item>
-                <Item medium="image" caption="4b105bf5-b720-4ddd-87f2-ea465e1a4cbe" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/4b105bf5-b720-4ddd-87f2-ea465e1a4cbe.jpeg]]></Item>
-                <Item medium="image" caption="f743087c-c4b0-4eae-92ee-8b36babae7b3" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/f743087c-c4b0-4eae-92ee-8b36babae7b3.jpeg]]></Item>
-                <Item medium="image" caption="0417bbd7-7e0d-45a1-b274-ba081db35e7f" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/0417bbd7-7e0d-45a1-b274-ba081db35e7f.jpeg]]></Item>
-                <Item medium="image" caption="077c65c8-559c-47a6-8c9d-ddf592591629" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/077c65c8-559c-47a6-8c9d-ddf592591629.jpeg]]></Item>
-                <Item medium="image" caption="f10268dc-c9f7-4f0d-b1b8-73696b4cb9c4" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/f10268dc-c9f7-4f0d-b1b8-73696b4cb9c4.jpeg]]></Item>
-                <Item medium="image" caption="c78a4a78-bf08-405f-9566-eb4f85afa631" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/c78a4a78-bf08-405f-9566-eb4f85afa631.jpeg]]></Item>
-                <Item medium="image" caption="04407172-38e0-4732-ac9a-c90dd3f739c0" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/04407172-38e0-4732-ac9a-c90dd3f739c0.jpeg]]></Item>
-                <Item medium="image" caption="80991e34-5e6b-4abb-b699-ee0d508dbcee" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/80991e34-5e6b-4abb-b699-ee0d508dbcee.jpeg]]></Item>
-                <Item medium="image" caption="eaac4aad-62da-4d62-915a-78731142e700" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/eaac4aad-62da-4d62-915a-78731142e700.jpeg]]></Item>
-                <Item medium="image" caption="d35fc131-f794-4477-adfb-f686031fdc59" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/d35fc131-f794-4477-adfb-f686031fdc59.jpeg]]></Item>
-                <Item medium="image" caption="53d0034d-a72e-42d1-ab22-96b079af8add" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/53d0034d-a72e-42d1-ab22-96b079af8add.jpeg]]></Item>
-                <Item medium="image" caption="2678e1cd-6352-4531-9fed-6ab1632b66c1" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/2678e1cd-6352-4531-9fed-6ab1632b66c1.jpeg]]></Item>
-                <Item medium="image" caption="3fccc728-3d6a-4f5e-aec7-1e9c677ef45f" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/3fccc728-3d6a-4f5e-aec7-1e9c677ef45f.jpeg]]></Item>
-                <Item medium="image" caption="b3fc15ee-f46d-4d29-acfd-7b2cbec904ea" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/b3fc15ee-f46d-4d29-acfd-7b2cbec904ea.jpeg]]></Item>
-                <Item medium="image" caption="cefd6e07-c7e9-449e-8337-cf3a20d01a46" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/cefd6e07-c7e9-449e-8337-cf3a20d01a46.jpeg]]></Item>
-                <Item medium="image" caption="6b8c3304-6bd2-4a2f-8562-ca5449bf57aa" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/6b8c3304-6bd2-4a2f-8562-ca5449bf57aa.jpeg]]></Item>
-                <Item medium="image" caption="e2e4c265-e241-4811-a807-d1c19130321d" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/e2e4c265-e241-4811-a807-d1c19130321d.jpeg]]></Item>
-                <Item medium="image" caption="1c4f8a8e-92ea-4118-9a2a-1605df49c589" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/1c4f8a8e-92ea-4118-9a2a-1605df49c589.jpeg]]></Item>
-                <Item medium="image" caption="c7fa7b89-d52d-464c-a23e-e6b66a5096a7" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/c7fa7b89-d52d-464c-a23e-e6b66a5096a7.jpeg]]></Item>
-                <Item medium="image" caption="6cdf6ffe-3252-4f0a-b092-da48662a969e" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/6cdf6ffe-3252-4f0a-b092-da48662a969e.jpeg]]></Item>
-                <Item medium="image" caption="530c26ec-5ae3-4532-af15-e0951a282767" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/530c26ec-5ae3-4532-af15-e0951a282767.jpeg]]></Item>
-                <Item medium="image" caption="3d5ff27b-1fd5-4398-937c-5fdbce806a61" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/3d5ff27b-1fd5-4398-937c-5fdbce806a61.jpeg]]></Item>
-                <Item medium="image" caption="2c419b42-3b05-40c3-baca-3e57a904322b" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/2c419b42-3b05-40c3-baca-3e57a904322b.jpeg]]></Item>
-                <Item medium="image" caption="a6bcdb76-9dca-4bac-9b1b-ab7fd34590b6" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/a6bcdb76-9dca-4bac-9b1b-ab7fd34590b6.jpeg]]></Item>
-                <Item medium="image" caption="6c3d6da9-e25c-4ca8-bdab-65acbf1e3498" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/6c3d6da9-e25c-4ca8-bdab-65acbf1e3498.jpeg]]></Item>
-                <Item medium="image" caption="8c26638e-7323-4cd3-8d88-3392dbe56705" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/8c26638e-7323-4cd3-8d88-3392dbe56705.jpeg]]></Item>
-                <Item medium="image" caption="257d46bc-b6d5-4064-8ee0-ec46ac0bdf90" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/257d46bc-b6d5-4064-8ee0-ec46ac0bdf90.jpeg]]></Item>
-                <Item medium="image" caption="d48403c7-a25d-48eb-8311-7155176f56ad" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/d48403c7-a25d-48eb-8311-7155176f56ad.jpeg]]></Item>
-                <Item medium="image" caption="fd3f66c7-ff66-4d44-a8a8-086d01c2112d" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/fd3f66c7-ff66-4d44-a8a8-086d01c2112d.jpeg]]></Item>
-                <Item medium="image" caption="ec3e6c72-ca06-4f32-ab82-9a885f4b0df2" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/ec3e6c72-ca06-4f32-ab82-9a885f4b0df2.jpeg]]></Item>
-                <Item medium="image" caption="65f3dcbf-e390-42cb-bc75-be1706af9aa3" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/65f3dcbf-e390-42cb-bc75-be1706af9aa3.jpeg]]></Item>
-                <Item medium="image" caption="b3ca8d8d-0f46-442d-8039-6a18271de30d" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/b3ca8d8d-0f46-442d-8039-6a18271de30d.jpeg]]></Item>
-                <Item medium="image" caption="3ab5ef7e-7324-4434-af10-8c42b5b21576" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/3ab5ef7e-7324-4434-af10-8c42b5b21576.jpeg]]></Item>
-                <Item medium="image" caption="c92aa07d-edc6-4c77-b830-c3228bf3dd94" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/c92aa07d-edc6-4c77-b830-c3228bf3dd94.jpeg]]></Item>
-                <Item medium="image" caption="5ea4f8c7-f1f7-4fa0-bd6c-5417bb85f4be" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/5ea4f8c7-f1f7-4fa0-bd6c-5417bb85f4be.jpeg]]></Item>
-                <Item medium="image" caption="2590102f-dd13-402e-9e37-b3fe0f3cf896" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/2590102f-dd13-402e-9e37-b3fe0f3cf896.jpeg]]></Item>
-                <Item medium="image" caption="5e00b3bb-68a2-4365-a9d5-3b720d19d097" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/5e00b3bb-68a2-4365-a9d5-3b720d19d097.jpeg]]></Item>
-                <Item medium="image" caption="b780ba21-9932-44aa-88a3-468fd38e820f" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/b780ba21-9932-44aa-88a3-468fd38e820f.jpeg]]></Item>
-                <Item medium="image" caption="6d8762d2-4c15-48f7-8264-d81096152c06" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/6d8762d2-4c15-48f7-8264-d81096152c06.jpeg]]></Item>
-                <Item medium="image" caption="4dc0ad31-96d8-4b19-b6de-ecfe531cd996" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/4dc0ad31-96d8-4b19-b6de-ecfe531cd996.jpeg]]></Item>
-                <Item medium="image" caption="3b2fcae5-5579-469e-b91d-2980ee5d7048" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/3b2fcae5-5579-469e-b91d-2980ee5d7048.jpeg]]></Item>
-                <Item medium="image" caption="11efd84c-faab-4e94-b09e-46cacf2f8d70" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/11efd84c-faab-4e94-b09e-46cacf2f8d70.jpeg]]></Item>
-                <Item medium="image" caption="0d49e22d-5b60-42ae-8f44-499b7a88412e" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/0d49e22d-5b60-42ae-8f44-499b7a88412e.jpeg]]></Item>
-                <Item medium="image" caption="e1b0cc9a-93a6-4246-bb81-1b7fa5a9a19d" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/e1b0cc9a-93a6-4246-bb81-1b7fa5a9a19d.jpeg]]></Item>
-                <Item medium="image" caption="c9ef4a91-8baa-4a51-809e-647e78485f72" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/c9ef4a91-8baa-4a51-809e-647e78485f72.jpeg]]></Item>
-                <Item medium="image" caption="cf325298-b779-4cf4-b322-7431d3653d21" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/cf325298-b779-4cf4-b322-7431d3653d21.jpeg]]></Item>
-                <Item medium="image" caption="a4c5e7a6-0619-4d63-bae4-77a74df6aca6" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/a4c5e7a6-0619-4d63-bae4-77a74df6aca6.jpeg]]></Item>
-                <Item medium="image" caption="247845d9-2f6e-41d4-aa08-dc81d591e859" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/247845d9-2f6e-41d4-aa08-dc81d591e859.jpeg]]></Item>
-                <Item medium="image" caption="738ac441-ab6c-4a2c-99b9-59e0f0d99667" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/738ac441-ab6c-4a2c-99b9-59e0f0d99667.jpeg]]></Item>
-                <Item medium="image" caption="11d4e213-f8c4-4ba9-9f03-ca092d0cbcbd" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/699f3b6c1666f194b36f7992/images/11d4e213-f8c4-4ba9-9f03-ca092d0cbcbd.jpeg]]></Item>
-            </Media>
-            <PublicationType>STANDARD</PublicationType>
-            <Details>
-                <YearBuilt>2021</YearBuilt>
-                <ListPrice currency="BRL">1100000</ListPrice>
-                <PropertyAdministrationFee currency="BRL">1218</PropertyAdministrationFee>
-                <YearlyTax currency="BRL">398</YearlyTax>
-                <Description><![CDATA[Uma verdadeira joia urbana no coração de Pinheiros.
-
-Este apartamento de 40m² une sofisticação, funcionalidade e localização privilegiada em um dos endereços mais desejados de São Paulo. Com varanda e vista livre, ar-condicionado e armários planejados, o imóvel oferece excelente luminosidade natural e uma atmosfera contemporânea, ideal para quem valoriza design, praticidade e qualidade de vida.
-Cada metro foi pensado para proporcionar conforto e elegância, em um layout inteligente que integra os ambientes com harmonia e equilíbrio.
-
-Diferenciais do imóvel:
-
-✔ 40m² muito bem distribuídos
-✔ Varanda com vista livre
-✔ 1 vaga de garagem
-✔ Planta moderna e funcional
-✔ Excelente padrão construtivo
-Estrutura de Lazer no Empreendimento
-	 Piscina e Solarium
-	Lounge / espaço para relaxar
-	 Academia 
-	 Salão de festas 
-	 Brinquedoteca 
-	 Lavanderia OMO no prédio 
-	 Churrasqueira e Espaço Gourmet 
-	 Vista 360° da cidade
-	 Minimercado 
-	 Bicicletário
-
-Um condomínio que eleva a experiência de morar. O empreendimento oferece infraestrutura completa de lazer, segurança e conveniência. No próprio complexo, você conta com restaurantes renomados e um hotel Ibis, trazendo ainda mais praticidade e valorização ao endereço.
-Viver aqui é ter serviços e mobilidade literalmente aos seus pés.
-
-👉 O Helbor Wide oferece conveniência gastronômica através do seu mall comercial no térreo, enquanto a cena gastronômica mais completa está nas ruas e bairros ao redor  um dos grandes atrativos do Pinheiros, com muitas opções de cafés, bares e restaurantes a poucos passos de do condomínio.
-
-Pinheiros é um dos principais polos gastronômicos de São Paulo, com inúmeros bares, cafés, pizzarias e lugares com culinária do mundo inteiro  muitos recomendados por moradores locais nas ruas dos Pinheiros, Cardeal Arcoverde e Pais Leme.  
-
-Com fácil acesso às principais vias da cidade e apenas 3 a 5 minutos a pé da Estação de Metrô Fradique Coutinho, é ideal para morar com sofisticação ou investir com alta liquidez em uma das regiões mais valorizadas da capital.
-
- Agende sua visita agora mesmo!]]></Description>
-                <PropertyType>Residential / Apartment</PropertyType>
-                <LivingArea unit="square metres">40</LivingArea>
-                <Features>
-                    <Feature>BBQ</Feature>
-                    <Feature>Balcony</Feature>
-                    <Feature>Bicycles Place</Feature>
-                    <Feature>Elevator</Feature>
-                    <Feature>Gourmet Area</Feature>
-                    <Feature>Gym</Feature>
-                    <Feature>Party Room</Feature>
-                    <Feature>Pets Allowed</Feature>
-                    <Feature>Playground</Feature>
-                    <Feature>Recreation Area</Feature>
-                </Features>
-                <Bathrooms>1</Bathrooms>
-                <Bedrooms>1</Bedrooms>
-                <Garage>1</Garage>
-                <UnitFloor>15</UnitFloor>
-                <UsageType>Residential</UsageType>
-            </Details>
-        </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
             <ListingID>NONSTOP-sellarimoveis#GPIMW</ListingID>
             <Title><![CDATA[Casa para venda em Vila Leopoldina com 2 quartos , 105m²]]></Title>
             <TransactionType>For Sale</TransactionType>
@@ -88304,7 +88145,7 @@ Imóvel localizado em Pinheiros, Zona Oeste de São Paulo, próximo a estação 
                 <Neighborhood><![CDATA[Pinheiros]]></Neighborhood>
                 <Address><![CDATA[Rua Oscar Freire]]></Address>
                 <StreetNumber><![CDATA[1375]]></StreetNumber>
-                <Complement><![CDATA[1002]]></Complement>
+                <Complement><![CDATA[Apto 1002]]></Complement>
                 <PostalCode>05409-010</PostalCode>
                 <Longitude>-46.6725522</Longitude>
                 <Latitude>-23.5599994</Latitude>
