@@ -9,7 +9,7 @@ ini_set('memory_limit', '512M');
 // 1. CONFIGURAÇÃO DOS SEUS FEEDS REAIS
 $feeds = [
     'VISTA'   => 'https://sellarad-portais.vistahost.com.br/c14792e618901803a97153fd732ae2b7',
-    'COLIBEX' => 'https://xml.colibex.com.br/portais/76cfaa9f56f8dc7e74a4f9f87979a6f56c0e6925.xml',
+    'Caixa.Sellar' => 'https://caixa.sellarimoveis.com.br/imoveis/72140b938c5d66ba34cf2805/xml',
     'NONSTOP' => 'https://www.usenonstop.com/integracoes/zap/sellarimoveis',
 ];
 
