@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-04-01T18:41:44</Date>
+  <Date>2026-04-02T01:06:23</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE204</ListingID>
@@ -590,8 +590,8 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Bedrooms>0</Bedrooms>
         <Description><![CDATA[Terreno, 0.00 de área total, 0.00 de área privativa, 6200.00 de área do terreno.]]></Description>
         <Garage>0</Garage>
-        <LivingArea>0</LivingArea>
-        <LotArea>0</LotArea>
+        <LivingArea>6200</LivingArea>
+        <LotArea>6200</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
         <PropertyType>Residential / Land</PropertyType>
         <Suites>0</Suites>
@@ -629,8 +629,8 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Bedrooms>0</Bedrooms>
         <Description><![CDATA[Terreno, 0.00 de área total, 0.00 de área privativa, 555.67 de área do terreno.]]></Description>
         <Garage>0</Garage>
-        <LivingArea>0</LivingArea>
-        <LotArea>0</LotArea>
+        <LivingArea>555.67</LivingArea>
+        <LotArea>555.67</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
         <PropertyType>Residential / Land</PropertyType>
         <Suites>0</Suites>
@@ -668,8 +668,8 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Bedrooms>0</Bedrooms>
         <Description><![CDATA[Comercial, 0.00 de área total, 0.00 de área privativa, 681.20 de área do terreno, WC.]]></Description>
         <Garage>0</Garage>
-        <LivingArea>0</LivingArea>
-        <LotArea>0</LotArea>
+        <LivingArea>681.2</LivingArea>
+        <LotArea>681.2</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
         <PropertyType>Residential / Land</PropertyType>
         <Suites>0</Suites>
@@ -707,8 +707,8 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Bedrooms>0</Bedrooms>
         <Description><![CDATA[Terreno, 0.00 de área total, 0.00 de área privativa, 1695.24 de área do terreno.]]></Description>
         <Garage>0</Garage>
-        <LivingArea>0</LivingArea>
-        <LotArea>0</LotArea>
+        <LivingArea>1695.24</LivingArea>
+        <LotArea>1695.24</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
         <PropertyType>Residential / Land</PropertyType>
         <Suites>0</Suites>
@@ -747,7 +747,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Description><![CDATA[Comercial, 0.00 de área total, 1545.51 de área privativa, 1450.00 de área do terreno.]]></Description>
         <Garage>0</Garage>
         <LivingArea>1545.51</LivingArea>
-        <LotArea>1545.51</LotArea>
+        <LotArea>1450</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
         <PropertyType>Residential / Land</PropertyType>
         <Suites>0</Suites>
@@ -786,7 +786,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Description><![CDATA[Imóvel rural, 0.00 de área total, 886.00 de área privativa, 20000.00 de área do terreno, WC, 1 sala(s).]]></Description>
         <Garage>0</Garage>
         <LivingArea>886</LivingArea>
-        <LotArea>886</LotArea>
+        <LotArea>20000</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
         <PropertyType>Residential / Land</PropertyType>
         <Suites>0</Suites>
@@ -825,7 +825,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Description><![CDATA[Casa, 0.00 de área total, 187.43 de área privativa, 100.00 de área do terreno,  4 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.]]></Description>
         <Garage>1</Garage>
         <LivingArea>187.43</LivingArea>
-        <LotArea>187.43</LotArea>
+        <LotArea>100</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
         <PropertyType>Residential / Home</PropertyType>
         <Suites>0</Suites>
@@ -863,8 +863,8 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Bedrooms>0</Bedrooms>
         <Description><![CDATA[Terreno, 0.00 de área total, 0.00 de área privativa, 4238.00 de área do terreno.]]></Description>
         <Garage>0</Garage>
-        <LivingArea>0</LivingArea>
-        <LotArea>0</LotArea>
+        <LivingArea>4238</LivingArea>
+        <LotArea>4238</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
         <PropertyType>Residential / Land</PropertyType>
         <Suites>0</Suites>
@@ -903,7 +903,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Description><![CDATA[Casa, 0.00 de área total, 43.12 de área privativa, 211.49 de área do terreno,  3 qto(s), WC, WC Emp, 5 sala(s), 1 lavabo(s), DCE, cozinha, 4 vaga(s) de garagem.]]></Description>
         <Garage>4</Garage>
         <LivingArea>43.12</LivingArea>
-        <LotArea>43.12</LotArea>
+        <LotArea>211.49</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
         <PropertyType>Residential / Home</PropertyType>
         <Suites>0</Suites>
@@ -1020,7 +1020,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Description><![CDATA[Casa, 0.00 de área total, 222.00 de área privativa, 130.00 de área do terreno,  3 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco, 2 vaga(s) de garagem.]]></Description>
         <Garage>2</Garage>
         <LivingArea>222</LivingArea>
-        <LotArea>222</LotArea>
+        <LotArea>130</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
         <PropertyType>Residential / Home</PropertyType>
         <Suites>0</Suites>
@@ -1098,7 +1098,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Description><![CDATA[Casa, 0.00 de área total, 135.22 de área privativa, 150.00 de área do terreno.]]></Description>
         <Garage>0</Garage>
         <LivingArea>135.22</LivingArea>
-        <LotArea>135.22</LotArea>
+        <LotArea>150</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
         <PropertyType>Residential / Home</PropertyType>
         <Suites>0</Suites>
@@ -1137,7 +1137,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Description><![CDATA[Galpão, 0.00 de área total, 273.10 de área privativa, 285.20 de área do terreno.]]></Description>
         <Garage>0</Garage>
         <LivingArea>273.1</LivingArea>
-        <LotArea>273.1</LotArea>
+        <LotArea>285.2</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
         <PropertyType>Residential / Land</PropertyType>
         <Suites>0</Suites>
@@ -1176,7 +1176,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Description><![CDATA[Casa, 0.00 de área total, 70.00 de área privativa, 300.00 de área do terreno.]]></Description>
         <Garage>0</Garage>
         <LivingArea>70</LivingArea>
-        <LotArea>70</LotArea>
+        <LotArea>300</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
         <PropertyType>Residential / Home</PropertyType>
         <Suites>0</Suites>
@@ -1254,7 +1254,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Description><![CDATA[Casa, 0.00 de área total, 234.16 de área privativa, 300.00 de área do terreno,  4 qto(s), a.serv, WC, 3 sala(s), cozinha, Terraco.]]></Description>
         <Garage>0</Garage>
         <LivingArea>234.16</LivingArea>
-        <LotArea>234.16</LotArea>
+        <LotArea>300</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
         <PropertyType>Residential / Home</PropertyType>
         <Suites>0</Suites>
@@ -1409,8 +1409,8 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Bedrooms>0</Bedrooms>
         <Description><![CDATA[Terreno, 0.00 de área total, 0.00 de área privativa, 3340.00 de área do terreno.]]></Description>
         <Garage>0</Garage>
-        <LivingArea>0</LivingArea>
-        <LotArea>0</LotArea>
+        <LivingArea>3340</LivingArea>
+        <LotArea>3340</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
         <PropertyType>Residential / Land</PropertyType>
         <Suites>0</Suites>
@@ -1449,7 +1449,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Description><![CDATA[Casa, 0.00 de área total, 463.00 de área privativa, 468.00 de área do terreno.]]></Description>
         <Garage>0</Garage>
         <LivingArea>463</LivingArea>
-        <LotArea>463</LotArea>
+        <LotArea>468</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
         <PropertyType>Residential / Home</PropertyType>
         <Suites>0</Suites>
@@ -1488,7 +1488,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Description><![CDATA[Casa, 0.00 de área total, 138.75 de área privativa, 275.00 de área do terreno.]]></Description>
         <Garage>0</Garage>
         <LivingArea>138.75</LivingArea>
-        <LotArea>138.75</LotArea>
+        <LotArea>275</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
         <PropertyType>Residential / Home</PropertyType>
         <Suites>0</Suites>
@@ -1526,8 +1526,8 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Bedrooms>0</Bedrooms>
         <Description><![CDATA[Terreno, 0.00 de área total, 0.00 de área privativa, 260.00 de área do terreno.]]></Description>
         <Garage>0</Garage>
-        <LivingArea>0</LivingArea>
-        <LotArea>0</LotArea>
+        <LivingArea>260</LivingArea>
+        <LotArea>260</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
         <PropertyType>Residential / Land</PropertyType>
         <Suites>0</Suites>
@@ -1566,7 +1566,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Description><![CDATA[Casa, 0.00 de área total, 151.06 de área privativa, 161.24 de área do terreno, 3 vaga(s) de garagem.]]></Description>
         <Garage>3</Garage>
         <LivingArea>151.06</LivingArea>
-        <LotArea>151.06</LotArea>
+        <LotArea>161.24</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
         <PropertyType>Residential / Home</PropertyType>
         <Suites>0</Suites>
@@ -1644,7 +1644,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Description><![CDATA[Galpão, 0.00 de área total, 891.95 de área privativa, 986.85 de área do terreno.]]></Description>
         <Garage>0</Garage>
         <LivingArea>891.95</LivingArea>
-        <LotArea>891.95</LotArea>
+        <LotArea>986.85</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
         <PropertyType>Residential / Land</PropertyType>
         <Suites>0</Suites>
@@ -1682,8 +1682,8 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Bedrooms>0</Bedrooms>
         <Description><![CDATA[Terreno, 0.00 de área total, 0.00 de área privativa, 1015.00 de área do terreno.]]></Description>
         <Garage>0</Garage>
-        <LivingArea>0</LivingArea>
-        <LotArea>0</LotArea>
+        <LivingArea>1015</LivingArea>
+        <LotArea>1015</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
         <PropertyType>Residential / Land</PropertyType>
         <Suites>0</Suites>
@@ -1799,8 +1799,8 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Bedrooms>0</Bedrooms>
         <Description><![CDATA[Terreno, 0.00 de área total, 0.00 de área privativa, 1702.07 de área do terreno.]]></Description>
         <Garage>0</Garage>
-        <LivingArea>0</LivingArea>
-        <LotArea>0</LotArea>
+        <LivingArea>1702.07</LivingArea>
+        <LotArea>1702.07</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
         <PropertyType>Residential / Land</PropertyType>
         <Suites>0</Suites>
@@ -1956,7 +1956,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Description><![CDATA[Casa, 0.00 de área total, 499.71 de área privativa, 660.00 de área do terreno.]]></Description>
         <Garage>0</Garage>
         <LivingArea>499.71</LivingArea>
-        <LotArea>499.71</LotArea>
+        <LotArea>660</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
         <PropertyType>Residential / Home</PropertyType>
         <Suites>0</Suites>
@@ -2034,7 +2034,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Description><![CDATA[Casa, 0.00 de área total, 310.00 de área privativa, 341.00 de área do terreno.]]></Description>
         <Garage>0</Garage>
         <LivingArea>310</LivingArea>
-        <LotArea>310</LotArea>
+        <LotArea>341</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
         <PropertyType>Residential / Home</PropertyType>
         <Suites>0</Suites>
@@ -2150,8 +2150,8 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Bedrooms>0</Bedrooms>
         <Description><![CDATA[Imóvel rural, 0.00 de área total, 0.00 de área privativa, 252687.41 de área do terreno.]]></Description>
         <Garage>0</Garage>
-        <LivingArea>0</LivingArea>
-        <LotArea>0</LotArea>
+        <LivingArea>252687.41</LivingArea>
+        <LotArea>252687.41</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
         <PropertyType>Residential / Land</PropertyType>
         <Suites>0</Suites>
@@ -2190,7 +2190,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Description><![CDATA[Casa, 0.00 de área total, 168.04 de área privativa, 200.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 2 sala(s), cozinha, 1 vaga(s) de garagem.]]></Description>
         <Garage>1</Garage>
         <LivingArea>168.04</LivingArea>
-        <LotArea>168.04</LotArea>
+        <LotArea>200</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
         <PropertyType>Residential / Home</PropertyType>
         <Suites>0</Suites>
@@ -2307,7 +2307,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Description><![CDATA[Casa, 0.00 de área total, 315.04 de área privativa, 476.40 de área do terreno.]]></Description>
         <Garage>0</Garage>
         <LivingArea>315.04</LivingArea>
-        <LotArea>315.04</LotArea>
+        <LotArea>476.4</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
         <PropertyType>Residential / Home</PropertyType>
         <Suites>0</Suites>
@@ -2346,7 +2346,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Description><![CDATA[Outros, 0.00 de área total, 2389.60 de área privativa, 4893.16 de área do terreno.]]></Description>
         <Garage>0</Garage>
         <LivingArea>2389.6</LivingArea>
-        <LotArea>2389.6</LotArea>
+        <LotArea>4893.16</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
         <PropertyType>Residential / Land</PropertyType>
         <Suites>0</Suites>
@@ -2384,8 +2384,8 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Bedrooms>0</Bedrooms>
         <Description><![CDATA[Terreno, 0.00 de área total, 0.00 de área privativa, 3400.00 de área do terreno.]]></Description>
         <Garage>0</Garage>
-        <LivingArea>0</LivingArea>
-        <LotArea>0</LotArea>
+        <LivingArea>3400</LivingArea>
+        <LotArea>3400</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
         <PropertyType>Residential / Land</PropertyType>
         <Suites>0</Suites>
@@ -10612,7 +10612,7 @@ Agende sua visita agora mesmo!]]></Description>
             <PublicationType>STANDARD</PublicationType>
             <Details>
                 <YearBuilt>1970</YearBuilt>
-                <ListPrice currency="BRL">1395000</ListPrice>
+                <ListPrice currency="BRL">1370000</ListPrice>
                 <RentalPrice currency="BRL" period="Monthly">8900</RentalPrice>
                 <YearlyTax currency="BRL">1388</YearlyTax>
                 <Description><![CDATA[Casa em Perdizes, reformada no final de 2024, inicio de 2025, inclusive elétrica e hidráulica. 
@@ -10640,7 +10640,7 @@ Entre em contato e agende uma visita!]]></Description>
                 </Features>
                 <Bathrooms>1</Bathrooms>
                 <Bedrooms>3</Bedrooms>
-                <Garage>4</Garage>
+                <Garage>0</Garage>
                 <UsageType>Residential</UsageType>
             </Details>
         </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
@@ -23094,8 +23094,8 @@ Está situado em uma rua residencial, muito próxima de toda a infraestrutura qu
             <Details>
                 <YearBuilt>1977</YearBuilt>
                 <ListPrice currency="BRL">880000</ListPrice>
-                <PropertyAdministrationFee currency="BRL">1435</PropertyAdministrationFee>
-                <YearlyTax currency="BRL">1113</YearlyTax>
+                <PropertyAdministrationFee currency="BRL">1639</PropertyAdministrationFee>
+                <YearlyTax currency="BRL">981</YearlyTax>
                 <Description><![CDATA[Apartamento em Pinheiros à venda com 89,96m² de área útil, super espaçoso e ideal para quem busca conforto e praticidade. Possui dois dormitórios bem iluminados, banheiro social, sala ampla com espaço para dois ambientes, cozinha grande e arejada, além de área de serviço com banheiro auxiliar. O prédio conta com uma vaga de garagem e, no último andar, oferece uma agradável área de lazer com churrasqueira e espaço para tomar sol e relaxar.]]></Description>
                 <PropertyType>Residential / Apartment</PropertyType>
                 <LivingArea unit="square metres">89</LivingArea>
@@ -25864,66 +25864,6 @@ Agende sua visita e conheça esta excelente oportunidade!]]></Description>
                 <Garage>2</Garage>
                 <UnitFloor>10</UnitFloor>
                 <UsageType>Commercial</UsageType>
-            </Details>
-        </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-            <ListingID>NONSTOP-sellarimoveis#WEVZN</ListingID>
-            <Title><![CDATA[Apartamento para venda em Sumarezinho com 2 quartos , 51m²]]></Title>
-            <TransactionType>For Sale</TransactionType>
-            <Location displayAddress="All">
-                <Country abbreviation="BR">Brasil</Country>
-                <State abbreviation="SP"><![CDATA[São Paulo]]></State>
-                <City><![CDATA[São Paulo]]></City>
-                <Neighborhood><![CDATA[Sumarezinho]]></Neighborhood>
-                <Address><![CDATA[Rua Heitor Penteado]]></Address>
-                <StreetNumber><![CDATA[2050]]></StreetNumber>
-                <Complement><![CDATA[604]]></Complement>
-                <PostalCode>05438-300</PostalCode>
-                <Longitude>-46.6962488</Longitude>
-                <Latitude>-23.541968</Latitude>
-            </Location>
-            <Media>
-                <Item medium="video"><![CDATA[https://www.youtube.com/watch?v=yWGBmtpXxTk]]></Item>
-                <Item medium="image" caption="800cf9bc-839d-444f-a9d0-6a716e11441c" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/68951d33b87b6d01f8b22c35/images/800cf9bc-839d-444f-a9d0-6a716e11441c.jpeg]]></Item>
-                <Item medium="image" caption="f9933f85-a434-48b2-8bef-6d836793e6ee" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68951d33b87b6d01f8b22c35/images/f9933f85-a434-48b2-8bef-6d836793e6ee.jpeg]]></Item>
-                <Item medium="image" caption="0b0585dd-2e65-4d48-9b38-04563ad73541" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68951d33b87b6d01f8b22c35/images/0b0585dd-2e65-4d48-9b38-04563ad73541.jpeg]]></Item>
-                <Item medium="image" caption="4541efb5-4ee2-4524-9018-b0b99bf9475a" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68951d33b87b6d01f8b22c35/images/4541efb5-4ee2-4524-9018-b0b99bf9475a.jpeg]]></Item>
-                <Item medium="image" caption="3de802cd-72e3-428f-a951-e44e53700fe5" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68951d33b87b6d01f8b22c35/images/3de802cd-72e3-428f-a951-e44e53700fe5.jpeg]]></Item>
-                <Item medium="image" caption="7fa6c307-2276-4214-9f9a-f486dbcd1651" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68951d33b87b6d01f8b22c35/images/7fa6c307-2276-4214-9f9a-f486dbcd1651.jpeg]]></Item>
-                <Item medium="image" caption="aec702c1-adde-4085-aa2d-13b6bd9726d8" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68951d33b87b6d01f8b22c35/images/aec702c1-adde-4085-aa2d-13b6bd9726d8.jpeg]]></Item>
-                <Item medium="image" caption="a8a8b5f3-9138-4327-b370-7700df3edfa5" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68951d33b87b6d01f8b22c35/images/a8a8b5f3-9138-4327-b370-7700df3edfa5.jpeg]]></Item>
-                <Item medium="image" caption="1eb01cc5-7e39-4889-a1af-653b99b2a0d8" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68951d33b87b6d01f8b22c35/images/1eb01cc5-7e39-4889-a1af-653b99b2a0d8.jpeg]]></Item>
-                <Item medium="image" caption="7f87ecf9-c551-4647-baa2-b972bb68a725" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68951d33b87b6d01f8b22c35/images/7f87ecf9-c551-4647-baa2-b972bb68a725.jpeg]]></Item>
-                <Item medium="image" caption="01602906-b618-41bd-af98-72af908e4d3d" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68951d33b87b6d01f8b22c35/images/01602906-b618-41bd-af98-72af908e4d3d.jpeg]]></Item>
-                <Item medium="image" caption="1b5b3ae7-b95e-4a0c-b948-15fcf6919cd6" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68951d33b87b6d01f8b22c35/images/1b5b3ae7-b95e-4a0c-b948-15fcf6919cd6.jpeg]]></Item>
-                <Item medium="image" caption="124cc107_b6f6_482b_bb44_4356f9a6aa46.jpeg" primary="true"><![CDATA[https://images.usenonstop.com.br/condo-images/68951d31b87b6d01f8b22c34/images/1755276658882-124cc107_b6f6_482b_bb44_4356f9a6aa46.jpeg]]></Item>
-                <Item medium="image" caption="ce50a0de_e785_4f83_a12a_adf2f1a2e2d0.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/68951d31b87b6d01f8b22c34/images/1755276658894-ce50a0de_e785_4f83_a12a_adf2f1a2e2d0.jpeg]]></Item>
-                <Item medium="image" caption="3e9eef21_caf2_4a0a_8246_c7eaa1900762.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/68951d31b87b6d01f8b22c34/images/1755276658858-3e9eef21_caf2_4a0a_8246_c7eaa1900762.jpeg]]></Item>
-                <Item medium="image" caption="d30f2131_3caf_42c1_a85c_1d2a98c5b339.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/68951d31b87b6d01f8b22c34/images/1755276658912-d30f2131_3caf_42c1_a85c_1d2a98c5b339.jpeg]]></Item>
-            </Media>
-            <PublicationType>STANDARD</PublicationType>
-            <Details>
-                <ListPrice currency="BRL">499000</ListPrice>
-                <PropertyAdministrationFee currency="BRL">995</PropertyAdministrationFee>
-                <YearlyTax currency="BRL">949</YearlyTax>
-                <Description><![CDATA[Este apartamento mobiliado de 51m², localizado em São Paulo, é uma excelente oportunidade para quem busca conforto, praticidade e boa localização. Com 2 quartos bem distribuídos, o imóvel atende perfeitamente casais, famílias pequenas ou até mesmo quem deseja um espaço extra para home office. Bem iluminado e arejado, o apartamento proporciona uma sensação de amplitude e bem-estar em todos os ambientes.
-
-Todos os móveis permanecem no imóvel, incluindo sofá, mesa, colchão e outros itens essenciais, o que o torna ainda mais prático e pronto para morar. A propriedade também aceita animais de estimação, sendo uma ótima opção para quem tem pets.
-
-Situado próximo à estação Vila Madalena, o apartamento oferece fácil acesso ao transporte público e está em uma região privilegiada, com ampla infraestrutura de comércio, serviços e lazer. Morar aqui é ter qualidade de vida, mobilidade e comodidade no dia a dia.
-
-Não perca a chance de viver em um espaço acolhedor, funcional e com excelente localização!]]></Description>
-                <PropertyType>Residential / Apartment</PropertyType>
-                <LivingArea unit="square metres">51</LivingArea>
-                <LotArea unit="square metres">60</LotArea>
-                <Features>
-                    <Feature>Elevator</Feature>
-                    <Feature>Pets Allowed</Feature>
-                </Features>
-                <Bathrooms>1</Bathrooms>
-                <Bedrooms>2</Bedrooms>
-                <Garage>1</Garage>
-                <UnitFloor>6</UnitFloor>
-                <UsageType>Residential</UsageType>
             </Details>
         </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
             <ListingID>NONSTOP-sellarimoveis#R3ITW</ListingID>
@@ -53683,8 +53623,8 @@ Escola Vera Cruz                  3,0km]]></Description>
             <Details>
                 <YearBuilt>2021</YearBuilt>
                 <ListPrice currency="BRL">9980000</ListPrice>
-                <PropertyAdministrationFee currency="BRL">12865</PropertyAdministrationFee>
-                <YearlyTax currency="BRL">2233</YearlyTax>
+                <PropertyAdministrationFee currency="BRL">12350</PropertyAdministrationFee>
+                <YearlyTax currency="BRL">3388</YearlyTax>
                 <Description><![CDATA[Em uma região rodeada por verde no bairro Alto de Pinheiros, encontramos esta casa que reúne sofisticação, conforto e design autoral em cada detalhe.
 O projeto do empreendimento é assinado por Patrícia Anastassiadis, e a decoração leva a assinatura do renomado escritório Suite Arquitetos. Uma harmonia perfeita entre arquitetura e interiores.
 
@@ -73560,7 +73500,7 @@ Nota: Embora o imóvel nunca tenha sido habitado e permaneça na planta original
             <PublicationType>STANDARD</PublicationType>
             <Details>
                 <YearBuilt>2022</YearBuilt>
-                <ListPrice currency="BRL">320000</ListPrice>
+                <ListPrice currency="BRL">325000</ListPrice>
                 <PropertyAdministrationFee currency="BRL">575</PropertyAdministrationFee>
                 <Description><![CDATA[Apartamento aconchegante com 2 dormitórios  41 m² - (1 -vaga de moto)
 Ideal para quem busca praticidade e conforto, este apartamento conta com 2 dormitórios bem distribuídos, sala integrada com a cozinha, banheiro e ótima iluminação natural. Perfeito para casais, pequenos famílias ou até mesmo como primeiro imóvel. Localizado em região com fácil acesso a transporte público, comércios e serviços essenciais. Agende sua visita!]]></Description>
