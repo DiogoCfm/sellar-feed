@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-04-04T06:43:37</Date>
+  <Date>2026-04-04T12:26:19</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE204</ListingID>
@@ -2139,46 +2139,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-8787715227851</ListingID>
-      <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Apartamento, 93.17 de área total, 44.00 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>44</LivingArea>
-        <LotArea>93.17</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita Financiamento</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">101334</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address><![CDATA[RUA ADEMIR SPAGNOL MILUZZI, N. 700, Apto 31, BL B TORRE]]></Address>
-        <City><![CDATA[RIBEIRAO PRETO]]></City>
-        <Neighborhood><![CDATA[JARDIM DIVA TARLA DE CARVALHO]]></Neighborhood>
-        <PostalCode/>
-        <State abbreviation="SP">SP</State>
-        <StreetNumber>1</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — Jardim Diva Tarla De Carvalho]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878771522785121.jpg</Item>
-        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/dd0cc597-379f-403e-bfd2-d96f6608ef4a.jpg</Item>
-        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/283e93dd-8c9a-483b-bb98-348ad47c6aed.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-8787713622516</ListingID>
       <ContactInfo>
         <Email>admin@sellar.com.br</Email>
@@ -2494,6 +2454,46 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       <Title><![CDATA[Terreno — Vila Haro]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001020811921.jpg</Item>
+        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/dd0cc597-379f-403e-bfd2-d96f6608ef4a.jpg</Item>
+        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/283e93dd-8c9a-483b-bb98-348ad47c6aed.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-10208371</ListingID>
+      <ContactInfo>
+        <Email>admin@sellar.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>0</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Description><![CDATA[Loja, 0.00 de área total, 220.00 de área privativa, 0.00 de área do terreno, 4 vaga(s) de garagem.]]></Description>
+        <Garage>4</Garage>
+        <LivingArea>220</LivingArea>
+        <LotArea>220</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Land</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">730857</ListPrice>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Address><![CDATA[RUA ANTONIO BENTO, N. 85, LJ 01, TÉRREO]]></Address>
+        <City><![CDATA[SAO CAETANO DO SUL]]></City>
+        <Neighborhood><![CDATA[SANTA PAULA]]></Neighborhood>
+        <PostalCode/>
+        <State abbreviation="SP">SP</State>
+        <StreetNumber/>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Terreno — Santa Paula]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001020837121.jpg</Item>
         <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/dd0cc597-379f-403e-bfd2-d96f6608ef4a.jpg</Item>
         <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/283e93dd-8c9a-483b-bb98-348ad47c6aed.jpg</Item>
       </Media>
