@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-04-04T12:26:19</Date>
+  <Date>2026-04-04T18:23:25</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE204</ListingID>
@@ -597,7 +597,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">244817</ListPrice>
@@ -606,7 +606,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[AVENIDA SALIN JOSE SAYEG, INÍCIO A 10,65 M DA R. AMAZONAS]]></Address>
         <City><![CDATA[PENAPOLIS]]></City>
         <Neighborhood><![CDATA[PARQUE SAO LUIZ]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>16305-046</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
@@ -637,7 +637,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">829659</ListPrice>
@@ -646,7 +646,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[AVENIDA MINAS GERAIS, N.]]></Address>
         <City><![CDATA[CRUZEIRO]]></City>
         <Neighborhood><![CDATA[RETIRO DA MANTIQUEIRA]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>12712-010</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>1088</StreetNumber>
       </Location>
@@ -678,6 +678,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
+        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">210657</ListPrice>
@@ -686,7 +687,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA 01A, N. SN, LT 01 QD E]]></Address>
         <City><![CDATA[MORUNGABA]]></City>
         <Neighborhood><![CDATA[BAIRRO DOS SILVAS]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>13260-000</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
@@ -726,7 +727,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[ESTRADA VICINAL, N. SN, GLEBA 05, RANCHO S.R. STELLA]]></Address>
         <City><![CDATA[ALVARES MACHADO]]></City>
         <Neighborhood><![CDATA[BREJÃO]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>19160-000</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
@@ -757,7 +758,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">113067</ListPrice>
@@ -766,7 +767,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA DR GUSTAVO CORDEIRO GALVAO FILHO, N. 965, PT LT 19, QD]]></Address>
         <City><![CDATA[SAO VICENTE]]></City>
         <Neighborhood><![CDATA[PARQUE DAS BANDEIRAS]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>11346-160</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>57</StreetNumber>
       </Location>
@@ -797,7 +798,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">123999</ListPrice>
@@ -806,7 +807,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[AVENIDA SENADOR SALGADO FILHO, N. 1050, Apto 26, BLOCO III]]></Address>
         <City><![CDATA[SAO VICENTE]]></City>
         <Neighborhood><![CDATA[PARQUE SAO VICENTE]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>11360-200</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
@@ -837,7 +838,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">114384</ListPrice>
@@ -846,7 +847,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA CORREIA RIBEIRO, N. 138, Apto 11, 138]]></Address>
         <City><![CDATA[SAO PAULO]]></City>
         <Neighborhood><![CDATA[JARDIM SOARES]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>08460-260</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>146</StreetNumber>
       </Location>
@@ -877,7 +878,8 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita FGTS</Feature>
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">105772</ListPrice>
@@ -886,7 +888,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA  AMAZONAS, N. 610,]]></Address>
         <City><![CDATA[MONCOES]]></City>
         <Neighborhood><![CDATA[MONCOES]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>15275-000</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
@@ -918,6 +920,8 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
+        <Feature>Aceita FGTS</Feature>
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">111061</ListPrice>
@@ -926,7 +930,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[AV ALFREDO RAVANELI, N. 3409, Apto 305, BL]]></Address>
         <City><![CDATA[RIBEIRAO PRETO]]></City>
         <Neighborhood><![CDATA[CONJUNTO HABITACIONAL JARDIM DAS PALMEIR]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>14094-120</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>4</StreetNumber>
       </Location>
@@ -958,6 +962,8 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
+        <Feature>Aceita FGTS</Feature>
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">1258216</ListPrice>
@@ -966,7 +972,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA URBANO DO COUTO, N. 164, .]]></Address>
         <City><![CDATA[SAO PAULO]]></City>
         <Neighborhood><![CDATA[ALTO DA MOOCA]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>03183-080</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
@@ -997,7 +1003,8 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita FGTS</Feature>
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">101531</ListPrice>
@@ -1006,7 +1013,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA PROFESSOR AYLTON RICOY DE OLIVEIRA, N. 605, Apto 302, BL]]></Address>
         <City><![CDATA[RIBEIRAO PRETO]]></City>
         <Neighborhood><![CDATA[JARDIM OURO BRANCO]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>14079-792</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>03</StreetNumber>
       </Location>
@@ -1037,7 +1044,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">110080</ListPrice>
@@ -1046,7 +1053,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA SÃO MIGUEL, N. 1802, LT 20 QD N]]></Address>
         <City><![CDATA[MONGAGUA]]></City>
         <Neighborhood><![CDATA[BALNEÁRIO MAR E SOL]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>11730-000</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
@@ -1077,7 +1084,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">114890</ListPrice>
@@ -1086,7 +1093,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA PROJETADA 6, N. 752, Apto 0, LT 26, QD]]></Address>
         <City><![CDATA[SAO JOSE DO RIO PRETO]]></City>
         <Neighborhood><![CDATA[RESIDENCIAL MARIA CLARA 2]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>15000-000</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>12</StreetNumber>
       </Location>
@@ -1117,7 +1124,8 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita FGTS</Feature>
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">117562</ListPrice>
@@ -1126,7 +1134,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA VALDEMAR ALVES FELICIO (ANTIGA RUA PROJETADA 0, N. 817, .]]></Address>
         <City><![CDATA[VOTUPORANGA]]></City>
         <Neighborhood><![CDATA[PARQUE VIDA NOVA VOTUPORANGA III]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>15507-261</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
@@ -1157,7 +1165,8 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita FGTS</Feature>
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">121302</ListPrice>
@@ -1166,7 +1175,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA GENI APARECIDA DE MOURA (RUA B), N. 402,]]></Address>
         <City><![CDATA[PRAIA GRANDE]]></City>
         <Neighborhood><![CDATA[GLORIA]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>11724-165</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
@@ -1198,6 +1207,8 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
+        <Feature>Aceita FGTS</Feature>
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">124582</ListPrice>
@@ -1206,7 +1217,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[AVENIDA JOSE OTAVIO DE ANDRADE, N. 87, CS]]></Address>
         <City><![CDATA[SAO VICENTE]]></City>
         <Neighborhood><![CDATA[PARQUE CONTINENTAL]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>11348-400</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>08</StreetNumber>
       </Location>
@@ -1237,7 +1248,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">147876</ListPrice>
@@ -1246,7 +1257,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA MEDEIROS E ALBUQUERQUE, N. 76, CS]]></Address>
         <City><![CDATA[PRAIA GRANDE]]></City>
         <Neighborhood><![CDATA[RIBEIROPOLIS]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>11714-540</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>01</StreetNumber>
       </Location>
@@ -1278,6 +1289,8 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
+        <Feature>Aceita FGTS</Feature>
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">108250</ListPrice>
@@ -1286,7 +1299,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA AMAZONAS, N. 32, CS 10 LT]]></Address>
         <City><![CDATA[MONGAGUA]]></City>
         <Neighborhood><![CDATA[PARQUE DAS OLIVEIRAS]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>11730-000</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>09</StreetNumber>
       </Location>
@@ -1317,7 +1330,8 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita FGTS</Feature>
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">125114</ListPrice>
@@ -1326,7 +1340,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA AFONSO DESCRAGNOLLE TAUNAY, N. 1847, Apto 01,]]></Address>
         <City><![CDATA[PRAIA GRANDE]]></City>
         <Neighborhood><![CDATA[ESMERALDA]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>11713-490</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
@@ -1357,7 +1371,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">126227</ListPrice>
@@ -1366,7 +1380,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA SENADOR FEIJÓ, N. 2779, LT 57 QD]]></Address>
         <City><![CDATA[MONGAGUA]]></City>
         <Neighborhood><![CDATA[JARDIM LEONOR]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>11730-000</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>18</StreetNumber>
       </Location>
@@ -1397,7 +1411,8 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita FGTS</Feature>
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">235757</ListPrice>
@@ -1406,7 +1421,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA JOAO PESSOA, N. 69, SL]]></Address>
         <City><![CDATA[SANTOS]]></City>
         <Neighborhood><![CDATA[CENTRO]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>11013-001</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>131</StreetNumber>
       </Location>
@@ -1437,7 +1452,8 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita FGTS</Feature>
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">324778</ListPrice>
@@ -1446,7 +1462,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA GREGORIO DE MATOS, N. 553, PARTE LT 04 QD H]]></Address>
         <City><![CDATA[SANTO ANDRE]]></City>
         <Neighborhood><![CDATA[CONDOMINIO MARACANA]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>09131-160</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
@@ -1477,7 +1493,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita Financiamento</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">368191</ListPrice>
@@ -1486,7 +1502,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA PERU, N. 249, Apto 23, JD TRES MARIAS]]></Address>
         <City><![CDATA[ADAMANTINA]]></City>
         <Neighborhood><![CDATA[1]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>11440-490</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
@@ -1517,7 +1533,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">423145</ListPrice>
@@ -1526,7 +1542,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA SABINO DUARTE, N. 119, QD 03, LT 02 PARTE]]></Address>
         <City><![CDATA[SAO PAULO]]></City>
         <Neighborhood><![CDATA[VILA BAUAB]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>03892-000</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
@@ -1557,7 +1573,8 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita FGTS</Feature>
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">541846</ListPrice>
@@ -1566,7 +1583,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA JOSÉ FRANCISCO PEIXOTO, N.]]></Address>
         <City><![CDATA[MIGUELOPOLIS]]></City>
         <Neighborhood><![CDATA[CENTRO]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>14530-000</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>1415</StreetNumber>
       </Location>
@@ -1597,7 +1614,9 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita Financiamento</Feature>
+        <Feature>Aceita FGTS</Feature>
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">645159</ListPrice>
@@ -1606,7 +1625,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA FERRUCIO BOLLA, N. 400, LT 21, QD C]]></Address>
         <City><![CDATA[BARRA BONITA]]></City>
         <Neighborhood><![CDATA[JARDIM VISTA ALEGRE]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>17340-108</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
@@ -1637,7 +1656,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">703410</ListPrice>
@@ -1646,7 +1665,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA SEBASTIAO MARIANO NEPOMUCENO, N. 761/]]></Address>
         <City><![CDATA[CARAGUATATUBA]]></City>
         <Neighborhood><![CDATA[CENTRO]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>11660-130</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>771</StreetNumber>
       </Location>
@@ -1677,7 +1696,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">969937</ListPrice>
@@ -1686,7 +1705,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[TRAVESSA C, N. 109, LOTE 14, QUADRA]]></Address>
         <City><![CDATA[ITUPEVA]]></City>
         <Neighborhood><![CDATA[SAO VENANCIO]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>13296-355</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>12</StreetNumber>
       </Location>
@@ -1717,7 +1736,8 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita FGTS</Feature>
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">102001</ListPrice>
@@ -1726,7 +1746,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[AVENIDA MARIA RANIERI, N. 7-50, Apto 43B, BL]]></Address>
         <City><![CDATA[BAURU]]></City>
         <Neighborhood><![CDATA[PARQUE VIADUTO]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>17055-175</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>05</StreetNumber>
       </Location>
@@ -1757,7 +1777,8 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita FGTS</Feature>
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">101656</ListPrice>
@@ -1766,7 +1787,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA WALTER POSSOS, N. 2090, QUADRA C, LOTE]]></Address>
         <City><![CDATA[SAO JOAQUIM DA BARRA]]></City>
         <Neighborhood><![CDATA[RESID MARIA DO CARMO]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>14600-000</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>06</StreetNumber>
       </Location>
@@ -1798,6 +1819,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita FGTS</Feature>
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">109921</ListPrice>
@@ -1806,7 +1828,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA VALENCIA, N. 155, Apto 201, BL 26 VG]]></Address>
         <City><![CDATA[AMERICANA]]></City>
         <Neighborhood><![CDATA[JARDIM BERTONI]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>13478-779</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>743</StreetNumber>
       </Location>
@@ -1838,6 +1860,8 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
+        <Feature>Aceita FGTS</Feature>
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">146035</ListPrice>
@@ -1846,7 +1870,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA JOSE PEREIRA, N. 1635, CASA 04 VAGA N]]></Address>
         <City><![CDATA[MOGI DAS CRUZES]]></City>
         <Neighborhood><![CDATA[JUNDIAPEBA]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>08750-740</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>24</StreetNumber>
       </Location>
@@ -1878,6 +1902,8 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
+        <Feature>Aceita FGTS</Feature>
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">1386725</ListPrice>
@@ -1886,7 +1912,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA MINAS GERAIS, N. 69, Apto 121, 12 e 13 ANDAR]]></Address>
         <City><![CDATA[SAO JOSE DO RIO PRETO]]></City>
         <Neighborhood><![CDATA[VILA BOM JESUS]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>15014-210</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
@@ -1918,6 +1944,8 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
+        <Feature>Aceita FGTS</Feature>
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">176233</ListPrice>
@@ -1926,7 +1954,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA MARIVALDO FERNANDES, N. 368, Apto]]></Address>
         <City><![CDATA[GUARUJA]]></City>
         <Neighborhood><![CDATA[ENSEADA]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>11440-050</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>12</StreetNumber>
       </Location>
@@ -1958,6 +1986,8 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
+        <Feature>Aceita FGTS</Feature>
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">189322</ListPrice>
@@ -1966,7 +1996,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA LEONARDO NUNES, N. 920, CASA]]></Address>
         <City><![CDATA[SAO VICENTE]]></City>
         <Neighborhood><![CDATA[PARQUE SAO VICENTE]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>11365-280</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>01</StreetNumber>
       </Location>
@@ -1998,6 +2028,8 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
+        <Feature>Aceita FGTS</Feature>
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">197966</ListPrice>
@@ -2006,7 +2038,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA POTENGI, N. 14, Apto 41, 3º ANDAR OU 4º PAVIMENTO]]></Address>
         <City><![CDATA[COTIA]]></City>
         <Neighborhood><![CDATA[JARDIM RIO DAS PEDRAS]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>06703-785</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
@@ -2037,7 +2069,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">106226</ListPrice>
@@ -2046,7 +2078,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA ABDIAS BATISTA DE SOUZA, N. 3951, LT 15 QD]]></Address>
         <City><![CDATA[PEREIRA BARRETO]]></City>
         <Neighborhood><![CDATA[CONJUNTO HABITACIONAL APOLINARIO PIRES]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>15372-264</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>14</StreetNumber>
       </Location>
@@ -2077,7 +2109,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">111090</ListPrice>
@@ -2086,7 +2118,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA FERNANDO DOS SANTOS CALDAS, N. 740, LOTE 07 - QUADRA E]]></Address>
         <City><![CDATA[GUARA]]></City>
         <Neighborhood><![CDATA[ANTONIO ABBOUD]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>14580-000</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
@@ -2117,7 +2149,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">128589</ListPrice>
@@ -2126,7 +2158,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[AVENIDA EDUARDO ANDREA MATARAZZO, N. 6050, Apto 103, TORRE]]></Address>
         <City><![CDATA[RIBEIRAO PRETO]]></City>
         <Neighborhood><![CDATA[RIBEIRAO PRETO]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>14075-820</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>06</StreetNumber>
       </Location>
@@ -2158,6 +2190,8 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
+        <Feature>Aceita FGTS</Feature>
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">101334</ListPrice>
@@ -2166,7 +2200,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA EUGENIA DE OLIVEIRA MARCONI, N. 854, QD 10 LT 34 ANTIGA RUA PROJETADA]]></Address>
         <City><![CDATA[SAO JOSE DO RIO PRETO]]></City>
         <Neighborhood><![CDATA[RESIDENCIAL MARIA CLARA 2]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>15047-673</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>05</StreetNumber>
       </Location>
@@ -2197,7 +2231,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">102174</ListPrice>
@@ -2206,7 +2240,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA ANOR VELOSO SOBRINHO, N. 468, LOT 46 QD]]></Address>
         <City><![CDATA[REGINOPOLIS]]></City>
         <Neighborhood><![CDATA[RESIDENCIAL JOSE VELOSO DIAS]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>17192-040</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>120</StreetNumber>
       </Location>
@@ -2237,7 +2271,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">182997</ListPrice>
@@ -2246,7 +2280,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA EUGENIO DORIGAN, N. 104, LT 28 QD L]]></Address>
         <City><![CDATA[AMPARO]]></City>
         <Neighborhood><![CDATA[JARDIM SILMARA]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>13905-304</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
@@ -2278,6 +2312,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
+        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">310916</ListPrice>
@@ -2286,7 +2321,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA CLARA AURORA, N. S/N, QD G LT]]></Address>
         <City><![CDATA[SAO PAULO]]></City>
         <Neighborhood><![CDATA[JARDIM INGA]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>05736-110</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>17</StreetNumber>
       </Location>
@@ -2317,7 +2352,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">518490</ListPrice>
@@ -2326,7 +2361,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA DO SIMBOLO, N. 207, CASA]]></Address>
         <City><![CDATA[SAO PAULO]]></City>
         <Neighborhood><![CDATA[JARDIM AMPLIACAO]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>05713-570</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>11</StreetNumber>
       </Location>
@@ -2357,7 +2392,8 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita FGTS</Feature>
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">564804</ListPrice>
@@ -2366,7 +2402,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA ANTONIO BENTO, N. 85, SL 1-B, 1º ANDAR]]></Address>
         <City><![CDATA[SAO CAETANO DO SUL]]></City>
         <Neighborhood><![CDATA[SANTA PAULA]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>09520-050</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
@@ -2406,7 +2442,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[AVENIDA ADOLPHO HECHT JUNIOR, N. 00, ÁREA 01,ESQ RUA JOÃO ANTÔNIO DE CASTIL]]></Address>
         <City><![CDATA[GLICERIO]]></City>
         <Neighborhood><![CDATA[CENTRO]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>16270-037</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
@@ -2437,7 +2473,8 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita FGTS</Feature>
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">706853</ListPrice>
@@ -2446,7 +2483,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA JORGE CARACANTE, N. 00, QD A, LT]]></Address>
         <City><![CDATA[SOROCABA]]></City>
         <Neighborhood><![CDATA[VILA HARO]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>18015-315</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>35</StreetNumber>
       </Location>
@@ -2477,7 +2514,8 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita FGTS</Feature>
+        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">730857</ListPrice>
@@ -2486,7 +2524,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA ANTONIO BENTO, N. 85, LJ 01, TÉRREO]]></Address>
         <City><![CDATA[SAO CAETANO DO SUL]]></City>
         <Neighborhood><![CDATA[SANTA PAULA]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>09520-050</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
@@ -69073,7 +69111,7 @@ Uma oportunidade diferenciada para morar ou investir em um dos bairros mais cria
             <PublicationType>STANDARD</PublicationType>
             <Details>
                 <YearBuilt>2024</YearBuilt>
-                <ListPrice currency="BRL">530000</ListPrice>
+                <ListPrice currency="BRL">515000</ListPrice>
                 <PropertyAdministrationFee currency="BRL">492</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">1</YearlyTax>
                 <Description><![CDATA[Descubra o seu novo lar neste encantador estúdio R2V-2 com ótimo preço em um moderno condomínio fechado em São Paulo. Localizado na desejável região sudeste, na avenida Pompéia , no coração do animado bairro de Pompéia, este refinado edifício foi construído no ano de 2024 e oferece uma série de características excepcionais que garantem conforto e conveniência incomparáveis.
