@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-04-05T12:28:02</Date>
+  <Date>2026-04-05T18:25:26</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE204</ListingID>
@@ -1024,7 +1024,7 @@ Nos Estúdios Vitacom, a qualidade e o compromisso com a excelência são valore
             </Details>
         </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
             <ListingID>NONSTOP-sellarimoveis#9GZ37</ListingID>
-            <Title><![CDATA[Apartamento para venda e locação em Santa Cecília com 4 quartos, sendo 4 suítes , 231.36m²]]></Title>
+            <Title><![CDATA[Apartamento para venda e locação em Santa Cecília com 2 quartos, sendo 2 suítes , 231.36m²]]></Title>
             <TransactionType>Sale/Rent</TransactionType>
             <Location displayAddress="All">
                 <Country abbreviation="BR">Brasil</Country>
@@ -1121,11 +1121,11 @@ Fachada renovada recentemente.
                     <Feature>Pets Allowed</Feature>
                     <Feature>Playground</Feature>
                 </Features>
-                <Bathrooms>5</Bathrooms>
-                <Bedrooms>4</Bedrooms>
+                <Bathrooms>3</Bathrooms>
+                <Bedrooms>2</Bedrooms>
                 <Garage>3</Garage>
                 <UnitFloor>4</UnitFloor>
-                <Suites>4</Suites>
+                <Suites>2</Suites>
                 <UsageType>Residential</UsageType>
             </Details>
         </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
@@ -69841,8 +69841,8 @@ Agende sua visita!]]></Description>
             </Details>
         </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
             <ListingID>NONSTOP-sellarimoveis#01938</ListingID>
-            <Title><![CDATA[Apartamento para venda em Vila Romana com 1 quarto, sendo 1 suíte , 30m²]]></Title>
-            <TransactionType>For Sale</TransactionType>
+            <Title><![CDATA[Apartamento para venda e locação em Vila Romana com 1 quarto, sendo 1 suíte , 30m²]]></Title>
+            <TransactionType>Sale/Rent</TransactionType>
             <Location displayAddress="All">
                 <Country abbreviation="BR">Brasil</Country>
                 <State abbreviation="SP"><![CDATA[São Paulo]]></State>
@@ -69880,7 +69880,8 @@ Agende sua visita!]]></Description>
             <PublicationType>STANDARD</PublicationType>
             <Details>
                 <YearBuilt>2023</YearBuilt>
-                <ListPrice currency="BRL">382000</ListPrice>
+                <ListPrice currency="BRL">370000</ListPrice>
+                <RentalPrice currency="BRL" period="Monthly">2500</RentalPrice>
                 <PropertyAdministrationFee currency="BRL">410</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">0</YearlyTax>
                 <Description><![CDATA[Apresentamos um apartamento excepcional de 30m² à venda na Vila Romana, bairro tradicional e vibrante de São Paulo. Entregue em 2023, este imóvel novíssimo está completamente mobiliado com móveis planejados de qualidade, oferecendo a combinação perfeita entre modernidade, funcionalidade e excelente custo-benefício em uma das regiões mais completas da Zona Oeste.
