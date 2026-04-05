@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-04-04T18:23:25</Date>
+  <Date>2026-04-05T01:11:25</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE204</ListingID>
@@ -678,7 +678,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">210657</ListPrice>
@@ -943,48 +942,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-1600000162306</ListingID>
-      <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>3</Bedrooms>
-        <Description><![CDATA[Casa, 0.00 de área total, 43.12 de área privativa, 211.49 de área do terreno,  3 qto(s), WC, WC Emp, 5 sala(s), 1 lavabo(s), DCE, cozinha, 4 vaga(s) de garagem.]]></Description>
-        <Garage>4</Garage>
-        <LivingArea>43.12</LivingArea>
-        <LotArea>211.49</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Home</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
-        <Feature>Imóvel Ocupado</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">1258216</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address><![CDATA[RUA URBANO DO COUTO, N. 164, .]]></Address>
-        <City><![CDATA[SAO PAULO]]></City>
-        <Neighborhood><![CDATA[ALTO DA MOOCA]]></Neighborhood>
-        <PostalCode>03183-080</PostalCode>
-        <State abbreviation="SP">SP</State>
-        <StreetNumber/>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — Alto Da Mooca]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F160000016230621.jpg</Item>
-        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/dd0cc597-379f-403e-bfd2-d96f6608ef4a.jpg</Item>
-        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/283e93dd-8c9a-483b-bb98-348ad47c6aed.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-8787715100878</ListingID>
       <ContactInfo>
         <Email>admin@sellar.com.br</Email>
@@ -1206,7 +1163,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         <Feature>Imóvel Ocupado</Feature>
         </Features>
@@ -1288,7 +1244,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         <Feature>Imóvel Ocupado</Feature>
         </Features>
@@ -1411,7 +1366,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
@@ -1452,7 +1407,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
@@ -1573,7 +1528,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
@@ -1656,7 +1611,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+        <Feature>Aceita Financiamento</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">703410</ListPrice>
@@ -1860,7 +1815,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
@@ -1902,7 +1856,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
@@ -1944,7 +1897,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
@@ -2028,7 +1980,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
@@ -2312,7 +2263,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">310916</ListPrice>
@@ -2392,7 +2342,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
@@ -2473,7 +2423,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
@@ -2514,7 +2464,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
@@ -2532,6 +2482,46 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       <Title><![CDATA[Terreno — Santa Paula]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001020837121.jpg</Item>
+        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/dd0cc597-379f-403e-bfd2-d96f6608ef4a.jpg</Item>
+        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/283e93dd-8c9a-483b-bb98-348ad47c6aed.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-8555526225397</ListingID>
+      <ContactInfo>
+        <Email>admin@sellar.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Description><![CDATA[Apartamento, 85.51 de área total, 46.60 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.]]></Description>
+        <Garage>1</Garage>
+        <LivingArea>46.6</LivingArea>
+        <LotArea>85.51</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Imóvel Ocupado</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">137782</ListPrice>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Address><![CDATA[ESTRADA SANTA MONICA, N. 600, Apto 503, BL]]></Address>
+        <City><![CDATA[SUZANO]]></City>
+        <Neighborhood><![CDATA[PARQUE SANTA ROSA]]></Neighborhood>
+        <PostalCode>08664-015</PostalCode>
+        <State abbreviation="SP">SP</State>
+        <StreetNumber>7</StreetNumber>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Apartamento — Parque Santa Rosa]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F855552622539721.jpg</Item>
         <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/dd0cc597-379f-403e-bfd2-d96f6608ef4a.jpg</Item>
         <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/283e93dd-8c9a-483b-bb98-348ad47c6aed.jpg</Item>
       </Media>
@@ -7412,7 +7402,7 @@ Não perca a oportunidade de morar numa das regiões mais vibrantes da cidade. A
             </Media>
             <PublicationType>STANDARD</PublicationType>
             <Details>
-                <ListPrice currency="BRL">1473000</ListPrice>
+                <ListPrice currency="BRL">1700000</ListPrice>
                 <PropertyAdministrationFee currency="BRL">2181</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">10224</YearlyTax>
                 <Description><![CDATA[Conquiste o Seu Espaço no Vibrante Bairro de Sumarezinho em São Paulo.
@@ -17890,7 +17880,7 @@ O estacionamento no subsolo, com 1 vaga coberta, assegura conveniência e segura
             <PublicationType>STANDARD</PublicationType>
             <Details>
                 <YearBuilt>2023</YearBuilt>
-                <ListPrice currency="BRL">3100000</ListPrice>
+                <ListPrice currency="BRL">2900000</ListPrice>
                 <PropertyAdministrationFee currency="BRL">1306</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">6830</YearlyTax>
                 <Description><![CDATA[Exclusividade e Sofisticação no Edifício Helbor Edition - Sumarézinho, SP
@@ -66661,92 +66651,6 @@ Se você busca um imóvel diferenciado, com alma, história e localização simp
                 <Garage>0</Garage>
                 <UnitFloor>5</UnitFloor>
                 <Suites>2</Suites>
-                <UsageType>Residential</UsageType>
-            </Details>
-        </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-            <ListingID>NONSTOP-sellarimoveis#OUX49</ListingID>
-            <Title><![CDATA[Apartamento para venda em Perdizes com 4 quartos, sendo 3 suítes , 156m²]]></Title>
-            <TransactionType>For Sale</TransactionType>
-            <Location displayAddress="All">
-                <Country abbreviation="BR">Brasil</Country>
-                <State abbreviation="SP"><![CDATA[São Paulo]]></State>
-                <City><![CDATA[São Paulo]]></City>
-                <Neighborhood><![CDATA[Perdizes]]></Neighborhood>
-                <Address><![CDATA[Rua Desembargador do Vale]]></Address>
-                <StreetNumber><![CDATA[330]]></StreetNumber>
-                <Complement><![CDATA[113]]></Complement>
-                <PostalCode>05010-040</PostalCode>
-                <Longitude>-46.6841968</Longitude>
-                <Latitude>-23.5320738</Latitude>
-            </Location>
-            <Media>
-                <Item medium="image" caption="0e2c8244-a688-42f0-92e9-34cadd6fae70" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/0e2c8244-a688-42f0-92e9-34cadd6fae70.jpeg]]></Item>
-                <Item medium="image" caption="d29d1bce-4dbc-40e1-a6e4-e017eb39a81e" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/d29d1bce-4dbc-40e1-a6e4-e017eb39a81e.jpeg]]></Item>
-                <Item medium="image" caption="08987712-0565-46cc-bf65-680da10bfae6" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/08987712-0565-46cc-bf65-680da10bfae6.jpeg]]></Item>
-                <Item medium="image" caption="74cc8d27-af01-4b05-a91d-f84ec637db08" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/74cc8d27-af01-4b05-a91d-f84ec637db08.jpeg]]></Item>
-                <Item medium="image" caption="565473b5-250f-404a-a525-e4c02aa12db3" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/565473b5-250f-404a-a525-e4c02aa12db3.jpeg]]></Item>
-                <Item medium="image" caption="7719fe0c-0e50-4b75-9047-5f29e01d10b1" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/7719fe0c-0e50-4b75-9047-5f29e01d10b1.jpeg]]></Item>
-                <Item medium="image" caption="1826c754-f99e-46d6-aae1-fde3f8b4a621" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/1826c754-f99e-46d6-aae1-fde3f8b4a621.jpeg]]></Item>
-                <Item medium="image" caption="ab372586-72aa-4454-87b2-5da3059809ec" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/ab372586-72aa-4454-87b2-5da3059809ec.jpeg]]></Item>
-                <Item medium="image" caption="89141cd1-4c57-48eb-b829-e14490f3c297" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/89141cd1-4c57-48eb-b829-e14490f3c297.jpeg]]></Item>
-                <Item medium="image" caption="ec2b759e-3d81-4df7-ae35-56006750aa6e" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/ec2b759e-3d81-4df7-ae35-56006750aa6e.jpeg]]></Item>
-                <Item medium="image" caption="324e05ac-286d-48d7-a9df-6e5ec5a60fb8" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/324e05ac-286d-48d7-a9df-6e5ec5a60fb8.jpeg]]></Item>
-                <Item medium="image" caption="540a3907-5fc1-4b9f-92d9-7ff7a224774b" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/540a3907-5fc1-4b9f-92d9-7ff7a224774b.jpeg]]></Item>
-                <Item medium="image" caption="5a62f265-e659-482b-9f51-c192cd69a387" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/5a62f265-e659-482b-9f51-c192cd69a387.jpeg]]></Item>
-                <Item medium="image" caption="50cdb5e2-a824-4c84-a796-e99f01fb3ad7" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/50cdb5e2-a824-4c84-a796-e99f01fb3ad7.jpeg]]></Item>
-                <Item medium="image" caption="886a372b-4b45-4ff3-b231-3a3463671f22" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/886a372b-4b45-4ff3-b231-3a3463671f22.jpeg]]></Item>
-                <Item medium="image" caption="cff8127d-1e1c-448d-9a7c-fada4315e886" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/cff8127d-1e1c-448d-9a7c-fada4315e886.jpeg]]></Item>
-                <Item medium="image" caption="2837f751-aa0e-4490-9a72-6128a9bc4ee2" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/2837f751-aa0e-4490-9a72-6128a9bc4ee2.jpeg]]></Item>
-                <Item medium="image" caption="c92a0bac-7a8c-41c3-bfc7-f0f4567a7403" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/c92a0bac-7a8c-41c3-bfc7-f0f4567a7403.jpeg]]></Item>
-                <Item medium="image" caption="3f2da428-155c-4380-9159-c569334c816b" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/3f2da428-155c-4380-9159-c569334c816b.jpeg]]></Item>
-                <Item medium="image" caption="bef57fba-2be6-47dc-8dbb-ef54b88756fd" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/bef57fba-2be6-47dc-8dbb-ef54b88756fd.jpeg]]></Item>
-                <Item medium="image" caption="64642edf-671d-4949-a874-520bced9e0fa" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/64642edf-671d-4949-a874-520bced9e0fa.jpeg]]></Item>
-                <Item medium="image" caption="5ec0b778-2cb4-4f29-8297-880825f64816" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/5ec0b778-2cb4-4f29-8297-880825f64816.jpeg]]></Item>
-                <Item medium="image" caption="6e78febc-c8dd-4281-ae29-88eaca7886ba" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/6e78febc-c8dd-4281-ae29-88eaca7886ba.jpeg]]></Item>
-                <Item medium="image" caption="e648e035-4d9d-4cfa-be66-148077a7c579" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/e648e035-4d9d-4cfa-be66-148077a7c579.jpeg]]></Item>
-                <Item medium="image" caption="4deafeb1-5e04-4bad-9d26-ff861ac0934d" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/4deafeb1-5e04-4bad-9d26-ff861ac0934d.jpeg]]></Item>
-                <Item medium="image" caption="b58ee894-7d2f-4c97-8634-dbc96611b30a" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/b58ee894-7d2f-4c97-8634-dbc96611b30a.jpeg]]></Item>
-                <Item medium="image" caption="eaab4904-8200-4436-9554-0d44ec7b27ca" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/eaab4904-8200-4436-9554-0d44ec7b27ca.jpeg]]></Item>
-                <Item medium="image" caption="0fc83633-b61e-45ec-b027-0b33ad73b8ca" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/0fc83633-b61e-45ec-b027-0b33ad73b8ca.jpeg]]></Item>
-                <Item medium="image" caption="870f12ad-5ec5-4a7b-8b28-08d388bf69d1" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/870f12ad-5ec5-4a7b-8b28-08d388bf69d1.jpeg]]></Item>
-                <Item medium="image" caption="c85be6d0-4a9c-4d41-9017-615a9c1bd4f9" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/c85be6d0-4a9c-4d41-9017-615a9c1bd4f9.jpeg]]></Item>
-                <Item medium="image" caption="c2d9fe38-1616-4a31-801f-aa7ad74e5ccf" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/c2d9fe38-1616-4a31-801f-aa7ad74e5ccf.jpeg]]></Item>
-                <Item medium="image" caption="6066a9b5-3f5d-4f67-b4ca-9a201962a0b4" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/6066a9b5-3f5d-4f67-b4ca-9a201962a0b4.jpeg]]></Item>
-                <Item medium="image" caption="fbdd19c0-d073-4768-91fc-2e5f88420cf0" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/fbdd19c0-d073-4768-91fc-2e5f88420cf0.jpeg]]></Item>
-                <Item medium="image" caption="39d765ca-5493-48c9-9708-30ddddea3465" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/39d765ca-5493-48c9-9708-30ddddea3465.jpeg]]></Item>
-                <Item medium="image" caption="65a01cb0-0489-4766-89ce-d50574850c1a" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/65a01cb0-0489-4766-89ce-d50574850c1a.jpeg]]></Item>
-                <Item medium="image" caption="059c2c5b-8984-49dd-b6bd-57d97179c031" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/059c2c5b-8984-49dd-b6bd-57d97179c031.jpeg]]></Item>
-                <Item medium="image" caption="598ca3eb-c5aa-4833-8f2f-610e7710fd80" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/598ca3eb-c5aa-4833-8f2f-610e7710fd80.jpeg]]></Item>
-                <Item medium="image" caption="344a29e1-7b46-4c38-8c40-4663841fa06e" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/344a29e1-7b46-4c38-8c40-4663841fa06e.jpeg]]></Item>
-                <Item medium="image" caption="07668fe9-6c31-426a-bee2-278194ae3b33" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/07668fe9-6c31-426a-bee2-278194ae3b33.jpeg]]></Item>
-                <Item medium="image" caption="e553fcd5-9b93-4f71-993b-611ff2c7f505" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/e553fcd5-9b93-4f71-993b-611ff2c7f505.jpeg]]></Item>
-                <Item medium="image" caption="bfb8f2d3-e5b5-4e90-b1da-3244cdab2e4a" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/bfb8f2d3-e5b5-4e90-b1da-3244cdab2e4a.jpeg]]></Item>
-                <Item medium="image" caption="91c7146c-0a8e-47bd-abb9-1e5bcfca61be" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/91c7146c-0a8e-47bd-abb9-1e5bcfca61be.jpeg]]></Item>
-                <Item medium="image" caption="b7368f1c-8777-4220-a145-cca944354d21" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69825870e4d9d9b298495a26/images/b7368f1c-8777-4220-a145-cca944354d21.jpeg]]></Item>
-            </Media>
-            <PublicationType>STANDARD</PublicationType>
-            <Details>
-                <ListPrice currency="BRL">1910000</ListPrice>
-                <PropertyAdministrationFee currency="BRL">2500</PropertyAdministrationFee>
-                <YearlyTax currency="BRL">8520</YearlyTax>
-                <Description><![CDATA[Venha se encantar com este incrível apartamento que une conforto, praticidade e uma série de atributos que o tornam realmente especial. Localizado em andar alto, o imóvel recebe abundante iluminação natural e é privilegiado por uma ventilação constante, criando ambientes agradáveis ao longo de todo o dia. A sala ampla, climatizada em dois ambientes e integrada a uma sacada, reforça a sensação de amplitude e bem-estar.
-
-Com quatro dormitórios, sendo três amplas suítes, e um deles atualmente revertido para escritório, o espaço garante privacidade e funcionalidade para toda a família. As suítes contam com ar-condicionado, proporcionando conforto térmico em qualquer estação. O imóvel dispõe ainda de cinco banheiros e aquecimento da água a gás, assegurando praticidade na rotina. A suíte máster oferece uma charmosa sacada adicional e o closet se destaca pela organização e praticidade que agrega ao dia a dia.
-
-O condomínio complementa a experiência com uma infraestrutura completa de lazer e segurança. Entre as áreas comuns, destacam-se academia equipada, quadra esportiva, piscina, playground, brinquedoteca, sauna, churrasqueira, além de um amplo salão de festas ideal para celebrações. Para maior tranquilidade, o prédio conta com portaria 24 horas, garantindo segurança e controle de acesso contínuos. Não perca a oportunidade de viver em um lugar tão especial como este! Agende já a sua visita.]]></Description>
-                <PropertyType>Residential / Apartment</PropertyType>
-                <LivingArea unit="square metres">156</LivingArea>
-                <LotArea unit="square metres">156</LotArea>
-                <Features>
-                    <Feature>Balcony</Feature>
-                    <Feature>Home Office</Feature>
-                    <Feature>Pets Allowed</Feature>
-                </Features>
-                <Bathrooms>5</Bathrooms>
-                <Bedrooms>4</Bedrooms>
-                <Garage>3</Garage>
-                <UnitFloor>11</UnitFloor>
-                <Suites>3</Suites>
                 <UsageType>Residential</UsageType>
             </Details>
         </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
