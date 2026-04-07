@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-04-06T18:38:48</Date>
+  <Date>2026-04-07T01:09:41</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE204</ListingID>
@@ -579,9 +579,47 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-10197445</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>0</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Description><![CDATA[Terreno, 0.00 de área total, 0.00 de área privativa, 6200.00 de área do terreno.]]></Description>
+        <Garage>0</Garage>
+        <LivingArea>6200</LivingArea>
+        <LotArea>6200</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Land</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Aceita Financiamento</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">755617</ListPrice>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Address><![CDATA[RUA DA FIGUEIRA, N.]]></Address>
+        <City><![CDATA[VARGEM GRANDE PAULISTA]]></City>
+        <Neighborhood><![CDATA[CENTRO]]></Neighborhood>
+        <PostalCode/>
+        <State abbreviation="SP">SP</State>
+        <StreetNumber>00</StreetNumber>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Terreno — Centro]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001019744521.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-10004144</ListingID>
       <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
+        <Email>contato@sellarimoveis.com.br</Email>
         <Name><![CDATA[Painel Caixa]]></Name>
       </ContactInfo>
       <Destaque>Nao</Destaque>
@@ -597,7 +635,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Imóvel Ocupado</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">244817</ListPrice>
@@ -619,7 +657,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-10005427</ListingID>
       <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
+        <Email>contato@sellarimoveis.com.br</Email>
         <Name><![CDATA[Painel Caixa]]></Name>
       </ContactInfo>
       <Destaque>Nao</Destaque>
@@ -631,11 +669,11 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <LivingArea>681.2</LivingArea>
         <LotArea>681.2</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Commercial / Commercial Property</PropertyType>
+        <PropertyType>Residential / Land</PropertyType>
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Imóvel Ocupado</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">829659</ListPrice>
@@ -657,7 +695,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-1444400445959</ListingID>
       <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
+        <Email>contato@sellarimoveis.com.br</Email>
         <Name><![CDATA[Painel Caixa]]></Name>
       </ContactInfo>
       <Destaque>Nao</Destaque>
@@ -693,9 +731,47 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-10006312</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>0</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Description><![CDATA[Comercial, 0.00 de área total, 1545.51 de área privativa, 1450.00 de área do terreno.]]></Description>
+        <Garage>0</Garage>
+        <LivingArea>1545.51</LivingArea>
+        <LotArea>1450</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Land</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Aceita Financiamento</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">633704</ListPrice>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Address><![CDATA[AVENIDA VIRGINIO DE MONTEZZO FILHO, N.]]></Address>
+        <City><![CDATA[TATUI]]></City>
+        <Neighborhood><![CDATA[NOVA TATUI]]></Neighborhood>
+        <PostalCode/>
+        <State abbreviation="SP">SP</State>
+        <StreetNumber>1490</StreetNumber>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Terreno — Nova Tatui]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001000631221.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-10006343</ListingID>
       <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
+        <Email>contato@sellarimoveis.com.br</Email>
         <Name><![CDATA[Painel Caixa]]></Name>
       </ContactInfo>
       <Destaque>Nao</Destaque>
@@ -707,7 +783,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <LivingArea>886</LivingArea>
         <LotArea>20000</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Rural / Farm</PropertyType>
+        <PropertyType>Residential / Land</PropertyType>
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
@@ -731,97 +807,95 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-10207582</ListingID>
+      <ListingID>Caixa.Sellar-CAIXA-10198051</ListingID>
       <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>0</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Sala, 0.00 de área total, 100.14 de área privativa, 0.00 de área do terreno.]]></Description>
-        <Garage>0</Garage>
-        <LivingArea>100.14</LivingArea>
-        <LotArea>100.14</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Commercial / Commercial Property</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita Financiamento</Feature>
-        <Feature>Imóvel Ocupado</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">235757</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address><![CDATA[RUA JOAO PESSOA, N. 69, SL]]></Address>
-        <City><![CDATA[SANTOS]]></City>
-        <Neighborhood><![CDATA[CENTRO]]></Neighborhood>
-        <PostalCode>11013-001</PostalCode>
-        <State abbreviation="SP">SP</State>
-        <StreetNumber>131</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Terreno — Centro]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001020758221.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-1444417483069</ListingID>
-      <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
+        <Email>contato@sellarimoveis.com.br</Email>
         <Name><![CDATA[Painel Caixa]]></Name>
       </ContactInfo>
       <Destaque>Nao</Destaque>
       <Details>
         <Bathrooms>1</Bathrooms>
-        <Bedrooms>3</Bedrooms>
-        <Description><![CDATA[Casa, 0.00 de área total, 222.00 de área privativa, 130.00 de área do terreno,  3 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco, 2 vaga(s) de garagem.]]></Description>
-        <Garage>2</Garage>
-        <LivingArea>222</LivingArea>
-        <LotArea>130</LotArea>
+        <Bedrooms>4</Bedrooms>
+        <Description><![CDATA[Casa, 0.00 de área total, 187.43 de área privativa, 100.00 de área do terreno,  4 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.]]></Description>
+        <Garage>1</Garage>
+        <LivingArea>187.43</LivingArea>
+        <LotArea>100</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
         <PropertyType>Residential / Home</PropertyType>
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
-        <ListPrice currency="BRL">324778</ListPrice>
+        <ListPrice currency="BRL">384433</ListPrice>
       </Details>
       <Location displayAddress="Neighborhood">
-        <Address><![CDATA[RUA GREGORIO DE MATOS, N. 553, PARTE LT 04 QD H]]></Address>
-        <City><![CDATA[SANTO ANDRE]]></City>
-        <Neighborhood><![CDATA[CONDOMINIO MARACANA]]></Neighborhood>
-        <PostalCode>09131-160</PostalCode>
+        <Address><![CDATA[RUA DOUTOR FREITAS, N.]]></Address>
+        <City><![CDATA[BRAGANCA PAULISTA]]></City>
+        <Neighborhood><![CDATA[MATADOURO]]></Neighborhood>
+        <PostalCode/>
         <State abbreviation="SP">SP</State>
-        <StreetNumber/>
+        <StreetNumber>502</StreetNumber>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — Condominio Maracana]]></Title>
+      <Title><![CDATA[Casa — Matadouro]]></Title>
       <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F144441748306921.jpg</Item>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001019805121.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-10206716</ListingID>
+      <ListingID>Caixa.Sellar-CAIXA-10204781</ListingID>
       <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>0</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Description><![CDATA[Terreno, 0.00 de área total, 0.00 de área privativa, 4238.00 de área do terreno.]]></Description>
+        <Garage>0</Garage>
+        <LivingArea>4238</LivingArea>
+        <LotArea>4238</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Land</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Aceita Financiamento</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">1626637</ListPrice>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Address><![CDATA[AVENIDA GETULIO VARGAS, N. 00, ST 02, QD 64, LT]]></Address>
+        <City><![CDATA[ASSIS]]></City>
+        <Neighborhood><![CDATA[VILA NOVA SANTANA]]></Neighborhood>
+        <PostalCode/>
+        <State abbreviation="SP">SP</State>
+        <StreetNumber>05</StreetNumber>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Terreno — Vila Nova Santana]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001020478121.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-10211997</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
         <Name><![CDATA[Painel Caixa]]></Name>
       </ContactInfo>
       <Destaque>Nao</Destaque>
       <Details>
         <Bathrooms>1</Bathrooms>
-        <Bedrooms>3</Bedrooms>
-        <Description><![CDATA[Apartamento, 0.00 de área total, 167.60 de área privativa, 0.00 de área do terreno,  3 qto(s), varanda, a.serv, WC, 1 sala(s), DCE, cozinha, 2 vaga(s) de garagem.]]></Description>
+        <Bedrooms>2</Bedrooms>
+        <Description><![CDATA[Apartamento, 0.00 de área total, 97.75 de área privativa, 0.00 de área do terreno,  2 qto(s), varanda, WC, 1 sala(s), cozinha, Terraco, 2 vaga(s) de garagem.]]></Description>
         <Garage>2</Garage>
-        <LivingArea>167.6</LivingArea>
-        <LotArea>167.6</LotArea>
+        <LivingArea>97.75</LivingArea>
+        <LotArea>97.75</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
         <PropertyType>Residential / Apartment</PropertyType>
         <Suites>0</Suites>
@@ -830,26 +904,216 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Feature>Aceita Financiamento</Feature>
         </Features>
         <Warranties/>
-        <ListPrice currency="BRL">368191</ListPrice>
+        <ListPrice currency="BRL">410430</ListPrice>
       </Details>
       <Location displayAddress="Neighborhood">
-        <Address><![CDATA[RUA PERU, N. 249, Apto 23, JD TRES MARIAS]]></Address>
-        <City><![CDATA[ADAMANTINA]]></City>
-        <Neighborhood><![CDATA[1]]></Neighborhood>
-        <PostalCode>11440-490</PostalCode>
+        <Address><![CDATA[RUA LUIZA LOPES GARCIA, N. 250, Apto 74, VG 31 31A]]></Address>
+        <City><![CDATA[HORTOLANDIA]]></City>
+        <Neighborhood><![CDATA[REMANSO CAMPINEIRO]]></Neighborhood>
+        <PostalCode/>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — Jd Tres Marias]]></Title>
+      <Title><![CDATA[Apartamento — Remanso Campineiro]]></Title>
       <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001020671621.jpg</Item>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001021199721.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-1600000162306</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Description><![CDATA[Casa, 0.00 de área total, 43.12 de área privativa, 211.49 de área do terreno,  3 qto(s), WC, WC Emp, 5 sala(s), 1 lavabo(s), DCE, cozinha, 4 vaga(s) de garagem.]]></Description>
+        <Garage>4</Garage>
+        <LivingArea>43.12</LivingArea>
+        <LotArea>211.49</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Home</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Aceita Financiamento</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">1258216</ListPrice>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Address><![CDATA[RUA URBANO DO COUTO, N. 164, .]]></Address>
+        <City><![CDATA[SAO PAULO]]></City>
+        <Neighborhood><![CDATA[ALTO DA MOOCA]]></Neighborhood>
+        <PostalCode/>
+        <State abbreviation="SP">SP</State>
+        <StreetNumber/>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Casa — Alto Da Mooca]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F160000016230621.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-10211720</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>0</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Description><![CDATA[Terreno, 0.00 de área total, 0.00 de área privativa, 3340.00 de área do terreno.]]></Description>
+        <Garage>0</Garage>
+        <LivingArea>3340</LivingArea>
+        <LotArea>3340</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Land</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Aceita Financiamento</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">831930</ListPrice>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Address><![CDATA[RUA PROTASSIO DE CAMARGO SAMPAIO, N. SN]]></Address>
+        <City><![CDATA[SOROCABA]]></City>
+        <Neighborhood><![CDATA[LOPES DE OLIVEIRA]]></Neighborhood>
+        <PostalCode/>
+        <State abbreviation="SP">SP</State>
+        <StreetNumber/>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Terreno — Lopes De Oliveira]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001021172021.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-10219353</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>0</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Description><![CDATA[Casa, 0.00 de área total, 463.00 de área privativa, 468.00 de área do terreno.]]></Description>
+        <Garage>0</Garage>
+        <LivingArea>463</LivingArea>
+        <LotArea>468</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Home</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Aceita Financiamento</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">1121355</ListPrice>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Address><![CDATA[RUA AMPARO, N. 288, QD 18, LT]]></Address>
+        <City><![CDATA[SAO BERNARDO DO CAMPO]]></City>
+        <Neighborhood><![CDATA[BAETA NEVES]]></Neighborhood>
+        <PostalCode/>
+        <State abbreviation="SP">SP</State>
+        <StreetNumber>22</StreetNumber>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Casa — Baeta Neves]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001021935321.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-10142652</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>0</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Description><![CDATA[Loja, 0.00 de área total, 184.50 de área privativa, 0.00 de área do terreno.]]></Description>
+        <Garage>0</Garage>
+        <LivingArea>184.5</LivingArea>
+        <LotArea>184.5</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Land</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Aceita Financiamento</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">904495</ListPrice>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Address><![CDATA[AVENIDA PADRE ANTONIO JOSE DOS SANTOS, N. 1167, SOBRELOJA]]></Address>
+        <City><![CDATA[SAO PAULO]]></City>
+        <Neighborhood><![CDATA[CIDADE MONCOES]]></Neighborhood>
+        <PostalCode/>
+        <State abbreviation="SP">SP</State>
+        <StreetNumber/>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Terreno — Cidade Moncoes]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001014265221.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-10196806</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>0</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Description><![CDATA[Casa, 0.00 de área total, 138.75 de área privativa, 275.00 de área do terreno.]]></Description>
+        <Garage>0</Garage>
+        <LivingArea>138.75</LivingArea>
+        <LotArea>275</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Home</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Aceita Financiamento</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">236302</ListPrice>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Address><![CDATA[RUA PEDRO ZANATA, N. 141, qd 12, lts 13 e]]></Address>
+        <City><![CDATA[FERNANDOPOLIS]]></City>
+        <Neighborhood><![CDATA[PARQUE DAS NACOES]]></Neighborhood>
+        <PostalCode/>
+        <State abbreviation="SP">SP</State>
+        <StreetNumber>14</StreetNumber>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Casa — Parque Das Nacoes]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001019680621.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-10192739</ListingID>
       <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
+        <Email>contato@sellarimoveis.com.br</Email>
         <Name><![CDATA[Painel Caixa]]></Name>
       </ContactInfo>
       <Destaque>Nao</Destaque>
@@ -865,7 +1129,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Imóvel Ocupado</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">423145</ListPrice>
@@ -885,126 +1149,9 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-10207580</ListingID>
-      <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>0</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Galpão, 0.00 de área total, 273.10 de área privativa, 285.20 de área do terreno.]]></Description>
-        <Garage>0</Garage>
-        <LivingArea>273.1</LivingArea>
-        <LotArea>285.2</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Commercial / Commercial Property</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita Financiamento</Feature>
-        <Feature>Imóvel Ocupado</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">541846</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address><![CDATA[RUA JOSÉ FRANCISCO PEIXOTO, N.]]></Address>
-        <City><![CDATA[MIGUELOPOLIS]]></City>
-        <Neighborhood><![CDATA[CENTRO]]></Neighborhood>
-        <PostalCode>14530-000</PostalCode>
-        <State abbreviation="SP">SP</State>
-        <StreetNumber>1415</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Terreno — Centro]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001020758021.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-1444409166335</ListingID>
-      <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>0</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Casa, 0.00 de área total, 70.00 de área privativa, 300.00 de área do terreno.]]></Description>
-        <Garage>0</Garage>
-        <LivingArea>70</LivingArea>
-        <LotArea>300</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Home</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
-        <Feature>Imóvel Ocupado</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">645159</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address><![CDATA[RUA FERRUCIO BOLLA, N. 400, LT 21, QD C]]></Address>
-        <City><![CDATA[BARRA BONITA]]></City>
-        <Neighborhood><![CDATA[JARDIM VISTA ALEGRE]]></Neighborhood>
-        <PostalCode>17340-108</PostalCode>
-        <State abbreviation="SP">SP</State>
-        <StreetNumber/>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — Jardim Vista Alegre]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F144440916633521.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-10207652</ListingID>
-      <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>0</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Casa, 0.00 de área total, 350.00 de área privativa, 350.00 de área do terreno.]]></Description>
-        <Garage>0</Garage>
-        <LivingArea>350</LivingArea>
-        <LotArea>350</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Home</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita Financiamento</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">703410</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address><![CDATA[RUA SEBASTIAO MARIANO NEPOMUCENO, N. 761/]]></Address>
-        <City><![CDATA[CARAGUATATUBA]]></City>
-        <Neighborhood><![CDATA[CENTRO]]></Neighborhood>
-        <PostalCode>11660-130</PostalCode>
-        <State abbreviation="SP">SP</State>
-        <StreetNumber>771</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — Centro]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001020765221.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-1444416315197</ListingID>
       <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
+        <Email>contato@sellarimoveis.com.br</Email>
         <Name><![CDATA[Painel Caixa]]></Name>
       </ContactInfo>
       <Destaque>Nao</Destaque>
@@ -1020,7 +1167,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Imóvel Ocupado</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">969937</ListPrice>
@@ -1042,7 +1189,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-1444417987180</ListingID>
       <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
+        <Email>contato@sellarimoveis.com.br</Email>
         <Name><![CDATA[Painel Caixa]]></Name>
       </ContactInfo>
       <Destaque>Nao</Destaque>
@@ -1059,7 +1206,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">1386725</ListPrice>
@@ -1079,9 +1225,161 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-10146890</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>0</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Description><![CDATA[Comercial, 0.00 de área total, 448.82 de área privativa, 0.00 de área do terreno, 3 vaga(s) de garagem.]]></Description>
+        <Garage>3</Garage>
+        <LivingArea>448.82</LivingArea>
+        <LotArea>448.82</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Land</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Aceita Financiamento</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">791180</ListPrice>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Address><![CDATA[RUA NICOLA AVALONE, N. 8-67, QUADRA 08, LOTE I]]></Address>
+        <City><![CDATA[BAURU]]></City>
+        <Neighborhood><![CDATA[VILA QUAGGIO]]></Neighborhood>
+        <PostalCode/>
+        <State abbreviation="SP">SP</State>
+        <StreetNumber/>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Terreno — Vila Quaggio]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001014689021.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-10211901</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>0</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Description><![CDATA[Terreno, 0.00 de área total, 0.00 de área privativa, 1702.07 de área do terreno.]]></Description>
+        <Garage>0</Garage>
+        <LivingArea>1702.07</LivingArea>
+        <LotArea>1702.07</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Land</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Aceita Financiamento</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">238585</ListPrice>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Address><![CDATA[AVENIDA SABIA, N. SN, QD 13, LT]]></Address>
+        <City><![CDATA[MARILIA]]></City>
+        <Neighborhood><![CDATA[RESIDENCIAL PORTAL DA SERRA]]></Neighborhood>
+        <PostalCode/>
+        <State abbreviation="SP">SP</State>
+        <StreetNumber>04</StreetNumber>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Terreno — Residencial Portal Da Serra]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001021190121.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-10214186</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>0</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Description><![CDATA[Apartamento, 0.00 de área total, 77.66 de área privativa, 0.00 de área do terreno, 1 vaga(s) de garagem.]]></Description>
+        <Garage>1</Garage>
+        <LivingArea>77.66</LivingArea>
+        <LotArea>77.66</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Aceita Financiamento</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">317861</ListPrice>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Address><![CDATA[RUA DOUTOR VICENTE GIACAGLINI, N. 737, Apto 23, BL A]]></Address>
+        <City><![CDATA[SAO PAULO]]></City>
+        <Neighborhood><![CDATA[VILA BELA]]></Neighborhood>
+        <PostalCode/>
+        <State abbreviation="SP">SP</State>
+        <StreetNumber/>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Apartamento — Vila Bela]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001021418621.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-10211751</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>0</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Description><![CDATA[Casa, 0.00 de área total, 499.71 de área privativa, 660.00 de área do terreno.]]></Description>
+        <Garage>0</Garage>
+        <LivingArea>499.71</LivingArea>
+        <LotArea>660</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Home</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Aceita Financiamento</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">948005</ListPrice>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Address><![CDATA[RUA FRANCA, N.]]></Address>
+        <City><![CDATA[AMERICANA]]></City>
+        <Neighborhood><![CDATA[VILA SANTA MARIA]]></Neighborhood>
+        <PostalCode/>
+        <State abbreviation="SP">SP</State>
+        <StreetNumber>105</StreetNumber>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Casa — Vila Santa Maria]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001021175121.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-1444401991671</ListingID>
       <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
+        <Email>contato@sellarimoveis.com.br</Email>
         <Name><![CDATA[Painel Caixa]]></Name>
       </ContactInfo>
       <Destaque>Nao</Destaque>
@@ -1117,86 +1415,47 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-1098841547595</ListingID>
+      <ListingID>Caixa.Sellar-CAIXA-10208365</ListingID>
       <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
+        <Email>contato@sellarimoveis.com.br</Email>
         <Name><![CDATA[Painel Caixa]]></Name>
       </ContactInfo>
       <Destaque>Nao</Destaque>
       <Details>
         <Bathrooms>0</Bathrooms>
         <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Casa, 0.00 de área total, 151.06 de área privativa, 161.24 de área do terreno, 3 vaga(s) de garagem.]]></Description>
-        <Garage>3</Garage>
-        <LivingArea>151.06</LivingArea>
-        <LotArea>161.24</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Home</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Imóvel Ocupado</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">518490</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address><![CDATA[RUA DO SIMBOLO, N. 207, CASA]]></Address>
-        <City><![CDATA[SAO PAULO]]></City>
-        <Neighborhood><![CDATA[JARDIM AMPLIACAO]]></Neighborhood>
-        <PostalCode>05713-570</PostalCode>
-        <State abbreviation="SP">SP</State>
-        <StreetNumber>11</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — Jardim Ampliacao]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F109884154759521.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-10208368</ListingID>
-      <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>0</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Sala, 0.00 de área total, 231.93 de área privativa, 0.00 de área do terreno, 2 vaga(s) de garagem.]]></Description>
+        <Description><![CDATA[Sala, 0.00 de área total, 231.94 de área privativa, 0.00 de área do terreno, 2 vaga(s) de garagem.]]></Description>
         <Garage>2</Garage>
-        <LivingArea>231.93</LivingArea>
-        <LotArea>231.93</LotArea>
+        <LivingArea>231.94</LivingArea>
+        <LotArea>231.94</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Commercial / Commercial Property</PropertyType>
+        <PropertyType>Residential / Land</PropertyType>
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
-        <ListPrice currency="BRL">564804</ListPrice>
+        <ListPrice currency="BRL">618461</ListPrice>
       </Details>
       <Location displayAddress="Neighborhood">
-        <Address><![CDATA[RUA ANTONIO BENTO, N. 85, SL 1-B, 1º ANDAR]]></Address>
+        <Address><![CDATA[RUA ANTONIO BENTO, N. 85, SL 1-A, 1º ANDAR]]></Address>
         <City><![CDATA[SAO CAETANO DO SUL]]></City>
         <Neighborhood><![CDATA[SANTA PAULA]]></Neighborhood>
-        <PostalCode>09520-050</PostalCode>
+        <PostalCode/>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Terreno — Santa Paula]]></Title>
       <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001020836821.jpg</Item>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001020836521.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-10208908</ListingID>
       <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
+        <Email>contato@sellarimoveis.com.br</Email>
         <Name><![CDATA[Painel Caixa]]></Name>
       </ContactInfo>
       <Destaque>Nao</Destaque>
@@ -1208,7 +1467,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <LivingArea>891.95</LivingArea>
         <LotArea>986.85</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Commercial / Commercial Property</PropertyType>
+        <PropertyType>Residential / Land</PropertyType>
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
@@ -1232,87 +1491,9 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-10208119</ListingID>
-      <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>0</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Terreno, 0.00 de área total, 0.00 de área privativa, 1015.00 de área do terreno.]]></Description>
-        <Garage>0</Garage>
-        <LivingArea>1015</LivingArea>
-        <LotArea>1015</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Land</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita Financiamento</Feature>
-        <Feature>Imóvel Ocupado</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">706853</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address><![CDATA[RUA JORGE CARACANTE, N. 00, QD A, LT]]></Address>
-        <City><![CDATA[SOROCABA]]></City>
-        <Neighborhood><![CDATA[VILA HARO]]></Neighborhood>
-        <PostalCode>18015-315</PostalCode>
-        <State abbreviation="SP">SP</State>
-        <StreetNumber>35</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Terreno — Vila Haro]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001020811921.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-10208371</ListingID>
-      <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>0</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Loja, 0.00 de área total, 220.00 de área privativa, 0.00 de área do terreno, 4 vaga(s) de garagem.]]></Description>
-        <Garage>4</Garage>
-        <LivingArea>220</LivingArea>
-        <LotArea>220</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Commercial / Commercial Property</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita Financiamento</Feature>
-        <Feature>Imóvel Ocupado</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">730857</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address><![CDATA[RUA ANTONIO BENTO, N. 85, LJ 01, TÉRREO]]></Address>
-        <City><![CDATA[SAO CAETANO DO SUL]]></City>
-        <Neighborhood><![CDATA[SANTA PAULA]]></Neighborhood>
-        <PostalCode>09520-050</PostalCode>
-        <State abbreviation="SP">SP</State>
-        <StreetNumber/>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Terreno — Santa Paula]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001020837121.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-1026941748668</ListingID>
       <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
+        <Email>contato@sellarimoveis.com.br</Email>
         <Name><![CDATA[Painel Caixa]]></Name>
       </ContactInfo>
       <Destaque>Nao</Destaque>
@@ -1328,7 +1509,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Imóvel Ocupado</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">304886</ListPrice>
@@ -1350,7 +1531,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-1444420779534</ListingID>
       <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
+        <Email>contato@sellarimoveis.com.br</Email>
         <Name><![CDATA[Painel Caixa]]></Name>
       </ContactInfo>
       <Destaque>Nao</Destaque>
@@ -1367,7 +1548,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">376086</ListPrice>
@@ -1389,7 +1569,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-1444412467570</ListingID>
       <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
+        <Email>contato@sellarimoveis.com.br</Email>
         <Name><![CDATA[Painel Caixa]]></Name>
       </ContactInfo>
       <Destaque>Nao</Destaque>
@@ -1407,7 +1587,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Features>
         <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
-        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">593085</ListPrice>
@@ -1427,9 +1606,47 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-10213036</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>0</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Description><![CDATA[Terreno, 0.00 de área total, 0.00 de área privativa, 3400.00 de área do terreno.]]></Description>
+        <Garage>0</Garage>
+        <LivingArea>3400</LivingArea>
+        <LotArea>3400</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Land</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Aceita Financiamento</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">1720749</ListPrice>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Address><![CDATA[RUA DA ASSEMBLEIA, N. 421, ST 005, QD 167, LT]]></Address>
+        <City><![CDATA[ASSIS]]></City>
+        <Neighborhood><![CDATA[JARDIM PAULISTA]]></Neighborhood>
+        <PostalCode/>
+        <State abbreviation="SP">SP</State>
+        <StreetNumber>009</StreetNumber>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Terreno — Jardim Paulista]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001021303621.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-1444405795176</ListingID>
       <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
+        <Email>contato@sellarimoveis.com.br</Email>
         <Name><![CDATA[Painel Caixa]]></Name>
       </ContactInfo>
       <Destaque>Nao</Destaque>
@@ -1467,7 +1684,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-1444406914128</ListingID>
       <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
+        <Email>contato@sellarimoveis.com.br</Email>
         <Name><![CDATA[Painel Caixa]]></Name>
       </ContactInfo>
       <Destaque>Nao</Destaque>
@@ -1483,7 +1700,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Imóvel Ocupado</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">353842</ListPrice>
@@ -1503,48 +1720,9 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-10210406</ListingID>
-      <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>0</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Apartamento, 0.00 de área total, 178.98 de área privativa, 0.00 de área do terreno.]]></Description>
-        <Garage>0</Garage>
-        <LivingArea>178.98</LivingArea>
-        <LotArea>178.98</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita Financiamento</Feature>
-        <Feature>Imóvel Ocupado</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">742642</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address><![CDATA[RUA SAO DANIEL, N. 206, Apto]]></Address>
-        <City><![CDATA[SAO PAULO]]></City>
-        <Neighborhood><![CDATA[VILA BRASILIO MACHADO]]></Neighborhood>
-        <PostalCode>04288-110</PostalCode>
-        <State abbreviation="SP">SP</State>
-        <StreetNumber>81</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — Vila Brasilio Machado]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001021040621.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-1555525797925</ListingID>
       <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
+        <Email>contato@sellarimoveis.com.br</Email>
         <Name><![CDATA[Painel Caixa]]></Name>
       </ContactInfo>
       <Destaque>Nao</Destaque>
@@ -1556,11 +1734,11 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <LivingArea>252687.41</LivingArea>
         <LotArea>252687.41</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Rural / Farm</PropertyType>
+        <PropertyType>Residential / Land</PropertyType>
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Imóvel Ocupado</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">1236360</ListPrice>
@@ -1582,7 +1760,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-1555533942491</ListingID>
       <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
+        <Email>contato@sellarimoveis.com.br</Email>
         <Name><![CDATA[Painel Caixa]]></Name>
       </ContactInfo>
       <Destaque>Nao</Destaque>
@@ -1600,7 +1778,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Features>
         <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
-        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">201440</ListPrice>
@@ -1620,9 +1797,47 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-1444409617329</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Description><![CDATA[Casa, 92.18 de área total, 92.18 de área privativa, 120.75 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), 1 lavabo(s), cozinha, 2 vaga(s) de garagem.]]></Description>
+        <Garage>2</Garage>
+        <LivingArea>92.18</LivingArea>
+        <LotArea>92.18</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Home</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Aceita Financiamento</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">272018</ListPrice>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Address><![CDATA[RUA TAUNA, N. 77,]]></Address>
+        <City><![CDATA[SAO PAULO]]></City>
+        <Neighborhood><![CDATA[JARDIM LEONIDAS MOREIRA]]></Neighborhood>
+        <PostalCode/>
+        <State abbreviation="SP">SP</State>
+        <StreetNumber/>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Casa — Jardim Leonidas Moreira]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F144440961732921.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-1444415411460</ListingID>
       <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
+        <Email>contato@sellarimoveis.com.br</Email>
         <Name><![CDATA[Painel Caixa]]></Name>
       </ContactInfo>
       <Destaque>Nao</Destaque>
@@ -1640,7 +1855,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Features>
         <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
-        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">356657</ListPrice>
@@ -1662,7 +1876,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-1444415137058</ListingID>
       <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
+        <Email>contato@sellarimoveis.com.br</Email>
         <Name><![CDATA[Painel Caixa]]></Name>
       </ContactInfo>
       <Destaque>Nao</Destaque>
@@ -1680,7 +1894,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Features>
         <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
-        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">683838</ListPrice>
@@ -1702,7 +1915,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-1444420493592</ListingID>
       <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
+        <Email>contato@sellarimoveis.com.br</Email>
         <Name><![CDATA[Painel Caixa]]></Name>
       </ContactInfo>
       <Destaque>Nao</Destaque>
@@ -1738,48 +1951,9 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-10211904</ListingID>
-      <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>0</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Outros, 0.00 de área total, 2389.60 de área privativa, 4893.16 de área do terreno.]]></Description>
-        <Garage>0</Garage>
-        <LivingArea>2389.6</LivingArea>
-        <LotArea>4893.16</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Home</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita Financiamento</Feature>
-        <Feature>Imóvel Ocupado</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">746327</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address><![CDATA[ROD DE ACESSO DOLCINOPOLIS, N.]]></Address>
-        <City><![CDATA[DOLCINOPOLIS]]></City>
-        <Neighborhood><![CDATA[AREA RURAL DE DOLCINOPOLIS]]></Neighborhood>
-        <PostalCode>15740-000</PostalCode>
-        <State abbreviation="SP">SP</State>
-        <StreetNumber>103</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Terreno — Area Rural De Dolcinopolis]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001021190421.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-1444418438598</ListingID>
       <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
+        <Email>contato@sellarimoveis.com.br</Email>
         <Name><![CDATA[Painel Caixa]]></Name>
       </ContactInfo>
       <Destaque>Nao</Destaque>
@@ -1797,7 +1971,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Features>
         <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
-        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">227649</ListPrice>
@@ -1817,48 +1990,9 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-10213767</ListingID>
-      <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>0</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Casa, 0.00 de área total, 158.76 de área privativa, 750.00 de área do terreno.]]></Description>
-        <Garage>0</Garage>
-        <LivingArea>158.76</LivingArea>
-        <LotArea>750</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Home</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita Financiamento</Feature>
-        <Feature>Imóvel Ocupado</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">386882</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address><![CDATA[ALAMEDA DAS ARAUCARIAS, N.]]></Address>
-        <City><![CDATA[CAMPO LIMPO PAULISTA]]></City>
-        <Neighborhood><![CDATA[LOTEAMENTO CHAMPS PRIVES]]></Neighborhood>
-        <PostalCode>13234-693</PostalCode>
-        <State abbreviation="SP">SP</State>
-        <StreetNumber>242</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — Loteamento Champs Prives]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001021376721.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-1444413308009</ListingID>
       <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
+        <Email>contato@sellarimoveis.com.br</Email>
         <Name><![CDATA[Painel Caixa]]></Name>
       </ContactInfo>
       <Destaque>Nao</Destaque>
@@ -1876,7 +2010,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Features>
         <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
-        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">472250</ListPrice>
@@ -1898,7 +2031,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-1444406320775</ListingID>
       <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
+        <Email>contato@sellarimoveis.com.br</Email>
         <Name><![CDATA[Painel Caixa]]></Name>
       </ContactInfo>
       <Destaque>Nao</Destaque>
@@ -1934,9 +2067,47 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-10212203</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Description><![CDATA[Apartamento, 0.00 de área total, 161.50 de área privativa, 0.00 de área do terreno,  3 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha, 2 vaga(s) de garagem.]]></Description>
+        <Garage>2</Garage>
+        <LivingArea>161.5</LivingArea>
+        <LotArea>161.5</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Aceita Financiamento</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">623612</ListPrice>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Address><![CDATA[AV 18, N. 1161, Apto]]></Address>
+        <City><![CDATA[RIO CLARO]]></City>
+        <Neighborhood><![CDATA[SANTA CRUZ]]></Neighborhood>
+        <PostalCode/>
+        <State abbreviation="SP">SP</State>
+        <StreetNumber>103</StreetNumber>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Apartamento — Santa Cruz]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001021220321.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-1444406389686</ListingID>
       <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
+        <Email>contato@sellarimoveis.com.br</Email>
         <Name><![CDATA[Painel Caixa]]></Name>
       </ContactInfo>
       <Destaque>Nao</Destaque>
@@ -1974,7 +2145,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-1308600001270</ListingID>
       <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
+        <Email>contato@sellarimoveis.com.br</Email>
         <Name><![CDATA[Painel Caixa]]></Name>
       </ContactInfo>
       <Destaque>Nao</Destaque>
@@ -1991,7 +2162,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">1029263</ListPrice>
@@ -2013,7 +2183,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-1444415160564</ListingID>
       <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
+        <Email>contato@sellarimoveis.com.br</Email>
         <Name><![CDATA[Painel Caixa]]></Name>
       </ContactInfo>
       <Destaque>Nao</Destaque>
@@ -2031,7 +2201,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Features>
         <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
-        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">1150352</ListPrice>
@@ -2051,9 +2220,85 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-8787713552313</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Description><![CDATA[Apartamento, 56.93 de área total, 40.13 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.]]></Description>
+        <Garage>1</Garage>
+        <LivingArea>40.13</LivingArea>
+        <LotArea>56.93</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Aceita Financiamento</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">200836</ListPrice>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Address><![CDATA[RUA DA MOOCA, N. 1350, Apto 902, TORRE 03 HIS-]]></Address>
+        <City><![CDATA[SAO PAULO]]></City>
+        <Neighborhood><![CDATA[MOOCA]]></Neighborhood>
+        <PostalCode/>
+        <State abbreviation="SP">SP</State>
+        <StreetNumber>1</StreetNumber>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Apartamento — Mooca]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878771355231321.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-8787720034667</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Description><![CDATA[Apartamento, 113.43 de área total, 53.05 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.]]></Description>
+        <Garage>1</Garage>
+        <LivingArea>53.05</LivingArea>
+        <LotArea>113.43</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Aceita Financiamento</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">202060</ListPrice>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Address><![CDATA[RUA ELYSALDO GOES, N. 105, Apto 104, TORRE]]></Address>
+        <City><![CDATA[RIBEIRAO PRETO]]></City>
+        <Neighborhood><![CDATA[PARQUE DAS OLIVEIRAS II]]></Neighborhood>
+        <PostalCode/>
+        <State abbreviation="SP">SP</State>
+        <StreetNumber>01</StreetNumber>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Apartamento — Parque Das Oliveiras Ii]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878772003466721.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-8444435949951</ListingID>
       <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
+        <Email>contato@sellarimoveis.com.br</Email>
         <Name><![CDATA[Painel Caixa]]></Name>
       </ContactInfo>
       <Destaque>Nao</Destaque>
@@ -2071,7 +2316,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Features>
         <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
-        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">205122</ListPrice>
@@ -2093,7 +2337,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-8444434156494</ListingID>
       <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
+        <Email>contato@sellarimoveis.com.br</Email>
         <Name><![CDATA[Painel Caixa]]></Name>
       </ContactInfo>
       <Destaque>Nao</Destaque>
@@ -2111,7 +2355,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Features>
         <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
-        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">207680</ListPrice>
@@ -2131,318 +2374,41 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-8444404173625</ListingID>
+      <ListingID>Caixa.Sellar-CAIXA-8444419462474</ListingID>
       <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
+        <Email>contato@sellarimoveis.com.br</Email>
         <Name><![CDATA[Painel Caixa]]></Name>
       </ContactInfo>
       <Destaque>Nao</Destaque>
       <Details>
         <Bathrooms>1</Bathrooms>
         <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Casa, 81.22 de área total, 81.22 de área privativa, 83.22 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.]]></Description>
-        <Garage>0</Garage>
-        <LivingArea>81.22</LivingArea>
-        <LotArea>81.22</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Home</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
-        <Feature>Imóvel Ocupado</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">211105</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address><![CDATA[AVENIDA DOUTOR ANTONIO SYLVIO CUNHA BUENO, N. 1007, CS 05 LT 27 QD]]></Address>
-        <City><![CDATA[PRAIA GRANDE]]></City>
-        <Neighborhood><![CDATA[BALNEARIO ABC]]></Neighborhood>
-        <PostalCode>11712-040</PostalCode>
-        <State abbreviation="SP">SP</State>
-        <StreetNumber>21</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — Balneario Abc]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F844440417362521.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-8555538401357</ListingID>
-      <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Apartamento, 80.28 de área total, 38.72 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.]]></Description>
-        <Garage>0</Garage>
-        <LivingArea>38.72</LivingArea>
-        <LotArea>80.28</LotArea>
+        <Description><![CDATA[Apartamento, 84.70 de área total, 53.21 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.]]></Description>
+        <Garage>1</Garage>
+        <LivingArea>53.21</LivingArea>
+        <LotArea>84.7</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
         <PropertyType>Residential / Apartment</PropertyType>
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Imóvel Ocupado</Feature>
         </Features>
         <Warranties/>
-        <ListPrice currency="BRL">254106</ListPrice>
+        <ListPrice currency="BRL">209159</ListPrice>
       </Details>
       <Location displayAddress="Neighborhood">
-        <Address><![CDATA[RUA DOUTORA APARECIDA FERNANDES DE JESUS, N. 391, Apto 44, BL]]></Address>
-        <City><![CDATA[COTIA]]></City>
-        <Neighborhood><![CDATA[JARDIM PETROPOLIS]]></Neighborhood>
-        <PostalCode>06700-453</PostalCode>
+        <Address><![CDATA[AVENIDA MARCELO MARCOLINO, N. 275, Apto 34, VG]]></Address>
+        <City><![CDATA[MAUA]]></City>
+        <Neighborhood><![CDATA[VILA ASSIS BRASIL]]></Neighborhood>
+        <PostalCode/>
         <State abbreviation="SP">SP</State>
-        <StreetNumber>04</StreetNumber>
+        <StreetNumber>12</StreetNumber>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — Jardim Petropolis]]></Title>
+      <Title><![CDATA[Apartamento — Vila Assis Brasil]]></Title>
       <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F855553840135721.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-8444432108107</ListingID>
-      <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>0</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Casa, 185.00 de área total, 90.00 de área privativa, 90.00 de área do terreno.]]></Description>
-        <Garage>0</Garage>
-        <LivingArea>90</LivingArea>
-        <LotArea>185</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Home</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
-        <Feature>Imóvel Ocupado</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">424327</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address><![CDATA[RUA JOAQUIM JOSE DA SILVA XAVIER, N. 103, LT 21 QD I]]></Address>
-        <City><![CDATA[SAO PAULO]]></City>
-        <Neighborhood><![CDATA[JARDIM TANGO]]></Neighborhood>
-        <PostalCode>03904-100</PostalCode>
-        <State abbreviation="SP">SP</State>
-        <StreetNumber/>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — Jardim Tango]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F844443210810721.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-1444420933339</ListingID>
-      <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Casa, 70.77 de área total, 70.14 de área privativa, 0.01 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), 1 lavabo(s), cozinha, 1 vaga(s) de garagem.]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>70.14</LivingArea>
-        <LotArea>70.77</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Home</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
-        <Feature>Imóvel Ocupado</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">220713</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address><![CDATA[AVENIDA CLODOARDO AMARAL, N. 1315, CASA]]></Address>
-        <City><![CDATA[PRAIA GRANDE]]></City>
-        <Neighborhood><![CDATA[RIBEIROPOLIS]]></Neighborhood>
-        <PostalCode>11714-040</PostalCode>
-        <State abbreviation="SP">SP</State>
-        <StreetNumber>2</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — Ribeiropolis]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F144442093333921.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-1444416187636</ListingID>
-      <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>3</Bedrooms>
-        <Description><![CDATA[Casa, 113.12 de área total, 83.73 de área privativa, 104.25 de área do terreno,  3 qto(s), a.serv, WC, 2 sala(s), 1 lavabo(s), cozinha, 2 vaga(s) de garagem.]]></Description>
-        <Garage>2</Garage>
-        <LivingArea>83.73</LivingArea>
-        <LotArea>113.12</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Home</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">228047</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address><![CDATA[RUA SCIPIAO, N. 480, RESIDENCIA]]></Address>
-        <City><![CDATA[JARINU]]></City>
-        <Neighborhood><![CDATA[VILA NOVA TRIESTE]]></Neighborhood>
-        <PostalCode>13240-000</PostalCode>
-        <State abbreviation="SP">SP</State>
-        <StreetNumber>01</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — Vila Nova Trieste]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F144441618763621.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-1444404030427</ListingID>
-      <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Sala, 128.29 de área total, 100.24 de área privativa, 0.00 de área do terreno, WC, 1 sala(s).]]></Description>
-        <Garage>0</Garage>
-        <LivingArea>100.24</LivingArea>
-        <LotArea>128.29</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Commercial / Commercial Property</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita Financiamento</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">285214</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address><![CDATA[RUA MAJOR SERTORIO, N. 332, Apto 102, PAV]]></Address>
-        <City><![CDATA[SAO PAULO]]></City>
-        <Neighborhood><![CDATA[VILA BUARQUE]]></Neighborhood>
-        <PostalCode>01222-000</PostalCode>
-        <State abbreviation="SP">SP</State>
-        <StreetNumber>02</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Terreno — Vila Buarque]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F144440403042721.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-1444421932085</ListingID>
-      <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>3</Bedrooms>
-        <Description><![CDATA[Casa, 173.20 de área total, 173.20 de área privativa, 250.00 de área do terreno,  3 qto(s), a.serv, WC, 1 sala(s), 1 lavabo(s), cozinha.]]></Description>
-        <Garage>0</Garage>
-        <LivingArea>173.2</LivingArea>
-        <LotArea>173.2</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Home</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
-        <Feature>Imóvel Ocupado</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">459822</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address><![CDATA[RUA JOAO SERENO, N. SN, LT 02 QD]]></Address>
-        <City><![CDATA[VERA CRUZ]]></City>
-        <Neighborhood><![CDATA[JARDIM AEROPORTO I]]></Neighborhood>
-        <PostalCode>17560-280</PostalCode>
-        <State abbreviation="SP">SP</State>
-        <StreetNumber>07</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — Jardim Aeroporto I]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F144442193208521.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-1444419710461</ListingID>
-      <ContactInfo>
-        <Email>admin@sellar.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>3</Bedrooms>
-        <Description><![CDATA[Apartamento, 118.39 de área total, 98.12 de área privativa, 0.00 de área do terreno,  3 qto(s), varanda, a.serv, WC, 3 sala(s), cozinha, 1 vaga(s) de garagem.]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>98.12</LivingArea>
-        <LotArea>118.39</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita Financiamento</Feature>
-        <Feature>Imóvel Ocupado</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">470386</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address><![CDATA[RUA GENERAL MARCONDES SALGADO, N. 769, Apto 112,]]></Address>
-        <City><![CDATA[CAMPINAS]]></City>
-        <Neighborhood><![CDATA[CENTRO]]></Neighborhood>
-        <PostalCode>13026-075</PostalCode>
-        <State abbreviation="SP">SP</State>
-        <StreetNumber/>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — Centro]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F144441971046121.jpg</Item>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F844441946247421.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
@@ -12606,7 +12572,7 @@ Não perca a chance de adquirir este imóvel que combina espaço, conforto e uma
             <Details>
                 <YearBuilt>1978</YearBuilt>
                 <ListPrice currency="BRL">1490000</ListPrice>
-                <YearlyTax currency="BRL">14000</YearlyTax>
+                <YearlyTax currency="BRL">11021</YearlyTax>
                 <Description><![CDATA[Excelente sobrado  residencial/ comercial entre Pinheiros e Vila Madalena.   
 Se você busca um imóvel versátil, bem localizado e com ótimo espaço interno, esta é uma excelente oportunidade!
 Este sobrado de 232m² de área construída está situado a  poucos metros do Beco do Batman, da agitação da Vila Madalena e do comércio de Pinheiros.  A  região é bem valorizada e de fácil acesso. Ideal ,tanto para fins comerciais ,quanto residenciais.  
@@ -36853,127 +36819,6 @@ O imóvel está estrategicamente localizado, perto de tudo o que você precisa! 
                 <UsageType>Residential</UsageType>
             </Details>
         </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-            <ListingID>NONSTOP-sellarimoveis#WWV9I</ListingID>
-            <Title><![CDATA[Casa para venda em Vila Romana com 2 quartos, sendo 2 suítes , 120m²]]></Title>
-            <TransactionType>For Sale</TransactionType>
-            <Location displayAddress="All">
-                <Country abbreviation="BR">Brasil</Country>
-                <State abbreviation="SP"><![CDATA[São Paulo]]></State>
-                <City><![CDATA[São Paulo]]></City>
-                <Neighborhood><![CDATA[Vila Romana]]></Neighborhood>
-                <Address><![CDATA[Rua Mipibu]]></Address>
-                <StreetNumber><![CDATA[253]]></StreetNumber>
-                <PostalCode>05049-030</PostalCode>
-                <Longitude>-46.6997869</Longitude>
-                <Latitude>-23.533502</Latitude>
-            </Location>
-            <Media>
-                <Item medium="video"><![CDATA[https://www.youtube.com/watch?v=oIqPZRA43mM]]></Item>
-                <Item medium="image" caption="03a6b65e-1dd8-4bfb-92a3-057efa3dc3d8" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/03a6b65e-1dd8-4bfb-92a3-057efa3dc3d8.jpeg]]></Item>
-                <Item medium="image" caption="2245f35a-4c60-4aad-97d2-140bf28a1757" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/2245f35a-4c60-4aad-97d2-140bf28a1757.jpeg]]></Item>
-                <Item medium="image" caption="87159604-4ff3-46c3-a11b-39f2034f66a9" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/87159604-4ff3-46c3-a11b-39f2034f66a9.jpeg]]></Item>
-                <Item medium="image" caption="38fc1688-9529-470c-839b-459626e4b896" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/38fc1688-9529-470c-839b-459626e4b896.jpeg]]></Item>
-                <Item medium="image" caption="08a30cbd-4452-49f6-9c62-f038e7070ec4" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/08a30cbd-4452-49f6-9c62-f038e7070ec4.jpeg]]></Item>
-                <Item medium="image" caption="e3bdbb42-6366-4df7-8768-f4e9875dc0e6" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/e3bdbb42-6366-4df7-8768-f4e9875dc0e6.jpeg]]></Item>
-                <Item medium="image" caption="066b73a1-4e58-4147-a66b-f07a8b2f2db8" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/066b73a1-4e58-4147-a66b-f07a8b2f2db8.jpeg]]></Item>
-                <Item medium="image" caption="4d99177c-6b6c-4f15-89d4-81f272be66ee" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/4d99177c-6b6c-4f15-89d4-81f272be66ee.jpeg]]></Item>
-                <Item medium="image" caption="5955f73c-2a5a-4248-aadf-0d5b70eecc2b" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/5955f73c-2a5a-4248-aadf-0d5b70eecc2b.jpeg]]></Item>
-                <Item medium="image" caption="5c7b50eb-318c-4af7-b797-e3a4b1f352b2" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/5c7b50eb-318c-4af7-b797-e3a4b1f352b2.jpeg]]></Item>
-                <Item medium="image" caption="7f23b5e8-1cfd-468a-90cf-577dd4bedd8f" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/7f23b5e8-1cfd-468a-90cf-577dd4bedd8f.jpeg]]></Item>
-                <Item medium="image" caption="020c64ff-bf7f-4599-9bfa-231ad291cae1" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/020c64ff-bf7f-4599-9bfa-231ad291cae1.jpeg]]></Item>
-                <Item medium="image" caption="a877ca4e-1a2e-4a8d-9809-6f83c9401075" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/a877ca4e-1a2e-4a8d-9809-6f83c9401075.jpeg]]></Item>
-                <Item medium="image" caption="c64fe7ec-bc7c-4468-8d85-d1512777b9bb" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/c64fe7ec-bc7c-4468-8d85-d1512777b9bb.jpeg]]></Item>
-                <Item medium="image" caption="ff6aa719-7dc2-4a2b-abca-f8333192d5fa" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/ff6aa719-7dc2-4a2b-abca-f8333192d5fa.jpeg]]></Item>
-                <Item medium="image" caption="029d836b-aec9-4bd7-ae10-9d4bfb13ffe1" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/029d836b-aec9-4bd7-ae10-9d4bfb13ffe1.jpeg]]></Item>
-                <Item medium="image" caption="a08d993c-d9eb-4ceb-923b-930d64c10bda" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/a08d993c-d9eb-4ceb-923b-930d64c10bda.jpeg]]></Item>
-                <Item medium="image" caption="5fa11484-b382-4d14-bf03-25b0c657651c" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/5fa11484-b382-4d14-bf03-25b0c657651c.jpeg]]></Item>
-                <Item medium="image" caption="95d4eb4b-5ba1-497b-b8f7-0aec7dae2131" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/95d4eb4b-5ba1-497b-b8f7-0aec7dae2131.jpeg]]></Item>
-                <Item medium="image" caption="a8ba8bf0-60b6-4ed9-abbf-66b59fa75d3d" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/a8ba8bf0-60b6-4ed9-abbf-66b59fa75d3d.jpeg]]></Item>
-                <Item medium="image" caption="6ec3f1f2-a3cf-4221-8663-21b7c28bdc15" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/6ec3f1f2-a3cf-4221-8663-21b7c28bdc15.jpeg]]></Item>
-                <Item medium="image" caption="bf65f981-deb1-4120-bee3-dfc296445170" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/bf65f981-deb1-4120-bee3-dfc296445170.jpeg]]></Item>
-                <Item medium="image" caption="680d9f0b-7c3c-4d56-b18d-c34040b634cc" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/680d9f0b-7c3c-4d56-b18d-c34040b634cc.jpeg]]></Item>
-                <Item medium="image" caption="f2766085-3197-4fcd-8bbc-64ea8cf1236f" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/f2766085-3197-4fcd-8bbc-64ea8cf1236f.jpeg]]></Item>
-                <Item medium="image" caption="994a289c-4ba4-41a5-a09e-913fce688681" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/994a289c-4ba4-41a5-a09e-913fce688681.jpeg]]></Item>
-                <Item medium="image" caption="0842b135-9a0b-4091-b5d2-1a761bbabe69" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/0842b135-9a0b-4091-b5d2-1a761bbabe69.jpeg]]></Item>
-                <Item medium="image" caption="95ab7ceb-5276-4467-8aba-575143ecd4f5" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/95ab7ceb-5276-4467-8aba-575143ecd4f5.jpeg]]></Item>
-                <Item medium="image" caption="203b4e2f-66f0-464c-830a-1e996ebcf8b6" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/203b4e2f-66f0-464c-830a-1e996ebcf8b6.jpeg]]></Item>
-                <Item medium="image" caption="2b248984-6ec1-4da8-a268-e67005a2e5bd" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/2b248984-6ec1-4da8-a268-e67005a2e5bd.jpeg]]></Item>
-                <Item medium="image" caption="a9d2c303-a695-4a33-a9e1-f5be483399ea" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/a9d2c303-a695-4a33-a9e1-f5be483399ea.jpeg]]></Item>
-                <Item medium="image" caption="2cb608ea-7f60-4432-96ff-9a44ab77ebe1" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/2cb608ea-7f60-4432-96ff-9a44ab77ebe1.jpeg]]></Item>
-                <Item medium="image" caption="ca63b0e2-9dfe-4d5d-9d10-d81b16780be8" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/ca63b0e2-9dfe-4d5d-9d10-d81b16780be8.jpeg]]></Item>
-                <Item medium="image" caption="56f51ab2-c947-4261-8bc1-9a3083092f15" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/56f51ab2-c947-4261-8bc1-9a3083092f15.jpeg]]></Item>
-                <Item medium="image" caption="e5623981-be8b-4082-9a84-e364ddb607fc" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/e5623981-be8b-4082-9a84-e364ddb607fc.jpeg]]></Item>
-                <Item medium="image" caption="54a73e54-25ed-458a-8621-93fa1bd8e01b" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/54a73e54-25ed-458a-8621-93fa1bd8e01b.jpeg]]></Item>
-                <Item medium="image" caption="c8731905-58ca-4e49-ade0-db9cceac7541" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/c8731905-58ca-4e49-ade0-db9cceac7541.jpeg]]></Item>
-                <Item medium="image" caption="217959ec-5769-4def-be87-5c810630a353" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/217959ec-5769-4def-be87-5c810630a353.jpeg]]></Item>
-                <Item medium="image" caption="3351983b-5e83-4f24-ac89-ba1cfa016b08" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/3351983b-5e83-4f24-ac89-ba1cfa016b08.jpeg]]></Item>
-                <Item medium="image" caption="bbebeadf-7dc0-425b-b653-8dc06450a133" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/bbebeadf-7dc0-425b-b653-8dc06450a133.jpeg]]></Item>
-                <Item medium="image" caption="03573536-44e8-4518-9923-a126cfe59254" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/03573536-44e8-4518-9923-a126cfe59254.jpeg]]></Item>
-                <Item medium="image" caption="7e34b116-1f8e-4f08-b9c0-4899524c6872" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/7e34b116-1f8e-4f08-b9c0-4899524c6872.jpeg]]></Item>
-                <Item medium="image" caption="c28d4651-262e-4e28-839c-655d3ef7d40d" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/c28d4651-262e-4e28-839c-655d3ef7d40d.jpeg]]></Item>
-                <Item medium="image" caption="12aa1fe2-dbb0-428a-9478-5df5750898c1" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/12aa1fe2-dbb0-428a-9478-5df5750898c1.jpeg]]></Item>
-                <Item medium="image" caption="1e425b1e-2b7a-45b2-85df-6d542db60780" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/1e425b1e-2b7a-45b2-85df-6d542db60780.jpeg]]></Item>
-                <Item medium="image" caption="4131ca79-1311-42b6-864d-2826ec633306" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/4131ca79-1311-42b6-864d-2826ec633306.jpeg]]></Item>
-                <Item medium="image" caption="4b53cc8a-3f02-4583-982b-7ebf402b5b37" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/4b53cc8a-3f02-4583-982b-7ebf402b5b37.jpeg]]></Item>
-                <Item medium="image" caption="4e919944-8b25-4eb7-900a-4199b6b1cc2e" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/4e919944-8b25-4eb7-900a-4199b6b1cc2e.jpeg]]></Item>
-                <Item medium="image" caption="499fa5d5-7a4b-43b3-af2c-dbd4030f59c5" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/68e9731e82042e67000b6047/images/499fa5d5-7a4b-43b3-af2c-dbd4030f59c5.jpeg]]></Item>
-            </Media>
-            <PublicationType>STANDARD</PublicationType>
-            <Details>
-                <YearBuilt>1995</YearBuilt>
-                <ListPrice currency="BRL">1190000</ListPrice>
-                <YearlyTax currency="BRL">9075</YearlyTax>
-                <Description><![CDATA[CASA À VENDA NA VILA ROMANA | 2 SUÍTES | ÁREA GOURMET, JACUZZI E JARDIM | 3 VAGAS
-
-Apresentamos esta linda casa no coração da Vila Romana, um dos bairros mais valorizados, charmosos e desejados da Zona Oeste de São Paulo. Um imóvel completo, acolhedor e pronto para oferecer qualidade de vida, conforto, lazer e praticidade, aliado a uma localização privilegiada.
-
-Com 120m² de área construída em um terreno de 264m², esta residência se destaca pelos ambientes bem distribuídos, excelente iluminação natural e um espaço externo encantador, perfeito para quem valoriza momentos ao ar livre.
-
-CARACTERÍSTICAS DO IMÓVEL
-A casa conta com 2 dormitórios amplos, ambos suítes, garantindo privacidade e conforto aos moradores. A sala de estar é espaçosa, ideal para dois ambientes (estar e jantar), proporcionando integração, conforto e aconchego.
-
-A cozinha possui armários planejados, oferecendo praticidade, organização e funcionalidade no dia a dia. O imóvel dispõe ainda de um escritório privativo, perfeito para home office, estudos ou até mesmo a adaptação para um terceiro dormitório, além de lavabo para visitas e área de serviço coberta e arejada.
-
-A garagem comporta 3 vagas descobertas, com acesso fácil e prático.
-
-LAZER E BEM-ESTAR NO SEU PRÓPRIO LAR
-O espaço externo é um dos grandes diferenciais do imóvel. A casa oferece uma área gourmet com churrasqueira, ideal para receber amigos e familiares, além de uma jacuzzi ao ar livre, perfeita para momentos de relaxamento e descanso.
-
-O jardim aconchegante traz charme, tranquilidade e contato com a natureza, criando um ambiente ideal para pets, atividades ao ar livre ou cultivo de plantas.
-
-LOCALIZAÇÃO PRIVILEGIADA – VILA ROMANA
-A Vila Romana é um bairro arborizado, residencial e extremamente valorizado, que combina tranquilidade com fácil acesso a uma infraestrutura completa. Muito procurada por famílias, casais e investidores, a região oferece excelente qualidade de vida.
-
-Nas proximidades você encontra supermercados, padarias, farmácias, hortifrutis, escolas tradicionais, academias, restaurantes, bares e cafés, além de transporte público farto, com acesso a ônibus, CPTM e proximidade com metrô.
-Fácil acesso às principais vias, como Av. Pompéia, Av. Francisco Matarazzo, Av. Cerro Corá e Marginal Tietê, além da proximidade com bairros como Lapa, Pompéia e Perdizes.
-
-💰 Valor de venda: R$ 1.190.000,00
-📄 Documentação em ordem – aceita financiamento bancário
-
-DESTAQUES DO IMÓVEL:
-• 2 suítes espaçosas
-• Sala ampla e escritório
-• Cozinha com armários planejados
-• Área gourmet com churrasqueira e jacuzzi
-• Jardim e espaço de lazer
-• 3 vagas de garagem
-• Localização estratégica na Vila Romana
-• 120m² de área construída em terreno de 264m²]]></Description>
-                <PropertyType>Residential / Home</PropertyType>
-                <LivingArea unit="square metres">120</LivingArea>
-                <LotArea unit="square metres">264</LotArea>
-                <Features>
-                    <Feature>Barbecue Balcony</Feature>
-                    <Feature>Gourmet Area</Feature>
-                    <Feature>Pets Allowed</Feature>
-                </Features>
-                <Bathrooms>3</Bathrooms>
-                <Bedrooms>2</Bedrooms>
-                <Garage>3</Garage>
-                <Suites>2</Suites>
-                <UsageType>Residential</UsageType>
-            </Details>
-        </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
             <ListingID>NONSTOP-sellarimoveis#4IM1G</ListingID>
             <Title><![CDATA[Apartamento para venda em Alto Da Lapa com 4 quartos, sendo 4 suítes , 247m²]]></Title>
             <TransactionType>For Sale</TransactionType>
@@ -53447,7 +53292,8 @@ Apesar da ausência de vaga de garagem, a proximidade com o metrô garante mobil
 
 O prédio oferece infraestrutura completa nas áreas comuns, incluindo lavanderia compartilhada, espaço de co-working, academia equipada, piscina, brinquedoteca e salão de festas, reunindo lazer, conveniência e bem-estar em um só lugar.
 
-Uma excelente oportunidade para morar ou investir em uma das regiões mais desejadas de São Paulo.]]></Description>
+Uma excelente oportunidade para morar ou investir em uma das regiões mais desejadas de São Paulo.
+O apartamento é um imóvel HIS.]]></Description>
                 <PropertyType>Residential / Apartment</PropertyType>
                 <LivingArea unit="square metres">27</LivingArea>
                 <Features>
@@ -55123,7 +54969,7 @@ Este não é apenas um apartamento.
             </Media>
             <PublicationType>STANDARD</PublicationType>
             <Details>
-                <ListPrice currency="BRL">620000</ListPrice>
+                <ListPrice currency="BRL">600000</ListPrice>
                 <PropertyAdministrationFee currency="BRL">575</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">220</YearlyTax>
                 <Description><![CDATA[Apresentamos um excelente apartamento em um dos condomínios mais completos da região, o Barra Vista 2 próximo ao parque Jardim das Perdizes. Com um total de 58 m² de área útil, este imóvel é perfeito para quem busca conforto e praticidade.
@@ -63811,102 +63657,6 @@ Tudo pode ser feito a pé, em um dos bairros mais valorizados e desejados de Sã
                 <UsageType>Residential</UsageType>
             </Details>
         </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-            <ListingID>NONSTOP-sellarimoveis#0568C</ListingID>
-            <Title><![CDATA[Studio para venda em Perdizes com 1 quarto , 27m²]]></Title>
-            <TransactionType>For Sale</TransactionType>
-            <Location displayAddress="All">
-                <Country abbreviation="BR">Brasil</Country>
-                <State abbreviation="SP"><![CDATA[São Paulo]]></State>
-                <City><![CDATA[São Paulo]]></City>
-                <Neighborhood><![CDATA[Perdizes]]></Neighborhood>
-                <Address><![CDATA[Rua Domício da Gama]]></Address>
-                <StreetNumber><![CDATA[110]]></StreetNumber>
-                <Complement><![CDATA[305]]></Complement>
-                <PostalCode>05015-030</PostalCode>
-                <Longitude>-46.6707043</Longitude>
-                <Latitude>-23.5345476</Latitude>
-            </Location>
-            <Media>
-                <Item medium="image" caption="a640cf2a-3e25-4be8-8f87-a22b6f8332fe" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/697a8b642a10fcb47673ca4c/images/a640cf2a-3e25-4be8-8f87-a22b6f8332fe.jpeg]]></Item>
-                <Item medium="image" caption="b6b9fa54-ff76-43f8-9fc1-53436c8ff941" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/697a8b642a10fcb47673ca4c/images/b6b9fa54-ff76-43f8-9fc1-53436c8ff941.jpeg]]></Item>
-                <Item medium="image" caption="49705918-c1b7-463e-a668-ba5ba1bce8e1" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/697a8b642a10fcb47673ca4c/images/49705918-c1b7-463e-a668-ba5ba1bce8e1.jpeg]]></Item>
-                <Item medium="image" caption="6b98fcd6-bbec-4dc8-b28a-3097c5dbde2b" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/697a8b642a10fcb47673ca4c/images/6b98fcd6-bbec-4dc8-b28a-3097c5dbde2b.jpeg]]></Item>
-                <Item medium="image" caption="a60794c4-a194-41cc-8c33-cdfcaab1f65e" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/697a8b642a10fcb47673ca4c/images/a60794c4-a194-41cc-8c33-cdfcaab1f65e.jpeg]]></Item>
-                <Item medium="image" caption="cb2b075c-164e-4754-844b-c83471d214b8" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/697a8b642a10fcb47673ca4c/images/cb2b075c-164e-4754-844b-c83471d214b8.jpeg]]></Item>
-                <Item medium="image" caption="5f6264ee-5a05-4879-9de8-ec6867d81c2f" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/697a8b642a10fcb47673ca4c/images/5f6264ee-5a05-4879-9de8-ec6867d81c2f.jpeg]]></Item>
-                <Item medium="image" caption="1faf9d7a-7c3e-4f3c-afee-fec0cfcd8540" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/697a8b642a10fcb47673ca4c/images/1faf9d7a-7c3e-4f3c-afee-fec0cfcd8540.jpeg]]></Item>
-                <Item medium="image" caption="bc7ea5cb-6c79-47c3-b3c4-a2faea0c4775" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/697a8b642a10fcb47673ca4c/images/bc7ea5cb-6c79-47c3-b3c4-a2faea0c4775.jpeg]]></Item>
-                <Item medium="image" caption="f15fc9c3-46b8-45f2-a7a2-3b9cb87af90d" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/697a8b642a10fcb47673ca4c/images/f15fc9c3-46b8-45f2-a7a2-3b9cb87af90d.jpeg]]></Item>
-                <Item medium="image" caption="fc9da91f-39fd-4137-b715-3aefa39fb3eb" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/697a8b642a10fcb47673ca4c/images/fc9da91f-39fd-4137-b715-3aefa39fb3eb.jpeg]]></Item>
-                <Item medium="image" caption="c5da70a4-645f-4c94-908f-6e518cae7681" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/697a8b642a10fcb47673ca4c/images/c5da70a4-645f-4c94-908f-6e518cae7681.jpeg]]></Item>
-                <Item medium="image" caption="db61db4e-fc1b-4a88-9f9f-dff68a5b7a1c" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/697a8b642a10fcb47673ca4c/images/db61db4e-fc1b-4a88-9f9f-dff68a5b7a1c.jpeg]]></Item>
-                <Item medium="image" caption="557e6b57-a55a-43fb-a120-1356d1fdaed3" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/697a8b642a10fcb47673ca4c/images/557e6b57-a55a-43fb-a120-1356d1fdaed3.jpeg]]></Item>
-                <Item medium="image" caption="6b07bb5b-dfd0-4a69-871f-460d71f85e90" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/697a8b642a10fcb47673ca4c/images/6b07bb5b-dfd0-4a69-871f-460d71f85e90.jpeg]]></Item>
-                <Item medium="image" caption="a0709cd1-1afe-4b44-8801-f2d7f8bededb" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/697a8b642a10fcb47673ca4c/images/a0709cd1-1afe-4b44-8801-f2d7f8bededb.jpeg]]></Item>
-                <Item medium="image" caption="a6aa2127-d8d6-44fc-af36-ccb213c64c38" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/697a8b642a10fcb47673ca4c/images/a6aa2127-d8d6-44fc-af36-ccb213c64c38.jpeg]]></Item>
-            </Media>
-            <PublicationType>STANDARD</PublicationType>
-            <Details>
-                <YearBuilt>2023</YearBuilt>
-                <ListPrice currency="BRL">430000</ListPrice>
-                <PropertyAdministrationFee currency="BRL">463</PropertyAdministrationFee>
-                <YearlyTax currency="BRL">49</YearlyTax>
-                <Description><![CDATA[Este studio de 27m² no condomínio Welconx Perdizes é a escolha ideal para quem busca praticidade, modernidade e qualidade de vida em um dos bairros mais valorizados de São Paulo.
-
-Com 1 dormitório e 1 banheiro, o imóvel está pronto para receber um projeto de design de interiores, e já dispomos de uma proposta exclusiva e pronta para execução. As instalações para ar-condicionado e máquina lava e seca proporcionam ainda mais comodidade e funcionalidade ao seu dia a dia.
-
-O condomínio Welconx Perdizes é completo e pensado para o estilo de vida contemporâneo, com portaria e segurança 24 horas e uma excelente estrutura de lazer e conveniência:
-- Espaço de apoio a festas
-- Brinquedoteca
-- Churrasqueira
-- Coworking
-- Academia (fitness e fitness externo)
-- Lavanderia coletiva
- - Piscina adulto e infantil
-- Salão de festas
-- Solarium
-
-Localizado em Perdizes, o bairro combina charme, segurança e excelente infraestrutura. Você estará cercado por uma ampla rede de comércios, serviços, transporte público, universidades, escolas, padarias, restaurantes e supermercados. Tudo a poucos minutos de casa.
-
-Além disso, a região é um polo de cultura e lazer, com diversas opções de entretenimento para todas as idades.
-
-Pontos de interesse próximos:
-- Estação de Metrô Palmeiras - Barra Funda
-- PUC/SP (Campus Monte Alegre)
-- Uninove (Campus Barra Funda)
-- Allianz Parque
-- Parque da Água Branca
-- Sesc Pompeia
-- Shoppings Bourbon e West Plaza
-- SENAC Francisco Matarazzo
-
-Se você busca investir ou morar com qualidade, praticidade e uma excelente localização, este studio é a opção perfeita!
-Agende uma visita e conheça de perto o Welconx Perdizes.]]></Description>
-                <PropertyType>Residential / Studio</PropertyType>
-                <LivingArea unit="square metres">27</LivingArea>
-                <Features>
-                    <Feature>BBQ</Feature>
-                    <Feature>Balcony</Feature>
-                    <Feature>Barbecue Balcony</Feature>
-                    <Feature>Elevator</Feature>
-                    <Feature>Fitness Room</Feature>
-                    <Feature>Garden Area</Feature>
-                    <Feature>Gourmet Area</Feature>
-                    <Feature>Gym</Feature>
-                    <Feature>Laundry</Feature>
-                    <Feature>Party Room</Feature>
-                    <Feature>Pets Allowed</Feature>
-                    <Feature>Pool</Feature>
-                    <Feature>Recreation Area</Feature>
-                    <Feature>Security Guard on Duty</Feature>
-                </Features>
-                <Bathrooms>1</Bathrooms>
-                <Bedrooms>1</Bedrooms>
-                <Garage>0</Garage>
-                <UnitFloor>3</UnitFloor>
-                <UsageType>Residential</UsageType>
-            </Details>
-        </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
             <ListingID>NONSTOP-sellarimoveis#4T7UP</ListingID>
             <Title><![CDATA[Apartamento para venda em Perdizes com 3 quartos, sendo 1 suíte , 83m²]]></Title>
             <TransactionType>For Sale</TransactionType>
@@ -66269,9 +66019,9 @@ As informações contidas neste anúncio, tais como valor do imóvel, do condom�
             <PublicationType>STANDARD</PublicationType>
             <Details>
                 <YearBuilt>2025</YearBuilt>
-                <ListPrice currency="BRL">1390000</ListPrice>
+                <ListPrice currency="BRL">1380000</ListPrice>
                 <PropertyAdministrationFee currency="BRL">1200</PropertyAdministrationFee>
-                <YearlyTax currency="BRL">1300</YearlyTax>
+                <YearlyTax currency="BRL">4500</YearlyTax>
                 <Description><![CDATA[📍 Rua Arruda Alvim – Condomínio Highlights Pinheiros (Tecnisa)
 Prédio recém-entregue, moderno e exclusivo.
 
@@ -66294,7 +66044,6 @@ O MELHOR APARTAMENTO DO PRÉDIO — VISTA LIVRE E DEFINITIVA
 	•	Brinquedoteca e playground
 
 📊 Valores
-	•	Venda: R$ 1.450.000,00 
 	•	Condomínio: R$ 1.250
 	•	IPTU: R$ 250/mês
 
@@ -74963,13 +74712,13 @@ Não perca a oportunidade de viver em um retiro urbano novo, acessível e pronto
             </Details>
         </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
             <ListingID>NONSTOP-sellarimoveis#JU5F2</ListingID>
-            <Title><![CDATA[Apartamento para venda em Sumarezinho com 2 quartos , 60m²]]></Title>
+            <Title><![CDATA[Apartamento para venda em POMPÉIA com 2 quartos , 60m²]]></Title>
             <TransactionType>For Sale</TransactionType>
             <Location displayAddress="All">
                 <Country abbreviation="BR">Brasil</Country>
                 <State abbreviation="SP"><![CDATA[São Paulo]]></State>
                 <City><![CDATA[São Paulo]]></City>
-                <Neighborhood><![CDATA[Sumarezinho]]></Neighborhood>
+                <Neighborhood><![CDATA[POMPÉIA]]></Neighborhood>
                 <Address><![CDATA[Rua Heitor Penteado]]></Address>
                 <StreetNumber><![CDATA[1707]]></StreetNumber>
                 <Complement><![CDATA[181]]></Complement>
@@ -75006,11 +74755,6 @@ Não perca a oportunidade de viver em um retiro urbano novo, acessível e pronto
                 <Item medium="image" caption="9e2e6c53-a7fa-4e3d-aba9-a8cdd96a8b5f" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69a84f8a6189f3a90054d237/images/9e2e6c53-a7fa-4e3d-aba9-a8cdd96a8b5f.jpeg]]></Item>
                 <Item medium="image" caption="95264ecb-0036-4d90-a1d5-f281e10d7867" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69a84f8a6189f3a90054d237/images/95264ecb-0036-4d90-a1d5-f281e10d7867.jpeg]]></Item>
                 <Item medium="image" caption="3177fcff-c62b-43f2-97c0-f3d1f1901907" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69a84f8a6189f3a90054d237/images/3177fcff-c62b-43f2-97c0-f3d1f1901907.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_036.jpeg" primary="true"><![CDATA[https://images.usenonstop.com.br/condo-images/69a84f886189f3a90054d235/images/1773432496069-01fotos_036.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_019.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/69a84f886189f3a90054d235/images/1773432496021-01fotos_019.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_035.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/69a84f886189f3a90054d235/images/1773432496055-01fotos_035.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_008.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/69a84f886189f3a90054d235/images/1773432496091-01fotos_008.jpeg]]></Item>
-                <Item medium="image" caption="01fotos_023.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/69a84f886189f3a90054d235/images/1773432496032-01fotos_023.jpeg]]></Item>
             </Media>
             <PublicationType>STANDARD</PublicationType>
             <Details>
@@ -79353,18 +79097,18 @@ Se você busca um espaço profissional em uma região dinâmica de São Paulo, e
             <VirtualTourLink><![CDATA[https://www.youtube.com/watch?v=gJCdf04-DoU]]></VirtualTourLink>
             <Media>
                 <Item medium="video"><![CDATA[https://www.youtube.com/watch?v=gJCdf04-DoU]]></Item>
-                <Item medium="image" caption="4d348a34-b45b-4cb2-a89c-4a40d11ae2ca" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/4d348a34-b45b-4cb2-a89c-4a40d11ae2ca.jpeg]]></Item>
+                <Item medium="image" caption="1394ee78-0a36-4db0-ac6c-628f74f338b8" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/1394ee78-0a36-4db0-ac6c-628f74f338b8.jpeg]]></Item>
+                <Item medium="image" caption="4d348a34-b45b-4cb2-a89c-4a40d11ae2ca" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/4d348a34-b45b-4cb2-a89c-4a40d11ae2ca.jpeg]]></Item>
                 <Item medium="image" caption="e1f0eee2-3907-4a7e-9606-2d843d696f14" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/e1f0eee2-3907-4a7e-9606-2d843d696f14.jpeg]]></Item>
-                <Item medium="image" caption="1394ee78-0a36-4db0-ac6c-628f74f338b8" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/1394ee78-0a36-4db0-ac6c-628f74f338b8.jpeg]]></Item>
                 <Item medium="image" caption="eabd65e1-d288-4d01-a0a1-21940878dbe4" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/eabd65e1-d288-4d01-a0a1-21940878dbe4.jpeg]]></Item>
-                <Item medium="image" caption="2241410d-16b0-4dc7-83ef-d5645a67d567" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/2241410d-16b0-4dc7-83ef-d5645a67d567.jpeg]]></Item>
                 <Item medium="image" caption="cf557b83-b406-4a9d-8361-7c84f8908503" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/cf557b83-b406-4a9d-8361-7c84f8908503.jpeg]]></Item>
+                <Item medium="image" caption="2241410d-16b0-4dc7-83ef-d5645a67d567" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/2241410d-16b0-4dc7-83ef-d5645a67d567.jpeg]]></Item>
                 <Item medium="image" caption="071bea67-19e8-4fe9-a8d6-e4bd46dd0040" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/071bea67-19e8-4fe9-a8d6-e4bd46dd0040.jpeg]]></Item>
-                <Item medium="image" caption="285c0916-54f8-4ecc-b415-927b717f3c7c" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/285c0916-54f8-4ecc-b415-927b717f3c7c.jpeg]]></Item>
                 <Item medium="image" caption="fa0e197e-6cee-4462-b80a-90bbfcb3d84f" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/fa0e197e-6cee-4462-b80a-90bbfcb3d84f.jpeg]]></Item>
+                <Item medium="image" caption="285c0916-54f8-4ecc-b415-927b717f3c7c" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/285c0916-54f8-4ecc-b415-927b717f3c7c.jpeg]]></Item>
                 <Item medium="image" caption="d1546e3c-c151-4c42-adf1-a9d1f43855ce" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/d1546e3c-c151-4c42-adf1-a9d1f43855ce.jpeg]]></Item>
-                <Item medium="image" caption="90502e88-210e-4114-ace0-d918926d110f" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/90502e88-210e-4114-ace0-d918926d110f.jpeg]]></Item>
                 <Item medium="image" caption="0d4f5c3a-36e1-4d4a-99fd-3acc636bb035" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/0d4f5c3a-36e1-4d4a-99fd-3acc636bb035.jpeg]]></Item>
+                <Item medium="image" caption="90502e88-210e-4114-ace0-d918926d110f" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/90502e88-210e-4114-ace0-d918926d110f.jpeg]]></Item>
                 <Item medium="image" caption="57b6fa5e-d9e7-48a4-849e-b309724a77c9" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/57b6fa5e-d9e7-48a4-849e-b309724a77c9.jpeg]]></Item>
                 <Item medium="image" caption="7c3bd6e2-e507-4065-a54b-1a3de483d060" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/7c3bd6e2-e507-4065-a54b-1a3de483d060.jpeg]]></Item>
                 <Item medium="image" caption="ba86920d-9aed-49b9-a2ea-39e336d4c764" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/ba86920d-9aed-49b9-a2ea-39e336d4c764.jpeg]]></Item>
@@ -79381,7 +79125,7 @@ Se você busca um espaço profissional em uma região dinâmica de São Paulo, e
             <PublicationType>STANDARD</PublicationType>
             <Details>
                 <YearBuilt>1985</YearBuilt>
-                <ListPrice currency="BRL">600000</ListPrice>
+                <ListPrice currency="BRL">599000</ListPrice>
                 <PropertyAdministrationFee currency="BRL">2200</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">9295</YearlyTax>
                 <Description><![CDATA[Conjunto comercial à venda no Edifício São Marcelo, localizado na Rua Dr. Homem de Melo,  em uma região estratégica, com fácil acesso às principais vias e completa infraestrutura de comércio e serviços.
