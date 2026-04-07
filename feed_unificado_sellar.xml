@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-04-07T01:09:41</Date>
+  <Date>2026-04-07T07:00:46</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE204</ListingID>
@@ -1758,45 +1758,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-1555533942491</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>3</Bedrooms>
-        <Description><![CDATA[Apartamento, 236.24 de área total, 104.58 de área privativa, 0.00 de área do terreno,  3 qto(s), varanda, a.serv, WC, 2 sala(s), cozinha, 2 vaga(s) de garagem.]]></Description>
-        <Garage>2</Garage>
-        <LivingArea>104.58</LivingArea>
-        <LotArea>236.24</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">201440</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address><![CDATA[RUA MOREIRA NETO, N. 456, Apto 45, BL A]]></Address>
-        <City><![CDATA[SAO PAULO]]></City>
-        <Neighborhood><![CDATA[JARDIM DO DIVINO]]></Neighborhood>
-        <PostalCode>08460-600</PostalCode>
-        <State abbreviation="SP">SP</State>
-        <StreetNumber/>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — Jardim Do Divino]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F155553394249121.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-1444409617329</ListingID>
       <ContactInfo>
         <Email>contato@sellarimoveis.com.br</Email>
@@ -2409,6 +2370,45 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       <Title><![CDATA[Apartamento — Vila Assis Brasil]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F844441946247421.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-8444404173625</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Description><![CDATA[Casa, 81.22 de área total, 81.22 de área privativa, 83.22 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.]]></Description>
+        <Garage>0</Garage>
+        <LivingArea>81.22</LivingArea>
+        <LotArea>81.22</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Home</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Aceita Financiamento</Feature>
+        <Feature>Aceita FGTS</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">211105</ListPrice>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Address><![CDATA[AVENIDA DOUTOR ANTONIO SYLVIO CUNHA BUENO, N. 1007, CS 05 LT 27 QD]]></Address>
+        <City><![CDATA[PRAIA GRANDE]]></City>
+        <Neighborhood><![CDATA[BALNEARIO ABC]]></Neighborhood>
+        <PostalCode>11712-040</PostalCode>
+        <State abbreviation="SP">SP</State>
+        <StreetNumber>21</StreetNumber>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Casa — Balneario Abc]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F844440417362521.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
