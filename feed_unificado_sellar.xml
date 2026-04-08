@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-04-08T01:11:06</Date>
+  <Date>2026-04-08T07:03:24</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE204</ListingID>
@@ -819,47 +819,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       <Title><![CDATA[Casa — Matadouro]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001019805121.jpg</Item>
-        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/68b26589-862e-45cb-bb96-f458348e207c.jpg</Item>
-        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/78545d7a-771a-4381-b601-c9b434830db7.jpg</Item>
-        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/a4bcaf82-043b-4a76-a47f-46d12b7c1154.png</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-10204781</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>0</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Terreno, 0.00 de área total, 0.00 de área privativa, 4238.00 de área do terreno.]]></Description>
-        <Garage>0</Garage>
-        <LivingArea>4238</LivingArea>
-        <LotArea>4238</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Land</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita Financiamento</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">1626637</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address><![CDATA[AVENIDA GETULIO VARGAS, N. 00, ST 02, QD 64, LT]]></Address>
-        <City><![CDATA[ASSIS]]></City>
-        <Neighborhood><![CDATA[VILA NOVA SANTANA]]></Neighborhood>
-        <PostalCode>19807-130</PostalCode>
-        <State abbreviation="SP">SP</State>
-        <StreetNumber>05</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Terreno — Vila Nova Santana]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001020478121.jpg</Item>
         <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/68b26589-862e-45cb-bb96-f458348e207c.jpg</Item>
         <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/78545d7a-771a-4381-b601-c9b434830db7.jpg</Item>
         <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/a4bcaf82-043b-4a76-a47f-46d12b7c1154.png</Item>
@@ -1728,47 +1687,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-10214186</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>0</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Apartamento, 0.00 de área total, 77.66 de área privativa, 0.00 de área do terreno, 1 vaga(s) de garagem.]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>77.66</LivingArea>
-        <LotArea>77.66</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita Financiamento</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">317861</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address><![CDATA[RUA DOUTOR VICENTE GIACAGLINI, N. 737, Apto 23, BL A]]></Address>
-        <City><![CDATA[SAO PAULO]]></City>
-        <Neighborhood><![CDATA[VILA BELA]]></Neighborhood>
-        <PostalCode/>
-        <State abbreviation="SP">SP</State>
-        <StreetNumber/>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — Vila Bela]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001021418621.jpg</Item>
-        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/68b26589-862e-45cb-bb96-f458348e207c.jpg</Item>
-        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/78545d7a-771a-4381-b601-c9b434830db7.jpg</Item>
-        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/a4bcaf82-043b-4a76-a47f-46d12b7c1154.png</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-1444420779534</ListingID>
       <ContactInfo>
         <Email>contato@sellarimoveis.com.br</Email>
@@ -2262,47 +2180,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-1444409617329</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Casa, 92.18 de área total, 92.18 de área privativa, 120.75 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), 1 lavabo(s), cozinha, 2 vaga(s) de garagem.]]></Description>
-        <Garage>2</Garage>
-        <LivingArea>92.18</LivingArea>
-        <LotArea>92.18</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Home</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita Financiamento</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">272018</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address><![CDATA[RUA TAUNA, N. 77,]]></Address>
-        <City><![CDATA[SAO PAULO]]></City>
-        <Neighborhood><![CDATA[JARDIM LEONIDAS MOREIRA]]></Neighborhood>
-        <PostalCode/>
-        <State abbreviation="SP">SP</State>
-        <StreetNumber/>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — Jardim Leonidas Moreira]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F144440961732921.jpg</Item>
-        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/68b26589-862e-45cb-bb96-f458348e207c.jpg</Item>
-        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/78545d7a-771a-4381-b601-c9b434830db7.jpg</Item>
-        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/a4bcaf82-043b-4a76-a47f-46d12b7c1154.png</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-10213767</ListingID>
       <ContactInfo>
         <Email>contato@sellarimoveis.com.br</Email>
@@ -2543,6 +2420,129 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       <Title><![CDATA[Apartamento — Centro]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F144441971046121.jpg</Item>
+        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/68b26589-862e-45cb-bb96-f458348e207c.jpg</Item>
+        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/78545d7a-771a-4381-b601-c9b434830db7.jpg</Item>
+        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/a4bcaf82-043b-4a76-a47f-46d12b7c1154.png</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-1444413308009</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>5</Bedrooms>
+        <Description><![CDATA[Casa, 334.32 de área total, 334.32 de área privativa, 513.00 de área do terreno,  5 qto(s), a.serv, WC, 2 sala(s), cozinha.]]></Description>
+        <Garage>0</Garage>
+        <LivingArea>334.32</LivingArea>
+        <LotArea>334.32</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Home</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Aceita Financiamento</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">472250</ListPrice>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Address><![CDATA[RUA RIACHUELO, N. 1-48, QD 24 LT QR]]></Address>
+        <City><![CDATA[BAURU]]></City>
+        <Neighborhood><![CDATA[VILA SAO FRANCISCO]]></Neighborhood>
+        <PostalCode/>
+        <State abbreviation="SP">SP</State>
+        <StreetNumber>1</StreetNumber>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Casa — Vila Sao Francisco]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F144441330800921.jpg</Item>
+        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/68b26589-862e-45cb-bb96-f458348e207c.jpg</Item>
+        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/78545d7a-771a-4381-b601-c9b434830db7.jpg</Item>
+        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/a4bcaf82-043b-4a76-a47f-46d12b7c1154.png</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-1444416972864</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>4</Bedrooms>
+        <Description><![CDATA[Apartamento, 320.97 de área total, 155.35 de área privativa, 0.00 de área do terreno,  4 qto(s), a.serv, WC, 1 sala(s), cozinha, 3 vaga(s) de garagem.]]></Description>
+        <Garage>3</Garage>
+        <LivingArea>155.35</LivingArea>
+        <LotArea>320.97</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Aceita Financiamento</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">499495</ListPrice>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Address><![CDATA[AVENIDA DOUTOR GUILHERME DUMONT VILARES, N. 601, Apto 122,]]></Address>
+        <City><![CDATA[SAO PAULO]]></City>
+        <Neighborhood><![CDATA[JARDIM LONDRINA]]></Neighborhood>
+        <PostalCode/>
+        <State abbreviation="SP">SP</State>
+        <StreetNumber/>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Apartamento — Jardim Londrina]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F144441697286421.jpg</Item>
+        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/68b26589-862e-45cb-bb96-f458348e207c.jpg</Item>
+        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/78545d7a-771a-4381-b601-c9b434830db7.jpg</Item>
+        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/a4bcaf82-043b-4a76-a47f-46d12b7c1154.png</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-1444406320775</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>0</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Description><![CDATA[Terreno, 0.00 de área total, 0.00 de área privativa, 5264.74 de área do terreno.]]></Description>
+        <Garage>0</Garage>
+        <LivingArea>5264.74</LivingArea>
+        <LotArea>5264.74</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Land</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Aceita Financiamento</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">583652</ListPrice>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Address><![CDATA[RUA MARGINAL, N. SN, AREA 03 DA CHACARA DO RIACHO]]></Address>
+        <City><![CDATA[ATIBAIA]]></City>
+        <Neighborhood><![CDATA[MATO DENTRO]]></Neighborhood>
+        <PostalCode>12900-000</PostalCode>
+        <State abbreviation="SP">SP</State>
+        <StreetNumber/>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Terreno — Mato Dentro]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F144440632077521.jpg</Item>
         <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/68b26589-862e-45cb-bb96-f458348e207c.jpg</Item>
         <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/78545d7a-771a-4381-b601-c9b434830db7.jpg</Item>
         <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/a4bcaf82-043b-4a76-a47f-46d12b7c1154.png</Item>
