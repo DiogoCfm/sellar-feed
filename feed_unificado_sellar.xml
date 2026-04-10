@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-04-10T07:12:07</Date>
+  <Date>2026-04-10T12:39:34</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE204</ListingID>
@@ -620,6 +620,88 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-10002161</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Description><![CDATA[Casa, 0.00 de área total, 330.48 de área privativa, 363.00 de área do terreno,  3 qto(s), a.serv, WC, WC Emp, 3 sala(s), cozinha, 1 vaga(s) de garagem.]]></Description>
+        <Garage>1</Garage>
+        <LivingArea>330.48</LivingArea>
+        <LotArea>363</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Home</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">183235</ListPrice>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Address><![CDATA[RUA CONSOLACAO, N. 2147, QD 146 LT]]></Address>
+        <City><![CDATA[SAO JOSE DO RIO PRETO]]></City>
+        <Neighborhood><![CDATA[VILA ESPLANADA]]></Neighborhood>
+        <PostalCode/>
+        <State abbreviation="SP">SP</State>
+        <StreetNumber>08</StreetNumber>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Casa — Vila Esplanada]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001000216121.jpg</Item>
+        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/68b26589-862e-45cb-bb96-f458348e207c.jpg</Item>
+        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/78545d7a-771a-4381-b601-c9b434830db7.jpg</Item>
+        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/a4bcaf82-043b-4a76-a47f-46d12b7c1154.png</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-1444400445959</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>0</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Description><![CDATA[Terreno, 0.00 de área total, 0.00 de área privativa, 1695.24 de área do terreno.]]></Description>
+        <Garage>0</Garage>
+        <LivingArea>1695.24</LivingArea>
+        <LotArea>1695.24</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Land</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Aceita Financiamento</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">196613</ListPrice>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Address><![CDATA[RUA 01A, N. SN, LT 01 QD E]]></Address>
+        <City><![CDATA[MORUNGABA]]></City>
+        <Neighborhood><![CDATA[BAIRRO DOS SILVAS]]></Neighborhood>
+        <PostalCode>13260-000</PostalCode>
+        <State abbreviation="SP">SP</State>
+        <StreetNumber/>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Terreno — Bairro Dos Silvas]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F144440044595921.jpg</Item>
+        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/68b26589-862e-45cb-bb96-f458348e207c.jpg</Item>
+        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/78545d7a-771a-4381-b601-c9b434830db7.jpg</Item>
+        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/a4bcaf82-043b-4a76-a47f-46d12b7c1154.png</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-10005427</ListingID>
       <ContactInfo>
         <Email>contato@sellarimoveis.com.br</Email>
@@ -860,6 +942,47 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       <Title><![CDATA[Casa — Matadouro]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001019805121.jpg</Item>
+        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/68b26589-862e-45cb-bb96-f458348e207c.jpg</Item>
+        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/78545d7a-771a-4381-b601-c9b434830db7.jpg</Item>
+        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/a4bcaf82-043b-4a76-a47f-46d12b7c1154.png</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-10204781</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>0</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Description><![CDATA[Terreno, 0.00 de área total, 0.00 de área privativa, 4238.00 de área do terreno.]]></Description>
+        <Garage>0</Garage>
+        <LivingArea>4238</LivingArea>
+        <LotArea>4238</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Land</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Aceita Financiamento</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">1626637</ListPrice>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Address><![CDATA[AVENIDA GETULIO VARGAS, N. 00, ST 02, QD 64, LT]]></Address>
+        <City><![CDATA[ASSIS]]></City>
+        <Neighborhood><![CDATA[VILA NOVA SANTANA]]></Neighborhood>
+        <PostalCode>19807-130</PostalCode>
+        <State abbreviation="SP">SP</State>
+        <StreetNumber>05</StreetNumber>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Terreno — Vila Nova Santana]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001020478121.jpg</Item>
         <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/68b26589-862e-45cb-bb96-f458348e207c.jpg</Item>
         <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/78545d7a-771a-4381-b601-c9b434830db7.jpg</Item>
         <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/a4bcaf82-043b-4a76-a47f-46d12b7c1154.png</Item>
@@ -1360,6 +1483,129 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-10207647</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>0</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Description><![CDATA[Apartamento, 0.00 de área total, 55.43 de área privativa, 0.00 de área do terreno.]]></Description>
+        <Garage>0</Garage>
+        <LivingArea>55.43</LivingArea>
+        <LotArea>55.43</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Aceita Financiamento</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">152268</ListPrice>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Address><![CDATA[RUA FLORIDA, N. 215, Apto]]></Address>
+        <City><![CDATA[SOROCABA]]></City>
+        <Neighborhood><![CDATA[VILA BARCELONA]]></Neighborhood>
+        <PostalCode/>
+        <State abbreviation="SP">SP</State>
+        <StreetNumber>22</StreetNumber>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Apartamento — Vila Barcelona]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001020764721.jpg</Item>
+        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/68b26589-862e-45cb-bb96-f458348e207c.jpg</Item>
+        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/78545d7a-771a-4381-b601-c9b434830db7.jpg</Item>
+        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/a4bcaf82-043b-4a76-a47f-46d12b7c1154.png</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-10207582</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>0</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Description><![CDATA[Sala, 0.00 de área total, 100.14 de área privativa, 0.00 de área do terreno.]]></Description>
+        <Garage>0</Garage>
+        <LivingArea>100.14</LivingArea>
+        <LotArea>100.14</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Commercial / Commercial Property</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Aceita Financiamento</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">229209</ListPrice>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Address><![CDATA[RUA JOAO PESSOA, N. 69, SL]]></Address>
+        <City><![CDATA[SANTOS]]></City>
+        <Neighborhood><![CDATA[CENTRO]]></Neighborhood>
+        <PostalCode/>
+        <State abbreviation="SP">SP</State>
+        <StreetNumber>131</StreetNumber>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Terreno — Centro]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001020758221.jpg</Item>
+        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/68b26589-862e-45cb-bb96-f458348e207c.jpg</Item>
+        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/78545d7a-771a-4381-b601-c9b434830db7.jpg</Item>
+        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/a4bcaf82-043b-4a76-a47f-46d12b7c1154.png</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-1444417483069</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Description><![CDATA[Casa, 0.00 de área total, 222.00 de área privativa, 130.00 de área do terreno,  3 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco, 2 vaga(s) de garagem.]]></Description>
+        <Garage>2</Garage>
+        <LivingArea>222</LivingArea>
+        <LotArea>130</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Home</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Aceita Financiamento</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">315756</ListPrice>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Address><![CDATA[RUA GREGORIO DE MATOS, N. 553, PARTE LT 04 QD H]]></Address>
+        <City><![CDATA[SANTO ANDRE]]></City>
+        <Neighborhood><![CDATA[CONDOMINIO MARACANA]]></Neighborhood>
+        <PostalCode/>
+        <State abbreviation="SP">SP</State>
+        <StreetNumber/>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Casa — Condominio Maracana]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F144441748306921.jpg</Item>
+        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/68b26589-862e-45cb-bb96-f458348e207c.jpg</Item>
+        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/78545d7a-771a-4381-b601-c9b434830db7.jpg</Item>
+        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/a4bcaf82-043b-4a76-a47f-46d12b7c1154.png</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-10206716</ListingID>
       <ContactInfo>
         <Email>contato@sellarimoveis.com.br</Email>
@@ -1683,6 +1929,47 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       <Title><![CDATA[Casa — Parque Das Fontes]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F844440532257821.jpg</Item>
+        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/68b26589-862e-45cb-bb96-f458348e207c.jpg</Item>
+        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/78545d7a-771a-4381-b601-c9b434830db7.jpg</Item>
+        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/a4bcaf82-043b-4a76-a47f-46d12b7c1154.png</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-8555536874541</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Description><![CDATA[Casa, 69.35 de área total, 69.35 de área privativa, 77.04 de área do terreno,  2 qto(s), WC, 1 sala(s), 1 lavabo(s), cozinha, 1 vaga(s) de garagem.]]></Description>
+        <Garage>1</Garage>
+        <LivingArea>69.35</LivingArea>
+        <LotArea>69.35</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Home</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Aceita Financiamento</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">141978</ListPrice>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Address><![CDATA[RUA JOSE PEREIRA, N. 1635, CASA 04 VAGA N]]></Address>
+        <City><![CDATA[MOGI DAS CRUZES]]></City>
+        <Neighborhood><![CDATA[JUNDIAPEBA]]></Neighborhood>
+        <PostalCode/>
+        <State abbreviation="SP">SP</State>
+        <StreetNumber>24</StreetNumber>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Casa — Jundiapeba]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F855553687454121.jpg</Item>
         <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/68b26589-862e-45cb-bb96-f458348e207c.jpg</Item>
         <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/78545d7a-771a-4381-b601-c9b434830db7.jpg</Item>
         <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/a4bcaf82-043b-4a76-a47f-46d12b7c1154.png</Item>
@@ -2257,294 +2544,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       <Title><![CDATA[Casa — Resid Maria Do Carmo]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878770153865521.jpg</Item>
-        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/68b26589-862e-45cb-bb96-f458348e207c.jpg</Item>
-        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/78545d7a-771a-4381-b601-c9b434830db7.jpg</Item>
-        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/a4bcaf82-043b-4a76-a47f-46d12b7c1154.png</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-1444417987180</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>4</Bedrooms>
-        <Description><![CDATA[Apartamento, 0.00 de área total, 506.53 de área privativa, 0.00 de área do terreno,  4 qto(s), WC, WC Emp, 2 sala(s), 2 lavabo(s), cozinha, 3 vaga(s) de garagem.]]></Description>
-        <Garage>3</Garage>
-        <LivingArea>506.53</LivingArea>
-        <LotArea>506.53</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita Financiamento</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">1386725</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address><![CDATA[RUA MINAS GERAIS, N. 69, Apto 121, 12 e 13 ANDAR]]></Address>
-        <City><![CDATA[SAO JOSE DO RIO PRETO]]></City>
-        <Neighborhood><![CDATA[VILA BOM JESUS]]></Neighborhood>
-        <PostalCode>15014-210</PostalCode>
-        <State abbreviation="SP">SP</State>
-        <StreetNumber/>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — Vila Bom Jesus]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F144441798718021.jpg</Item>
-        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/68b26589-862e-45cb-bb96-f458348e207c.jpg</Item>
-        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/78545d7a-771a-4381-b601-c9b434830db7.jpg</Item>
-        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/a4bcaf82-043b-4a76-a47f-46d12b7c1154.png</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-10146890</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>0</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Comercial, 0.00 de área total, 448.82 de área privativa, 0.00 de área do terreno, 3 vaga(s) de garagem.]]></Description>
-        <Garage>3</Garage>
-        <LivingArea>448.82</LivingArea>
-        <LotArea>448.82</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Commercial / Commercial Property</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita Financiamento</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">791180</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address><![CDATA[RUA NICOLA AVALONE, N. 8-67, QUADRA 08, LOTE I]]></Address>
-        <City><![CDATA[BAURU]]></City>
-        <Neighborhood><![CDATA[VILA QUAGGIO]]></Neighborhood>
-        <PostalCode>17060-600</PostalCode>
-        <State abbreviation="SP">SP</State>
-        <StreetNumber/>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Terreno — Vila Quaggio]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001014689021.jpg</Item>
-        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/68b26589-862e-45cb-bb96-f458348e207c.jpg</Item>
-        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/78545d7a-771a-4381-b601-c9b434830db7.jpg</Item>
-        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/a4bcaf82-043b-4a76-a47f-46d12b7c1154.png</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-1444418501125</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Apartamento, 0.00 de área total, 59.18 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.]]></Description>
-        <Garage>0</Garage>
-        <LivingArea>59.18</LivingArea>
-        <LotArea>59.18</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita FGTS</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">127773</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address><![CDATA[AVENIDA PRESIDENTE KENNEDY, N. 14078, Apto 01,]]></Address>
-        <City><![CDATA[PRAIA GRANDE]]></City>
-        <Neighborhood><![CDATA[SOLEMAR]]></Neighborhood>
-        <PostalCode>11709-000</PostalCode>
-        <State abbreviation="SP">SP</State>
-        <StreetNumber/>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — Solemar]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F144441850112521.jpg</Item>
-        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/68b26589-862e-45cb-bb96-f458348e207c.jpg</Item>
-        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/78545d7a-771a-4381-b601-c9b434830db7.jpg</Item>
-        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/a4bcaf82-043b-4a76-a47f-46d12b7c1154.png</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-8444409937828</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>3</Bedrooms>
-        <Description><![CDATA[Casa, 130.45 de área total, 70.00 de área privativa, 68.31 de área do terreno,  3 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>70</LivingArea>
-        <LotArea>130.45</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Home</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">189322</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address><![CDATA[RUA LEONARDO NUNES, N. 920, CASA]]></Address>
-        <City><![CDATA[SAO VICENTE]]></City>
-        <Neighborhood><![CDATA[PARQUE SAO VICENTE]]></Neighborhood>
-        <PostalCode>11365-280</PostalCode>
-        <State abbreviation="SP">SP</State>
-        <StreetNumber>01</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — Parque Sao Vicente]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F844440993782821.jpg</Item>
-        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/68b26589-862e-45cb-bb96-f458348e207c.jpg</Item>
-        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/78545d7a-771a-4381-b601-c9b434830db7.jpg</Item>
-        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/a4bcaf82-043b-4a76-a47f-46d12b7c1154.png</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-8027190090877</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>3</Bedrooms>
-        <Description><![CDATA[Apartamento, 161.84 de área total, 69.53 de área privativa, 0.00 de área do terreno,  3 qto(s), a.serv, WC, 1 sala(s), cozinha.]]></Description>
-        <Garage>0</Garage>
-        <LivingArea>69.53</LivingArea>
-        <LotArea>161.84</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita Financiamento</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">197966</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address><![CDATA[RUA POTENGI, N. 14, Apto 41, 3º ANDAR OU 4º PAVIMENTO]]></Address>
-        <City><![CDATA[COTIA]]></City>
-        <Neighborhood><![CDATA[JARDIM RIO DAS PEDRAS]]></Neighborhood>
-        <PostalCode>06703-785</PostalCode>
-        <State abbreviation="SP">SP</State>
-        <StreetNumber/>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — Jardim Rio Das Pedras]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F802719009087721.jpg</Item>
-        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/68b26589-862e-45cb-bb96-f458348e207c.jpg</Item>
-        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/78545d7a-771a-4381-b601-c9b434830db7.jpg</Item>
-        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/a4bcaf82-043b-4a76-a47f-46d12b7c1154.png</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-10211901</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>0</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Terreno, 0.00 de área total, 0.00 de área privativa, 1702.07 de área do terreno.]]></Description>
-        <Garage>0</Garage>
-        <LivingArea>1702.07</LivingArea>
-        <LotArea>1702.07</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Land</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita Financiamento</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">238585</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address><![CDATA[AVENIDA SABIA, N. SN, QD 13, LT]]></Address>
-        <City><![CDATA[MARILIA]]></City>
-        <Neighborhood><![CDATA[RESIDENCIAL PORTAL DA SERRA]]></Neighborhood>
-        <PostalCode>17514-872</PostalCode>
-        <State abbreviation="SP">SP</State>
-        <StreetNumber>04</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Terreno — Residencial Portal Da Serra]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001021190121.jpg</Item>
-        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/68b26589-862e-45cb-bb96-f458348e207c.jpg</Item>
-        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/78545d7a-771a-4381-b601-c9b434830db7.jpg</Item>
-        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/a4bcaf82-043b-4a76-a47f-46d12b7c1154.png</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-1444420779534</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Apartamento, 0.00 de área total, 52.60 de área privativa, 0.00 de área do terreno, WC Emp, 1 vaga(s) de garagem.]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>52.6</LivingArea>
-        <LotArea>52.6</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita Financiamento</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">365640</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address><![CDATA[AVENIDA DOS CAICARAS, N. 804, Apto 51, 5º ANDAR]]></Address>
-        <City><![CDATA[GUARUJA]]></City>
-        <Neighborhood><![CDATA[JARDIM LAS PALMAS]]></Neighborhood>
-        <PostalCode>11420-440</PostalCode>
-        <State abbreviation="SP">SP</State>
-        <StreetNumber/>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — Jardim Las Palmas]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F144442077953421.jpg</Item>
         <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/68b26589-862e-45cb-bb96-f458348e207c.jpg</Item>
         <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/78545d7a-771a-4381-b601-c9b434830db7.jpg</Item>
         <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/a4bcaf82-043b-4a76-a47f-46d12b7c1154.png</Item>
@@ -35235,7 +35234,7 @@ Vamos agendar uma visita? O café e o deslumbramento são por minha conta!!]]></
             <PublicationType>STANDARD</PublicationType>
             <Details>
                 <YearBuilt>2022</YearBuilt>
-                <ListPrice currency="BRL">420000</ListPrice>
+                <ListPrice currency="BRL">400000</ListPrice>
                 <PropertyAdministrationFee currency="BRL">903</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">200</YearlyTax>
                 <Description><![CDATA[Apartamento mobiliado com 1 dormitório – Rua da Simpatia, 200 | Unidade 104
@@ -50042,7 +50041,7 @@ Uma verdadeira joia arquitetônica — única, surpreendente e inesquecível.
             <PublicationType>STANDARD</PublicationType>
             <Details>
                 <YearBuilt>2022</YearBuilt>
-                <ListPrice currency="BRL">345000</ListPrice>
+                <ListPrice currency="BRL">300000</ListPrice>
                 <PropertyAdministrationFee currency="BRL">774</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">124</YearlyTax>
                 <Description><![CDATA[Este studio de 21 m² na Vila Madalena é uma excelente oportunidade para quem busca praticidade, modernidade e alto potencial de valorização em um dos bairros mais desejados de São Paulo. Reformado e vendido em porteira fechada, o imóvel está totalmente equipado e pronto para morar ou investir, oferecendo um layout inteligente que aproveita cada metro quadrado com eficiência e conforto.
@@ -50173,7 +50172,7 @@ Um imóvel ideal para quem busca um studio moderno, bem localizado, com liquidez
             <PublicationType>STANDARD</PublicationType>
             <Details>
                 <YearBuilt>2022</YearBuilt>
-                <ListPrice currency="BRL">315000</ListPrice>
+                <ListPrice currency="BRL">300000</ListPrice>
                 <PropertyAdministrationFee currency="BRL">769</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">120</YearlyTax>
                 <Description><![CDATA[Este studio de 20 m² na Vila Madalena é uma excelente oportunidade para quem busca praticidade, modernidade e alto potencial de valorização em um dos bairros mais desejados de São Paulo. Reformado e vendido em porteira fechada, o imóvel está totalmente equipado e pronto para morar ou investir, oferecendo um layout inteligente que aproveita cada metro quadrado com eficiência e conforto.
@@ -50306,7 +50305,7 @@ Um imóvel ideal para quem busca um studio moderno, bem localizado, com liquidez
             <PublicationType>STANDARD</PublicationType>
             <Details>
                 <YearBuilt>2022</YearBuilt>
-                <ListPrice currency="BRL">315000</ListPrice>
+                <ListPrice currency="BRL">300000</ListPrice>
                 <PropertyAdministrationFee currency="BRL">769</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">0</YearlyTax>
                 <Description><![CDATA[Este studio de 20 m² na Vila Madalena é uma excelente oportunidade para quem busca praticidade, modernidade e alto potencial de valorização em um dos bairros mais desejados de São Paulo. Reformado e vendido em porteira fechada, o imóvel está totalmente equipado e pronto para morar ou investir, oferecendo um layout inteligente que aproveita cada metro quadrado com eficiência e conforto.
@@ -50427,7 +50426,7 @@ Um imóvel ideal para quem busca um studio moderno, bem localizado, com liquidez
             <PublicationType>STANDARD</PublicationType>
             <Details>
                 <YearBuilt>2022</YearBuilt>
-                <ListPrice currency="BRL">315000</ListPrice>
+                <ListPrice currency="BRL">300000</ListPrice>
                 <PropertyAdministrationFee currency="BRL">769</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">1206</YearlyTax>
                 <Description><![CDATA[Este studio de 20 m² na Vila Madalena é uma excelente oportunidade para quem busca praticidade, modernidade e alto potencial de valorização em um dos bairros mais desejados de São Paulo. Reformado e vendido em porteira fechada, o imóvel está totalmente equipado e pronto para morar ou investir, oferecendo um layout inteligente que aproveita cada metro quadrado com eficiência e conforto.
@@ -50557,7 +50556,7 @@ Um imóvel ideal para quem busca um studio moderno, bem localizado, com liquidez
             <PublicationType>STANDARD</PublicationType>
             <Details>
                 <YearBuilt>2023</YearBuilt>
-                <ListPrice currency="BRL">340000</ListPrice>
+                <ListPrice currency="BRL">320000</ListPrice>
                 <PropertyAdministrationFee currency="BRL">780</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">1272</YearlyTax>
                 <Description><![CDATA[Este studio de 22 m² na Vila Madalena é uma excelente oportunidade para quem busca praticidade, modernidade e alto potencial de valorização em um dos bairros mais desejados de São Paulo. Reformado e vendido em porteira fechada, o imóvel está totalmente equipado e pronto para morar ou investir, oferecendo um layout inteligente que aproveita cada metro quadrado com eficiência e conforto.
@@ -50696,7 +50695,7 @@ Um imóvel ideal para quem busca um studio moderno, bem localizado, com liquidez
             <PublicationType>STANDARD</PublicationType>
             <Details>
                 <YearBuilt>2022</YearBuilt>
-                <ListPrice currency="BRL">520000</ListPrice>
+                <ListPrice currency="BRL">500000</ListPrice>
                 <PropertyAdministrationFee currency="BRL">1462</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">2589</YearlyTax>
                 <Description><![CDATA[Este apartamento de 40 m² na Vila Madalena é uma excelente oportunidade para quem busca praticidade, modernidade e alto potencial de valorização em um dos bairros mais desejados de São Paulo. Reformado e vendido em porteira fechada, o imóvel está totalmente equipado e pronto para morar ou investir, oferecendo um layout inteligente que aproveita cada metro quadrado com eficiência e conforto.
