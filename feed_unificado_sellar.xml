@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-04-09T18:43:18</Date>
+  <Date>2026-04-10T01:11:31</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE204</ListingID>
@@ -606,7 +606,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA DA FIGUEIRA, N.]]></Address>
         <City><![CDATA[VARGEM GRANDE PAULISTA]]></City>
         <Neighborhood><![CDATA[CENTRO]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>06730-490</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>00</StreetNumber>
       </Location>
@@ -614,47 +614,6 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       <Title><![CDATA[Terreno — Centro]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001019744521.jpg</Item>
-        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/68b26589-862e-45cb-bb96-f458348e207c.jpg</Item>
-        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/78545d7a-771a-4381-b601-c9b434830db7.jpg</Item>
-        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/a4bcaf82-043b-4a76-a47f-46d12b7c1154.png</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-1444400445959</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>0</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Terreno, 0.00 de área total, 0.00 de área privativa, 1695.24 de área do terreno.]]></Description>
-        <Garage>0</Garage>
-        <LivingArea>1695.24</LivingArea>
-        <LotArea>1695.24</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Land</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita Financiamento</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">196613</ListPrice>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Address><![CDATA[RUA 01A, N. SN, LT 01 QD E]]></Address>
-        <City><![CDATA[MORUNGABA]]></City>
-        <Neighborhood><![CDATA[BAIRRO DOS SILVAS]]></Neighborhood>
-        <PostalCode/>
-        <State abbreviation="SP">SP</State>
-        <StreetNumber/>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Terreno — Bairro Dos Silvas]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F144440044595921.jpg</Item>
         <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/68b26589-862e-45cb-bb96-f458348e207c.jpg</Item>
         <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/78545d7a-771a-4381-b601-c9b434830db7.jpg</Item>
         <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/a4bcaf82-043b-4a76-a47f-46d12b7c1154.png</Item>
@@ -675,7 +634,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <LivingArea>681.2</LivingArea>
         <LotArea>681.2</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Land</PropertyType>
+        <PropertyType>Commercial / Commercial Property</PropertyType>
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
@@ -729,7 +688,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[AVENIDA SALIN JOSE SAYEG, INÍCIO A 10,65 M DA R. AMAZONAS]]></Address>
         <City><![CDATA[PENAPOLIS]]></City>
         <Neighborhood><![CDATA[PARQUE SAO LUIZ]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>16305-046</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
@@ -757,7 +716,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <LivingArea>1545.51</LivingArea>
         <LotArea>1450</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Land</PropertyType>
+        <PropertyType>Commercial / Commercial Property</PropertyType>
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
@@ -770,7 +729,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[AVENIDA VIRGINIO DE MONTEZZO FILHO, N.]]></Address>
         <City><![CDATA[TATUI]]></City>
         <Neighborhood><![CDATA[NOVA TATUI]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>18278-440</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>1490</StreetNumber>
       </Location>
@@ -811,7 +770,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA ALCATRAZES, N. 00, QD Q, LT]]></Address>
         <City><![CDATA[MONTE MOR]]></City>
         <Neighborhood><![CDATA[RESIDENCIAL GAIVOTAS]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>13190-736</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>05</StreetNumber>
       </Location>
@@ -839,7 +798,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <LivingArea>886</LivingArea>
         <LotArea>20000</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Land</PropertyType>
+        <PropertyType>Rural / Farm</PropertyType>
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
@@ -893,7 +852,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA DOUTOR FREITAS, N.]]></Address>
         <City><![CDATA[BRAGANCA PAULISTA]]></City>
         <Neighborhood><![CDATA[MATADOURO]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>12910-340</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>502</StreetNumber>
       </Location>
@@ -966,7 +925,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">117253</ListPrice>
@@ -975,7 +934,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[AVENIDA JOSE OTAVIO DE ANDRADE, N. 87, CS]]></Address>
         <City><![CDATA[SAO VICENTE]]></City>
         <Neighborhood><![CDATA[PARQUE CONTINENTAL]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>11348-400</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>08</StreetNumber>
       </Location>
@@ -1016,7 +975,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA ANTONIO CLEMENTE, N. 181/183, LT 13 QD 02, ANDAR DE BAIXO]]></Address>
         <City><![CDATA[SAO PAULO]]></City>
         <Neighborhood><![CDATA[JARDIM SAO PAULO(ZONA NORTE)]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>02039-020</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
@@ -1057,7 +1016,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA LUIZA LOPES GARCIA, N. 250, Apto 74, VG 31 31A]]></Address>
         <City><![CDATA[HORTOLANDIA]]></City>
         <Neighborhood><![CDATA[REMANSO CAMPINEIRO]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>13184-350</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
@@ -1098,7 +1057,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA DR GUSTAVO CORDEIRO GALVAO FILHO, N. 965, PT LT 19, QD]]></Address>
         <City><![CDATA[SAO VICENTE]]></City>
         <Neighborhood><![CDATA[PARQUE DAS BANDEIRAS]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>11346-160</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>57</StreetNumber>
       </Location>
@@ -1131,6 +1090,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
+        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">102750</ListPrice>
@@ -1139,7 +1099,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA  AMAZONAS, N. 610,]]></Address>
         <City><![CDATA[MONCOES]]></City>
         <Neighborhood><![CDATA[MONCOES]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>15275-000</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
@@ -1180,7 +1140,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA URBANO DO COUTO, N. 164, .]]></Address>
         <City><![CDATA[SAO PAULO]]></City>
         <Neighborhood><![CDATA[ALTO DA MOOCA]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>03183-080</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
@@ -1221,7 +1181,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA PROJETADA 6, N. 752, Apto 0, LT 26, QD]]></Address>
         <City><![CDATA[SAO JOSE DO RIO PRETO]]></City>
         <Neighborhood><![CDATA[RESIDENCIAL MARIA CLARA 2]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>15000-000</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>12</StreetNumber>
       </Location>
@@ -1262,7 +1222,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA CORREIA RIBEIRO, N. 138, Apto 11, 138]]></Address>
         <City><![CDATA[SAO PAULO]]></City>
         <Neighborhood><![CDATA[JARDIM SOARES]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>08460-260</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>146</StreetNumber>
       </Location>
@@ -1335,7 +1295,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">105244</ListPrice>
@@ -1344,7 +1304,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA AMAZONAS, N. 32, CS 10 LT]]></Address>
         <City><![CDATA[MONGAGUA]]></City>
         <Neighborhood><![CDATA[PARQUE DAS OLIVEIRAS]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>11730-000</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>09</StreetNumber>
       </Location>
@@ -1377,6 +1337,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
+        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">111061</ListPrice>
@@ -1385,7 +1346,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[AV ALFREDO RAVANELI, N. 3409, Apto 305, BL]]></Address>
         <City><![CDATA[RIBEIRAO PRETO]]></City>
         <Neighborhood><![CDATA[CONJUNTO HABITACIONAL JARDIM DAS PALMEIR]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>14094-120</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>4</StreetNumber>
       </Location>
@@ -1454,7 +1415,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <LivingArea>273.1</LivingArea>
         <LotArea>285.2</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Land</PropertyType>
+        <PropertyType>Residential / Home</PropertyType>
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
@@ -1467,7 +1428,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA JOSÉ FRANCISCO PEIXOTO, N.]]></Address>
         <City><![CDATA[MIGUELOPOLIS]]></City>
         <Neighborhood><![CDATA[CENTRO]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>14530-000</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>1415</StreetNumber>
       </Location>
@@ -1550,7 +1511,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA SEBASTIAO MARIANO NEPOMUCENO, N. 761/]]></Address>
         <City><![CDATA[CARAGUATATUBA]]></City>
         <Neighborhood><![CDATA[CENTRO]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>11660-130</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>771</StreetNumber>
       </Location>
@@ -1582,7 +1543,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">101531</ListPrice>
@@ -1591,7 +1552,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA PROFESSOR AYLTON RICOY DE OLIVEIRA, N. 605, Apto 302, BL]]></Address>
         <City><![CDATA[RIBEIRAO PRETO]]></City>
         <Neighborhood><![CDATA[JARDIM OURO BRANCO]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>14079-792</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>03</StreetNumber>
       </Location>
@@ -1623,7 +1584,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">110080</ListPrice>
@@ -1632,7 +1593,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA SÃO MIGUEL, N. 1802, LT 20 QD N]]></Address>
         <City><![CDATA[MONGAGUA]]></City>
         <Neighborhood><![CDATA[BALNEÁRIO MAR E SOL]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>11730-000</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
@@ -1664,7 +1625,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">117562</ListPrice>
@@ -1673,7 +1634,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA VALDEMAR ALVES FELICIO (ANTIGA RUA PROJETADA 0, N. 817, .]]></Address>
         <City><![CDATA[VOTUPORANGA]]></City>
         <Neighborhood><![CDATA[PARQUE VIDA NOVA VOTUPORANGA III]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>15507-261</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
@@ -1755,7 +1716,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA MEDEIROS E ALBUQUERQUE, N. 76, CS]]></Address>
         <City><![CDATA[PRAIA GRANDE]]></City>
         <Neighborhood><![CDATA[RIBEIROPOLIS]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>11714-540</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>01</StreetNumber>
       </Location>
@@ -1796,7 +1757,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA PROTASSIO DE CAMARGO SAMPAIO, N. SN]]></Address>
         <City><![CDATA[SOROCABA]]></City>
         <Neighborhood><![CDATA[LOPES DE OLIVEIRA]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>18071-296</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
@@ -1837,7 +1798,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA AMPARO, N. 288, QD 18, LT]]></Address>
         <City><![CDATA[SAO BERNARDO DO CAMPO]]></City>
         <Neighborhood><![CDATA[BAETA NEVES]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>09751-350</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>22</StreetNumber>
       </Location>
@@ -1865,7 +1826,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <LivingArea>184.5</LivingArea>
         <LotArea>184.5</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Land</PropertyType>
+        <PropertyType>Commercial / Commercial Property</PropertyType>
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
@@ -1878,7 +1839,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[AVENIDA PADRE ANTONIO JOSE DOS SANTOS, N. 1167, SOBRELOJA]]></Address>
         <City><![CDATA[SAO PAULO]]></City>
         <Neighborhood><![CDATA[CIDADE MONCOES]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>04563-013</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
@@ -1910,7 +1871,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">125114</ListPrice>
@@ -1919,7 +1880,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA AFONSO DESCRAGNOLLE TAUNAY, N. 1847, Apto 01,]]></Address>
         <City><![CDATA[PRAIA GRANDE]]></City>
         <Neighborhood><![CDATA[ESMERALDA]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>11713-490</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
@@ -1960,7 +1921,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA SENADOR FEIJÓ, N. 2779, LT 57 QD]]></Address>
         <City><![CDATA[MONGAGUA]]></City>
         <Neighborhood><![CDATA[JARDIM LEONOR]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>11730-000</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>18</StreetNumber>
       </Location>
@@ -2001,7 +1962,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA PEDRO ZANATA, N. 141, qd 12, lts 13 e]]></Address>
         <City><![CDATA[FERNANDOPOLIS]]></City>
         <Neighborhood><![CDATA[PARQUE DAS NACOES]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>15612-162</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>14</StreetNumber>
       </Location>
@@ -2042,7 +2003,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA CLARA AURORA, N. S/N, QD G LT]]></Address>
         <City><![CDATA[SAO PAULO]]></City>
         <Neighborhood><![CDATA[JARDIM INGA]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>05736-110</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>17</StreetNumber>
       </Location>
@@ -2083,7 +2044,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA SABINO DUARTE, N. 119, QD 03, LT 02 PARTE]]></Address>
         <City><![CDATA[SAO PAULO]]></City>
         <Neighborhood><![CDATA[VILA BAUAB]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>03892-000</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
@@ -2111,7 +2072,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <LivingArea>231.93</LivingArea>
         <LotArea>231.93</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Land</PropertyType>
+        <PropertyType>Commercial / Commercial Property</PropertyType>
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
@@ -2124,7 +2085,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA ANTONIO BENTO, N. 85, SL 1-B, 1º ANDAR]]></Address>
         <City><![CDATA[SAO CAETANO DO SUL]]></City>
         <Neighborhood><![CDATA[SANTA PAULA]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>09520-050</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
@@ -2165,7 +2126,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA JORGE CARACANTE, N. 00, QD A, LT]]></Address>
         <City><![CDATA[SOROCABA]]></City>
         <Neighborhood><![CDATA[VILA HARO]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>18015-315</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>35</StreetNumber>
       </Location>
@@ -2193,7 +2154,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <LivingArea>220</LivingArea>
         <LotArea>220</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Land</PropertyType>
+        <PropertyType>Commercial / Commercial Property</PropertyType>
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
@@ -2206,7 +2167,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA ANTONIO BENTO, N. 85, LJ 01, TÉRREO]]></Address>
         <City><![CDATA[SAO CAETANO DO SUL]]></City>
         <Neighborhood><![CDATA[SANTA PAULA]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>09520-050</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
@@ -2247,7 +2208,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[TRAVESSA C, N. 109, LOTE 14, QUADRA]]></Address>
         <City><![CDATA[ITUPEVA]]></City>
         <Neighborhood><![CDATA[SAO VENANCIO]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>13296-355</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>12</StreetNumber>
       </Location>
@@ -2279,7 +2240,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">101656</ListPrice>
@@ -2288,7 +2249,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA WALTER POSSOS, N. 2090, QUADRA C, LOTE]]></Address>
         <City><![CDATA[SAO JOAQUIM DA BARRA]]></City>
         <Neighborhood><![CDATA[RESID MARIA DO CARMO]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>14600-000</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>06</StreetNumber>
       </Location>
@@ -2370,7 +2331,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA MINAS GERAIS, N. 69, Apto 121, 12 e 13 ANDAR]]></Address>
         <City><![CDATA[SAO JOSE DO RIO PRETO]]></City>
         <Neighborhood><![CDATA[VILA BOM JESUS]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>15014-210</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
@@ -2398,7 +2359,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <LivingArea>448.82</LivingArea>
         <LotArea>448.82</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Land</PropertyType>
+        <PropertyType>Commercial / Commercial Property</PropertyType>
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
@@ -2443,7 +2404,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">127773</ListPrice>
@@ -2452,7 +2413,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[AVENIDA PRESIDENTE KENNEDY, N. 14078, Apto 01,]]></Address>
         <City><![CDATA[PRAIA GRANDE]]></City>
         <Neighborhood><![CDATA[SOLEMAR]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>11709-000</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
@@ -2485,6 +2446,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
+        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">189322</ListPrice>
@@ -2493,7 +2455,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA LEONARDO NUNES, N. 920, CASA]]></Address>
         <City><![CDATA[SAO VICENTE]]></City>
         <Neighborhood><![CDATA[PARQUE SAO VICENTE]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>11365-280</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber>01</StreetNumber>
       </Location>
@@ -2534,7 +2496,7 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
         <Address><![CDATA[RUA POTENGI, N. 14, Apto 41, 3º ANDAR OU 4º PAVIMENTO]]></Address>
         <City><![CDATA[COTIA]]></City>
         <Neighborhood><![CDATA[JARDIM RIO DAS PEDRAS]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>06703-785</PostalCode>
         <State abbreviation="SP">SP</State>
         <StreetNumber/>
       </Location>
@@ -2542,6 +2504,47 @@ Não perca a oportunidade de viver em um dos bairros mais charmosos e bem locali
       <Title><![CDATA[Apartamento — Jardim Rio Das Pedras]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F802719009087721.jpg</Item>
+        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/68b26589-862e-45cb-bb96-f458348e207c.jpg</Item>
+        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/78545d7a-771a-4381-b601-c9b434830db7.jpg</Item>
+        <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/a4bcaf82-043b-4a76-a47f-46d12b7c1154.png</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-10211901</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>0</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Description><![CDATA[Terreno, 0.00 de área total, 0.00 de área privativa, 1702.07 de área do terreno.]]></Description>
+        <Garage>0</Garage>
+        <LivingArea>1702.07</LivingArea>
+        <LotArea>1702.07</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Land</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Aceita Financiamento</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">238585</ListPrice>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Address><![CDATA[AVENIDA SABIA, N. SN, QD 13, LT]]></Address>
+        <City><![CDATA[MARILIA]]></City>
+        <Neighborhood><![CDATA[RESIDENCIAL PORTAL DA SERRA]]></Neighborhood>
+        <PostalCode>17514-872</PostalCode>
+        <State abbreviation="SP">SP</State>
+        <StreetNumber>04</StreetNumber>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Terreno — Residencial Portal Da Serra]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001021190121.jpg</Item>
         <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/68b26589-862e-45cb-bb96-f458348e207c.jpg</Item>
         <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/78545d7a-771a-4381-b601-c9b434830db7.jpg</Item>
         <Item medium="image" caption="">https://caixa.sellarimoveis.com.br/api/fotos-extras/a4bcaf82-043b-4a76-a47f-46d12b7c1154.png</Item>
@@ -30794,7 +30797,7 @@ Se você busca um lar que una espaço generoso, praticidade urbana e localizaç�
                 <YearBuilt>2005</YearBuilt>
                 <ListPrice currency="BRL">769000</ListPrice>
                 <PropertyAdministrationFee currency="BRL">738</PropertyAdministrationFee>
-                <YearlyTax currency="BRL">2332</YearlyTax>
+                <YearlyTax currency="BRL">2822</YearlyTax>
                 <Description><![CDATA[Buscando um refúgio para relaxar e se divertir sem sair de casa ou para uma vida à pé? Conheça este apartamento de 2 quartos, incluindo 1 suíte e 1 vaga,  perfeito para quem busca conforto e tranquilidade.
 O imóvel está em estado de novo, com móveis planejados na cozinha e quartos, pronto para você se mudar e começar a aproveitar.
 
@@ -42954,13 +42957,13 @@ Este apartamento na Rua Paula Ferreira, 207, é uma excelente oportunidade para 
             </Location>
             <Media>
                 <Item medium="video"><![CDATA[https://www.youtube.com/watch?v=Zdw8SLmjPqc]]></Item>
-                <Item medium="image" caption="56831a5a-93c6-48f2-9b47-fcdb487949ad" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/6914ad617021daad4b675e15/images/56831a5a-93c6-48f2-9b47-fcdb487949ad.jpeg]]></Item>
-                <Item medium="image" caption="7c68565a-9027-41c6-9559-b611c467c86a" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6914ad617021daad4b675e15/images/7c68565a-9027-41c6-9559-b611c467c86a.jpeg]]></Item>
+                <Item medium="image" caption="4e2244d0-919d-4d03-93b5-d9b9d5934a73" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/6914ad617021daad4b675e15/images/4e2244d0-919d-4d03-93b5-d9b9d5934a73.jpeg]]></Item>
+                <Item medium="image" caption="56831a5a-93c6-48f2-9b47-fcdb487949ad" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6914ad617021daad4b675e15/images/56831a5a-93c6-48f2-9b47-fcdb487949ad.jpeg]]></Item>
                 <Item medium="image" caption="39127bd0-55da-434b-a46f-adbe9d634021" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6914ad617021daad4b675e15/images/39127bd0-55da-434b-a46f-adbe9d634021.jpeg]]></Item>
+                <Item medium="image" caption="7c68565a-9027-41c6-9559-b611c467c86a" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6914ad617021daad4b675e15/images/7c68565a-9027-41c6-9559-b611c467c86a.jpeg]]></Item>
                 <Item medium="image" caption="dd0e72f3-94b8-4f08-9550-7a6fc851580f" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6914ad617021daad4b675e15/images/dd0e72f3-94b8-4f08-9550-7a6fc851580f.jpeg]]></Item>
                 <Item medium="image" caption="21b29c17-89ec-4ddf-8192-cccad6f3708a" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6914ad617021daad4b675e15/images/21b29c17-89ec-4ddf-8192-cccad6f3708a.jpeg]]></Item>
                 <Item medium="image" caption="1f2fe4f7-8460-4d4b-abf2-3a1e1d0b6ff9" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6914ad617021daad4b675e15/images/1f2fe4f7-8460-4d4b-abf2-3a1e1d0b6ff9.jpeg]]></Item>
-                <Item medium="image" caption="4e2244d0-919d-4d03-93b5-d9b9d5934a73" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6914ad617021daad4b675e15/images/4e2244d0-919d-4d03-93b5-d9b9d5934a73.jpeg]]></Item>
                 <Item medium="image" caption="7d915427-2118-4470-915b-990d7b06a0d5" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6914ad617021daad4b675e15/images/7d915427-2118-4470-915b-990d7b06a0d5.jpeg]]></Item>
                 <Item medium="image" caption="4af325d9-afc7-4a1c-90eb-50f9a4301581" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6914ad617021daad4b675e15/images/4af325d9-afc7-4a1c-90eb-50f9a4301581.jpeg]]></Item>
                 <Item medium="image" caption="0f23fda6-e850-400e-9113-120cb46ff34f" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6914ad617021daad4b675e15/images/0f23fda6-e850-400e-9113-120cb46ff34f.jpeg]]></Item>
@@ -42997,7 +43000,6 @@ Este apartamento na Rua Paula Ferreira, 207, é uma excelente oportunidade para 
 Todos os cômodos são amplos, com excelente distribuição e pé direito alto. A área social é composta de sala de estar e sala de jantar, perfeita para reunir a família e amigos em jantares memoráveis. A cozinha é equipada com armários planejados que otimizam o espaço e oferecem praticidade no dia a dia. São 2 dormitórios e 2 banheiros bem projetados. Possibilidade de se fazer 1 suíte sem grandes reformas. 1 vaga de garagem escriturada.     
 O prédio é bem recuado logo o apartamento é bem silencioso. 
 Localizado em uma área residencial vibrante, com muitas opções de comércio, cultura, lazer e gastronomia. Tem uma academia praticamente na porta. Fácil acesso a transporte público, lojas, escolas e espaços verdes como parques e praças. Este é um convite a viver em uma das regiões mais dinâmicas de São Paulo, garantindo qualidade de vida e praticidade. Não perca esta oportunidade única de residir em um apto estilo casa em um dos endereços mais cobiçados de São Paulo.
-
 Agende sua visita e venha conhecer pessoalmente esse apto exclusivo e muito especial!]]></Description>
                 <PropertyType>Residential / Apartment</PropertyType>
                 <LivingArea unit="square metres">119</LivingArea>
@@ -51775,8 +51777,8 @@ O condomínio Porã é um projeto assinado pelo arquiteto Tomaz Farias, onde o u
             <Details>
                 <YearBuilt>2008</YearBuilt>
                 <ListPrice currency="BRL">2250000</ListPrice>
-                <PropertyAdministrationFee currency="BRL">3209</PropertyAdministrationFee>
-                <YearlyTax currency="BRL">11688</YearlyTax>
+                <PropertyAdministrationFee currency="BRL">2922</PropertyAdministrationFee>
+                <YearlyTax currency="BRL">12857</YearlyTax>
                 <Description><![CDATA[Viva com muito conforto e sofisticação neste belíssimo apartamento de 4 dormitórios com entrada privativa em Perdizes. Muito bem localizado próximo ao Allianz Parque, este apartamento possui ampla varanda gourmet com churrasqueira e área social generosa, perfeito para receber familiares e amigos. A área de living e jantar possuem um amplo lavabo, iluminação projetada com belas sancas em gesso e infraestrutura instalada com caixas de som para home theater, que permanecerão no apartamento. A cozinha, toda planejada, possui espaço para pequenas refeições e é muito arejada. Todos os quatro dormitórios possuem armários planejados, sendo dois deles suíte, com banheiros iluminados, espaçosos e reformados com muita beleza. Um terceiro banheiro completo atende aos demais dormitórios e um quarto banheiro completo atende a área de serviço. Na garagem, são 4 vagas e um depósito.
 
 O condomínio oferece ainda área gourmet externa com forno de pizza e churrasqueira, amplo salão de festas com cozinha, piscinas adulto e infantil, playground, academia, brinquedoteca e quadra poliesportiva, espaços perfeitos para todas as idades.]]></Description>
@@ -63460,9 +63462,9 @@ O Poeta Drummond é ideal tanto para moradia quanto para investimento. Sua estru
             </Location>
             <Media>
                 <Item medium="video"><![CDATA[https://www.youtube.com/watch?v=BTwoSOOC0o8]]></Item>
-                <Item medium="image" caption="fdf72385-97eb-47a6-91bd-ac216f8acaef" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/697ce1d14b5b54221bbeae88/images/fdf72385-97eb-47a6-91bd-ac216f8acaef.jpeg]]></Item>
-                <Item medium="image" caption="77b3d31f-7e8f-4b41-b10b-f5dbe91c5df1" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/697ce1d14b5b54221bbeae88/images/77b3d31f-7e8f-4b41-b10b-f5dbe91c5df1.jpeg]]></Item>
+                <Item medium="image" caption="77b3d31f-7e8f-4b41-b10b-f5dbe91c5df1" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/697ce1d14b5b54221bbeae88/images/77b3d31f-7e8f-4b41-b10b-f5dbe91c5df1.jpeg]]></Item>
                 <Item medium="image" caption="5f4a3f7c-805a-41d4-aa3f-9ec746f96129" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/697ce1d14b5b54221bbeae88/images/5f4a3f7c-805a-41d4-aa3f-9ec746f96129.jpeg]]></Item>
+                <Item medium="image" caption="fdf72385-97eb-47a6-91bd-ac216f8acaef" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/697ce1d14b5b54221bbeae88/images/fdf72385-97eb-47a6-91bd-ac216f8acaef.jpeg]]></Item>
                 <Item medium="image" caption="b3de1885-cb1b-480a-a875-d8e7575928b7" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/697ce1d14b5b54221bbeae88/images/b3de1885-cb1b-480a-a875-d8e7575928b7.jpeg]]></Item>
                 <Item medium="image" caption="bdcb4b39-8c48-43b9-8292-50154ba569d5" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/697ce1d14b5b54221bbeae88/images/bdcb4b39-8c48-43b9-8292-50154ba569d5.jpeg]]></Item>
                 <Item medium="image" caption="ca66a2e2-b5c9-4cb1-9443-5ef3721be0a8" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/697ce1d14b5b54221bbeae88/images/ca66a2e2-b5c9-4cb1-9443-5ef3721be0a8.jpeg]]></Item>
@@ -63505,15 +63507,15 @@ O Poeta Drummond é ideal tanto para moradia quanto para investimento. Sua estru
                 <ListPrice currency="BRL">795000</ListPrice>
                 <PropertyAdministrationFee currency="BRL">850</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">3872</YearlyTax>
-                <Description><![CDATA[Bem vindo ao seu novo lar! Não perca esta oportunidade de viver em um verdadeiro oásis urbano em São Paulo. Esse magnífico apartamento reformado no coração de São Paulo está localizado na Rua Bela Cintra , no vibrante bairro da Consolação. O BC Bela Cintra foi construído pela renomada Construtora Even em  2016 e oferece uma combinação perfeita de modernidade e conforto.
+                <Description><![CDATA[Esse magnífico apartamento reformado no coração de São Paulo está localizado na Rua Bela Cintra , no vibrante bairro da Consolação. O BC Bela Cintra foi construído pela renomada Construtora Even em  2016 e oferece uma combinação perfeita de modernidade e conforto.
 
-O apartamento tem 48,30 m2 de área construída, situa-se no 8º andar e oferece uma bela vista aberta. Com ambientes bem distribuídos:  sala de estar, ampla sacada envidraçada, cozinha integrada com bancada, 1 dormitório, 1 banheiro, e área de serviço. Este espaço é ideal para quem procura conforto e praticidade. Entre as características presentes estão: Registro de Gás Individualizado, Registro de Água individualizado e Fechadura digital.
+O apartamento tem 48,30 m2 de área construída, situa-se no 8º andar e oferece uma bela vista aberta. Com ambientes bem distribuídos:  sala de estar, ampla sacada envidraçada, cozinha integrada com bancada, 1 dormitório, 1 banheiro, e área de serviço.  1 vaga de estacionamento no subsolo. Entre as características presentes estão: Registro de Gás Individualizado, Registro de Água individualizado e Fechadura digital. 
 
-Para lazer e conveniência, o condomínio dispõe de um Bicicletário, Espaço de beleza/Spa com sauna, Espaço fitness/Academia, Espaço gourmet, Salão de Festas, Terraço com Deck e Piscina no rooftop.  Segurança é uma prioridade, com portaria 24h, zelador e Câmeras de segurança, garantindo tranquilidade para você e sua família. Sistema de Coleta seletiva de lixo - este é um condomínio inteligente onde cada detalhe foi pensado para o seu bem-estar.
+O apartamento está locado por R$ 4.200,00 sendo uma boa opção para investidores.
 
-Localizado próximo a escolas, hospitais, restaurantes, lojas, transporte público e parques, este é o local ideal para quem busca viver em uma área residencial com facilidade de acesso a tudo o que São Paulo tem para oferecer.
+O condomínio dispõe de um Bicicletário, Espaço de beleza/Spa com sauna, Espaço fitness/Academia, Espaço gourmet, Salão de Festas, Terraço com Deck e Piscina no rooftop.  Segurança é uma prioridade, com portaria 24h, zelador e Câmeras de segurança, garantindo tranquilidade para você e sua família. Sistema de Coleta seletiva de lixo - este é um condomínio inteligente onde cada detalhe foi pensado para o seu bem-estar.
 
- 1 vaga de estacionamento no subsolo.
+Localizado próximo a escolas, hospitais, restaurantes, lojas, universidades, transporte público e parques, essa é uma região ideal para quem busca viver em uma área residencial com facilidade de acesso a tudo o que São Paulo tem para oferecer.
 
  Excelente opção para moradia e investimento. Venha conhecer e encante-se!]]></Description>
                 <PropertyType>Residential / Apartment</PropertyType>
@@ -68314,15 +68316,14 @@ Excelente oportunidade para quem busca apartamento amplo à venda na Rua Piauí,
             </Location>
             <Media>
                 <Item medium="video"><![CDATA[https://www.youtube.com/watch?v=3EQisaWf2PA]]></Item>
-                <Item medium="image" caption="b788b308-c96a-4c10-8a1a-8ade0cf9e39f" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/69962903b1af13524d4d4666/images/b788b308-c96a-4c10-8a1a-8ade0cf9e39f.jpeg]]></Item>
+                <Item medium="image" caption="cfa52cf5-be17-4fbd-bd53-2eb364cd0b58" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/69962903b1af13524d4d4666/images/cfa52cf5-be17-4fbd-bd53-2eb364cd0b58.jpeg]]></Item>
                 <Item medium="image" caption="264e5cbb-113c-4487-b72b-2beb7f1d7c6d" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69962903b1af13524d4d4666/images/264e5cbb-113c-4487-b72b-2beb7f1d7c6d.jpeg]]></Item>
                 <Item medium="image" caption="69e7df8c-5bec-4ae8-a64e-f355ecadc634" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69962903b1af13524d4d4666/images/69e7df8c-5bec-4ae8-a64e-f355ecadc634.jpeg]]></Item>
-                <Item medium="image" caption="cfa52cf5-be17-4fbd-bd53-2eb364cd0b58" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69962903b1af13524d4d4666/images/cfa52cf5-be17-4fbd-bd53-2eb364cd0b58.jpeg]]></Item>
                 <Item medium="image" caption="60119ad0-5e23-4b43-8de8-9840b0678c89" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69962903b1af13524d4d4666/images/60119ad0-5e23-4b43-8de8-9840b0678c89.jpeg]]></Item>
-                <Item medium="image" caption="a27195ea-adb6-4b38-8743-292fae53eb63" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69962903b1af13524d4d4666/images/a27195ea-adb6-4b38-8743-292fae53eb63.jpeg]]></Item>
                 <Item medium="image" caption="e770abb3-4c52-44ca-8f8a-96dc86ae9118" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69962903b1af13524d4d4666/images/e770abb3-4c52-44ca-8f8a-96dc86ae9118.jpeg]]></Item>
                 <Item medium="image" caption="aeda9988-4894-42ef-8462-7b9c2b3e2c35" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69962903b1af13524d4d4666/images/aeda9988-4894-42ef-8462-7b9c2b3e2c35.jpeg]]></Item>
                 <Item medium="image" caption="f402ce87-c09b-43cc-9e2b-a9d226b8849b" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69962903b1af13524d4d4666/images/f402ce87-c09b-43cc-9e2b-a9d226b8849b.jpeg]]></Item>
+                <Item medium="image" caption="a27195ea-adb6-4b38-8743-292fae53eb63" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69962903b1af13524d4d4666/images/a27195ea-adb6-4b38-8743-292fae53eb63.jpeg]]></Item>
                 <Item medium="image" caption="949e9b16-3b0b-4f6d-807a-37e2dcb40255" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69962903b1af13524d4d4666/images/949e9b16-3b0b-4f6d-807a-37e2dcb40255.jpeg]]></Item>
                 <Item medium="image" caption="f50d38e0-0e46-460f-af90-043300d548fd" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69962903b1af13524d4d4666/images/f50d38e0-0e46-460f-af90-043300d548fd.jpeg]]></Item>
                 <Item medium="image" caption="0441353d-d4b4-4a73-88eb-5c925bce5f10" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69962903b1af13524d4d4666/images/0441353d-d4b4-4a73-88eb-5c925bce5f10.jpeg]]></Item>
@@ -68340,6 +68341,7 @@ Excelente oportunidade para quem busca apartamento amplo à venda na Rua Piauí,
                 <Item medium="image" caption="fe4898b7-d51c-4e54-b6b0-ab36b31afb05" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69962903b1af13524d4d4666/images/fe4898b7-d51c-4e54-b6b0-ab36b31afb05.jpeg]]></Item>
                 <Item medium="image" caption="bdc1938d-52d6-41d8-b631-9cbb335ac403" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69962903b1af13524d4d4666/images/bdc1938d-52d6-41d8-b631-9cbb335ac403.jpeg]]></Item>
                 <Item medium="image" caption="6b9c4c09-e766-4ca1-ba41-87cb2dc92e52" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69962903b1af13524d4d4666/images/6b9c4c09-e766-4ca1-ba41-87cb2dc92e52.jpeg]]></Item>
+                <Item medium="image" caption="b788b308-c96a-4c10-8a1a-8ade0cf9e39f" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69962903b1af13524d4d4666/images/b788b308-c96a-4c10-8a1a-8ade0cf9e39f.jpeg]]></Item>
             </Media>
             <PublicationType>STANDARD</PublicationType>
             <Details>
@@ -68357,7 +68359,7 @@ Transforme suas horas de lazer nas áreas comuns completas, com opções para to
 
 A localização é  ideal - próximo a escolas, faculdades, lojas, hospitais, restaurantes, supermercados, cinemas, teatros e transporte público, incluindo metrô e ônibus para praticamente todas as regiões da cidade. E ainda fica a 4 quadras da principal avenida de São Paulo, a Avenida Paulista. 
 
-Agende uma visita ainda hoje!]]></Description>
+Agende uma visita ainda hoje e venha conhecer seu novo lar !]]></Description>
                 <PropertyType>Residential / Apartment</PropertyType>
                 <LivingArea unit="square metres">37</LivingArea>
                 <LotArea unit="square metres">55</LotArea>
