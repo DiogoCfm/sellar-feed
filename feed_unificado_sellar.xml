@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-04-13T18:56:53</Date>
+  <Date>2026-04-14T01:16:02</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE204</ListingID>
@@ -944,6 +944,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode>08255-240</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>84</StreetNumber>
+        <Latitude>-23.550832</Latitude>
+        <Longitude>-46.4351084</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento — CONJUNTO RESIDENCIAL JOSE BONIFACIO]]></Title>
@@ -1039,6 +1041,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode>14000-000</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>100</StreetNumber>
+        <Latitude>-21.2321994</Latitude>
+        <Longitude>-47.8506142</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento — RECANTO DAS PALMEIRAS]]></Title>
@@ -2380,6 +2384,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode>14094-243</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>65</StreetNumber>
+        <Latitude>-21.1986987</Latitude>
+        <Longitude>-47.7348224</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento — RESIDENCIAL PARQUE DOS SERVIDORES]]></Title>
@@ -2806,6 +2812,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode>17055-175</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>7-50</StreetNumber>
+        <Latitude>-22.3450643</Latitude>
+        <Longitude>-49.1153568</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento — PARQUE VIADUTO]]></Title>
@@ -18032,8 +18040,9 @@ Localização privilegiada: a poucas quadras do Hospital das Clínicas, da Av. R
                 <Longitude>-46.6926946</Longitude>
                 <Latitude>-23.5461793</Latitude>
             </Location>
+            <VirtualTourLink><![CDATA[https://youtu.be/xvvd42uDwgc]]></VirtualTourLink>
             <Media>
-                <Item medium="video"><![CDATA[https://www.youtube.com/watch?v=ZR3jeBhWIiQ]]></Item>
+                <Item medium="video"><![CDATA[https://www.youtube.com/watch?v=xvvd42uDwgc]]></Item>
                 <Item medium="image" caption="c231a1fe-5296-43b1-927c-60810a29f7fc" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/6834a014b0f3a806be951d4f/images/c231a1fe-5296-43b1-927c-60810a29f7fc.jpeg]]></Item>
                 <Item medium="image" caption="068db676-7742-413b-a35d-29dff5e011fd" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6834a014b0f3a806be951d4f/images/068db676-7742-413b-a35d-29dff5e011fd.jpeg]]></Item>
                 <Item medium="image" caption="2c3a2519-b8f5-488b-99b4-a30e4bcba98f" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6834a014b0f3a806be951d4f/images/2c3a2519-b8f5-488b-99b4-a30e4bcba98f.jpeg]]></Item>
@@ -24001,14 +24010,14 @@ Fácil acesso às Avenidas Pompéia, Heitor Penteado (Metro Vila Madalena), Fran
                 <Latitude>-23.5469036</Latitude>
             </Location>
             <Media>
-                <Item medium="image" caption="ee667bf0-5ef7-430f-b402-49d667fd3086" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/687d67db26520f194ca6d805/images/ee667bf0-5ef7-430f-b402-49d667fd3086.jpeg]]></Item>
+                <Item medium="image" caption="7f13a7cb-4901-4af3-9b6a-d1e95b866fc0" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/687d67db26520f194ca6d805/images/7f13a7cb-4901-4af3-9b6a-d1e95b866fc0.jpeg]]></Item>
+                <Item medium="image" caption="9aed3bc3-cc4d-4be5-9eef-5ee297bf6ec9" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687d67db26520f194ca6d805/images/9aed3bc3-cc4d-4be5-9eef-5ee297bf6ec9.jpeg]]></Item>
+                <Item medium="image" caption="354e6b81-aa22-487b-8c80-077163654dfa" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687d67db26520f194ca6d805/images/354e6b81-aa22-487b-8c80-077163654dfa.jpeg]]></Item>
                 <Item medium="image" caption="769809b7-2b7d-4edc-b4ec-70ba0abaaa0e" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687d67db26520f194ca6d805/images/769809b7-2b7d-4edc-b4ec-70ba0abaaa0e.jpeg]]></Item>
                 <Item medium="image" caption="806dbf9e-2e2c-46fc-8841-8aca00068b16" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687d67db26520f194ca6d805/images/806dbf9e-2e2c-46fc-8841-8aca00068b16.jpeg]]></Item>
-                <Item medium="image" caption="9aed3bc3-cc4d-4be5-9eef-5ee297bf6ec9" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687d67db26520f194ca6d805/images/9aed3bc3-cc4d-4be5-9eef-5ee297bf6ec9.jpeg]]></Item>
                 <Item medium="image" caption="00d23092-09e4-4af3-aeea-8bd89416936c" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687d67db26520f194ca6d805/images/00d23092-09e4-4af3-aeea-8bd89416936c.jpeg]]></Item>
-                <Item medium="image" caption="7f13a7cb-4901-4af3-9b6a-d1e95b866fc0" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687d67db26520f194ca6d805/images/7f13a7cb-4901-4af3-9b6a-d1e95b866fc0.jpeg]]></Item>
                 <Item medium="image" caption="38dcdb4f-ca98-4f31-8715-dcef65eb40b7" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687d67db26520f194ca6d805/images/38dcdb4f-ca98-4f31-8715-dcef65eb40b7.jpeg]]></Item>
-                <Item medium="image" caption="354e6b81-aa22-487b-8c80-077163654dfa" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687d67db26520f194ca6d805/images/354e6b81-aa22-487b-8c80-077163654dfa.jpeg]]></Item>
+                <Item medium="image" caption="ee667bf0-5ef7-430f-b402-49d667fd3086" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687d67db26520f194ca6d805/images/ee667bf0-5ef7-430f-b402-49d667fd3086.jpeg]]></Item>
                 <Item medium="image" caption="e8e2b61e-b8c4-4370-be38-f3bfae9fb0a0" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687d67db26520f194ca6d805/images/e8e2b61e-b8c4-4370-be38-f3bfae9fb0a0.jpeg]]></Item>
                 <Item medium="image" caption="2a2dc10b-5d7d-4e0f-8e65-09125a0ed94d" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687d67db26520f194ca6d805/images/2a2dc10b-5d7d-4e0f-8e65-09125a0ed94d.jpeg]]></Item>
                 <Item medium="image" caption="12fad98e-75af-4996-b4ab-948138522c42" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687d67db26520f194ca6d805/images/12fad98e-75af-4996-b4ab-948138522c42.jpeg]]></Item>
@@ -35438,7 +35447,7 @@ Localizado em um condomínio completo e arborizado, o Celebration oferece lazer,
             <PublicationType>STANDARD</PublicationType>
             <Details>
                 <YearBuilt>2016</YearBuilt>
-                <ListPrice currency="BRL">575000</ListPrice>
+                <ListPrice currency="BRL">560000</ListPrice>
                 <PropertyAdministrationFee currency="BRL">860</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">0</YearlyTax>
                 <Description><![CDATA[Se você está buscando um lar completo, com conforto, praticidade e uma localização privilegiada, este é o imóvel perfeito para você!
@@ -39634,7 +39643,7 @@ Venha conhecer e constatar as vantagens de morar num dos melhores endereços de 
             <PublicationType>STANDARD</PublicationType>
             <Details>
                 <YearBuilt>1964</YearBuilt>
-                <ListPrice currency="BRL">3690000</ListPrice>
+                <ListPrice currency="BRL">4200000</ListPrice>
                 <YearlyTax currency="BRL">28901</YearlyTax>
                 <Description><![CDATA[Casa à venda no Pacaembu – 300m² de área útil
 
@@ -46901,9 +46910,9 @@ Com um ótimo custo-benefício, este apartamento reúne espaço, boa planta, loc
             </Location>
             <Media>
                 <Item medium="video"><![CDATA[https://www.youtube.com/watch?v=7YY2oJf2QO8]]></Item>
-                <Item medium="image" caption="36c623ce-cab7-4394-b803-71aed78c0e96" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/692cad2839679cd133d7b6cf/images/36c623ce-cab7-4394-b803-71aed78c0e96.jpeg]]></Item>
+                <Item medium="image" caption="7a7166ee-4428-4264-95aa-f6e3d9b4577b" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/692cad2839679cd133d7b6cf/images/7a7166ee-4428-4264-95aa-f6e3d9b4577b.jpeg]]></Item>
+                <Item medium="image" caption="36c623ce-cab7-4394-b803-71aed78c0e96" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/692cad2839679cd133d7b6cf/images/36c623ce-cab7-4394-b803-71aed78c0e96.jpeg]]></Item>
                 <Item medium="image" caption="d227e14f-ba2f-4708-929e-77b6ff0ba8de" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/692cad2839679cd133d7b6cf/images/d227e14f-ba2f-4708-929e-77b6ff0ba8de.jpeg]]></Item>
-                <Item medium="image" caption="7a7166ee-4428-4264-95aa-f6e3d9b4577b" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/692cad2839679cd133d7b6cf/images/7a7166ee-4428-4264-95aa-f6e3d9b4577b.jpeg]]></Item>
                 <Item medium="image" caption="9859729c-f7b2-4f17-a9ee-3a4b9cc387b5" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/692cad2839679cd133d7b6cf/images/9859729c-f7b2-4f17-a9ee-3a4b9cc387b5.jpeg]]></Item>
                 <Item medium="image" caption="ef200a38-6f24-4c69-a8ca-ae5775eccdbb" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/692cad2839679cd133d7b6cf/images/ef200a38-6f24-4c69-a8ca-ae5775eccdbb.jpeg]]></Item>
                 <Item medium="image" caption="506bf87f-fb26-4c74-b9c1-456eedd9de8d" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/692cad2839679cd133d7b6cf/images/506bf87f-fb26-4c74-b9c1-456eedd9de8d.jpeg]]></Item>
@@ -51797,18 +51806,12 @@ A poucos minutos de estações de metrô, com excelente mobilidade urbana e gran
                 <ListPrice currency="BRL">620000</ListPrice>
                 <PropertyAdministrationFee currency="BRL">777</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">1</YearlyTax>
-                <Description><![CDATA[Apartamento inteligente no melhor empreendimento da You, Inc em Higienópolis, localizado na charmosa Rua Maceió, a poucos minutos do Metrô Paulista e da Avenida Paulista. Uma oportunidade única para morar ou investir em uma das regiões mais valorizadas e desejadas de São Paulo.
-
-Com 36 m² muito bem distribuídos, o apartamento apresenta um projeto inteligente que privilegia funcionalidade e conforto. A planta integra cozinha e sala de estar, criando um ambiente moderno e acolhedor, ideal para receber amigos ou aproveitar momentos de descanso. O dormitório é confortável e bem iluminado, o banheiro possui acabamento contemporâneo, e a varanda em andar alto garante vista aberta e agradável, além de excelente ventilação e luminosidade natural.
-
-O grande diferencial é a vaga de garagem — item raro na região — que agrega comodidade, segurança e valorização ao imóvel, tornando-o ainda mais atrativo tanto para moradia quanto para investimento.
-
-O condomínio é novo e surpreende pela infraestrutura completa, com lazer no rooftop e vista privilegiada para o Pacaembu, proporcionando uma experiência urbana sofisticada, com áreas pensadas para convivência, relaxamento e bem-estar.
-
-A localização é estratégica, com fácil acesso à Avenida Paulista e à Consolação, cercada por intensa vida cultural. Aproveite os passeios de domingo na Paulista, visite exposições no MASP, desfrute de teatros, restaurantes e centros culturais renomados. Próximo ao Parque Buenos Aires, à ciclofaixa da Paulista e a instituições como Universidade Presbiteriana Mackenzie e FAAP.
-
-Ideal para quem busca mobilidade, praticidade, qualidade de vida e alto potencial de valorização em Higienópolis.
-Obs: IPTU ainda não foi individualizado.]]></Description>
+                <Description><![CDATA[Apartamento sofisticado em Higienópolis, no prestigiado empreendimento da You, Inc, na charmosa Rua Maceió,  a poucos passos do Metrô Paulista e da Avenida Paulista.
+Com 36 m² de planta inteligente, integra living e cozinha em um ambiente contemporâneo e acolhedor, com dormitório iluminado e varanda em andar alto, que garante vista aberta e excelente luminosidade.
+Destaque para a rara vaga de garagem, diferencial que agrega conveniência e potencial de valorização imediata.
+Condomínio novo, com lazer no rooftop e vista privilegiada para o Estádio do Pacaembu, em localização cercada por cultura, mobilidade e serviços, próximo ao MASP e ao Parque Buenos Aires.
+Ideal para morar com estilo ou investir com inteligência.
+IPTU ainda não individualizado.]]></Description>
                 <PropertyType>Residential / Apartment</PropertyType>
                 <LivingArea unit="square metres">36</LivingArea>
                 <LotArea unit="square metres">74</LotArea>
@@ -58184,7 +58187,7 @@ Agende sua visita e conheça pessoalmente este excelente imóvel.]]></Descriptio
             <Details>
                 <YearBuilt>2012</YearBuilt>
                 <ListPrice currency="BRL">2600000</ListPrice>
-                <PropertyAdministrationFee currency="BRL">1950</PropertyAdministrationFee>
+                <PropertyAdministrationFee currency="BRL">2702</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">14583</YearlyTax>
                 <Description><![CDATA[Apresentamos um apartamento excepcional de 210m² à venda no renomado Condomínio Vila Leopoldina II, que redefine o conceito de morar com requinte na Zona Oeste de São Paulo. Este imóvel foi projetado para oferecer o máximo em qualidade de vida, combinando espaços generosos, acabamentos de alto padrão e localização estratégica em um dos bairros mais promissores da capital.
 O apartamento impressiona com seus ambientes amplos e integrados. A sala de estar e jantar espaçosas criam o cenário perfeito para convivência e entretenimento, fluindo naturalmente para a ampla varanda gourmet, ideal para receber amigos e família. É o espaço que você sempre sonhou para criar memórias inesquecíveis com quem você ama.
