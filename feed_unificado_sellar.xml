@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-04-17T12:49:46</Date>
+  <Date>2026-04-17T18:39:00</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE204</ListingID>
@@ -616,6 +616,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode>13260-000</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber/>
+        <Latitude>-22.88</Latitude>
+        <Longitude>-46.79167</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Terreno — BAIRRO DOS SILVAS]]></Title>
@@ -800,6 +802,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode>16060-280</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>399</StreetNumber>
+        <Latitude>-21.1991563</Latitude>
+        <Longitude>-50.4207267</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento — FAZENDA DO ESTADO]]></Title>
@@ -845,6 +849,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode>12910-340</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>502</StreetNumber>
+        <Latitude>-22.9461188</Latitude>
+        <Longitude>-46.5403045</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa — MATADOURO]]></Title>
@@ -1271,6 +1277,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode/>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>167</StreetNumber>
+        <Latitude>-23.9542319</Latitude>
+        <Longitude>-46.4660884</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa — PARQUE CONTINENTAL]]></Title>
@@ -1461,6 +1469,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode/>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>69</StreetNumber>
+        <Latitude>-23.9348008</Latitude>
+        <Longitude>-46.3278395</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Sala — CENTRO]]></Title>
@@ -1790,6 +1800,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode/>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>1635</StreetNumber>
+        <Latitude>-23.5517388</Latitude>
+        <Longitude>-46.2552453</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa — JUNDIAPEBA]]></Title>
@@ -2120,6 +2132,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode/>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>185</StreetNumber>
+        <Latitude>-23.6191386</Latitude>
+        <Longitude>-46.7216515</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento — PARAISO DO MORUMBI]]></Title>
@@ -2640,6 +2654,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode>17340-108</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>400</StreetNumber>
+        <Latitude>-22.4945744</Latitude>
+        <Longitude>-48.5539265</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa — JARDIM VISTA ALEGRE]]></Title>
