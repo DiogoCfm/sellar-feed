@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-04-22T07:16:21</Date>
+  <Date>2026-04-22T12:54:05</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE204</ListingID>
@@ -616,6 +616,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode/>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>2147</StreetNumber>
+        <Latitude>-20.7975401</Latitude>
+        <Longitude>-49.3815583</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa — VILA ESPLANADA]]></Title>
@@ -662,6 +664,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode>13260-000</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber/>
+        <Latitude>-22.88</Latitude>
+        <Longitude>-46.79167</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Terreno — BAIRRO DOS SILVAS]]></Title>
@@ -845,6 +849,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode/>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>207</StreetNumber>
+        <Latitude>-23.6238489</Latitude>
+        <Longitude>-46.7297936</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa — JARDIM AMPLIACAO]]></Title>
@@ -1267,6 +1273,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode>15045-606</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>400</StreetNumber>
+        <Latitude>-20.7561525</Latitude>
+        <Longitude>-49.3935155</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento — RIOS DE SPAGNA]]></Title>
@@ -1599,6 +1607,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode/>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>69</StreetNumber>
+        <Latitude>-23.9348008</Latitude>
+        <Longitude>-46.3278395</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Sala — CENTRO]]></Title>
@@ -1691,6 +1701,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode>14079-792</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>605</StreetNumber>
+        <Latitude>-21.1550495</Latitude>
+        <Longitude>-47.7516715</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento — JARDIM OURO BRANCO]]></Title>
@@ -2210,6 +2222,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode>14060-810</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>4875</StreetNumber>
+        <Latitude>-21.1490323</Latitude>
+        <Longitude>-47.8077132</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento — IPIRANGA]]></Title>
@@ -2304,6 +2318,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode/>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>185</StreetNumber>
+        <Latitude>-23.6191386</Latitude>
+        <Longitude>-46.7216515</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento — PARAISO DO MORUMBI]]></Title>
