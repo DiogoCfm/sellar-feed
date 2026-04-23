@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-04-22T18:54:06</Date>
+  <Date>2026-04-23T01:19:24</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE204</ListingID>
@@ -898,6 +898,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode>16060-280</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>399</StreetNumber>
+        <Latitude>-21.1991563</Latitude>
+        <Longitude>-50.4207267</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento — FAZENDA DO ESTADO]]></Title>
@@ -943,6 +945,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode>12910-340</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>502</StreetNumber>
+        <Latitude>-22.9461188</Latitude>
+        <Longitude>-46.5403045</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa — MATADOURO]]></Title>
@@ -1417,6 +1421,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode/>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>167</StreetNumber>
+        <Latitude>-23.9542319</Latitude>
+        <Longitude>-46.4660884</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa — PARQUE CONTINENTAL]]></Title>
