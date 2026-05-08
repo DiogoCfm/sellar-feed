@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-05-08T07:11:43</Date>
+  <Date>2026-05-08T13:02:21</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE204</ListingID>
@@ -801,6 +801,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode>11360-200</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>1050</StreetNumber>
+        <Latitude>-23.9453315</Latitude>
+        <Longitude>-46.397085</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento — PARQUE SAO VICENTE]]></Title>
@@ -943,6 +945,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode>03183-080</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>164</StreetNumber>
+        <Latitude>-23.5602853</Latitude>
+        <Longitude>-46.588634</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa — ALTO DA MOOCA]]></Title>
@@ -1798,6 +1802,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode>14094-120</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>3409</StreetNumber>
+        <Latitude>-21.1825072</Latitude>
+        <Longitude>-47.7348278</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento — CONJUNTO HABITACIONAL JARDIM DAS PALMEIR]]></Title>
@@ -2080,6 +2086,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode>11660-130</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber/>
+        <Latitude>-23.619626</Latitude>
+        <Longitude>-45.4124881</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa — CENTRO]]></Title>
@@ -2316,6 +2324,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode>14062-232</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>1150</StreetNumber>
+        <Latitude>-21.1195885</Latitude>
+        <Longitude>-47.8230707</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento — PARQUE DOS PINUS]]></Title>
@@ -2550,6 +2560,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode>11714-540</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>76</StreetNumber>
+        <Latitude>-24.0189338</Latitude>
+        <Longitude>-46.5138272</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa — RIBEIROPOLIS]]></Title>
@@ -2740,6 +2752,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode>14079-402</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>700</StreetNumber>
+        <Latitude>-21.1704008</Latitude>
+        <Longitude>-47.8103238</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento — JARDIM DIVA TARLA DE CARVALHO]]></Title>
@@ -2787,6 +2801,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode>17192-040</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>468</StreetNumber>
+        <Latitude>-21.88946</Latitude>
+        <Longitude>-49.22976</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa — RESIDENCIAL JOSE VELOSO DIAS]]></Title>
@@ -3073,6 +3089,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode>11730-000</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>2779</StreetNumber>
+        <Latitude>-24.11415</Latitude>
+        <Longitude>-46.69692</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa — JARDIM LEONOR]]></Title>
@@ -3166,6 +3184,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode/>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>459</StreetNumber>
+        <Latitude>-21.4152377</Latitude>
+        <Longitude>-50.0773225</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa — JS ANTONIO SACOMAN]]></Title>
@@ -3309,6 +3329,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode>15372-264</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>3951</StreetNumber>
+        <Latitude>-20.62636</Latitude>
+        <Longitude>-51.09698</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa — CONJUNTO HABITACIONAL APOLINARIO PIRES]]></Title>
@@ -3355,6 +3377,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode>14580-000</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>740</StreetNumber>
+        <Latitude>-20.4288485</Latitude>
+        <Longitude>-47.8114121</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa — ANTONIO ABBOUD]]></Title>
@@ -3449,6 +3473,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode>16201-488</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber/>
+        <Latitude>-23.22861</Latitude>
+        <Longitude>-45.89627</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento — PQ BOSQUE GIRASSOIS]]></Title>
@@ -3640,6 +3666,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode>14094-120</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>3409</StreetNumber>
+        <Latitude>-21.1825072</Latitude>
+        <Longitude>-47.7348278</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento — PQ ROMANCE]]></Title>
@@ -4262,6 +4290,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode>14781-285</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>183</StreetNumber>
+        <Latitude>-20.5336888</Latitude>
+        <Longitude>-48.55739</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa — JARDIM CALIFORNIA]]></Title>
@@ -5023,6 +5053,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode>13050-020</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>450</StreetNumber>
+        <Latitude>-22.9369172</Latitude>
+        <Longitude>-47.0868829</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento — JARDIM DO LAGO]]></Title>
