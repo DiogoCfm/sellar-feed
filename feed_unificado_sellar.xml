@@ -3,9 +3,48 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-06-08T19:56:09</Date>
+  <Date>2026-06-09T01:49:29</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>VISTA-SE205</ListingID>
+      <ContactInfo>
+        <Email>diogocobucci@gmail.com</Email>
+        <Name>SELLAR ADMINISTRACAO E REPRESENTACAO IMOBILIARIA</Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>1</Garage>
+        <LivingArea>67</LivingArea>
+        <LotArea>67</LotArea>
+        <PropertyAdministrationFee>1000</PropertyAdministrationFee>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Suites>1</Suites>
+        <UnitFloor>5</UnitFloor>
+        <YearlyTax>3160</YearlyTax>
+        <Features/>
+        <Warranties/>
+        <ListPrice currency="BRL">720000</ListPrice>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Address>Rua Mário Whately</Address>
+        <City><![CDATA[São Paulo]]></City>
+        <Complement>54</Complement>
+        <Latitude>-23.5345979</Latitude>
+        <Longitude>-46.7180808</Longitude>
+        <Neighborhood><![CDATA[Alto da Lapa]]></Neighborhood>
+        <State abbreviation="SP">São Paulo</State>
+        <StreetNumber>368</StreetNumber>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/205/i35I74_2056a2739ed944b5.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/205/i35I74_2056a2739f0b7dbf.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/sellarad/vista.imobi/fotos/205/i35I74_2056a2739f373c04.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE203</ListingID>
       <ContactInfo>
         <Email>diogocobucci@gmail.com</Email>
