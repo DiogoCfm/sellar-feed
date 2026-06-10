@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-06-10T09:35:05</Date>
+  <Date>2026-06-10T14:44:38</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE205</ListingID>
@@ -408,7 +408,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
       <Location displayAddress="All">
         <Address><![CDATA[AVENIDA MINAS GERAIS]]></Address>
         <City><![CDATA[CRUZEIRO]]></City>
-        <Neighborhood><![CDATA[RETIRO DA MANTIQUEIRA]]></Neighborhood>
+        <Neighborhood><![CDATA[Retiro da Mantiqueira]]></Neighborhood>
         <PostalCode>12712-010</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>1088</StreetNumber>
@@ -416,7 +416,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-44.9541904</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Comercial — RETIRO DA MANTIQUEIRA]]></Title>
+      <Title><![CDATA[Comercial — Retiro da Mantiqueira]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001000542721.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F000001000542721.jpg</Item>
@@ -455,13 +455,13 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
       <Location displayAddress="All">
         <Address><![CDATA[AVENIDA SALIN JOSE SAYEG, INÍCIO A 10,65 M DA R. AMAZONAS]]></Address>
         <City><![CDATA[PENAPOLIS]]></City>
-        <Neighborhood><![CDATA[PARQUE SAO LUIZ]]></Neighborhood>
+        <Neighborhood><![CDATA[Parque SÒo Luiz]]></Neighborhood>
         <PostalCode>16305-046</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber/>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Terreno — PARQUE SAO LUIZ]]></Title>
+      <Title><![CDATA[Terreno — Parque SÒo Luiz]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001000414421.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F000001000414421.jpg</Item>
@@ -501,7 +501,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
       <Location displayAddress="All">
         <Address><![CDATA[RUA GENI APARECIDA DE MOURA (RUA B)]]></Address>
         <City><![CDATA[PRAIA GRANDE]]></City>
-        <Neighborhood><![CDATA[GLORIA]]></Neighborhood>
+        <Neighborhood><![CDATA[Gl¾ria]]></Neighborhood>
         <PostalCode>11724-165</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>402</StreetNumber>
@@ -509,7 +509,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-46.4342582</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — GLORIA]]></Title>
+      <Title><![CDATA[Casa — Gl¾ria]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F855552400176921.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F855552400176921.jpg</Item>
@@ -549,7 +549,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA ERICO VERISSIMO]]></Address>
         <Complement><![CDATA[Apto 04, BL D]]></Complement>
         <City><![CDATA[SAO VICENTE]]></City>
-        <Neighborhood><![CDATA[VILA JOCKEI CLUBE]]></Neighborhood>
+        <Neighborhood><![CDATA[Vila Jockei Clube]]></Neighborhood>
         <PostalCode>11360-380</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>708</StreetNumber>
@@ -557,7 +557,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-46.3995127</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — VILA JOCKEI CLUBE]]></Title>
+      <Title><![CDATA[Apartamento — Vila Jockei Clube]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F855552430744221.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F855552430744221.jpg</Item>
@@ -597,7 +597,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA DR GUSTAVO CORDEIRO GALVAO FILHO]]></Address>
         <Complement><![CDATA[PT LT 19, QD 57]]></Complement>
         <City><![CDATA[SAO VICENTE]]></City>
-        <Neighborhood><![CDATA[PARQUE DAS BANDEIRAS]]></Neighborhood>
+        <Neighborhood><![CDATA[Parque das Bandeiras]]></Neighborhood>
         <PostalCode>11346-160</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>965</StreetNumber>
@@ -605,7 +605,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-46.4917841</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — PARQUE DAS BANDEIRAS]]></Title>
+      <Title><![CDATA[Casa — Parque das Bandeiras]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F844440868064521.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F844440868064521.jpg</Item>
@@ -645,7 +645,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA URBANO DO COUTO]]></Address>
         <Complement><![CDATA[.]]></Complement>
         <City><![CDATA[SAO PAULO]]></City>
-        <Neighborhood><![CDATA[ALTO DA MOOCA]]></Neighborhood>
+        <Neighborhood><![CDATA[Alto da Mooca]]></Neighborhood>
         <PostalCode>03183-080</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>164</StreetNumber>
@@ -653,7 +653,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-46.588634</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — ALTO DA MOOCA]]></Title>
+      <Title><![CDATA[Casa — Alto da Mooca]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F160000016230621.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F160000016230621.jpg</Item>
@@ -741,7 +741,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA GRACILIANO RAMOS N 366 01]]></Address>
         <Complement><![CDATA[CASA]]></Complement>
         <City><![CDATA[SAO VICENTE]]></City>
-        <Neighborhood><![CDATA[VILA JOCKEI CLUBE]]></Neighborhood>
+        <Neighborhood><![CDATA[Vila Jockei Clube]]></Neighborhood>
         <PostalCode/>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>366</StreetNumber>
@@ -749,10 +749,59 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-46.3915421</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — VILA JOCKEI CLUBE]]></Title>
+      <Title><![CDATA[Casa — Vila Jockei Clube]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F144440233263921.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F144440233263921.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-8787716917525</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Description><![CDATA[Apartamento, 80.90 de área total, 39.30 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.
+
+{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
+
+ {{descricao_caixa}} 
+
+Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
+        <Garage>1</Garage>
+        <LivingArea>39.3</LivingArea>
+        <LotArea>80.9</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Aceita Financiamento</Feature>
+        <Feature>Aceita FGTS</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">85334</ListPrice>
+      </Details>
+      <Location displayAddress="All">
+        <Address><![CDATA[RODOVIA ALCIDES SOARES]]></Address>
+        <Complement><![CDATA[Apto 201, 02 PAVIMENTO BL 04]]></Complement>
+        <City><![CDATA[BOTUCATU]]></City>
+        <Neighborhood><![CDATA[Vitoriana]]></Neighborhood>
+        <PostalCode>18619-002</PostalCode>
+        <State abbreviation="SP">São Paulo</State>
+        <StreetNumber>618</StreetNumber>
+        <Latitude>-22.866378</Latitude>
+        <Longitude>-48.4279133</Longitude>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Apartamento — Vitoriana]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878771691752521.jpg</Item>
+        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878771691752521.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
@@ -837,7 +886,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[AVENIDA EDUARDO ANDREA MATARAZZO]]></Address>
         <Complement><![CDATA[Apto 04, TORRE-02 BL-F]]></Complement>
         <City><![CDATA[RIBEIRAO PRETO]]></City>
-        <Neighborhood><![CDATA[IPIRANGA]]></Neighborhood>
+        <Neighborhood><![CDATA[Ipiranga]]></Neighborhood>
         <PostalCode>14060-810</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>4875</StreetNumber>
@@ -845,7 +894,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-47.8077132</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — IPIRANGA]]></Title>
+      <Title><![CDATA[Apartamento — Ipiranga]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F855553862884021.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F855553862884021.jpg</Item>
@@ -884,7 +933,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
       <Location displayAddress="All">
         <Address><![CDATA[RUA JOSÉ FRANCISCO PEIXOTO]]></Address>
         <City><![CDATA[MIGUELOPOLIS]]></City>
-        <Neighborhood><![CDATA[CENTRO]]></Neighborhood>
+        <Neighborhood><![CDATA[Centro]]></Neighborhood>
         <PostalCode>14530-000</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>1415</StreetNumber>
@@ -892,7 +941,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-48.033921</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Galpão — CENTRO]]></Title>
+      <Title><![CDATA[Galpão — Centro]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001020758021.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F000001020758021.jpg</Item>
@@ -932,7 +981,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[TRAVESSA C]]></Address>
         <Complement><![CDATA[LOTE 14, QUADRA 12]]></Complement>
         <City><![CDATA[ITUPEVA]]></City>
-        <Neighborhood><![CDATA[SAO VENANCIO]]></Neighborhood>
+        <Neighborhood><![CDATA[SÒo VenÔncio]]></Neighborhood>
         <PostalCode>13296-355</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>109</StreetNumber>
@@ -940,7 +989,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-47.1097488</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — SAO VENANCIO]]></Title>
+      <Title><![CDATA[Casa — SÒo VenÔncio]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F144441631519721.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F144441631519721.jpg</Item>
@@ -980,7 +1029,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA PROJETADA 6]]></Address>
         <Complement><![CDATA[Apto 0, LT 26, QD 12]]></Complement>
         <City><![CDATA[SAO JOSE DO RIO PRETO]]></City>
-        <Neighborhood><![CDATA[RESIDENCIAL MARIA CLARA 2]]></Neighborhood>
+        <Neighborhood><![CDATA[Residencial Maria Clara 2]]></Neighborhood>
         <PostalCode>15000-000</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>752</StreetNumber>
@@ -988,7 +1037,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-49.3314458</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — RESIDENCIAL MARIA CLARA 2]]></Title>
+      <Title><![CDATA[Casa — Residencial Maria Clara 2]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878771041602821.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878771041602821.jpg</Item>
@@ -1028,7 +1077,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA CORREIA RIBEIRO]]></Address>
         <Complement><![CDATA[Apto 11, 138 146]]></Complement>
         <City><![CDATA[SAO PAULO]]></City>
-        <Neighborhood><![CDATA[JARDIM SOARES]]></Neighborhood>
+        <Neighborhood><![CDATA[Jardim Soares]]></Neighborhood>
         <PostalCode>08460-260</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>138</StreetNumber>
@@ -1036,7 +1085,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-46.400873</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — JARDIM SOARES]]></Title>
+      <Title><![CDATA[Apartamento — Jardim Soares]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F844442879637121.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F844442879637121.jpg</Item>
@@ -1122,7 +1171,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA 17 DE JANEIRO]]></Address>
         <Complement><![CDATA[Apto 608, TORRE B]]></Complement>
         <City><![CDATA[SAO PAULO]]></City>
-        <Neighborhood><![CDATA[PARAISO DO MORUMBI]]></Neighborhood>
+        <Neighborhood><![CDATA[ParaÝso do Morumbi]]></Neighborhood>
         <PostalCode/>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>185</StreetNumber>
@@ -1130,7 +1179,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-46.7216515</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — PARAISO DO MORUMBI]]></Title>
+      <Title><![CDATA[Apartamento — ParaÝso do Morumbi]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878770891856921.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878770891856921.jpg</Item>
@@ -1170,7 +1219,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA MEDEIROS E ALBUQUERQUE]]></Address>
         <Complement><![CDATA[CS 01]]></Complement>
         <City><![CDATA[PRAIA GRANDE]]></City>
-        <Neighborhood><![CDATA[RIBEIROPOLIS]]></Neighborhood>
+        <Neighborhood><![CDATA[Ribeir¾polis]]></Neighborhood>
         <PostalCode>11714-540</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>76</StreetNumber>
@@ -1178,7 +1227,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-46.5138272</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — RIBEIROPOLIS]]></Title>
+      <Title><![CDATA[Casa — Ribeir¾polis]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F844442855771721.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F844442855771721.jpg</Item>
@@ -1218,7 +1267,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[AVENIDA PADRE ANTONIO JOSE DOS SANTOS]]></Address>
         <Complement><![CDATA[SOBRELOJA]]></Complement>
         <City><![CDATA[SAO PAULO]]></City>
-        <Neighborhood><![CDATA[CIDADE MONCOES]]></Neighborhood>
+        <Neighborhood><![CDATA[Cidade Monþ§es]]></Neighborhood>
         <PostalCode>04563-013</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>1167</StreetNumber>
@@ -1226,58 +1275,10 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-46.6852482</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Loja — CIDADE MONCOES]]></Title>
+      <Title><![CDATA[Loja — Cidade Monþ§es]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001014265221.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F000001014265221.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-8787716917525</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Apartamento, 80.90 de área total, 39.30 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.
-
-{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
-
- {{descricao_caixa}} 
-
-Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>39.3</LivingArea>
-        <LotArea>80.9</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita FGTS</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">90667</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address><![CDATA[RODOVIA ALCIDES SOARES]]></Address>
-        <Complement><![CDATA[Apto 201, 02 PAVIMENTO BL 04]]></Complement>
-        <City><![CDATA[BOTUCATU]]></City>
-        <Neighborhood><![CDATA[VITORIANA]]></Neighborhood>
-        <PostalCode>18619-002</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>618</StreetNumber>
-        <Latitude>-22.866378</Latitude>
-        <Longitude>-48.4279133</Longitude>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — VITORIANA]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878771691752521.jpg</Item>
-        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878771691752521.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
@@ -1314,7 +1315,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA ANTONIO CLEMENTE]]></Address>
         <Complement><![CDATA[LT 13 QD 02, ANDAR DE BAIXO]]></Complement>
         <City><![CDATA[SAO PAULO]]></City>
-        <Neighborhood><![CDATA[JARDIM SAO PAULO(ZONA NORTE)]]></Neighborhood>
+        <Neighborhood><![CDATA[Jardim SÒo Paulo(Zona Norte)]]></Neighborhood>
         <PostalCode>02039-020</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber/>
@@ -1322,7 +1323,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-46.6228829</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — JARDIM SAO PAULO(ZONA NORTE)]]></Title>
+      <Title><![CDATA[Casa — Jardim SÒo Paulo(Zona Norte)]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F202560103937421.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F202560103937421.jpg</Item>
@@ -1458,13 +1459,13 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[AVENIDA PROFESSOR GUSTAVO FLEURY CHARMELLOT]]></Address>
         <Complement><![CDATA[Apto 02, BL D TR 02]]></Complement>
         <City><![CDATA[ARARAQUARA]]></City>
-        <Neighborhood><![CDATA[JARDIM RESIDENCIAL PARAISO]]></Neighborhood>
+        <Neighborhood><![CDATA[Jardim Residencial ParaÝso]]></Neighborhood>
         <PostalCode>14800-000</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>372</StreetNumber>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — JARDIM RESIDENCIAL PARAISO]]></Title>
+      <Title><![CDATA[Apartamento — Jardim Residencial ParaÝso]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F855553825603921.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F855553825603921.jpg</Item>
@@ -1505,7 +1506,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[AV ALFREDO RAVANELI]]></Address>
         <Complement><![CDATA[Apto 305, BL 4]]></Complement>
         <City><![CDATA[RIBEIRAO PRETO]]></City>
-        <Neighborhood><![CDATA[CONJUNTO HABITACIONAL JARDIM DAS PALMEIR]]></Neighborhood>
+        <Neighborhood><![CDATA[Conjunto Habitacional Jardim das Palmeir]]></Neighborhood>
         <PostalCode>14094-120</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>3409</StreetNumber>
@@ -1513,7 +1514,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-47.7348278</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — CONJUNTO HABITACIONAL JARDIM DAS PALMEIR]]></Title>
+      <Title><![CDATA[Apartamento — Conjunto Habitacional Jardim das Palmeir]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F855553351640721.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F855553351640721.jpg</Item>
@@ -1553,7 +1554,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA TITO BONAGAMBA]]></Address>
         <Complement><![CDATA[Apto 34, TORRE 03 BL C]]></Complement>
         <City><![CDATA[RIBEIRAO PRETO]]></City>
-        <Neighborhood><![CDATA[VALENTINA FIGUEIREDO]]></Neighborhood>
+        <Neighborhood><![CDATA[Valentina Figueiredo]]></Neighborhood>
         <PostalCode>14061-660</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>350</StreetNumber>
@@ -1561,10 +1562,58 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-47.808658</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — VALENTINA FIGUEIREDO]]></Title>
+      <Title><![CDATA[Apartamento — Valentina Figueiredo]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878770298987121.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878770298987121.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-8787712345829</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Description><![CDATA[Apartamento, 64.24 de área total, 40.82 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.
+
+{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
+
+ {{descricao_caixa}} 
+
+Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
+        <Garage>1</Garage>
+        <LivingArea>40.82</LivingArea>
+        <LotArea>64.24</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Aceita Financiamento</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">82162</ListPrice>
+      </Details>
+      <Location displayAddress="All">
+        <Address><![CDATA[RUA PROFESSOR AYLTON RICOY DE OLIVEIRA]]></Address>
+        <Complement><![CDATA[Apto 403, BL2 4PAV]]></Complement>
+        <City><![CDATA[RIBEIRAO PRETO]]></City>
+        <Neighborhood><![CDATA[Jardim Ouro Branco]]></Neighborhood>
+        <PostalCode>14079-792</PostalCode>
+        <State abbreviation="SP">São Paulo</State>
+        <StreetNumber>925</StreetNumber>
+        <Latitude>-21.1550495</Latitude>
+        <Longitude>-47.7516715</Longitude>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Apartamento — Jardim Ouro Branco]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878771234582921.jpg</Item>
+        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878771234582921.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
@@ -1601,7 +1650,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA NOSSA SENHORA DO CARMO]]></Address>
         <Complement><![CDATA[Apto 401, BLOCO 08]]></Complement>
         <City><![CDATA[PIRACICABA]]></City>
-        <Neighborhood><![CDATA[SANTA TEREZINHA]]></Neighborhood>
+        <Neighborhood><![CDATA[Santa Terezinha]]></Neighborhood>
         <PostalCode>13411-030</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>505</StreetNumber>
@@ -1609,10 +1658,157 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-47.681888</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — SANTA TEREZINHA]]></Title>
+      <Title><![CDATA[Apartamento — Santa Terezinha]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F855553182802921.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F855553182802921.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-8787715440890</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Description><![CDATA[Apartamento, 64.24 de área total, 40.82 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.
+
+{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
+
+ {{descricao_caixa}} 
+
+Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
+        <Garage>1</Garage>
+        <LivingArea>40.82</LivingArea>
+        <LotArea>64.24</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Aceita Financiamento</Feature>
+        <Feature>Aceita FGTS</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">88148</ListPrice>
+      </Details>
+      <Location displayAddress="All">
+        <Address><![CDATA[RUA PROFESSOR AYLTON RICOY DE OLIVEIRA]]></Address>
+        <Complement><![CDATA[Apto 201, PAV 2, BL 04]]></Complement>
+        <City><![CDATA[RIBEIRAO PRETO]]></City>
+        <Neighborhood><![CDATA[Jardim Ouro Branco]]></Neighborhood>
+        <PostalCode>14079-792</PostalCode>
+        <State abbreviation="SP">São Paulo</State>
+        <StreetNumber>925</StreetNumber>
+        <Latitude>-21.1550495</Latitude>
+        <Longitude>-47.7516715</Longitude>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Apartamento — Jardim Ouro Branco]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878771544089021.jpg</Item>
+        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878771544089021.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-8787710347980</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Description><![CDATA[Apartamento, 79.93 de área total, 40.82 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.
+
+{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
+
+ {{descricao_caixa}} 
+
+Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
+        <Garage>1</Garage>
+        <LivingArea>40.82</LivingArea>
+        <LotArea>79.93</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Aceita Financiamento</Feature>
+        <Feature>Aceita FGTS</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">90741</ListPrice>
+      </Details>
+      <Location displayAddress="All">
+        <Address><![CDATA[RUA PROFESSOR AYLTON RICOY DE OLIVEIRA]]></Address>
+        <Complement><![CDATA[Apto 402, BLOCO 20 VAGA 153]]></Complement>
+        <City><![CDATA[RIBEIRAO PRETO]]></City>
+        <Neighborhood><![CDATA[Jardim Ouro Branco]]></Neighborhood>
+        <PostalCode>14079-792</PostalCode>
+        <State abbreviation="SP">São Paulo</State>
+        <StreetNumber>605</StreetNumber>
+        <Latitude>-21.1550495</Latitude>
+        <Longitude>-47.7516715</Longitude>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Apartamento — Jardim Ouro Branco]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878771034798021.jpg</Item>
+        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878771034798021.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-8787716000605</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Description><![CDATA[Apartamento, 87.46 de área total, 43.06 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.
+
+{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
+
+ {{descricao_caixa}} 
+
+Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
+        <Garage>1</Garage>
+        <LivingArea>43.06</LivingArea>
+        <LotArea>87.46</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Aceita Financiamento</Feature>
+        <Feature>Aceita FGTS</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">92297</ListPrice>
+      </Details>
+      <Location displayAddress="All">
+        <Address><![CDATA[RUA ALESSIO SANTINI]]></Address>
+        <Complement><![CDATA[Apto 24, BL B TR 03]]></Complement>
+        <City><![CDATA[ARARAQUARA]]></City>
+        <Neighborhood><![CDATA[Jardim Residencial ParaÝso]]></Neighborhood>
+        <PostalCode>14804-021</PostalCode>
+        <State abbreviation="SP">São Paulo</State>
+        <StreetNumber>260</StreetNumber>
+        <Latitude>-21.7650273</Latitude>
+        <Longitude>-48.1932495</Longitude>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Apartamento — Jardim Residencial ParaÝso]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878771600060521.jpg</Item>
+        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878771600060521.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
@@ -1649,7 +1845,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA CLARA AURORA]]></Address>
         <Complement><![CDATA[QD G LT 17]]></Complement>
         <City><![CDATA[SAO PAULO]]></City>
-        <Neighborhood><![CDATA[JARDIM INGA]]></Neighborhood>
+        <Neighborhood><![CDATA[Jardim Ingß]]></Neighborhood>
         <PostalCode>05736-110</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber/>
@@ -1657,7 +1853,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-46.7460041</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Terreno — JARDIM INGA]]></Title>
+      <Title><![CDATA[Terreno — Jardim Ingß]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F144440199167121.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F144440199167121.jpg</Item>
@@ -1697,7 +1893,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA SABINO DUARTE]]></Address>
         <Complement><![CDATA[QD 03, LT 02 PARTE]]></Complement>
         <City><![CDATA[SAO PAULO]]></City>
-        <Neighborhood><![CDATA[VILA BAUAB]]></Neighborhood>
+        <Neighborhood><![CDATA[Vila Bauab]]></Neighborhood>
         <PostalCode>03892-000</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>119</StreetNumber>
@@ -1705,7 +1901,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-46.4875771</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — VILA BAUAB]]></Title>
+      <Title><![CDATA[Casa — Vila Bauab]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001019273921.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F000001019273921.jpg</Item>
@@ -1745,7 +1941,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA ANTONIO BENTO]]></Address>
         <Complement><![CDATA[SL 1-B, 1º ANDAR]]></Complement>
         <City><![CDATA[SAO CAETANO DO SUL]]></City>
-        <Neighborhood><![CDATA[SANTA PAULA]]></Neighborhood>
+        <Neighborhood><![CDATA[Santa Paula]]></Neighborhood>
         <PostalCode>09520-050</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>85</StreetNumber>
@@ -1753,7 +1949,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-46.5662688</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Sala — SANTA PAULA]]></Title>
+      <Title><![CDATA[Sala — Santa Paula]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001020836821.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F000001020836821.jpg</Item>
@@ -1793,7 +1989,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA JORGE CARACANTE]]></Address>
         <Complement><![CDATA[QD A, LT 35]]></Complement>
         <City><![CDATA[SOROCABA]]></City>
-        <Neighborhood><![CDATA[VILA HARO]]></Neighborhood>
+        <Neighborhood><![CDATA[Vila Haro]]></Neighborhood>
         <PostalCode>18015-315</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber/>
@@ -1801,7 +1997,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-47.4299569</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Terreno — VILA HARO]]></Title>
+      <Title><![CDATA[Terreno — Vila Haro]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001020811921.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F000001020811921.jpg</Item>
@@ -1841,7 +2037,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA ANTONIO BENTO]]></Address>
         <Complement><![CDATA[LJ 01, TÉRREO]]></Complement>
         <City><![CDATA[SAO CAETANO DO SUL]]></City>
-        <Neighborhood><![CDATA[SANTA PAULA]]></Neighborhood>
+        <Neighborhood><![CDATA[Santa Paula]]></Neighborhood>
         <PostalCode>09520-050</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>85</StreetNumber>
@@ -1849,7 +2045,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-46.5662688</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Loja — SANTA PAULA]]></Title>
+      <Title><![CDATA[Loja — Santa Paula]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001020837121.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F000001020837121.jpg</Item>
@@ -1889,7 +2085,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[ESTRADA PADRE INACIO]]></Address>
         <Complement><![CDATA[CASA 26 TIPO A1]]></Complement>
         <City><![CDATA[COTIA]]></City>
-        <Neighborhood><![CDATA[CENTREVILLE]]></Neighborhood>
+        <Neighborhood><![CDATA[Centreville]]></Neighborhood>
         <PostalCode/>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber/>
@@ -1897,7 +2093,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-46.9335048</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — CENTREVILLE]]></Title>
+      <Title><![CDATA[Casa — Centreville]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878770199027221.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878770199027221.jpg</Item>
@@ -1938,7 +2134,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA MEM DE SA]]></Address>
         <Complement><![CDATA[Apto 02]]></Complement>
         <City><![CDATA[COTIA]]></City>
-        <Neighborhood><![CDATA[JARDIM JAPAO (CAUCAIA DO ALTO)]]></Neighborhood>
+        <Neighborhood><![CDATA[Jardim JapÒo (Caucaia do Alto)]]></Neighborhood>
         <PostalCode>06726-110</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>227</StreetNumber>
@@ -1946,7 +2142,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-47.0766133</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — JARDIM JAPAO (CAUCAIA DO ALTO)]]></Title>
+      <Title><![CDATA[Apartamento — Jardim JapÒo (Caucaia do Alto)]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F844442961535421.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F844442961535421.jpg</Item>
@@ -1986,7 +2182,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA MINAS GERAIS]]></Address>
         <Complement><![CDATA[Apto 121, 12 e 13 ANDAR]]></Complement>
         <City><![CDATA[SAO JOSE DO RIO PRETO]]></City>
-        <Neighborhood><![CDATA[VILA BOM JESUS]]></Neighborhood>
+        <Neighborhood><![CDATA[Vila Bom Jesus]]></Neighborhood>
         <PostalCode>15014-210</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>69</StreetNumber>
@@ -1994,7 +2190,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-49.3778457</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — VILA BOM JESUS]]></Title>
+      <Title><![CDATA[Apartamento — Vila Bom Jesus]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F144441798718021.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F144441798718021.jpg</Item>
@@ -2035,7 +2231,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA ETORE GALESI]]></Address>
         <Complement><![CDATA[Apto 31, BL 06]]></Complement>
         <City><![CDATA[PIRACICABA]]></City>
-        <Neighborhood><![CDATA[PAULICEIA]]></Neighborhood>
+        <Neighborhood><![CDATA[PaulicÚia]]></Neighborhood>
         <PostalCode>13401-587</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>220</StreetNumber>
@@ -2043,10 +2239,58 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-47.6517898</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — PAULICEIA]]></Title>
+      <Title><![CDATA[Apartamento — PaulicÚia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F855553770536021.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F855553770536021.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-8444429681993</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Description><![CDATA[Apartamento, 89.41 de área total, 42.96 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.
+
+{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
+
+ {{descricao_caixa}} 
+
+Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
+        <Garage>1</Garage>
+        <LivingArea>42.96</LivingArea>
+        <LotArea>89.41</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Aceita FGTS</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">81145</ListPrice>
+      </Details>
+      <Location displayAddress="All">
+        <Address><![CDATA[RUA ITAJUBA]]></Address>
+        <Complement><![CDATA[Apto 21, TORRE 2 BLOCO A]]></Complement>
+        <City><![CDATA[RIBEIRAO PRETO]]></City>
+        <Neighborhood><![CDATA[Ipiranga]]></Neighborhood>
+        <PostalCode>14060-115</PostalCode>
+        <State abbreviation="SP">São Paulo</State>
+        <StreetNumber>1161</StreetNumber>
+        <Latitude>-21.1387271</Latitude>
+        <Longitude>-47.8237161</Longitude>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Apartamento — Ipiranga]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F844442968199321.jpg</Item>
+        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F844442968199321.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
@@ -2083,13 +2327,13 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA MARIA AUXILIA ABRANCHES FARIA]]></Address>
         <Complement><![CDATA[Apto 33, BL E TORRE 3]]></Complement>
         <City><![CDATA[RIBEIRAO PRETO]]></City>
-        <Neighborhood><![CDATA[VILA ABRANCHES]]></Neighborhood>
+        <Neighborhood><![CDATA[Vila Abranches]]></Neighborhood>
         <PostalCode>14093-150</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>565</StreetNumber>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — VILA ABRANCHES]]></Title>
+      <Title><![CDATA[Apartamento — Vila Abranches]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878770806008421.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878770806008421.jpg</Item>
@@ -2130,7 +2374,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[AVENIDA DOUTOR FERNANDO MENDES GARCIA]]></Address>
         <Complement><![CDATA[Apto 13, BL F TORRE 3]]></Complement>
         <City><![CDATA[RIBEIRAO PRETO]]></City>
-        <Neighborhood><![CDATA[JARDIM DIVA TARLA DE CARVALHO]]></Neighborhood>
+        <Neighborhood><![CDATA[Jardim Diva Tarlß de Carvalho]]></Neighborhood>
         <PostalCode>14079-370</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>2720</StreetNumber>
@@ -2138,7 +2382,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-47.7417534</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — JARDIM DIVA TARLA DE CARVALHO]]></Title>
+      <Title><![CDATA[Apartamento — Jardim Diva Tarlß de Carvalho]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F855553935663021.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F855553935663021.jpg</Item>
@@ -2178,7 +2422,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA JOAO E GUIOMAR SOEIRA]]></Address>
         <Complement><![CDATA[Apto 403, BL 72 VAGA 725 LT 01 QD 04]]></Complement>
         <City><![CDATA[RIBEIRAO PRETO]]></City>
-        <Neighborhood><![CDATA[RESERVA REAL]]></Neighborhood>
+        <Neighborhood><![CDATA[Reserva Real]]></Neighborhood>
         <PostalCode>14094-645</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>155</StreetNumber>
@@ -2186,7 +2430,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-47.7299764</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — RESERVA REAL]]></Title>
+      <Title><![CDATA[Apartamento — Reserva Real]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878770736583321.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878770736583321.jpg</Item>
@@ -2276,7 +2520,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA BARAO CARLOS DE SOUSA ANHUMAS]]></Address>
         <Complement><![CDATA[Apto 43, BL 09]]></Complement>
         <City><![CDATA[SAO PAULO]]></City>
-        <Neighborhood><![CDATA[JARDIM RECANTO VERDE]]></Neighborhood>
+        <Neighborhood><![CDATA[Jardim Recanto Verde]]></Neighborhood>
         <PostalCode>02364-000</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>380</StreetNumber>
@@ -2284,7 +2528,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-46.5822336</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — JARDIM RECANTO VERDE]]></Title>
+      <Title><![CDATA[Apartamento — Jardim Recanto Verde]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878770877546621.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878770877546621.jpg</Item>
@@ -2324,7 +2568,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[R JOSE INHESTA]]></Address>
         <Complement><![CDATA[LT 17-B, QD N]]></Complement>
         <City><![CDATA[BAURU]]></City>
-        <Neighborhood><![CDATA[CONJUNTO HABITACIONAL PRESIDENTE EURICO]]></Neighborhood>
+        <Neighborhood><![CDATA[Conjunto Habitacional Presidente Eurico]]></Neighborhood>
         <PostalCode/>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>1-59</StreetNumber>
@@ -2332,7 +2576,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-49.125551</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — CONJUNTO HABITACIONAL PRESIDENTE EURICO]]></Title>
+      <Title><![CDATA[Casa — Conjunto Habitacional Presidente Eurico]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F855550185469221.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F855550185469221.jpg</Item>
@@ -2372,7 +2616,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[AVENIDA EDUARDO ANDREA MATARAZZO]]></Address>
         <Complement><![CDATA[Apto 24, BLOCO C TORRE 4]]></Complement>
         <City><![CDATA[RIBEIRAO PRETO]]></City>
-        <Neighborhood><![CDATA[VALENTINA FIGUEIREDO]]></Neighborhood>
+        <Neighborhood><![CDATA[Valentina Figueiredo]]></Neighborhood>
         <PostalCode>14060-810</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>4875</StreetNumber>
@@ -2380,7 +2624,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-47.8077132</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — VALENTINA FIGUEIREDO]]></Title>
+      <Title><![CDATA[Apartamento — Valentina Figueiredo]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F855553741988021.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F855553741988021.jpg</Item>
@@ -2431,54 +2675,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878770334333921.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878770334333921.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-8787712345829</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Apartamento, 64.24 de área total, 40.82 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.
-
-{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
-
- {{descricao_caixa}} 
-
-Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>40.82</LivingArea>
-        <LotArea>64.24</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">84509</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address><![CDATA[RUA PROFESSOR AYLTON RICOY DE OLIVEIRA]]></Address>
-        <Complement><![CDATA[Apto 403, BL2 4PAV]]></Complement>
-        <City><![CDATA[RIBEIRAO PRETO]]></City>
-        <Neighborhood><![CDATA[JARDIM OURO BRANCO]]></Neighborhood>
-        <PostalCode>14079-792</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>925</StreetNumber>
-        <Latitude>-21.1550495</Latitude>
-        <Longitude>-47.7516715</Longitude>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — JARDIM OURO BRANCO]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878771234582921.jpg</Item>
-        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878771234582921.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
@@ -2563,13 +2759,13 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA MARIA AUXILIA ABRANCHES FARIA]]></Address>
         <Complement><![CDATA[Apto 13, BL F TORRE 03]]></Complement>
         <City><![CDATA[RIBEIRAO PRETO]]></City>
-        <Neighborhood><![CDATA[VILA ABRANCHES]]></Neighborhood>
+        <Neighborhood><![CDATA[Vila Abranches]]></Neighborhood>
         <PostalCode>14093-150</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>565</StreetNumber>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — VILA ABRANCHES]]></Title>
+      <Title><![CDATA[Apartamento — Vila Abranches]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878770810856721.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878770810856721.jpg</Item>
@@ -2609,7 +2805,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA A]]></Address>
         <Complement><![CDATA[LT 26 QD B]]></Complement>
         <City><![CDATA[PIRACICABA]]></City>
-        <Neighborhood><![CDATA[SAO JORGE]]></Neighborhood>
+        <Neighborhood><![CDATA[SÒo Jorge]]></Neighborhood>
         <PostalCode>13402-737</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber/>
@@ -2617,7 +2813,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-47.6851683</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Terreno — SAO JORGE]]></Title>
+      <Title><![CDATA[Terreno — SÒo Jorge]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F844442629131021.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F844442629131021.jpg</Item>
@@ -2657,7 +2853,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA GERALDO FERNANDES]]></Address>
         <Complement><![CDATA[Apto 201, BL 05]]></Complement>
         <City><![CDATA[SAO JOSE DO RIO PRETO]]></City>
-        <Neighborhood><![CDATA[BOA VISTA]]></Neighborhood>
+        <Neighborhood><![CDATA[Boa Vista]]></Neighborhood>
         <PostalCode>15045-338</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>651</StreetNumber>
@@ -2665,7 +2861,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-49.3907441</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — BOA VISTA]]></Title>
+      <Title><![CDATA[Apartamento — Boa Vista]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878771014147921.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878771014147921.jpg</Item>
@@ -2705,64 +2901,16 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA MARIA AUXILIA ABRANCHES FARIA]]></Address>
         <Complement><![CDATA[Apto 34, BL C TORRE 2]]></Complement>
         <City><![CDATA[RIBEIRAO PRETO]]></City>
-        <Neighborhood><![CDATA[VILA ABRANCHES]]></Neighborhood>
+        <Neighborhood><![CDATA[Vila Abranches]]></Neighborhood>
         <PostalCode>14093-150</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>565</StreetNumber>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — VILA ABRANCHES]]></Title>
+      <Title><![CDATA[Apartamento — Vila Abranches]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878770863031021.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878770863031021.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-8787715440890</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Apartamento, 64.24 de área total, 40.82 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.
-
-{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
-
- {{descricao_caixa}} 
-
-Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>40.82</LivingArea>
-        <LotArea>64.24</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita FGTS</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">90667</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address><![CDATA[RUA PROFESSOR AYLTON RICOY DE OLIVEIRA]]></Address>
-        <Complement><![CDATA[Apto 201, PAV 2, BL 04]]></Complement>
-        <City><![CDATA[RIBEIRAO PRETO]]></City>
-        <Neighborhood><![CDATA[JARDIM OURO BRANCO]]></Neighborhood>
-        <PostalCode>14079-792</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>925</StreetNumber>
-        <Latitude>-21.1550495</Latitude>
-        <Longitude>-47.7516715</Longitude>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — JARDIM OURO BRANCO]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878771544089021.jpg</Item>
-        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878771544089021.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
@@ -2799,7 +2947,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA DOUTOR ANTONIO SYLVIO CUNHA BUENO]]></Address>
         <Complement><![CDATA[CASA 04]]></Complement>
         <City><![CDATA[PRAIA GRANDE]]></City>
-        <Neighborhood><![CDATA[MELVI]]></Neighborhood>
+        <Neighborhood><![CDATA[Melvi]]></Neighborhood>
         <PostalCode>11712-040</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>54</StreetNumber>
@@ -2807,106 +2955,10 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-46.5327009</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — MELVI]]></Title>
+      <Title><![CDATA[Casa — Melvi]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F844440690987421.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F844440690987421.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-8787710347980</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Apartamento, 79.93 de área total, 40.82 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.
-
-{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
-
- {{descricao_caixa}} 
-
-Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>40.82</LivingArea>
-        <LotArea>79.93</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita FGTS</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">93334</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address><![CDATA[RUA PROFESSOR AYLTON RICOY DE OLIVEIRA]]></Address>
-        <Complement><![CDATA[Apto 402, BLOCO 20 VAGA 153]]></Complement>
-        <City><![CDATA[RIBEIRAO PRETO]]></City>
-        <Neighborhood><![CDATA[JARDIM OURO BRANCO]]></Neighborhood>
-        <PostalCode>14079-792</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>605</StreetNumber>
-        <Latitude>-21.1550495</Latitude>
-        <Longitude>-47.7516715</Longitude>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — JARDIM OURO BRANCO]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878771034798021.jpg</Item>
-        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878771034798021.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-8787716000605</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Apartamento, 87.46 de área total, 43.06 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.
-
-{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
-
- {{descricao_caixa}} 
-
-Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>43.06</LivingArea>
-        <LotArea>87.46</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita FGTS</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">94934</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address><![CDATA[RUA ALESSIO SANTINI]]></Address>
-        <Complement><![CDATA[Apto 24, BL B TR 03]]></Complement>
-        <City><![CDATA[ARARAQUARA]]></City>
-        <Neighborhood><![CDATA[JARDIM RESIDENCIAL PARAISO]]></Neighborhood>
-        <PostalCode>14804-021</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>260</StreetNumber>
-        <Latitude>-21.7650273</Latitude>
-        <Longitude>-48.1932495</Longitude>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — JARDIM RESIDENCIAL PARAISO]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878771600060521.jpg</Item>
-        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878771600060521.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
@@ -2943,13 +2995,13 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA PRIMEIRO-SARGENTO JOAO LEITE DE GODO]]></Address>
         <Complement><![CDATA[CS 61]]></Complement>
         <City><![CDATA[POA]]></City>
-        <Neighborhood><![CDATA[VILA CLETO]]></Neighborhood>
+        <Neighborhood><![CDATA[Vila Cleto]]></Neighborhood>
         <PostalCode>08565-320</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>277</StreetNumber>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — VILA CLETO]]></Title>
+      <Title><![CDATA[Casa — Vila Cleto]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F810040027996721.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F810040027996721.jpg</Item>
@@ -2989,7 +3041,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA COLOMBIA]]></Address>
         <Complement><![CDATA[QD 23, LOTE 06]]></Complement>
         <City><![CDATA[RIBEIRAO PRETO]]></City>
-        <Neighborhood><![CDATA[VILA CARVALHO]]></Neighborhood>
+        <Neighborhood><![CDATA[Vila Carvalho]]></Neighborhood>
         <PostalCode>14000-000</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber/>
@@ -2997,7 +3049,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-47.7947335</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — VILA CARVALHO]]></Title>
+      <Title><![CDATA[Casa — Vila Carvalho]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F144440691412821.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F144440691412821.jpg</Item>
@@ -3037,7 +3089,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[AVENIDA ADOLPHO HECHT JUNIOR]]></Address>
         <Complement><![CDATA[ÁREA 01,ESQ RUA JOÃO ANTÔNIO DE CASTIL]]></Complement>
         <City><![CDATA[GLICERIO]]></City>
-        <Neighborhood><![CDATA[CENTRO]]></Neighborhood>
+        <Neighborhood><![CDATA[Centro]]></Neighborhood>
         <PostalCode>16270-037</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber/>
@@ -3045,7 +3097,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-46.6290085</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Galpão — CENTRO]]></Title>
+      <Title><![CDATA[Galpão — Centro]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001020890821.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F000001020890821.jpg</Item>
@@ -3086,13 +3138,13 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA MARIA AUXILIA ABRANCHES FARIA]]></Address>
         <Complement><![CDATA[Apto 23, 3 PAVIMENTO BL D TORRE 2]]></Complement>
         <City><![CDATA[RIBEIRAO PRETO]]></City>
-        <Neighborhood><![CDATA[VILA ABRANCHES]]></Neighborhood>
+        <Neighborhood><![CDATA[Vila Abranches]]></Neighborhood>
         <PostalCode>14093-150</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>565</StreetNumber>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — VILA ABRANCHES]]></Title>
+      <Title><![CDATA[Apartamento — Vila Abranches]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878770880682521.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878770880682521.jpg</Item>
@@ -3133,7 +3185,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[AVENIDA DOUTOR HERCULES GALLETTI]]></Address>
         <Complement><![CDATA[Apto 202, 2 ANDAR BL 05]]></Complement>
         <City><![CDATA[MARILIA]]></City>
-        <Neighborhood><![CDATA[JARDIM CALIFORNIA]]></Neighborhood>
+        <Neighborhood><![CDATA[Jardim Calif¾rnia]]></Neighborhood>
         <PostalCode>17527-350</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>382</StreetNumber>
@@ -3141,7 +3193,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-49.9743536</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — JARDIM CALIFORNIA]]></Title>
+      <Title><![CDATA[Apartamento — Jardim Calif¾rnia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F844443136629321.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F844443136629321.jpg</Item>
@@ -3182,16 +3234,65 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[ESTRADA MUNICIPAL - RPR 432]]></Address>
         <Complement><![CDATA[Apto 24, 2 PAV TORRE 6 VERONA]]></Complement>
         <City><![CDATA[RIBEIRAO PRETO]]></City>
-        <Neighborhood><![CDATA[RECANTO DAS PALMEIRAS]]></Neighborhood>
+        <Neighborhood><![CDATA[Recanto das Palmeiras]]></Neighborhood>
         <PostalCode>14000-000</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>100</StreetNumber>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — RECANTO DAS PALMEIRAS]]></Title>
+      <Title><![CDATA[Apartamento — Recanto das Palmeiras]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F855553850361321.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F855553850361321.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-8787715227851</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Description><![CDATA[Apartamento, 93.17 de área total, 44.00 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.
+
+{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
+
+ {{descricao_caixa}} 
+
+Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
+        <Garage>1</Garage>
+        <LivingArea>44</LivingArea>
+        <LotArea>93.17</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Aceita Financiamento</Feature>
+        <Feature>Aceita FGTS</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">96765</ListPrice>
+      </Details>
+      <Location displayAddress="All">
+        <Address><![CDATA[RUA ADEMIR SPAGNOL MILUZZI]]></Address>
+        <Complement><![CDATA[Apto 31, BL B TORRE 1]]></Complement>
+        <City><![CDATA[RIBEIRAO PRETO]]></City>
+        <Neighborhood><![CDATA[Jardim Diva Tarlß de Carvalho]]></Neighborhood>
+        <PostalCode>14079-402</PostalCode>
+        <State abbreviation="SP">São Paulo</State>
+        <StreetNumber>700</StreetNumber>
+        <Latitude>-21.1704008</Latitude>
+        <Longitude>-47.8103238</Longitude>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Apartamento — Jardim Diva Tarlß de Carvalho]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878771522785121.jpg</Item>
+        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878771522785121.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
@@ -3228,7 +3329,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA PAULO NORBERTO DE MORAES]]></Address>
         <Complement><![CDATA[LT 24, QD G]]></Complement>
         <City><![CDATA[NOVO HORIZONTE]]></City>
-        <Neighborhood><![CDATA[RESIDENCIAL VIVA MAIS NOVO HORIZONTE]]></Neighborhood>
+        <Neighborhood><![CDATA[Residencial Viva Mais Novo Horizonte]]></Neighborhood>
         <PostalCode>14967-542</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>430</StreetNumber>
@@ -3236,7 +3337,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-49.2051593</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — RESIDENCIAL VIVA MAIS NOVO HORIZONTE]]></Title>
+      <Title><![CDATA[Casa — Residencial Viva Mais Novo Horizonte]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F844441250271321.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F844441250271321.jpg</Item>
@@ -3277,7 +3378,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[AVENIDA ALFREDO RAVANELI]]></Address>
         <Complement><![CDATA[Apto 207, AP 207 BL 05]]></Complement>
         <City><![CDATA[RIBEIRAO PRETO]]></City>
-        <Neighborhood><![CDATA[JARDIM HELENA]]></Neighborhood>
+        <Neighborhood><![CDATA[Jardim Helena]]></Neighborhood>
         <PostalCode>14094-120</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>3409</StreetNumber>
@@ -3285,7 +3386,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-47.7348278</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — JARDIM HELENA]]></Title>
+      <Title><![CDATA[Apartamento — Jardim Helena]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F844443093993121.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F844443093993121.jpg</Item>
@@ -3324,7 +3425,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
       <Location displayAddress="All">
         <Address><![CDATA[RUA CAMPOS DO JORDAO]]></Address>
         <City><![CDATA[AGUAS DE LINDOIA]]></City>
-        <Neighborhood><![CDATA[PARQUE DAS FONTES]]></Neighborhood>
+        <Neighborhood><![CDATA[Parque das Fontes]]></Neighborhood>
         <PostalCode>13940-000</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>180</StreetNumber>
@@ -3332,7 +3433,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-46.626782</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — PARQUE DAS FONTES]]></Title>
+      <Title><![CDATA[Casa — Parque das Fontes]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F844440532257821.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F844440532257821.jpg</Item>
@@ -3372,7 +3473,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
       <Location displayAddress="All">
         <Address><![CDATA[RUA LEOPOLDO AUGUSTO MIGUEZ]]></Address>
         <City><![CDATA[PRAIA GRANDE]]></City>
-        <Neighborhood><![CDATA[MELVI]]></Neighborhood>
+        <Neighborhood><![CDATA[Melvi]]></Neighborhood>
         <PostalCode>11712-170</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>185</StreetNumber>
@@ -3380,7 +3481,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-46.5319792</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — MELVI]]></Title>
+      <Title><![CDATA[Casa — Melvi]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F144442006859021.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F144442006859021.jpg</Item>
@@ -3420,7 +3521,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[AVENIDA MARIA RANIERI]]></Address>
         <Complement><![CDATA[Apto 505, BL 9]]></Complement>
         <City><![CDATA[BAURU]]></City>
-        <Neighborhood><![CDATA[PARQUE VIADUTO]]></Neighborhood>
+        <Neighborhood><![CDATA[Parque Viaduto]]></Neighborhood>
         <PostalCode>17055-175</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>13-27</StreetNumber>
@@ -3428,7 +3529,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-49.1133264</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — PARQUE VIADUTO]]></Title>
+      <Title><![CDATA[Apartamento — Parque Viaduto]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878771664763321.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878771664763321.jpg</Item>
@@ -3468,7 +3569,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA CATULE]]></Address>
         <Complement><![CDATA[Apto 4, PAV TERREO, BL 11]]></Complement>
         <City><![CDATA[SAO PAULO]]></City>
-        <Neighborhood><![CDATA[JARDIM SANTA TEREZINHA (ZONA LESTE)]]></Neighborhood>
+        <Neighborhood><![CDATA[Jardim Santa Terezinha (Zona Leste)]]></Neighborhood>
         <PostalCode>08191-350</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>101</StreetNumber>
@@ -3476,7 +3577,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-46.3796608</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — JARDIM SANTA TEREZINHA (ZONA LESTE)]]></Title>
+      <Title><![CDATA[Apartamento — Jardim Santa Terezinha (Zona Leste)]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F855553064141321.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F855553064141321.jpg</Item>
@@ -3516,7 +3617,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA MATO GROSSO]]></Address>
         <Complement><![CDATA[QD 17 LT 01 E 02]]></Complement>
         <City><![CDATA[RIBEIRAO PRETO]]></City>
-        <Neighborhood><![CDATA[VILA RECREIO]]></Neighborhood>
+        <Neighborhood><![CDATA[Vila Recreio]]></Neighborhood>
         <PostalCode>14055-560</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>2134</StreetNumber>
@@ -3524,7 +3625,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-47.8241633</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — VILA RECREIO]]></Title>
+      <Title><![CDATA[Casa — Vila Recreio]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F844440274067021.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F844440274067021.jpg</Item>
@@ -3565,7 +3666,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[AV CARLOS BERCHIERI]]></Address>
         <Complement><![CDATA[Apto 13, TORRE 4, BL C]]></Complement>
         <City><![CDATA[JABOTICABAL]]></City>
-        <Neighborhood><![CDATA[SOROCABANO]]></Neighborhood>
+        <Neighborhood><![CDATA[Sorocabano]]></Neighborhood>
         <PostalCode>14871-000</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>2338</StreetNumber>
@@ -3573,7 +3674,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-48.3234367</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — SOROCABANO]]></Title>
+      <Title><![CDATA[Apartamento — Sorocabano]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878770944384021.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878770944384021.jpg</Item>
@@ -3614,7 +3715,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA CIRCULAR]]></Address>
         <Complement><![CDATA[Apto 34, TR. 04, BL. B, ESTRADA MUNICIPAL RPR 4]]></Complement>
         <City><![CDATA[RIBEIRAO PRETO]]></City>
-        <Neighborhood><![CDATA[RECANTO DAS PALMEIRAS]]></Neighborhood>
+        <Neighborhood><![CDATA[Recanto das Palmeiras]]></Neighborhood>
         <PostalCode>14079-418</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>100</StreetNumber>
@@ -3622,7 +3723,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-47.7364919</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — RECANTO DAS PALMEIRAS]]></Title>
+      <Title><![CDATA[Apartamento — Recanto das Palmeiras]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F855553802327121.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F855553802327121.jpg</Item>
@@ -3663,7 +3764,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA JOSE MARIA FERREIRA BRANDAO]]></Address>
         <Complement><![CDATA[Apto 31, BL 04]]></Complement>
         <City><![CDATA[ARARAQUARA]]></City>
-        <Neighborhood><![CDATA[JARDIM DOS OITIS]]></Neighborhood>
+        <Neighborhood><![CDATA[Jardim dos Oitis]]></Neighborhood>
         <PostalCode>14810-740</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>1071</StreetNumber>
@@ -3671,7 +3772,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-48.1461451</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — JARDIM DOS OITIS]]></Title>
+      <Title><![CDATA[Apartamento — Jardim dos Oitis]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F855553791784821.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F855553791784821.jpg</Item>
@@ -3712,7 +3813,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA CIRCULAR]]></Address>
         <Complement><![CDATA[Apto 4, TR. 3, BL. A]]></Complement>
         <City><![CDATA[RIBEIRAO PRETO]]></City>
-        <Neighborhood><![CDATA[RECANTO DAS PALMEIRAS]]></Neighborhood>
+        <Neighborhood><![CDATA[Recanto das Palmeiras]]></Neighborhood>
         <PostalCode>14079-418</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>100</StreetNumber>
@@ -3720,7 +3821,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-47.7364919</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — RECANTO DAS PALMEIRAS]]></Title>
+      <Title><![CDATA[Apartamento — Recanto das Palmeiras]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F855553774814021.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F855553774814021.jpg</Item>
@@ -3761,13 +3862,13 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA BUDAPEST]]></Address>
         <Complement><![CDATA[LT C04 QD 36]]></Complement>
         <City><![CDATA[AGUDOS]]></City>
-        <Neighborhood><![CDATA[PARQUE PAMPULHA]]></Neighborhood>
+        <Neighborhood><![CDATA[Parque Pampulha]]></Neighborhood>
         <PostalCode>17120-000</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>110</StreetNumber>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — PARQUE PAMPULHA]]></Title>
+      <Title><![CDATA[Casa — Parque Pampulha]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F844441579322021.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F844441579322021.jpg</Item>
@@ -3807,7 +3908,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA FRANCISCA COLINO MATHEUS]]></Address>
         <Complement><![CDATA[FA]]></Complement>
         <City><![CDATA[PRESIDENTE PRUDENTE]]></City>
-        <Neighborhood><![CDATA[VILA NOVA PRUDENTE]]></Neighborhood>
+        <Neighborhood><![CDATA[Vila Nova Prudente]]></Neighborhood>
         <PostalCode>19053-020</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>165</StreetNumber>
@@ -3815,7 +3916,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-51.3859636</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Terreno — VILA NOVA PRUDENTE]]></Title>
+      <Title><![CDATA[Terreno — Vila Nova Prudente]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F844442610500221.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F844442610500221.jpg</Item>
@@ -3856,7 +3957,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[AVENIDA MIGUEL BUCALEM]]></Address>
         <Complement><![CDATA[Apto 101, BL 18]]></Complement>
         <City><![CDATA[ARARAQUARA]]></City>
-        <Neighborhood><![CDATA[PARQUE RESIDENCIAL IGUATEMI]]></Neighborhood>
+        <Neighborhood><![CDATA[Parque Residencial Iguatemi]]></Neighborhood>
         <PostalCode>14808-264</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>468</StreetNumber>
@@ -3864,7 +3965,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-48.1389045</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — PARQUE RESIDENCIAL IGUATEMI]]></Title>
+      <Title><![CDATA[Apartamento — Parque Residencial Iguatemi]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F855553931148321.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F855553931148321.jpg</Item>
@@ -3904,13 +4005,13 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA MARIA AUXILIA ABRANCHES FARIA]]></Address>
         <Complement><![CDATA[Apto 33, PAV 04 BL F TORRE 3]]></Complement>
         <City><![CDATA[RIBEIRAO PRETO]]></City>
-        <Neighborhood><![CDATA[VILA ABRANCHES]]></Neighborhood>
+        <Neighborhood><![CDATA[Vila Abranches]]></Neighborhood>
         <PostalCode>14093-150</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>565</StreetNumber>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — VILA ABRANCHES]]></Title>
+      <Title><![CDATA[Apartamento — Vila Abranches]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878770802957821.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878770802957821.jpg</Item>
@@ -3951,13 +4052,13 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[VIA JERONIMO ALFREDO AMOR ESPIN]]></Address>
         <Complement><![CDATA[Apto 31, BL F, TORRE 1]]></Complement>
         <City><![CDATA[RIBEIRAO PRETO]]></City>
-        <Neighborhood><![CDATA[JARDIM DAS PALMEIRAS]]></Neighborhood>
+        <Neighborhood><![CDATA[Jardim das Palmeiras]]></Neighborhood>
         <PostalCode>14100-000</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>400</StreetNumber>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — JARDIM DAS PALMEIRAS]]></Title>
+      <Title><![CDATA[Apartamento — Jardim das Palmeiras]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878770931269921.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878770931269921.jpg</Item>
@@ -3997,7 +4098,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA JOSE TORELLI]]></Address>
         <Complement><![CDATA[QD S  LT1P1E2P1]]></Complement>
         <City><![CDATA[BARRETOS]]></City>
-        <Neighborhood><![CDATA[DOM JOAO BOSCO]]></Neighborhood>
+        <Neighborhood><![CDATA[Dom JoÒo Bosco]]></Neighborhood>
         <PostalCode>14781-050</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber/>
@@ -4005,7 +4106,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-48.5658271</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Terreno — DOM JOAO BOSCO]]></Title>
+      <Title><![CDATA[Terreno — Dom JoÒo Bosco]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F844442711168521.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F844442711168521.jpg</Item>
@@ -4095,7 +4196,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA PROFESSOR AYLTON RICOY DE OLIVEIRA]]></Address>
         <Complement><![CDATA[Apto 302, BL 23]]></Complement>
         <City><![CDATA[RIBEIRAO PRETO]]></City>
-        <Neighborhood><![CDATA[JARDIM OURO BRANCO]]></Neighborhood>
+        <Neighborhood><![CDATA[Jardim Ouro Branco]]></Neighborhood>
         <PostalCode>14079-792</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>925</StreetNumber>
@@ -4103,7 +4204,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-47.7516715</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — JARDIM OURO BRANCO]]></Title>
+      <Title><![CDATA[Apartamento — Jardim Ouro Branco]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878771714852521.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878771714852521.jpg</Item>
@@ -4143,7 +4244,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[R PROJETADA 03]]></Address>
         <Complement><![CDATA[QD 02 LT 01]]></Complement>
         <City><![CDATA[SAO JOSE DO RIO PRETO]]></City>
-        <Neighborhood><![CDATA[RESIDENCIAL MARIA CLARA 2]]></Neighborhood>
+        <Neighborhood><![CDATA[Residencial Maria Clara 2]]></Neighborhood>
         <PostalCode>15047-675</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>878</StreetNumber>
@@ -4151,7 +4252,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-49.4496939</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — RESIDENCIAL MARIA CLARA 2]]></Title>
+      <Title><![CDATA[Casa — Residencial Maria Clara 2]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878771314546721.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878771314546721.jpg</Item>
@@ -4192,7 +4293,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA JOSE DE ALCANTARA]]></Address>
         <Complement><![CDATA[Apto 01, TORRE 02 BL B]]></Complement>
         <City><![CDATA[RIBEIRAO PRETO]]></City>
-        <Neighborhood><![CDATA[JARDIM HEITOR RIGON]]></Neighborhood>
+        <Neighborhood><![CDATA[Jardim Heitor Rigon]]></Neighborhood>
         <PostalCode>14062-100</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>1075</StreetNumber>
@@ -4200,7 +4301,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-47.8141598</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — JARDIM HEITOR RIGON]]></Title>
+      <Title><![CDATA[Apartamento — Jardim Heitor Rigon]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F855553913031421.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F855553913031421.jpg</Item>
@@ -4337,7 +4438,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA JUREMA]]></Address>
         <Complement><![CDATA[Apto 03,  2º PAV VG 03]]></Complement>
         <City><![CDATA[SANTO ANDRE]]></City>
-        <Neighborhood><![CDATA[PARQUE INDUSTRIARIO]]></Neighborhood>
+        <Neighborhood><![CDATA[Parque Industrißrio]]></Neighborhood>
         <PostalCode>09110-590</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>117</StreetNumber>
@@ -4345,7 +4446,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-46.5030012</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — PARQUE INDUSTRIARIO]]></Title>
+      <Title><![CDATA[Apartamento — Parque Industrißrio]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F144440579517621.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F144440579517621.jpg</Item>
@@ -4385,7 +4486,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA ESTADO DO RIO GRANDE DO NORTE]]></Address>
         <Complement><![CDATA[Apto 21,]]></Complement>
         <City><![CDATA[SALTO]]></City>
-        <Neighborhood><![CDATA[RECANTO DO GUARAU]]></Neighborhood>
+        <Neighborhood><![CDATA[Recanto do Guarau]]></Neighborhood>
         <PostalCode/>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>22</StreetNumber>
@@ -4393,7 +4494,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-47.3108276</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — RECANTO DO GUARAU]]></Title>
+      <Title><![CDATA[Apartamento — Recanto do Guarau]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F144440886081521.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F144440886081521.jpg</Item>
@@ -4527,7 +4628,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA ANTONIO NORONHA RIBEIRO]]></Address>
         <Complement><![CDATA[LT 01, QD 12]]></Complement>
         <City><![CDATA[REGINOPOLIS]]></City>
-        <Neighborhood><![CDATA[JARDIM MARIA LUIZA I]]></Neighborhood>
+        <Neighborhood><![CDATA[Jardim Maria Luiza I]]></Neighborhood>
         <PostalCode>17192-414</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>110</StreetNumber>
@@ -4535,7 +4636,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-49.2214155</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — JARDIM MARIA LUIZA I]]></Title>
+      <Title><![CDATA[Casa — Jardim Maria Luiza I]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F844441707752221.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F844441707752221.jpg</Item>
@@ -4576,7 +4677,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA DONA ANITA COSTA]]></Address>
         <Complement><![CDATA[Apto 01, TERREO]]></Complement>
         <City><![CDATA[SAO VICENTE]]></City>
-        <Neighborhood><![CDATA[VILA VOTURUA]]></Neighborhood>
+        <Neighborhood><![CDATA[Vila Voturua]]></Neighborhood>
         <PostalCode>11380-300</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>780</StreetNumber>
@@ -4584,7 +4685,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-46.3732152</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — VILA VOTURUA]]></Title>
+      <Title><![CDATA[Apartamento — Vila Voturua]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F844441566808621.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F844441566808621.jpg</Item>
@@ -4624,7 +4725,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[AVENIDA EDUARDO ANDREA MATARAZZO]]></Address>
         <Complement><![CDATA[Apto 33, TORRE 05 BL F 03 PAVIMENTO]]></Complement>
         <City><![CDATA[RIBEIRAO PRETO]]></City>
-        <Neighborhood><![CDATA[IPIRANGA]]></Neighborhood>
+        <Neighborhood><![CDATA[Ipiranga]]></Neighborhood>
         <PostalCode>14060-810</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>4635</StreetNumber>
@@ -4632,10 +4733,58 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-47.8077132</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — IPIRANGA]]></Title>
+      <Title><![CDATA[Apartamento — Ipiranga]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F855553811102221.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F855553811102221.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-8555537378327</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Description><![CDATA[Apartamento, 88.21 de área total, 42.80 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.
+
+{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
+
+ {{descricao_caixa}} 
+
+Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
+        <Garage>1</Garage>
+        <LivingArea>42.8</LivingArea>
+        <LotArea>88.21</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">88277</ListPrice>
+      </Details>
+      <Location displayAddress="All">
+        <Address><![CDATA[AVENIDA EDUARDO ANDREA MATARAZZO]]></Address>
+        <Complement><![CDATA[Apto 02, TORRE 2 - BL A]]></Complement>
+        <City><![CDATA[RIBEIRAO PRETO]]></City>
+        <Neighborhood><![CDATA[Ipiranga]]></Neighborhood>
+        <PostalCode>14060-810</PostalCode>
+        <State abbreviation="SP">São Paulo</State>
+        <StreetNumber>4875</StreetNumber>
+        <Latitude>-21.1490323</Latitude>
+        <Longitude>-47.8077132</Longitude>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Apartamento — Ipiranga]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F855553737832721.jpg</Item>
+        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F855553737832721.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
@@ -4672,7 +4821,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA IGUAÇU]]></Address>
         <Complement><![CDATA[LT 03 QD 130]]></Complement>
         <City><![CDATA[OURO VERDE]]></City>
-        <Neighborhood><![CDATA[NOVA ESPERANCA]]></Neighborhood>
+        <Neighborhood><![CDATA[Nova Esperanþa]]></Neighborhood>
         <PostalCode>17920-000</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>571</StreetNumber>
@@ -4680,7 +4829,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-51.7007976</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — NOVA ESPERANCA]]></Title>
+      <Title><![CDATA[Casa — Nova Esperanþa]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F844442013731021.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F844442013731021.jpg</Item>
@@ -4720,7 +4869,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA DOUTORA APARECIDA FERNANDES DE JESUS DOMINGUES]]></Address>
         <Complement><![CDATA[Apto 04, BL 23]]></Complement>
         <City><![CDATA[COTIA]]></City>
-        <Neighborhood><![CDATA[JARDIM PETROPOLIS]]></Neighborhood>
+        <Neighborhood><![CDATA[Jardim Petr¾polis]]></Neighborhood>
         <PostalCode>06700-453</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>583</StreetNumber>
@@ -4728,7 +4877,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-46.9267039</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — JARDIM PETROPOLIS]]></Title>
+      <Title><![CDATA[Apartamento — Jardim Petr¾polis]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F855553845650021.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F855553845650021.jpg</Item>
@@ -4768,7 +4917,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA FRANCISCO RIBEIRO DOS SANTOS]]></Address>
         <Complement><![CDATA[PARTE DO LT 07  QD 87]]></Complement>
         <City><![CDATA[BAURU]]></City>
-        <Neighborhood><![CDATA[PARQUE INDUSTRIAL MANCHESTER]]></Neighborhood>
+        <Neighborhood><![CDATA[Parque Industrial Manchester]]></Neighborhood>
         <PostalCode>17035-271</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber/>
@@ -4776,58 +4925,10 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Longitude>-48.9925573</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — PARQUE INDUSTRIAL MANCHESTER]]></Title>
+      <Title><![CDATA[Casa — Parque Industrial Manchester]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F844442733574521.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F844442733574521.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-8787715227851</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Apartamento, 93.17 de área total, 44.00 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.
-
-{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
-
- {{descricao_caixa}} 
-
-Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>44</LivingArea>
-        <LotArea>93.17</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita FGTS</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">99312</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address><![CDATA[RUA ADEMIR SPAGNOL MILUZZI]]></Address>
-        <Complement><![CDATA[Apto 31, BL B TORRE 1]]></Complement>
-        <City><![CDATA[RIBEIRAO PRETO]]></City>
-        <Neighborhood><![CDATA[JARDIM DIVA TARLA DE CARVALHO]]></Neighborhood>
-        <PostalCode>14079-402</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>700</StreetNumber>
-        <Latitude>-21.1704008</Latitude>
-        <Longitude>-47.8103238</Longitude>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — JARDIM DIVA TARLA DE CARVALHO]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878771522785121.jpg</Item>
-        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878771522785121.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
@@ -4864,112 +4965,16 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA MARIA AUXILIA ABRANCHES FARIA]]></Address>
         <Complement><![CDATA[Apto 23, BL E TORRE 3]]></Complement>
         <City><![CDATA[RIBEIRAO PRETO]]></City>
-        <Neighborhood><![CDATA[VILA ABRANCHES]]></Neighborhood>
+        <Neighborhood><![CDATA[Vila Abranches]]></Neighborhood>
         <PostalCode>14093-150</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>565</StreetNumber>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — VILA ABRANCHES]]></Title>
+      <Title><![CDATA[Apartamento — Vila Abranches]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878770807858721.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878770807858721.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-8444424304091</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>0</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Terreno, 0.00 de área total, 0.00 de área privativa, 126.00 de área do terreno.
-
-{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
-
- {{descricao_caixa}} 
-
-Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
-        <Garage>0</Garage>
-        <LivingArea>126</LivingArea>
-        <LotArea>126</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Land</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita Financiamento</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">80648</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address><![CDATA[RUA DAS VIOLETAS]]></Address>
-        <Complement><![CDATA[LT 02-A]]></Complement>
-        <City><![CDATA[CAPIVARI]]></City>
-        <Neighborhood><![CDATA[JARDIM SANTA RITA DE CASSIA]]></Neighborhood>
-        <PostalCode>13368-508</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber/>
-        <Latitude>-22.990349</Latitude>
-        <Longitude>-47.3973249</Longitude>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Terreno — JARDIM SANTA RITA DE CASSIA]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F844442430409121.jpg</Item>
-        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F844442430409121.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-8787713530743</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Apartamento, 89.19 de área total, 43.06 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.
-
-{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
-
- {{descricao_caixa}} 
-
-Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>43.06</LivingArea>
-        <LotArea>89.19</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita FGTS</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">83428</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address><![CDATA[AVENIDA GOVERNADOR MARIO COVAS]]></Address>
-        <Complement><![CDATA[Apto 23, BL D TORRE 5]]></Complement>
-        <City><![CDATA[RIBEIRAO PRETO]]></City>
-        <Neighborhood><![CDATA[VALENTINA FIGUEIREDO]]></Neighborhood>
-        <PostalCode>14061-800</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>7555</StreetNumber>
-        <Latitude>-21.1138961</Latitude>
-        <Longitude>-47.807157</Longitude>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — VALENTINA FIGUEIREDO]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878771353074321.jpg</Item>
-        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878771353074321.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing></Listings>
