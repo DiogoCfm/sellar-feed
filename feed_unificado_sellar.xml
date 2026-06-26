@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-06-26T08:44:40</Date>
+  <Date>2026-06-26T13:54:01</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE205</ListingID>
@@ -452,54 +452,6 @@ Agende já sua visita!]]></Description>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-1444400445959</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>0</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Terreno, 0.00 de área total, 0.00 de área privativa, 1695.24 de área do terreno.
-
-{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
-
- {{descricao_caixa}} 
-
-Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
-        <Garage>0</Garage>
-        <LivingArea>1695.24</LivingArea>
-        <LotArea>1695.24</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Land</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita Financiamento</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">126394</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address><![CDATA[RUA 01A]]></Address>
-        <Complement><![CDATA[LT 01 QD E]]></Complement>
-        <City><![CDATA[MORUNGABA]]></City>
-        <Neighborhood><![CDATA[BAIRRO DOS SILVAS]]></Neighborhood>
-        <PostalCode>13260-000</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber/>
-        <Latitude>-22.88</Latitude>
-        <Longitude>-46.79167</Longitude>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Terreno — BAIRRO DOS SILVAS]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F144440044595921.jpg</Item>
-        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F144440044595921.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-10004144</ListingID>
       <ContactInfo>
         <Email>contato@sellarimoveis.com.br</Email>
@@ -640,6 +592,54 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-1444416315197</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>4</Bedrooms>
+        <Description><![CDATA[Casa, 0.00 de área total, 234.16 de área privativa, 300.00 de área do terreno,  4 qto(s), a.serv, WC, 3 sala(s), cozinha, Terraco.
+
+{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
+
+ {{descricao_caixa}} 
+
+Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
+        <Garage>0</Garage>
+        <LivingArea>234.16</LivingArea>
+        <LotArea>300</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Home</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">808281</ListPrice>
+      </Details>
+      <Location displayAddress="All">
+        <Address><![CDATA[TRAVESSA C]]></Address>
+        <Complement><![CDATA[LOTE 14, QUADRA 12]]></Complement>
+        <City><![CDATA[ITUPEVA]]></City>
+        <Neighborhood><![CDATA[SAO VENANCIO]]></Neighborhood>
+        <PostalCode>13296-355</PostalCode>
+        <State abbreviation="SP">São Paulo</State>
+        <StreetNumber>109</StreetNumber>
+        <Latitude>-23.1702201</Latitude>
+        <Longitude>-47.1097488</Longitude>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Casa — SAO VENANCIO]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F144441631519721.jpg</Item>
+        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F144441631519721.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-1600000162306</ListingID>
       <ContactInfo>
         <Email>contato@sellarimoveis.com.br</Email>
@@ -685,6 +685,54 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F160000016230621.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F160000016230621.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-8444408096528</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>0</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Description><![CDATA[Apartamento, 0.00 de área total, 40.56 de área privativa, 0.00 de área do terreno.
+
+{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
+
+ {{descricao_caixa}} 
+
+Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
+        <Garage>0</Garage>
+        <LivingArea>40.56</LivingArea>
+        <LotArea>40.56</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">86827</ListPrice>
+      </Details>
+      <Location displayAddress="All">
+        <Address><![CDATA[RUA GIOVANNI NASCO]]></Address>
+        <Complement><![CDATA[Apto 52, BL B]]></Complement>
+        <City><![CDATA[SAO PAULO]]></City>
+        <Neighborhood><![CDATA[CONJUNTO HABITACIONAL TEOTONIO VILELA]]></Neighborhood>
+        <PostalCode/>
+        <State abbreviation="SP">São Paulo</State>
+        <StreetNumber>155</StreetNumber>
+        <Latitude>-23.6059393</Latitude>
+        <Longitude>-46.4989651</Longitude>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Apartamento — CONJUNTO HABITACIONAL TEOTONIO VILELA]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F844440809652821.jpg</Item>
+        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F844440809652821.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
@@ -758,7 +806,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -875,54 +922,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001020758021.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F000001020758021.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-10208368</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>0</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Sala, 0.00 de área total, 231.93 de área privativa, 0.00 de área do terreno, 2 vaga(s) de garagem.
-
-{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
-
- {{descricao_caixa}} 
-
-Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
-        <Garage>2</Garage>
-        <LivingArea>231.93</LivingArea>
-        <LotArea>231.93</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Commercial / Office</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita Financiamento</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">488479</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address><![CDATA[RUA ANTONIO BENTO]]></Address>
-        <Complement><![CDATA[SL 1-B, 1º ANDAR]]></Complement>
-        <City><![CDATA[SAO CAETANO DO SUL]]></City>
-        <Neighborhood><![CDATA[SANTA PAULA]]></Neighborhood>
-        <PostalCode>09520-050</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>85</StreetNumber>
-        <Latitude>-23.6153094</Latitude>
-        <Longitude>-46.5662688</Longitude>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Sala — SANTA PAULA]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F000001020836821.jpg</Item>
-        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F000001020836821.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
@@ -1524,7 +1523,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita Financiamento</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">82963</ListPrice>
@@ -1570,7 +1569,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">84519</ListPrice>
@@ -1591,52 +1590,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F844442629131021.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F844442629131021.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-8787708630310</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Apartamento, 94.24 de área total, 42.14 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.
-
-{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
-
- {{descricao_caixa}} 
-
-Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>42.14</LivingArea>
-        <LotArea>94.24</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita FGTS</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">87111</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address><![CDATA[RUA MARIA AUXILIA ABRANCHES FARIA]]></Address>
-        <Complement><![CDATA[Apto 34, BL C TORRE 2]]></Complement>
-        <City><![CDATA[RIBEIRAO PRETO]]></City>
-        <Neighborhood><![CDATA[VILA ABRANCHES]]></Neighborhood>
-        <PostalCode>14093-150</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>565</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — VILA ABRANCHES]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878770863031021.jpg</Item>
-        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878770863031021.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
@@ -1760,7 +1713,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -2098,6 +2050,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -2477,7 +2430,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita Financiamento</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">85953</ListPrice>
@@ -2572,6 +2525,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -2716,6 +2670,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -2764,6 +2719,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -2836,6 +2792,55 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-8555534451341</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Description><![CDATA[Casa, 0.00 de área total, 45.47 de área privativa, 176.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 2 vaga(s) de garagem.
+
+{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
+
+ {{descricao_caixa}} 
+
+Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
+        <Garage>2</Garage>
+        <LivingArea>45.47</LivingArea>
+        <LotArea>176</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Home</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Aceita Financiamento</Feature>
+        <Feature>Aceita FGTS</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">135418</ListPrice>
+      </Details>
+      <Location displayAddress="All">
+        <Address><![CDATA[RUA JOSE ANTONIO BARROS SILVEIRA]]></Address>
+        <Complement><![CDATA[LT 26 QD E]]></Complement>
+        <City><![CDATA[TATUI]]></City>
+        <Neighborhood><![CDATA[RESIDENCIAL VIDA NOVA TATUI]]></Neighborhood>
+        <PostalCode>18274-881</PostalCode>
+        <State abbreviation="SP">São Paulo</State>
+        <StreetNumber>319</StreetNumber>
+        <Latitude>-23.3924475</Latitude>
+        <Longitude>-47.8415062</Longitude>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Casa — RESIDENCIAL VIDA NOVA TATUI]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F855553445134121.jpg</Item>
+        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F855553445134121.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-8444405322578</ListingID>
       <ContactInfo>
         <Email>contato@sellarimoveis.com.br</Email>
@@ -2883,50 +2888,51 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-1308600001270</ListingID>
+      <ListingID>Caixa.Sellar-CAIXA-1444419710461</ListingID>
       <ContactInfo>
         <Email>contato@sellarimoveis.com.br</Email>
         <Name><![CDATA[Painel Caixa]]></Name>
       </ContactInfo>
       <Destaque>Nao</Destaque>
       <Details>
-        <Bathrooms>0</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Casa, 258.00 de área total, 258.00 de área privativa, 209.12 de área do terreno.
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Description><![CDATA[Apartamento, 118.39 de área total, 98.12 de área privativa, 0.00 de área do terreno,  3 qto(s), varanda, a.serv, WC, 3 sala(s), cozinha, 1 vaga(s) de garagem.
 
 {{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
 
  {{descricao_caixa}} 
 
 Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
-        <Garage>0</Garage>
-        <LivingArea>258</LivingArea>
-        <LotArea>258</LotArea>
+        <Garage>1</Garage>
+        <LivingArea>98.12</LivingArea>
+        <LotArea>118.39</LotArea>
         <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Home</PropertyType>
+        <PropertyType>Residential / Apartment</PropertyType>
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
         </Features>
         <Warranties/>
-        <ListPrice currency="BRL">920919</ListPrice>
+        <ListPrice currency="BRL">410080</ListPrice>
       </Details>
       <Location displayAddress="All">
-        <Address><![CDATA[RUA GUAIMBE]]></Address>
-        <City><![CDATA[SAO PAULO]]></City>
-        <Neighborhood><![CDATA[MOOCA]]></Neighborhood>
-        <PostalCode>03118-020</PostalCode>
+        <Address><![CDATA[RUA GENERAL MARCONDES SALGADO]]></Address>
+        <Complement><![CDATA[Apto 112,]]></Complement>
+        <City><![CDATA[CAMPINAS]]></City>
+        <Neighborhood><![CDATA[CENTRO]]></Neighborhood>
+        <PostalCode>13026-075</PostalCode>
         <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>696</StreetNumber>
-        <Latitude>-22.1889287</Latitude>
-        <Longitude>-49.956949</Longitude>
+        <StreetNumber>769</StreetNumber>
+        <Latitude>-22.9068086</Latitude>
+        <Longitude>-47.0487625</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — MOOCA]]></Title>
+      <Title><![CDATA[Apartamento — CENTRO]]></Title>
       <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F130860000127021.jpg</Item>
-        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F130860000127021.jpg</Item>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F144441971046121.jpg</Item>
+        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F144441971046121.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
@@ -3144,7 +3150,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">119674</ListPrice>
@@ -3240,6 +3246,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -3288,6 +3295,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -3382,6 +3390,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -3430,6 +3439,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -3476,6 +3486,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -3572,6 +3583,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -3593,6 +3605,54 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F855553931148321.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F855553931148321.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-8787712088990</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Description><![CDATA[Apartamento, 90.28 de área total, 39.30 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.
+
+{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
+
+ {{descricao_caixa}} 
+
+Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
+        <Garage>1</Garage>
+        <LivingArea>39.3</LivingArea>
+        <LotArea>90.28</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Aceita FGTS</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">92637</ListPrice>
+      </Details>
+      <Location displayAddress="All">
+        <Address><![CDATA[RUA GERALDO FERNANDES]]></Address>
+        <Complement><![CDATA[Apto 401, BL 13 VG 349]]></Complement>
+        <City><![CDATA[SAO JOSE DO RIO PRETO]]></City>
+        <Neighborhood><![CDATA[JARDIM ITAPEMA]]></Neighborhood>
+        <PostalCode>15045-338</PostalCode>
+        <State abbreviation="SP">São Paulo</State>
+        <StreetNumber>651</StreetNumber>
+        <Latitude>-20.7798213</Latitude>
+        <Longitude>-49.3907441</Longitude>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Apartamento — JARDIM ITAPEMA]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878771208899021.jpg</Item>
+        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878771208899021.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
@@ -3620,6 +3680,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -3668,6 +3729,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -3764,7 +3826,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita Financiamento</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">95926</ListPrice>
@@ -3812,6 +3874,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -3858,6 +3921,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -3953,6 +4017,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -4144,6 +4209,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -4306,6 +4372,54 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878770153865521.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878770153865521.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-8555502979871</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Description><![CDATA[Apartamento, 0.00 de área total, 50.20 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.
+
+{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
+
+ {{descricao_caixa}} 
+
+Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
+        <Garage>1</Garage>
+        <LivingArea>50.2</LivingArea>
+        <LotArea>50.2</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">110197</ListPrice>
+      </Details>
+      <Location displayAddress="All">
+        <Address><![CDATA[RUA ARNO TOGNETTA]]></Address>
+        <Complement><![CDATA[Apto 204, BL 01 GARAGEM 12]]></Complement>
+        <City><![CDATA[AMERICANA]]></City>
+        <Neighborhood><![CDATA[JARDIM PROGRESSO]]></Neighborhood>
+        <PostalCode>13477-160</PostalCode>
+        <State abbreviation="SP">São Paulo</State>
+        <StreetNumber>401</StreetNumber>
+        <Latitude>-22.7326991</Latitude>
+        <Longitude>-47.3040463</Longitude>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Apartamento — JARDIM PROGRESSO]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F855550297987121.jpg</Item>
+        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F855550297987121.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
@@ -4575,6 +4689,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -4623,7 +4738,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita Financiamento</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">80648</ListPrice>
@@ -4671,6 +4786,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -4719,6 +4835,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -4767,6 +4884,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -4815,6 +4933,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -4863,6 +4982,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -4911,6 +5031,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -4932,102 +5053,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878771323122321.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878771323122321.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-8787714285459</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Apartamento, 89.20 de área total, 43.06 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.
-
-{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
-
- {{descricao_caixa}} 
-
-Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>43.06</LivingArea>
-        <LotArea>89.2</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita FGTS</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">83428</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address><![CDATA[AVENIDA GOVERNADOR MARIO COVAS]]></Address>
-        <Complement><![CDATA[Apto 33, BL B TORRE 2]]></Complement>
-        <City><![CDATA[RIBEIRAO PRETO]]></City>
-        <Neighborhood><![CDATA[VALENTINA FIGUEIREDO]]></Neighborhood>
-        <PostalCode>14061-800</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>7555</StreetNumber>
-        <Latitude>-21.1138961</Latitude>
-        <Longitude>-47.807157</Longitude>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — VALENTINA FIGUEIREDO]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878771428545921.jpg</Item>
-        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878771428545921.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-8787709718156</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Apartamento, 85.47 de área total, 39.21 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.
-
-{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
-
- {{descricao_caixa}} 
-
-Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>39.21</LivingArea>
-        <LotArea>85.47</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita FGTS</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">83428</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address><![CDATA[RUA ADEMIR SPAGNOL MILUZZI]]></Address>
-        <Complement><![CDATA[Apto 34, BLOCO D TORRE 2]]></Complement>
-        <City><![CDATA[RIBEIRAO PRETO]]></City>
-        <Neighborhood><![CDATA[JARDIM DIVA TARLA DE CARVALHO]]></Neighborhood>
-        <PostalCode>14079-402</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>700</StreetNumber>
-        <Latitude>-21.1704008</Latitude>
-        <Longitude>-47.8103238</Longitude>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — JARDIM DIVA TARLA DE CARVALHO]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878770971815621.jpg</Item>
-        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878770971815621.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
@@ -29867,91 +29892,6 @@ Uma excelente oportunidade para quem busca um apartamento com boa planta, em con
                 <Garage>1</Garage>
                 <UnitFloor>4</UnitFloor>
                 <Suites>1</Suites>
-                <UsageType>Residential</UsageType>
-            </Details>
-        </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-            <ListingID>NONSTOP-sellarimoveis#KWAGK</ListingID>
-            <Title><![CDATA[Apartamento para venda em Vila Pompéia com 2 quartos, 84m²]]></Title>
-            <TransactionType>For Sale</TransactionType>
-            <Location displayAddress="All">
-                <Country abbreviation="BR">Brasil</Country>
-                <State abbreviation="SP"><![CDATA[São Paulo]]></State>
-                <City><![CDATA[São Paulo]]></City>
-                <Neighborhood><![CDATA[Vila Pompéia]]></Neighborhood>
-                <Address><![CDATA[Rua Guiara]]></Address>
-                <StreetNumber><![CDATA[81]]></StreetNumber>
-                <Complement><![CDATA[5]]></Complement>
-                <PostalCode>05025-020</PostalCode>
-                <Longitude>-46.6891511</Longitude>
-                <Latitude>-23.5346925</Latitude>
-            </Location>
-            <Media>
-                <Item medium="image" caption="bb8954e5-194a-4b0e-9672-2a602c58ba63" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/6a285f88b81057d74222be4c/images/bb8954e5-194a-4b0e-9672-2a602c58ba63.jpeg]]></Item>
-                <Item medium="image" caption="59ba09f8-7b15-4230-91df-8e3c90833e44" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285f88b81057d74222be4c/images/59ba09f8-7b15-4230-91df-8e3c90833e44.jpeg]]></Item>
-                <Item medium="image" caption="f844dc90-fff5-4ce2-a865-9ae71bdc9889" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285f88b81057d74222be4c/images/f844dc90-fff5-4ce2-a865-9ae71bdc9889.jpeg]]></Item>
-                <Item medium="image" caption="aff9cc0b-6f5d-4a8f-907d-241b6e2220ce" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285f88b81057d74222be4c/images/aff9cc0b-6f5d-4a8f-907d-241b6e2220ce.jpeg]]></Item>
-                <Item medium="image" caption="a57286bd-14e3-4d15-8420-74c939a61f58" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285f88b81057d74222be4c/images/a57286bd-14e3-4d15-8420-74c939a61f58.jpeg]]></Item>
-                <Item medium="image" caption="86a43638-0a92-42ef-8d6e-cc109fd5b465" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285f88b81057d74222be4c/images/86a43638-0a92-42ef-8d6e-cc109fd5b465.jpeg]]></Item>
-                <Item medium="image" caption="767f8e87-6352-4dbc-a854-63c2d11d4d1c" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285f88b81057d74222be4c/images/767f8e87-6352-4dbc-a854-63c2d11d4d1c.jpeg]]></Item>
-                <Item medium="image" caption="ce4b5cd4-adc2-4e90-b680-e125ae8d6d3d" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285f88b81057d74222be4c/images/ce4b5cd4-adc2-4e90-b680-e125ae8d6d3d.jpeg]]></Item>
-                <Item medium="image" caption="630ff5a1-1683-4727-b696-1540d7672cab" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285f88b81057d74222be4c/images/630ff5a1-1683-4727-b696-1540d7672cab.jpeg]]></Item>
-                <Item medium="image" caption="47e90835-dd60-4555-8238-7bed8fe752ae" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285f88b81057d74222be4c/images/47e90835-dd60-4555-8238-7bed8fe752ae.jpeg]]></Item>
-                <Item medium="image" caption="871c9613-88de-470b-bf53-97dadaca1976" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285f88b81057d74222be4c/images/871c9613-88de-470b-bf53-97dadaca1976.jpeg]]></Item>
-                <Item medium="image" caption="b6bb33a3-e94a-467e-89f8-b0af6e481039" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285f88b81057d74222be4c/images/b6bb33a3-e94a-467e-89f8-b0af6e481039.jpeg]]></Item>
-                <Item medium="image" caption="4aecdef0-ad5f-4090-9ae7-0e064bce6ee9" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285f88b81057d74222be4c/images/4aecdef0-ad5f-4090-9ae7-0e064bce6ee9.jpeg]]></Item>
-                <Item medium="image" caption="2ee040af-e265-48ee-b0c4-26a6bc3346fe" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285f88b81057d74222be4c/images/2ee040af-e265-48ee-b0c4-26a6bc3346fe.jpeg]]></Item>
-                <Item medium="image" caption="35fdfb0c-3678-4930-92b0-20c6cfbaa3bf" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285f88b81057d74222be4c/images/35fdfb0c-3678-4930-92b0-20c6cfbaa3bf.jpeg]]></Item>
-                <Item medium="image" caption="24d08567-f9bb-4582-8500-7f403105d369" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285f88b81057d74222be4c/images/24d08567-f9bb-4582-8500-7f403105d369.jpeg]]></Item>
-                <Item medium="image" caption="ad66a3a1-4d9c-4772-8e95-598c59154a28" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285f88b81057d74222be4c/images/ad66a3a1-4d9c-4772-8e95-598c59154a28.jpeg]]></Item>
-                <Item medium="image" caption="91b727bd-2183-407d-bb1e-70b828af3dd1" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285f88b81057d74222be4c/images/91b727bd-2183-407d-bb1e-70b828af3dd1.jpeg]]></Item>
-                <Item medium="image" caption="754d010a-1703-4c07-91e5-9869ef41c023" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285f88b81057d74222be4c/images/754d010a-1703-4c07-91e5-9869ef41c023.jpeg]]></Item>
-                <Item medium="image" caption="9b77af59-b9ab-49b7-81dd-f150103d141b" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285f88b81057d74222be4c/images/9b77af59-b9ab-49b7-81dd-f150103d141b.jpeg]]></Item>
-                <Item medium="image" caption="b4d6465f-9766-4fdf-98a3-7d6e6a76d218" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285f88b81057d74222be4c/images/b4d6465f-9766-4fdf-98a3-7d6e6a76d218.jpeg]]></Item>
-                <Item medium="image" caption="75afaf0f-4e9a-4dd1-9262-9b93af1d0546" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285f88b81057d74222be4c/images/75afaf0f-4e9a-4dd1-9262-9b93af1d0546.jpeg]]></Item>
-                <Item medium="image" caption="33df19b5-410e-4af1-b37e-e5f3d4e977f1" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285f88b81057d74222be4c/images/33df19b5-410e-4af1-b37e-e5f3d4e977f1.jpeg]]></Item>
-                <Item medium="image" caption="8a320966-93b7-4f5e-81ed-30c3a254b1ae" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285f88b81057d74222be4c/images/8a320966-93b7-4f5e-81ed-30c3a254b1ae.jpeg]]></Item>
-                <Item medium="image" caption="30b43e5c-014d-482d-8ebb-a4993700a1b8" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285f88b81057d74222be4c/images/30b43e5c-014d-482d-8ebb-a4993700a1b8.jpeg]]></Item>
-                <Item medium="image" caption="44acbb70-e3a9-4955-9518-1b2be3a7f97a" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285f88b81057d74222be4c/images/44acbb70-e3a9-4955-9518-1b2be3a7f97a.jpeg]]></Item>
-                <Item medium="image" caption="87c6778f-e452-4748-8a59-047d54935844" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285f88b81057d74222be4c/images/87c6778f-e452-4748-8a59-047d54935844.jpeg]]></Item>
-                <Item medium="image" caption="df0cdbc6-1317-41b4-961f-e4fe18dc2536" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285f88b81057d74222be4c/images/df0cdbc6-1317-41b4-961f-e4fe18dc2536.jpeg]]></Item>
-                <Item medium="image" caption="98f169d5-9a8e-4a03-a968-34277bb0be07" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285f88b81057d74222be4c/images/98f169d5-9a8e-4a03-a968-34277bb0be07.jpeg]]></Item>
-                <Item medium="image" caption="01ec323f-b31d-4e8a-bf6e-44ae98b05233" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285f88b81057d74222be4c/images/01ec323f-b31d-4e8a-bf6e-44ae98b05233.jpeg]]></Item>
-                <Item medium="image" caption="3beb3949-fd34-42e8-86af-9bb06aae7a0f" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285f88b81057d74222be4c/images/3beb3949-fd34-42e8-86af-9bb06aae7a0f.jpeg]]></Item>
-                <Item medium="image" caption="ed69b290-2c82-4cb4-91b6-b5dcdb42bf9b" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285f88b81057d74222be4c/images/ed69b290-2c82-4cb4-91b6-b5dcdb42bf9b.jpeg]]></Item>
-                <Item medium="image" caption="105ef04e-bea0-4398-b032-2e6a43688c20" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285f88b81057d74222be4c/images/105ef04e-bea0-4398-b032-2e6a43688c20.jpeg]]></Item>
-            </Media>
-            <PublicationType>STANDARD</PublicationType>
-            <Details>
-                <YearBuilt>1972</YearBuilt>
-                <ListPrice currency="BRL">750000</ListPrice>
-                <PropertyAdministrationFee currency="BRL">682</PropertyAdministrationFee>
-                <YearlyTax currency="BRL">1839</YearlyTax>
-                <Description><![CDATA[Lindo apartamento, todo reformado!!! Em EXCELENTE LOCALIZAÇÃO!!!
-
-O apartamento possuía 84m² de área privativa, sendo distribuído da seguinte forma:
-
- - 2 dormitórios amplos e com janelas antiruido. Possuí ar condicionado em um dos quartos. 
- - 2 banheiros, social e área de serviço
- - Sala ampla, com piso de madeira
- - Cozinha integrada com sala e acabamento e mercenária impecáveis 
- -Área de serviço com excelente ventilação
- 
-O apartamento foi reformado há 4 anos, incluindo parte hidráulica e elétrica. Possuí designer industrial, sem banheiro, cozinha e área de serviço. Possuí excelente ventilação natural e iluminação. 
-
-A localização do imóvel é bem estratégica, perfeita para quem busca facilidades de locomoção e de infraestrutura de comércio para as tarefas do dia a dia 
-Está à poucos metros da futura estação de metrô da linha laranja Pompéia, prevista para ser entregue em setembro de 2026. Possuí ao seu redor toda a infraestrutura de comércios na região, com fácil acesso a restaurantes, farmácias, mercados, shopping (Bourbon e West Plaza), academias, pet shop e está bem próximo ao Allianz Parque.
-
-Agende sua visita e venha morar em um apartamento localizado em uma das regiões mais cobiçadas de São Paulo.]]></Description>
-                <PropertyType>Residential / Apartment</PropertyType>
-                <LivingArea unit="square metres">84</LivingArea>
-                <Features>
-                    <Feature>Copa</Feature>
-                    <Feature>Pets Allowed</Feature>
-                </Features>
-                <Bathrooms>2</Bathrooms>
-                <Bedrooms>2</Bedrooms>
-                <Garage>1</Garage>
-                <UnitFloor>1</UnitFloor>
                 <UsageType>Residential</UsageType>
             </Details>
         </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
