@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-06-27T01:53:26</Date>
+  <Date>2026-06-27T08:21:51</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE205</ListingID>
@@ -806,6 +806,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -1523,7 +1524,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">82963</ListPrice>
@@ -1569,7 +1570,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita Financiamento</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">84519</ListPrice>
@@ -1713,6 +1714,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -2050,7 +2052,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -2430,7 +2431,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">85953</ListPrice>
@@ -2525,7 +2526,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -2670,7 +2670,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -2719,7 +2718,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -3150,7 +3148,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita Financiamento</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">119674</ListPrice>
@@ -3246,7 +3244,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -3295,7 +3292,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -3390,7 +3386,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -3439,7 +3434,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -3486,7 +3480,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -3583,7 +3576,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -3680,7 +3672,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -3729,7 +3720,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -3826,7 +3816,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">95926</ListPrice>
@@ -3874,7 +3864,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -3921,7 +3910,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -4017,7 +4005,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -4209,7 +4196,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -4689,7 +4675,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -4738,7 +4723,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">80648</ListPrice>
@@ -4786,7 +4771,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -4835,7 +4819,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -4884,7 +4867,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -4933,7 +4915,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -4982,7 +4963,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -5031,7 +5011,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -5159,6 +5138,7 @@ Agende já sua visita e se encante!]]></Description>
                     <Feature>Barbecue Balcony</Feature>
                     <Feature>Closet</Feature>
                     <Feature>Copa</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
@@ -5268,6 +5248,7 @@ Agende uma visita e venha se apaixonar pelo seu novo lar na Lapa! Estamos pronto
                 <PropertyType>Residential / Apartment</PropertyType>
                 <LivingArea unit="square metres">96.75</LivingArea>
                 <Features>
+                    <Feature>Elevator</Feature>
                     <Feature>Pets Allowed</Feature>
                 </Features>
                 <Bathrooms>2</Bathrooms>
@@ -5667,6 +5648,7 @@ Localização:
                 <Features>
                     <Feature>Balcony</Feature>
                     <Feature>Barbecue Balcony</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Generator</Feature>
@@ -5827,6 +5809,7 @@ Marque sua visita !]]></Description>
                     <Feature>Balcony</Feature>
                     <Feature>Beauty Room</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
@@ -6107,6 +6090,7 @@ Não perca a chance de conhecer este imóvel único e agende sua visita hoje mes
                 <LivingArea unit="square metres">106</LivingArea>
                 <LotArea unit="square metres">106</LotArea>
                 <Features>
+                    <Feature>Elevator</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Party Room</Feature>
                     <Feature>Pets Allowed</Feature>
@@ -6553,6 +6537,7 @@ Quer saber mais? Agende uma visita e venha sentir de perto tudo o que este imóv
                     <Feature>Barbecue Balcony</Feature>
                     <Feature>Bicycles Place</Feature>
                     <Feature>Cooling</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
@@ -6755,6 +6740,7 @@ Não perca a chance de viver em um lugar que une conforto, qualidade de vida e u
                 <Features>
                     <Feature>BBQ</Feature>
                     <Feature>Balcony</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Generator</Feature>
                     <Feature>Gym</Feature>
@@ -6921,6 +6907,7 @@ Distancias dos principais pontos do bairro:
                 <Features>
                     <Feature>BBQ</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Pets Allowed</Feature>
                     <Feature>Playground</Feature>
@@ -7110,6 +7097,7 @@ O Living Privilège é perfeito para quem valoriza uma vida com qualidade, com d
                 <Features>
                     <Feature>BBQ</Feature>
                     <Feature>Barbecue Balcony</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Gourmet Area</Feature>
                     <Feature>Gym</Feature>
@@ -7353,6 +7341,7 @@ O imóvel é mobiliado e conta com móveis planejados, ar-condicionado, gás enc
                     <Feature>Barbecue Balcony</Feature>
                     <Feature>Bicycles Place</Feature>
                     <Feature>Copa</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Generator</Feature>
@@ -7458,6 +7447,7 @@ Aproveite essa excelente oportunidade de adquirir seu imóvel em uma área resid
                     <Feature>Balcony</Feature>
                     <Feature>Barbecue Balcony</Feature>
                     <Feature>Copa</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Gourmet Area</Feature>
                     <Feature>Gym</Feature>
@@ -7571,6 +7561,7 @@ Para quem entende que morar bem e valoriza originalidade e história!]]></Descri
                 <LivingArea unit="square metres">141</LivingArea>
                 <Features>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Generator</Feature>
                     <Feature>Pets Allowed</Feature>
@@ -7707,6 +7698,7 @@ Este pode ser o novo capítulo da sua história — mais conforto, mais praticid
                     <Feature>Barbecue Balcony</Feature>
                     <Feature>Bicycles Place</Feature>
                     <Feature>Cooling</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
@@ -7830,6 +7822,7 @@ Não deixe essa oportunidade única escapar! Agende agora mesmo uma visita para 
                     <Feature>Barbecue Balcony</Feature>
                     <Feature>Beauty Room</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
@@ -8236,6 +8229,7 @@ Agende sua visita e venha se encantar com o seu novo lar.]]></Description>
                     <Feature>Bicycles Place</Feature>
                     <Feature>Closet</Feature>
                     <Feature>Copa</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Gourmet Area</Feature>
@@ -8340,6 +8334,7 @@ Há fácil acesso às marginais e à Av. Paulista.
                     <Feature>BBQ</Feature>
                     <Feature>Balcony</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Generator</Feature>
                     <Feature>Gourmet Area</Feature>
@@ -8423,6 +8418,7 @@ Aproveite a oportunidade de viver em um lugar que reúne privacidade, segurança
                 <Features>
                     <Feature>BBQ</Feature>
                     <Feature>Barbecue Balcony</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Gourmet Area</Feature>
                     <Feature>Gym</Feature>
@@ -8540,6 +8536,7 @@ Há fácil acesso às marginais e à Av. Paulista.]]></Description>
                     <Feature>BBQ</Feature>
                     <Feature>Balcony</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Generator</Feature>
                     <Feature>Gourmet Area</Feature>
@@ -9038,6 +9035,7 @@ Agende uma visita e encante-se!]]></Description>
                 <LivingArea unit="square metres">75</LivingArea>
                 <Features>
                     <Feature>BBQ</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Gym</Feature>
                     <Feature>Party Room</Feature>
                     <Feature>Pets Allowed</Feature>
@@ -9145,6 +9143,7 @@ Um bairro em plena valorização, com fácil acesso às marginais, rodovias e à
                 <Features>
                     <Feature>BBQ</Feature>
                     <Feature>Barbecue Balcony</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Gourmet Area</Feature>
                     <Feature>Gym</Feature>
@@ -9251,6 +9250,7 @@ Agende agora sua visita e venha se encantar pessoalmente!]]></Description>
                     <Feature>Balcony</Feature>
                     <Feature>Bicycles Place</Feature>
                     <Feature>Closet</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Party Room</Feature>
                     <Feature>Pets Allowed</Feature>
                     <Feature>Playground</Feature>
@@ -9409,6 +9409,7 @@ Localizado em uma das regiões mais badaladas de São Paulo, o VM Connection fic
                 <LivingArea unit="square metres">67</LivingArea>
                 <Features>
                     <Feature>Balcony</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Gym</Feature>
                     <Feature>Pet Space</Feature>
                     <Feature>Pets Allowed</Feature>
@@ -9641,6 +9642,7 @@ Não perca a chance de viver em um espaço acolhedor, funcional e com excelente�
                     <Feature>Balcony</Feature>
                     <Feature>Closet</Feature>
                     <Feature>Copa</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Gym</Feature>
                     <Feature>Pets Allowed</Feature>
@@ -10723,6 +10725,7 @@ O Condomínio Solar das Rosas dispõe de infraestrutura completa para toda a fam
                 <PropertyType>Residential / Apartment</PropertyType>
                 <LivingArea unit="square metres">116</LivingArea>
                 <Features>
+                    <Feature>Elevator</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Party Room</Feature>
                     <Feature>Pets Allowed</Feature>
@@ -10800,6 +10803,7 @@ Agende já uma visita!]]></Description>
                     <Feature>Barbecue Balcony</Feature>
                     <Feature>Bicycles Place</Feature>
                     <Feature>Copa</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
@@ -10949,6 +10953,7 @@ O imóvel aceita financiamento, tornando-se uma opção acessível para aqueles 
                     <Feature>Balcony</Feature>
                     <Feature>Barbecue Balcony</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Party Room</Feature>
                     <Feature>Pets Allowed</Feature>
                     <Feature>Pool</Feature>
@@ -11042,6 +11047,7 @@ Uma oportunidade única de morar com conforto, segurança e lazer de clube sem s
                     <Feature>Bicycles Place</Feature>
                     <Feature>Closet</Feature>
                     <Feature>Cooling</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
@@ -11115,6 +11121,7 @@ Com 3 dormitórios, vista para o Pico do Jaraguá e a poucos passos do metrô, �
                 <LivingArea unit="square metres">96</LivingArea>
                 <Features>
                     <Feature>Balcony</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Party Room</Feature>
                     <Feature>Pets Allowed</Feature>
@@ -11209,6 +11216,7 @@ Perfeito para quem busca conveniência, conforto e tranquilidade em uma das regi
                     <Feature>BBQ</Feature>
                     <Feature>Balcony</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Gym</Feature>
@@ -11305,6 +11313,7 @@ Agende sua visita e venha conhecer seu novo lar!]]></Description>
                     <Feature>BBQ</Feature>
                     <Feature>Balcony</Feature>
                     <Feature>Closet</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Gym</Feature>
                     <Feature>Party Room</Feature>
@@ -11415,6 +11424,7 @@ Este apartamento é uma excelente oportunidade para quem deseja morar com elegâ
                     <Feature>Balcony</Feature>
                     <Feature>Closet</Feature>
                     <Feature>Copa</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Gym</Feature>
                     <Feature>Home Office</Feature>
@@ -11517,6 +11527,7 @@ Agende agora visita!]]></Description>
                 <Features>
                     <Feature>Balcony</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Generator</Feature>
                     <Feature>Gym</Feature>
@@ -11816,6 +11827,7 @@ O imóvel é ideal para famílias ou para quem busca espaço, conforto e qualida
                 <LivingArea unit="square metres">155</LivingArea>
                 <LotArea unit="square metres">155</LotArea>
                 <Features>
+                    <Feature>Elevator</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Pets Allowed</Feature>
                     <Feature>Security Guard on Duty</Feature>
@@ -11908,6 +11920,7 @@ Para quem busca lazer ao ar livre, a região oferece praças, espaços de conviv
                 <Features>
                     <Feature>BBQ</Feature>
                     <Feature>Barbecue Balcony</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Gym</Feature>
                     <Feature>Party Room</Feature>
@@ -12129,6 +12142,7 @@ A Vila Romana é um bairro residencial com alguns comércios charmosos, como bar
                 <PropertyType>Residential / Apartment</PropertyType>
                 <LivingArea unit="square metres">88</LivingArea>
                 <Features>
+                    <Feature>Elevator</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Gym</Feature>
                     <Feature>Party Room</Feature>
@@ -12217,6 +12231,7 @@ Não perca a oportunidade de viver em um retiro urbano novo, acessível e pronto
                     <Feature>Balcony</Feature>
                     <Feature>Bicycles Place</Feature>
                     <Feature>Cooling</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
@@ -12370,6 +12385,7 @@ O apartamento possui quatro vagas de garagem bem generosas, garagem espaçosa de
                     <Feature>Bicycles Place</Feature>
                     <Feature>Closet</Feature>
                     <Feature>Copa</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Generator</Feature>
@@ -12454,6 +12470,7 @@ Este é o imóvel ideal para quem deseja morar com praticidade, segurança e uma
                 <Features>
                     <Feature>BBQ</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Generator</Feature>
                     <Feature>Gym</Feature>
@@ -12567,6 +12584,7 @@ Se você busca um apartamento completo, bem localizado e em um condomínio com e
                 <Features>
                     <Feature>BBQ</Feature>
                     <Feature>Balcony</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Gym</Feature>
                     <Feature>Party Room</Feature>
@@ -12646,6 +12664,7 @@ Com um ótimo custo-benefício, este apartamento reúne espaço, boa planta, loc
                 <PropertyType>Residential / Apartment</PropertyType>
                 <LivingArea unit="square metres">86</LivingArea>
                 <Features>
+                    <Feature>Elevator</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Pets Allowed</Feature>
                 </Features>
@@ -12742,6 +12761,7 @@ Agende uma visita com o corretor.]]></Description>
                 <LotArea unit="square metres">1800</LotArea>
                 <Features>
                     <Feature>Balcony</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Pets Allowed</Feature>
                     <Feature>Playground</Feature>
@@ -12824,6 +12844,7 @@ Aproveite a oportunidade de morar em um apartamento aconchegante, bem cuidado e 
                 <LivingArea unit="square metres">89</LivingArea>
                 <Features>
                     <Feature>Closet</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Party Room</Feature>
                     <Feature>Pay-per-use Services</Feature>
@@ -12998,6 +13019,7 @@ Este é o imóvel ideal para quem busca conforto, localização privilegiada, la
                     <Feature>BBQ</Feature>
                     <Feature>Balcony</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
@@ -13135,6 +13157,7 @@ Rodeado por excelentes escolas, padarias, mercados e toda a conveniência que to
                     <Feature>Bicycles Place</Feature>
                     <Feature>Closet</Feature>
                     <Feature>Copa</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
@@ -13237,6 +13260,7 @@ Se você procura um apartamento à venda em Perdizes com suíte, varanda e duas 
                 <Features>
                     <Feature>BBQ</Feature>
                     <Feature>Balcony</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Generator</Feature>
                     <Feature>Gym</Feature>
@@ -13370,6 +13394,7 @@ Não perca a chance de conhecer o cenário do próximo capítulo da sua família
                 <Features>
                     <Feature>BBQ</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
@@ -13778,6 +13803,7 @@ Venha conferir!]]></Description>
                 <Features>
                     <Feature>BBQ</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Generator</Feature>
                     <Feature>Gourmet Area</Feature>
@@ -13882,6 +13908,7 @@ Se interessou? Nos envie um wats!]]></Description>
                     <Feature>Beauty Room</Feature>
                     <Feature>Bicycles Place</Feature>
                     <Feature>Cooling</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
@@ -13987,6 +14014,7 @@ Venha viver em um espaço conectado com o melhor que São Paulo tem a oferecer. 
                 <LivingArea unit="square metres">78</LivingArea>
                 <LotArea unit="square metres">1000</LotArea>
                 <Features>
+                    <Feature>Elevator</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Home Office</Feature>
                     <Feature>Party Room</Feature>
@@ -14121,6 +14149,7 @@ Ideal para quem busca um investimento seguro na metrópole pulsante de São Paul
                     <Feature>BBQ</Feature>
                     <Feature>Balcony</Feature>
                     <Feature>Barbecue Balcony</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Generator</Feature>
@@ -14334,6 +14363,7 @@ Não perca a oportunidade de conhecer este apartamento. É o local ideal para vi
                     <Feature>Beauty Room</Feature>
                     <Feature>Bicycles Place</Feature>
                     <Feature>Cooling</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Generator</Feature>
                     <Feature>Gourmet Area</Feature>
@@ -14550,6 +14580,7 @@ Perfeito para quem busca mobilidade, conforto e qualidade de vida!]]></Descripti
                 <Features>
                     <Feature>BBQ</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
@@ -14658,6 +14689,7 @@ Localizada em uma rua tranquila e asfaltada, próxima a transporte público, esc
                 <LotArea unit="square metres">14000</LotArea>
                 <Features>
                     <Feature>Balcony</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Gourmet Area</Feature>
                     <Feature>Gym</Feature>
@@ -14824,6 +14856,7 @@ Esse pode ser o imóvel que você estava procurando!]]></Description>
                     <Feature>Beauty Room</Feature>
                     <Feature>Bicycles Place</Feature>
                     <Feature>Cooling</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
@@ -15031,6 +15064,7 @@ O imóvel também é pet-friendly e oferece infraestrutura para conexão à inte
                 <LivingArea unit="square metres">97</LivingArea>
                 <Features>
                     <Feature>BBQ</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Gourmet Area</Feature>
                     <Feature>Pets Allowed</Feature>
@@ -15121,6 +15155,7 @@ Ideal para quem busca um imóvel espaçoso, bem localizado, com charme, solidez 
                 <LivingArea unit="square metres">127</LivingArea>
                 <Features>
                     <Feature>Closet</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Party Room</Feature>
                     <Feature>Pets Allowed</Feature>
                     <Feature>Playground</Feature>
@@ -15209,6 +15244,7 @@ Agende sua visita e venha conhecer.]]></Description>
                 <LivingArea unit="square metres">120</LivingArea>
                 <Features>
                     <Feature>BBQ</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Pets Allowed</Feature>
                 </Features>
@@ -15332,6 +15368,7 @@ Venha viver, criar e construir sua história no endereço mais cobiçado da Zon]
                     <Feature>Bicycles Place</Feature>
                     <Feature>Closet</Feature>
                     <Feature>Cooling</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Generator</Feature>
@@ -15445,6 +15482,7 @@ Observação: Proprietário estuda permuta parcial de até 50% do valor do imóv
                     <Feature>Balcony</Feature>
                     <Feature>Closet</Feature>
                     <Feature>Cooling</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Generator</Feature>
                     <Feature>Gourmet Area</Feature>
                     <Feature>Gym</Feature>
@@ -15864,6 +15902,7 @@ Rua plana e arborizada, com ampla oferta de comércio, restaurantes, escolas e s
                     <Feature>Bicycles Place</Feature>
                     <Feature>Closet</Feature>
                     <Feature>Copa</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
@@ -16140,6 +16179,7 @@ Agende sua visita e venha se encantar!]]></Description>
                     <Feature>BBQ</Feature>
                     <Feature>Barbecue Balcony</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Generator</Feature>
@@ -16228,6 +16268,7 @@ Ideal para quem busca um apartamento pronto para morar, com acabamento diferenci
                     <Feature>Balcony</Feature>
                     <Feature>Bicycles Place</Feature>
                     <Feature>Closet</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
@@ -16354,6 +16395,7 @@ Agende sua visita agora e garanta este imóvel exclusivo!]]></Description>
                     <Feature>Balcony</Feature>
                     <Feature>Barbecue Balcony</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Generator</Feature>
                     <Feature>Gym</Feature>
@@ -16455,6 +16497,7 @@ Vale a pena conhecer pessoalmente e perceber o potencial deste apartamento.]]></
                 <Features>
                     <Feature>Bicycles Place</Feature>
                     <Feature>Copa</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Gym</Feature>
                     <Feature>Party Room</Feature>
                     <Feature>Pets Allowed</Feature>
@@ -16553,6 +16596,7 @@ Agende sua visita!]]></Description>
                     <Feature>BBQ</Feature>
                     <Feature>Balcony</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Indoor Soccer</Feature>
                     <Feature>Pet Space</Feature>
                     <Feature>Pets Allowed</Feature>
@@ -16641,6 +16685,7 @@ Não perca a oportunidade de viver em um retiro urbano novo, acessível e pronto
                     <Feature>Beauty Room</Feature>
                     <Feature>Bicycles Place</Feature>
                     <Feature>Copa</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
@@ -16810,6 +16855,7 @@ Viver no Maison Perdizes Cyrela Residences significa desfrutar do melhor em sofi
                 <LivingArea unit="square metres">61</LivingArea>
                 <Features>
                     <Feature>Balcony</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Gym</Feature>
                     <Feature>Party Room</Feature>
@@ -16981,6 +17027,7 @@ Região em forte valorização, com acesso rápido às melhores áreas da Zona O
                     <Feature>Beauty Room</Feature>
                     <Feature>Bicycles Place</Feature>
                     <Feature>Closet</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
@@ -17131,6 +17178,7 @@ Condomínio - Área Comum:
                     <Feature>Bicycles Place</Feature>
                     <Feature>Closet</Feature>
                     <Feature>Copa</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
@@ -17263,6 +17311,7 @@ Agende já a sua visita e venha conhecer este Apartamento Duplex, espetacular!!!
                     <Feature>Closet</Feature>
                     <Feature>Cooling</Feature>
                     <Feature>Copa</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
@@ -17357,6 +17406,7 @@ Quer morar bem? Então, venha conhecer este incrível apartamento!]]></Descripti
                     <Feature>Bicycles Place</Feature>
                     <Feature>Closet</Feature>
                     <Feature>Cooling</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
@@ -17475,6 +17525,7 @@ Você vai se apaixonar. Vamos agendar uma visita?]]></Description>
                 <LotArea unit="square metres">6584</LotArea>
                 <Features>
                     <Feature>Balcony</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Generator</Feature>
@@ -17568,6 +17619,7 @@ Agende sua visita e venha conhecer de perto tudo o que este apartamento pode ofe
                 <Features>
                     <Feature>BBQ</Feature>
                     <Feature>Barbecue Balcony</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Gym</Feature>
@@ -17814,6 +17866,7 @@ Não perca a oportunidade de morar em um condomínio com lazer de clube e locali
                     <Feature>BBQ</Feature>
                     <Feature>Balcony</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Gourmet Area</Feature>
@@ -17950,6 +18003,7 @@ Parques próximos como Parque Orlando Villas-Bôas e Parque Tietê
                 <Features>
                     <Feature>BBQ</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Gym</Feature>
@@ -18243,6 +18297,7 @@ Agende sua visita e venha se encantar!]]></Description>
                 <PropertyType>Residential / Apartment</PropertyType>
                 <LivingArea unit="square metres">68</LivingArea>
                 <Features>
+                    <Feature>Elevator</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Home Office</Feature>
                     <Feature>Indoor Soccer</Feature>
@@ -18460,6 +18515,7 @@ Agende sua visita !!!]]></Description>
                     <Feature>BBQ</Feature>
                     <Feature>Balcony</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Gym</Feature>
                     <Feature>Party Room</Feature>
@@ -18554,6 +18610,7 @@ Fica localizado em Rua Cayowaá no bairro Perdizes em São Paulo. Está bem loca
                 <LivingArea unit="square metres">85</LivingArea>
                 <Features>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Generator</Feature>
                     <Feature>Home Office</Feature>
@@ -18764,6 +18821,7 @@ Entre em contato para mais informações e agende sua visita!]]></Description>
                 <Features>
                     <Feature>Balcony</Feature>
                     <Feature>Closet</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Generator</Feature>
                     <Feature>Gym</Feature>
                     <Feature>Party Room</Feature>
@@ -18864,6 +18922,7 @@ Próximo a comércios, mercados, escolas, farmácias e com fácil acesso a trans
                 <LivingArea unit="square metres">62</LivingArea>
                 <Features>
                     <Feature>Copa</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Generator</Feature>
                     <Feature>Party Room</Feature>
@@ -18967,6 +19026,7 @@ Se você procura um imóvel diferenciado, com espaço externo raro na região e 
                     <Feature>BBQ</Feature>
                     <Feature>Balcony</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Gourmet Area</Feature>
@@ -19058,6 +19118,7 @@ O condomínio conta com portaria e segurança 24 horas, controle de acesso e mon
                 <LivingArea unit="square metres">43</LivingArea>
                 <Features>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Generator</Feature>
                     <Feature>Gym</Feature>
                     <Feature>Home Office</Feature>
@@ -19302,6 +19363,7 @@ Interessados podem entrar em contato para mais informações, fotos ou agendamen
                     <Feature>BBQ</Feature>
                     <Feature>Balcony</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
@@ -19745,6 +19807,7 @@ Venha conhecer !]]></Description>
                 <Features>
                     <Feature>BBQ</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Generator</Feature>
@@ -19869,6 +19932,7 @@ Condomínio - Área Comum:
                     <Feature>Balcony</Feature>
                     <Feature>Barbecue Balcony</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Generator</Feature>
@@ -19941,6 +20005,7 @@ Localizado em uma área privilegiada da Pompéia, um dos bairros mais valorizado
                 <Features>
                     <Feature>BBQ</Feature>
                     <Feature>Balcony</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Gourmet Area</Feature>
                     <Feature>Party Room</Feature>
@@ -20041,6 +20106,7 @@ No bairro de Perdizes, zona oeste de São Paulo, um bairro valorizado que combin
                     <Feature>Balcony</Feature>
                     <Feature>Barbecue Balcony</Feature>
                     <Feature>Closet</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Generator</Feature>
                     <Feature>Home Office</Feature>
@@ -20310,6 +20376,7 @@ Entre em contato agora para mais informações ou para agendar uma visita.]]></D
                     <Feature>BBQ</Feature>
                     <Feature>Balcony</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
@@ -20428,6 +20495,7 @@ Agende sua visita e venha conhecer!]]></Description>
                 <Features>
                     <Feature>BBQ</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Gourmet Area</Feature>
                     <Feature>Gym</Feature>
@@ -20550,6 +20618,7 @@ Documentação impecável. Aceita financiamento bancário e uso do FGTS.]]></Des
                 <Features>
                     <Feature>BBQ</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
@@ -20809,6 +20878,7 @@ Este é o imóvel ideal para quem busca morar com conforto, segurança e pratici
                     <Feature>BBQ</Feature>
                     <Feature>Balcony</Feature>
                     <Feature>Closet</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Gourmet Area</Feature>
                     <Feature>Party Room</Feature>
                     <Feature>Pets Allowed</Feature>
@@ -21011,6 +21081,7 @@ Agende sua visita e conheça essa oportunidade na Vila Madalena.]]></Description
                 <Features>
                     <Feature>BBQ</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Gourmet Area</Feature>
                     <Feature>Party Room</Feature>
                     <Feature>Pets Allowed</Feature>
@@ -21357,6 +21428,7 @@ Uma oportunidade única para quem busca metragem generosa, excelente planta, exc
                     <Feature>Balcony</Feature>
                     <Feature>Bicycles Place</Feature>
                     <Feature>Closet</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Generator</Feature>
                     <Feature>Party Room</Feature>
@@ -21536,6 +21608,7 @@ Comodidade: 2 vagas de garagem demarcadas no subsolo.]]></Description>
                 <LotArea unit="square metres">980</LotArea>
                 <Features>
                     <Feature>Balcony</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Generator</Feature>
@@ -21618,6 +21691,7 @@ Uma oportunidade para quem busca um imóvel com reforma pronta, conforto acústi
                 <LivingArea unit="square metres">70</LivingArea>
                 <LotArea unit="square metres">106</LotArea>
                 <Features>
+                    <Feature>Elevator</Feature>
                     <Feature>Party Room</Feature>
                     <Feature>Pets Allowed</Feature>
                     <Feature>Pool</Feature>
@@ -21675,6 +21749,7 @@ Uma oportunidade para quem busca um imóvel com reforma pronta, conforto acústi
                     <Feature>BBQ</Feature>
                     <Feature>Balcony</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Gourmet Area</Feature>
                     <Feature>Gym</Feature>
@@ -21773,6 +21848,7 @@ Seja você um comprador de primeira viagem ou alguém que busca investir em uma 
                 <LivingArea unit="square metres">98</LivingArea>
                 <Features>
                     <Feature>BBQ</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Generator</Feature>
                     <Feature>Gourmet Area</Feature>
@@ -21909,6 +21985,7 @@ Agende sua visita e conheça, ao vivo, os diferenciais deste imóvel.
                     <Feature>BBQ</Feature>
                     <Feature>Balcony</Feature>
                     <Feature>Closet</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Generator</Feature>
                     <Feature>Gym</Feature>
@@ -22091,6 +22168,7 @@ Uma opção bem resolvida para quem busca praticidade, boa localização e um im
                 <Features>
                     <Feature>Balcony</Feature>
                     <Feature>Closet</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Home Office</Feature>
@@ -22277,6 +22355,7 @@ Seja você um comprador de primeira viagem ou alguém que busca investir em uma 
                 <LivingArea unit="square metres">72</LivingArea>
                 <Features>
                     <Feature>BBQ</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Generator</Feature>
                     <Feature>Gourmet Area</Feature>
@@ -22387,6 +22466,7 @@ Agende sua visita e descubra de perto tudo o que esse empreendimento pode oferec
                     <Feature>BBQ</Feature>
                     <Feature>Barbecue Balcony</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Generator</Feature>
@@ -22505,6 +22585,7 @@ Agende sua visita com o corretor Alexs Bindi e sinta o clima deste lar.]]></Desc
                     <Feature>BBQ</Feature>
                     <Feature>Balcony</Feature>
                     <Feature>Cooling</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Gourmet Area</Feature>
@@ -22823,6 +22904,7 @@ O condomínio complementa com lazer completo para toda a família, incluindo pis
                 <Features>
                     <Feature>BBQ</Feature>
                     <Feature>Beauty Room</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Generator</Feature>
@@ -22903,6 +22985,7 @@ Este apartamento reúne localização, planta funcional, conforto, reforma e laz
                 <LotArea unit="square metres">126</LotArea>
                 <Features>
                     <Feature>Balcony</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Pets Allowed</Feature>
                     <Feature>Pool</Feature>
                     <Feature>Recreation Area</Feature>
@@ -22983,6 +23066,7 @@ Apartamentos com vagas fixas e depósito em Perdizes são oportunidades únicas 
                 <Features>
                     <Feature>BBQ</Feature>
                     <Feature>Balcony</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Generator</Feature>
                     <Feature>Gym</Feature>
@@ -23087,6 +23171,7 @@ Venha conhecer e imagine todas as possibilidades que esse apartamento pode ofere
                     <Feature>BBQ</Feature>
                     <Feature>Beauty Room</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Gourmet Area</Feature>
@@ -23204,6 +23289,7 @@ Condomínio - Área Comum:
                 <Features>
                     <Feature>BBQ</Feature>
                     <Feature>Closet</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
@@ -23374,6 +23460,7 @@ Agende sua visita e surpreenda-se.]]></Description>
                 <LivingArea unit="square metres">60</LivingArea>
                 <Features>
                     <Feature>Cooling</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Laundry</Feature>
                     <Feature>Party Room</Feature>
@@ -23613,6 +23700,7 @@ Agende agora mesmo a sua visita e surpreenda-se com essa verdadeira casa suspens
                     <Feature>Closet</Feature>
                     <Feature>Cooling</Feature>
                     <Feature>Copa</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
@@ -23707,6 +23795,7 @@ Construído em janeiro de 2014, o edifício oferece elevadores para sua comodida
                     <Feature>BBQ</Feature>
                     <Feature>Balcony</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Generator</Feature>
@@ -23818,6 +23907,7 @@ Faça contato com nosso corretor Alexs Bindi, um corretor que além de ser espec
                     <Feature>Bicycles Place</Feature>
                     <Feature>Closet</Feature>
                     <Feature>Copa</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
@@ -23934,6 +24024,7 @@ Apartamento ideal para quem busca conforto, elegancia, lazer completo, localiza�
                     <Feature>Barbecue Balcony</Feature>
                     <Feature>Bicycles Place</Feature>
                     <Feature>Cooling</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
@@ -24036,6 +24127,7 @@ Encontra-se na privacidade de um condomínio fechado.]]></Description>
                 <LotArea unit="square metres">100</LotArea>
                 <Features>
                     <Feature>BBQ</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Gym</Feature>
                     <Feature>Party Room</Feature>
                     <Feature>Pets Allowed</Feature>
@@ -24144,6 +24236,7 @@ Uma excelente oportunidade para morar bem em um dos bairros mais valorizados da 
                     <Feature>BBQ</Feature>
                     <Feature>Balcony</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Generator</Feature>
@@ -24341,6 +24434,7 @@ Entre em contato agora mesmo e agende sua visita para conhecer esse projeto e co
                 <Features>
                     <Feature>BBQ</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Gym</Feature>
@@ -24715,6 +24809,7 @@ Não perca esta oportunidade única de adquirir um imóvel desocupado com excele
                 <LotArea unit="square metres">69</LotArea>
                 <Features>
                     <Feature>Balcony</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Gourmet Area</Feature>
                     <Feature>Gym</Feature>
@@ -24800,6 +24895,7 @@ Uma excelente oportunidade para morar com conforto, praticidade e ótima mobilid
                     <Feature>BBQ</Feature>
                     <Feature>Balcony</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Generator</Feature>
@@ -24898,6 +24994,7 @@ Entre em contato e agende sua visita. Venha conhecer de perto esse imóvel e exp
                     <Feature>BBQ</Feature>
                     <Feature>Balcony</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
@@ -25126,6 +25223,7 @@ Mais do que um apartamento, este imóvel representa um estilo de vida moderno, c
                     <Feature>BBQ</Feature>
                     <Feature>Beauty Room</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Generator</Feature>
@@ -25228,6 +25326,7 @@ Este cenário está pronto para o seu próximo capítulo. Agende sua visita excl
                 <Features>
                     <Feature>BBQ</Feature>
                     <Feature>Balcony</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Gym</Feature>
@@ -25409,6 +25508,7 @@ Além disso, o condomínio oferece segurança e tranquilidade para você e sua f
                     <Feature>BBQ</Feature>
                     <Feature>Barbecue Balcony</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Gourmet Area</Feature>
                     <Feature>Gym</Feature>
                     <Feature>Party Room</Feature>
@@ -25578,6 +25678,7 @@ Uma oportunidade rara para viver com sofisticação em um dos melhores endereço
                 <LotArea unit="square metres">130</LotArea>
                 <Features>
                     <Feature>Closet</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Gym</Feature>
                     <Feature>Party Room</Feature>
                     <Feature>Pets Allowed</Feature>
@@ -25816,6 +25917,7 @@ Uma oportunidade única para viver com conforto, estilo e qualidade de vida em u
                     <Feature>Barbecue Balcony</Feature>
                     <Feature>Beauty Room</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Generator</Feature>
@@ -25928,6 +26030,7 @@ Localizado no 14º andar, o apartamento é bem iluminado e arejado, tornando-se 
                     <Feature>BBQ</Feature>
                     <Feature>Balcony</Feature>
                     <Feature>Barbecue Balcony</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Gourmet Area</Feature>
                     <Feature>Gym</Feature>
@@ -26263,6 +26366,7 @@ Uma oportunidade única para viver com conforto, estilo e qualidade de vida em u
                     <Feature>Beauty Room</Feature>
                     <Feature>Bicycles Place</Feature>
                     <Feature>Cooling</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Generator</Feature>
@@ -26356,6 +26460,7 @@ Uma oportunidade única para viver com conforto, praticidade e qualidade de vida
                     <Feature>Barbecue Balcony</Feature>
                     <Feature>Beauty Room</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
@@ -26689,6 +26794,7 @@ O prédio está passando por um processo de modernização, incluindo renovaçã
                 <LotArea unit="square metres">70</LotArea>
                 <Features>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Pets Allowed</Feature>
                     <Feature>Security Guard on Duty</Feature>
@@ -26763,6 +26869,7 @@ Agende sua visita!]]></Description>
                 <PropertyType>Residential / Apartment</PropertyType>
                 <LivingArea unit="square metres">63</LivingArea>
                 <Features>
+                    <Feature>Elevator</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Party Room</Feature>
                     <Feature>Pets Allowed</Feature>
@@ -27129,6 +27236,7 @@ O bairro do Piqueri, localizado na zona noroeste de São Paulo, é uma região q
                 <Features>
                     <Feature>BBQ</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Gourmet Area</Feature>
@@ -27226,6 +27334,7 @@ Ao lado do Shopping Tiête Plaza, ao lado da marginal tiête.]]></Description>
                 <Features>
                     <Feature>BBQ</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
@@ -27423,6 +27532,7 @@ Agende já sua Visita!]]></Description>
                 <Features>
                     <Feature>BBQ</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Gym</Feature>
@@ -27508,6 +27618,7 @@ Entre em contato e agende sua visita.]]></Description>
                 <LotArea unit="square metres">83</LotArea>
                 <Features>
                     <Feature>Balcony</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Gourmet Area</Feature>
                     <Feature>Gym</Feature>
@@ -27594,6 +27705,7 @@ Construído em 2012 e bem conservado, este apartamento reúne localização estr
                     <Feature>BBQ</Feature>
                     <Feature>Balcony</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Gourmet Area</Feature>
@@ -27682,6 +27794,7 @@ Essa é a oportunidade de viver em um espaço moderno, reformado e pronto para m
                 <LivingArea unit="square metres">147</LivingArea>
                 <Features>
                     <Feature>Balcony</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Generator</Feature>
                     <Feature>Gym</Feature>
@@ -27881,6 +27994,7 @@ Uma combinação perfeita entre localização, funcionalidade e qualidade de vid
                     <Feature>BBQ</Feature>
                     <Feature>Balcony</Feature>
                     <Feature>Barbecue Balcony</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Generator</Feature>
@@ -27966,6 +28080,7 @@ Um imóvel realmente especial  e com exclusividade de venda pela Circap.]]></Des
                 <Features>
                     <Feature>BBQ</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Generator</Feature>
                     <Feature>Gym</Feature>
@@ -28114,6 +28229,7 @@ Uma oportunidade rara para quem busca exclusividade, privacidade e o privilégio
                     <Feature>Bicycles Place</Feature>
                     <Feature>Closet</Feature>
                     <Feature>Cooling</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Generator</Feature>
@@ -28246,6 +28362,7 @@ Uma excelente oportunidade para quem busca conforto, praticidade, qualidade de v
                 <Features>
                     <Feature>BBQ</Feature>
                     <Feature>Balcony</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Generator</Feature>
                     <Feature>Gym</Feature>
@@ -28385,6 +28502,7 @@ EMEI LEOPOLDINA DA	978m	Educação Infantil]]></Description>
                 <LivingArea unit="square metres">104</LivingArea>
                 <Features>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Generator</Feature>
                     <Feature>Party Room</Feature>
@@ -28484,6 +28602,7 @@ O imóvel conta com 1 vaga de garagem coletiva (indeterminada), garan]]></Descri
                 <LivingArea unit="square metres">82</LivingArea>
                 <LotArea unit="square metres">1400</LotArea>
                 <Features>
+                    <Feature>Elevator</Feature>
                     <Feature>Pets Allowed</Feature>
                     <Feature>Recreation Area</Feature>
                     <Feature>Sports Court</Feature>
@@ -28682,6 +28801,7 @@ Excelente localização na Lapa, próxima à Estação CPTM Lapa, com fácil ace
                 <Features>
                     <Feature>BBQ</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
@@ -28781,6 +28901,7 @@ Agende sua visita!]]></Description>
                 <Features>
                     <Feature>BBQ</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Gourmet Area</Feature>
@@ -28882,6 +29003,7 @@ Com 2 vagas de garagem no subsolo, o imóvel está parcialmente mobiliado e pron
                     <Feature>BBQ</Feature>
                     <Feature>Closet</Feature>
                     <Feature>Cooling</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Gourmet Area</Feature>
                     <Feature>Gym</Feature>
@@ -29122,6 +29244,7 @@ Agende sua visita e conheça este excelente apartamento para investimento ou mor
                     <Feature>BBQ</Feature>
                     <Feature>Balcony</Feature>
                     <Feature>Cooling</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Generator</Feature>
                     <Feature>Gourmet Area</Feature>
@@ -29422,6 +29545,7 @@ Excelente oportunidade para morar ou investir em um condomínio completo, bem lo
                     <Feature>BBQ</Feature>
                     <Feature>Barbecue Balcony</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
@@ -29541,6 +29665,7 @@ Uma excelente oportunidade para quem busca um apartamento com boa planta, em con
                     <Feature>BBQ</Feature>
                     <Feature>Balcony</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Gym</Feature>
@@ -29693,6 +29818,7 @@ Este é o imóvel ideal para quem deseja viver com conforto, lazer, segurança e
                     <Feature>BBQ</Feature>
                     <Feature>Balcony</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Generator</Feature>
@@ -29797,6 +29923,7 @@ Esta é uma excelente oportunidade para quem deseja viver em uma área bem servi
                     <Feature>Balcony</Feature>
                     <Feature>Barbecue Balcony</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Party Room</Feature>
                     <Feature>Pets Allowed</Feature>
                     <Feature>Playground</Feature>
@@ -29909,6 +30036,7 @@ A localização é um dos grandes atrativos deste imóvel. Situado na Rua Minerv
                     <Feature>BBQ</Feature>
                     <Feature>Beauty Room</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
@@ -30025,6 +30153,7 @@ Localizado em um bairro residencial seguro e em rua asfaltada, o apartamento est
                     <Feature>BBQ</Feature>
                     <Feature>Balcony</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
@@ -30268,6 +30397,7 @@ Destaques Finais
                 <LivingArea unit="square metres">84</LivingArea>
                 <Features>
                     <Feature>Balcony</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Generator</Feature>
                     <Feature>Party Room</Feature>
@@ -30424,6 +30554,7 @@ Um imóvel raro, pronto para morar, onde cada detalhe foi pensado para oferecer 
                     <Feature>BBQ</Feature>
                     <Feature>Barbecue Balcony</Feature>
                     <Feature>Closet</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Generator</Feature>
@@ -30511,6 +30642,7 @@ Sauna para relaxar e renovar as energias.]]></Description>
                 <Features>
                     <Feature>BBQ</Feature>
                     <Feature>Balcony</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Gym</Feature>
                     <Feature>Indoor Soccer</Feature>
@@ -30606,6 +30738,7 @@ Entre em contato e agende sua visita. Venha conhecer de perto esse apartamento n
                 <Features>
                     <Feature>BBQ</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Gym</Feature>
                     <Feature>Home Office</Feature>
@@ -30735,6 +30868,7 @@ Condomínio - Área Comum:
                 <Features>
                     <Feature>BBQ</Feature>
                     <Feature>Balcony</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Generator</Feature>
                     <Feature>Gourmet Area</Feature>
@@ -30811,6 +30945,7 @@ Localizado no 3º andar, o apartamento oferece 1 vaga de garagem. O condomínio 
                 <LotArea unit="square metres">55</LotArea>
                 <Features>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Generator</Feature>
@@ -31038,6 +31173,7 @@ Agende sua visita e venha conhecer seu novo lar!]]></Description>
                 <Features>
                     <Feature>BBQ</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Gourmet Area</Feature>
@@ -31141,6 +31277,7 @@ Uma excelente oportunidade para quem procura um apartamento moderno, ensolarado,
                 <Features>
                     <Feature>BBQ</Feature>
                     <Feature>Barbecue Balcony</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Gourmet Area</Feature>
                     <Feature>Gym</Feature>
@@ -31333,6 +31470,7 @@ Entre em contato e agende sua visita nesse condomínio incrível.]]></Descript
                 <Features>
                     <Feature>Balcony</Feature>
                     <Feature>Bicycles Place</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Generator</Feature>
@@ -31460,6 +31598,7 @@ Agende já sua visita e viva o privilégio de morar no KAÁ.]]></Description>
                     <Feature>Bicycles Place</Feature>
                     <Feature>Closet</Feature>
                     <Feature>Copa</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
@@ -31598,6 +31737,7 @@ Perfeito para famílias que desejam morar com conforto, segurança e qualidade d
                     <Feature>Beauty Room</Feature>
                     <Feature>Bicycles Place</Feature>
                     <Feature>Copa</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Generator</Feature>
@@ -31707,6 +31847,7 @@ Agende uma visita e venha conhecer.]]></Description>
                     <Feature>Balcony</Feature>
                     <Feature>Barbecue Balcony</Feature>
                     <Feature>Closet</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Game room</Feature>
                     <Feature>Garden Area</Feature>
@@ -31835,6 +31976,7 @@ Agende sua visita e surpreenda-se!]]></Description>
                     <Feature>Bicycles Place</Feature>
                     <Feature>Closet</Feature>
                     <Feature>Cooling</Feature>
+                    <Feature>Elevator</Feature>
                     <Feature>Fitness Room</Feature>
                     <Feature>Garden Area</Feature>
                     <Feature>Generator</Feature>
