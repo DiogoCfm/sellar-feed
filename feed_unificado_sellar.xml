@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-06-29T02:04:17</Date>
+  <Date>2026-06-29T10:14:58</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE205</ListingID>
@@ -806,6 +806,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -1571,7 +1572,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">82963</ListPrice>
@@ -1617,7 +1618,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita Financiamento</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">84519</ListPrice>
@@ -1761,7 +1762,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita Financiamento</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">83750</ListPrice>
@@ -1809,6 +1810,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -2192,7 +2194,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -2572,7 +2573,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">85953</ListPrice>
@@ -2667,7 +2668,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -2812,7 +2812,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -3340,7 +3339,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita Financiamento</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">119674</ListPrice>
@@ -3436,7 +3435,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -3485,7 +3483,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -3580,7 +3577,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -3627,7 +3623,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -3772,7 +3767,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -3869,7 +3863,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -3918,7 +3911,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -4015,7 +4007,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">95926</ListPrice>
@@ -4063,7 +4055,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -4110,7 +4101,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -4206,7 +4196,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -4398,7 +4387,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -4878,7 +4866,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -4927,7 +4914,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">80648</ListPrice>
@@ -4975,7 +4962,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -5024,7 +5010,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -7867,92 +7852,6 @@ Não deixe essa oportunidade única escapar! Agende agora mesmo uma visita para 
                 <Garage>4</Garage>
                 <UnitFloor>1</UnitFloor>
                 <Suites>4</Suites>
-                <UsageType>Residential</UsageType>
-            </Details>
-        </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-            <ListingID>NONSTOP-sellarimoveis#UFBTD</ListingID>
-            <Title><![CDATA[Apartamento para venda em Vila Romana com 2 quartos, sendo 2 suítes, 88m²]]></Title>
-            <TransactionType>For Sale</TransactionType>
-            <Location displayAddress="All">
-                <Country abbreviation="BR">Brasil</Country>
-                <State abbreviation="SP"><![CDATA[São Paulo]]></State>
-                <City><![CDATA[São Paulo]]></City>
-                <Neighborhood><![CDATA[Vila Romana]]></Neighborhood>
-                <Address><![CDATA[Rua Tito]]></Address>
-                <StreetNumber><![CDATA[1062]]></StreetNumber>
-                <Complement><![CDATA[94]]></Complement>
-                <PostalCode>05051-001</PostalCode>
-                <Longitude>-46.70202829999999</Longitude>
-                <Latitude>-23.5281864</Latitude>
-            </Location>
-            <Media>
-                <Item medium="video"><![CDATA[https://www.youtube.com/watch?v=0tUMzzzy9OI]]></Item>
-                <Item medium="image" caption="1b9f2209-263a-4a6c-9cbc-139f1ce1194e" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/685f336e21d620acee35ab8b/images/1b9f2209-263a-4a6c-9cbc-139f1ce1194e.jpeg]]></Item>
-                <Item medium="image" caption="dbe071f5-f23e-43c8-8221-e5af47aa3a2d" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f336e21d620acee35ab8b/images/dbe071f5-f23e-43c8-8221-e5af47aa3a2d.jpeg]]></Item>
-                <Item medium="image" caption="48bf6c58-5bf7-49ba-86c1-67752606f063" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f336e21d620acee35ab8b/images/48bf6c58-5bf7-49ba-86c1-67752606f063.jpeg]]></Item>
-                <Item medium="image" caption="36637eda-43a4-47ff-b404-cd8e6950f50d" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f336e21d620acee35ab8b/images/36637eda-43a4-47ff-b404-cd8e6950f50d.jpeg]]></Item>
-                <Item medium="image" caption="7a9b3eac-b930-49e1-9ef3-6e0fb4d22f72" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f336e21d620acee35ab8b/images/7a9b3eac-b930-49e1-9ef3-6e0fb4d22f72.jpeg]]></Item>
-                <Item medium="image" caption="75e69e00-e8dd-4d0a-aefd-b319dab4f5cc" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f336e21d620acee35ab8b/images/75e69e00-e8dd-4d0a-aefd-b319dab4f5cc.jpeg]]></Item>
-                <Item medium="image" caption="5a54b004-50a7-4751-87d0-90d3e845dffb" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f336e21d620acee35ab8b/images/5a54b004-50a7-4751-87d0-90d3e845dffb.jpeg]]></Item>
-                <Item medium="image" caption="b6a9b85e-9c30-47aa-b08c-8502bc1d6d56" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f336e21d620acee35ab8b/images/b6a9b85e-9c30-47aa-b08c-8502bc1d6d56.jpeg]]></Item>
-                <Item medium="image" caption="430dc877-4ee5-4cac-9fbd-e707ea56418e" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f336e21d620acee35ab8b/images/430dc877-4ee5-4cac-9fbd-e707ea56418e.jpeg]]></Item>
-                <Item medium="image" caption="80c0461b-299c-4324-99ce-82c3e113eb3f" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f336e21d620acee35ab8b/images/80c0461b-299c-4324-99ce-82c3e113eb3f.jpeg]]></Item>
-                <Item medium="image" caption="f31cbcb8-3d29-4034-a783-384460b93b40" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f336e21d620acee35ab8b/images/f31cbcb8-3d29-4034-a783-384460b93b40.jpeg]]></Item>
-                <Item medium="image" caption="929616b2-83ec-4319-92c3-5f7c3259f2e3" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f336e21d620acee35ab8b/images/929616b2-83ec-4319-92c3-5f7c3259f2e3.jpeg]]></Item>
-                <Item medium="image" caption="0f219779-8016-474a-a4be-2c88ee045164" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f336e21d620acee35ab8b/images/0f219779-8016-474a-a4be-2c88ee045164.jpeg]]></Item>
-                <Item medium="image" caption="7d3345b3-429b-42f3-9da3-0bec0c86fe24" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f336e21d620acee35ab8b/images/7d3345b3-429b-42f3-9da3-0bec0c86fe24.jpeg]]></Item>
-                <Item medium="image" caption="50d1293a-a2e8-4340-80f4-745bb56fcbdd" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f336e21d620acee35ab8b/images/50d1293a-a2e8-4340-80f4-745bb56fcbdd.jpeg]]></Item>
-                <Item medium="image" caption="b1e1af0f-59b7-4f4d-8b63-d1c55400ce80" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f336e21d620acee35ab8b/images/b1e1af0f-59b7-4f4d-8b63-d1c55400ce80.jpeg]]></Item>
-                <Item medium="image" caption="32a2c32b-50cd-4f89-a980-03b9289970ce" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f336e21d620acee35ab8b/images/32a2c32b-50cd-4f89-a980-03b9289970ce.jpeg]]></Item>
-                <Item medium="image" caption="88b5a32a-cc2a-4ed6-8fb4-452be45d554f" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/685f336e21d620acee35ab8b/images/88b5a32a-cc2a-4ed6-8fb4-452be45d554f.jpeg]]></Item>
-            </Media>
-            <PublicationType>STANDARD</PublicationType>
-            <Details>
-                <ListPrice currency="BRL">1385000</ListPrice>
-                <PropertyAdministrationFee currency="BRL">1100</PropertyAdministrationFee>
-                <YearlyTax currency="BRL">5640</YearlyTax>
-                <Description><![CDATA[Localizado em uma das ruas mais desejadas da Vila Romana, este apartamento de 88m² está a apenas 200 metros da Praça Cívica, oferecendo praticidade, lazer e bem-estar em uma região tranquila e completa.
-
-Com apenas dois apartamentos por andar, o imóvel passou por uma reforma impecável, com sanca de gesso e iluminação em LED em todos os ambientes, vista livre e sol o dia inteiro.
-
-A área social é composta por uma sala de estar com painel planejado, integrada à sala de jantar com espelho amplo, ideal para mesa de 6 lugares, além de um espaço extra para bar ou café. No corredor, há ainda um lavabo, que complementa a funcionalidade da planta.
-
-A varanda gourmet envidraçada, com azulejo preto que confere charme e personalidade, pode ser integrada ao living, criando um ambiente aconchegante para receber convidados.
-
-A cozinha é privativa e funcional, equipada com armários planejados, entrada de serviço e divisória que leva à lavanderia, garantindo organização e circulação independente.
-
-Na área íntima, o apartamento conta com duas suítes completas:
-
-A suíte principal tem ventilador de teto, mesas de cabeceira e um painel com estante iluminada por LEDs, além de um closet com armários planejados e banheiro completo.
-
-A segunda suíte, atualmente adaptada como escritório, possui armário, escrivaninha e estantes sob medida, além de banheiro completo.
-
-Diferencial raro na região: o imóvel possui 3 vagas de garagem cobertas e fixas.
-
-O condomínio oferece infraestrutura de lazer completa:
-✔️ Piscina coberta e descoberta
-✔️ Academia
-✔️ Salão de festas e espaço gourmet
-✔️ Brinquedoteca e playground
-✔️ Quadra poliesportiva
-✔️ Portaria 24h
-
-Agende sua visita agora mesmo e descubra o equilíbrio ideal entre modernidade, conforto e localização em um dos melhores endereços da Vila Romana.]]></Description>
-                <PropertyType>Residential / Apartment</PropertyType>
-                <LivingArea unit="square metres">88</LivingArea>
-                <LotArea unit="square metres">3282</LotArea>
-                <Features>
-                    <Feature>Barbecue Balcony</Feature>
-                    <Feature>Closet</Feature>
-                    <Feature>Gourmet Area</Feature>
-                    <Feature>Pets Allowed</Feature>
-                    <Feature>Pool</Feature>
-                </Features>
-                <Bathrooms>3</Bathrooms>
-                <Bedrooms>2</Bedrooms>
-                <Garage>3</Garage>
-                <UnitFloor>9</UnitFloor>
-                <Suites>2</Suites>
                 <UsageType>Residential</UsageType>
             </Details>
         </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
