@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-07-08T01:19:14</Date>
+  <Date>2026-07-08T08:02:29</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE205</ListingID>
@@ -1148,6 +1148,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -1388,7 +1389,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -1437,6 +1437,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -1677,7 +1678,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -4311,7 +4311,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">123905</ListPrice>
@@ -4321,7 +4321,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Complement><![CDATA[Apto 33, BL 04]]></Complement>
         <City><![CDATA[SOROCABA]]></City>
         <Neighborhood><![CDATA[APARECIDINHA]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>18087-280</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>816</StreetNumber>
         <Latitude>-23.4443684</Latitude>
@@ -4883,7 +4883,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -5268,7 +5267,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -6133,7 +6131,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -7039,7 +7036,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">85556</ListPrice>
@@ -7572,7 +7569,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita Financiamento</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">127893</ListPrice>
@@ -7620,7 +7617,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -8192,7 +8188,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -8813,6 +8808,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -8908,6 +8904,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -9052,6 +9049,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -9100,7 +9098,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita Financiamento</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">121487</ListPrice>
@@ -9242,7 +9240,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita Financiamento</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">125114</ListPrice>
@@ -9289,6 +9287,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -9765,7 +9764,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -9863,7 +9861,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -10056,7 +10053,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -13170,7 +13166,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -13599,7 +13594,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -14512,7 +14506,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -15087,7 +15080,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -15136,7 +15128,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -15185,7 +15176,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -18055,6 +18045,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -18727,7 +18718,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -18824,7 +18814,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -18921,7 +18910,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -19066,7 +19054,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -21658,7 +21645,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">85832</ListPrice>
@@ -21898,7 +21885,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -22709,7 +22695,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -23375,7 +23360,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">87819</ListPrice>
@@ -25428,6 +25413,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -25954,7 +25940,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">115814</ListPrice>
@@ -26157,7 +26143,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Complement><![CDATA[QD 33, LT A10]]></Complement>
         <City><![CDATA[SOROCABA]]></City>
         <Neighborhood><![CDATA[VILA BARAO]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>18060-630</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber/>
         <Latitude>-23.4983852</Latitude>
@@ -26386,7 +26372,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -26531,7 +26516,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -28493,7 +28477,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">914546</ListPrice>
@@ -28875,7 +28859,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -29403,7 +29386,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -29452,7 +29434,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -29550,7 +29531,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -29599,7 +29579,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -29646,7 +29625,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -29695,7 +29673,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -29742,7 +29719,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -29839,7 +29815,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -29888,7 +29863,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -29937,7 +29911,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -29984,7 +29957,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -30079,7 +30051,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -30128,7 +30099,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -30177,7 +30147,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -30226,7 +30195,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -30275,7 +30243,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -30372,7 +30339,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -30563,7 +30529,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -30805,7 +30770,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -30902,7 +30866,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -30949,6 +30912,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -31093,7 +31057,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -31188,7 +31151,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -31285,7 +31247,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -31334,7 +31295,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -31383,7 +31343,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -31432,7 +31391,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -31481,7 +31439,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -31530,7 +31487,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -31579,7 +31535,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -31628,7 +31583,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -31677,7 +31631,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -31726,7 +31679,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -31775,7 +31727,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -31824,7 +31775,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -31873,7 +31823,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -31922,7 +31871,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -31971,7 +31919,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -32020,7 +31967,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -32067,7 +32013,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -32116,7 +32061,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -32165,7 +32109,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -32214,7 +32157,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -32263,7 +32205,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -32312,7 +32253,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -32361,7 +32301,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -32410,7 +32349,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -32459,7 +32397,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -32556,7 +32493,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -32605,7 +32541,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -32654,7 +32589,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -35667,6 +35601,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -39213,6 +39148,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -39693,6 +39629,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -40461,6 +40398,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -40507,7 +40445,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita Financiamento</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">100741</ListPrice>
@@ -41751,6 +41689,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -42135,6 +42074,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -42663,7 +42603,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita Financiamento</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">106667</ListPrice>
@@ -44104,7 +44044,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -44201,6 +44140,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
+        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -49906,19 +49846,61 @@ Há fácil acesso às marginais e à Av. Paulista.]]></Description>
                 <Latitude>-23.5438431</Latitude>
             </Location>
             <Media>
-                <Item medium="image" caption="3f1a89b6-5f4b-4f09-84ff-cfddc98ee425" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/3f1a89b6-5f4b-4f09-84ff-cfddc98ee425.jpeg]]></Item>
-                <Item medium="image" caption="031ee2ba-4e24-43fe-b371-04ee810e0d9d" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/031ee2ba-4e24-43fe-b371-04ee810e0d9d.jpeg]]></Item>
-                <Item medium="image" caption="47d2ed74-7d6b-4220-89cd-b229f9cd5090" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/47d2ed74-7d6b-4220-89cd-b229f9cd5090.jpeg]]></Item>
-                <Item medium="image" caption="ae5694cf-3dc9-46e3-b3e2-de4b8f376251" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/ae5694cf-3dc9-46e3-b3e2-de4b8f376251.jpeg]]></Item>
-                <Item medium="image" caption="a0b98c6f-255e-4dba-b958-db9cf11519a4" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/a0b98c6f-255e-4dba-b958-db9cf11519a4.jpeg]]></Item>
-                <Item medium="image" caption="f5c58f3b-63d0-4379-b859-6c482bea277b" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/f5c58f3b-63d0-4379-b859-6c482bea277b.jpeg]]></Item>
-                <Item medium="image" caption="6f38f38e-cf7c-486a-b9b7-ed52350b5d9d" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/6f38f38e-cf7c-486a-b9b7-ed52350b5d9d.jpeg]]></Item>
-                <Item medium="image" caption="e7874042-17f5-4e26-a022-368a20930bc8" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/e7874042-17f5-4e26-a022-368a20930bc8.jpeg]]></Item>
-                <Item medium="image" caption="bf6e484e-124c-442c-9d65-ba7816e8e23c" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/bf6e484e-124c-442c-9d65-ba7816e8e23c.jpeg]]></Item>
-                <Item medium="image" caption="f211a9f4-4b67-4954-8a8d-640fd97092b7" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/f211a9f4-4b67-4954-8a8d-640fd97092b7.jpeg]]></Item>
-                <Item medium="image" caption="42cb601e-6cac-4002-9c3c-7fb2c73f50ce" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/42cb601e-6cac-4002-9c3c-7fb2c73f50ce.jpeg]]></Item>
-                <Item medium="image" caption="a4468b50-dce6-4616-aa74-78948454b93c" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/a4468b50-dce6-4616-aa74-78948454b93c.jpeg]]></Item>
-                <Item medium="image" caption="8cf50a97-528e-4d80-890e-8734e3fa85c4" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/8cf50a97-528e-4d80-890e-8734e3fa85c4.jpeg]]></Item>
+                <Item medium="image" caption="19ab22fa-fbd2-4b83-af4c-ad715dda6a24" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/19ab22fa-fbd2-4b83-af4c-ad715dda6a24.jpeg]]></Item>
+                <Item medium="image" caption="4d424ede-63bf-436e-8275-fee41524390c" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/4d424ede-63bf-436e-8275-fee41524390c.jpeg]]></Item>
+                <Item medium="image" caption="749a7d0b-d269-4a8c-baf8-c4f9cfb4a5fc" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/749a7d0b-d269-4a8c-baf8-c4f9cfb4a5fc.jpeg]]></Item>
+                <Item medium="image" caption="e7384b9f-8783-46ca-ae57-3aea90028143" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/e7384b9f-8783-46ca-ae57-3aea90028143.jpeg]]></Item>
+                <Item medium="image" caption="0df5fe06-93b1-4a4e-bfbf-ce30de098cb4" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/0df5fe06-93b1-4a4e-bfbf-ce30de098cb4.jpeg]]></Item>
+                <Item medium="image" caption="685dcdb2-bad2-4564-bd18-1cb2f9b52aa0" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/685dcdb2-bad2-4564-bd18-1cb2f9b52aa0.jpeg]]></Item>
+                <Item medium="image" caption="60614005-a751-4b55-98f7-a3b0b68a8f3e" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/60614005-a751-4b55-98f7-a3b0b68a8f3e.jpeg]]></Item>
+                <Item medium="image" caption="fa57462b-7457-4847-9ec2-a32a5ac066c5" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/fa57462b-7457-4847-9ec2-a32a5ac066c5.jpeg]]></Item>
+                <Item medium="image" caption="c698e19b-b8db-4694-a2aa-e7eb720f71b6" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/c698e19b-b8db-4694-a2aa-e7eb720f71b6.jpeg]]></Item>
+                <Item medium="image" caption="63b4be18-055b-4301-b65a-520cea7c7740" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/63b4be18-055b-4301-b65a-520cea7c7740.jpeg]]></Item>
+                <Item medium="image" caption="9de74849-a9a7-4626-96c8-9ed3dd4ddd56" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/9de74849-a9a7-4626-96c8-9ed3dd4ddd56.jpeg]]></Item>
+                <Item medium="image" caption="78119762-287f-4acc-baca-745784ef3823" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/78119762-287f-4acc-baca-745784ef3823.jpeg]]></Item>
+                <Item medium="image" caption="9589fe6f-8f87-4294-9b0b-726ded8b753a" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/9589fe6f-8f87-4294-9b0b-726ded8b753a.jpeg]]></Item>
+                <Item medium="image" caption="b30d6217-65dc-434c-a84c-36e605105275" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/b30d6217-65dc-434c-a84c-36e605105275.jpeg]]></Item>
+                <Item medium="image" caption="05a85cf8-67aa-467d-883a-9eb4ca5021a6" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/05a85cf8-67aa-467d-883a-9eb4ca5021a6.jpeg]]></Item>
+                <Item medium="image" caption="12990a7e-71c3-483a-915d-dc5d721a3053" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/12990a7e-71c3-483a-915d-dc5d721a3053.jpeg]]></Item>
+                <Item medium="image" caption="22a8e90a-956d-471f-8d90-b29e7afa19cf" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/22a8e90a-956d-471f-8d90-b29e7afa19cf.jpeg]]></Item>
+                <Item medium="image" caption="554bd3ff-65dd-463c-96a8-065262021fb9" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/554bd3ff-65dd-463c-96a8-065262021fb9.jpeg]]></Item>
+                <Item medium="image" caption="8ebcdc54-7615-4f8b-998f-bd27b0a7b341" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/8ebcdc54-7615-4f8b-998f-bd27b0a7b341.jpeg]]></Item>
+                <Item medium="image" caption="5786d69d-7aac-4771-b085-ceb8ef55ad40" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/5786d69d-7aac-4771-b085-ceb8ef55ad40.jpeg]]></Item>
+                <Item medium="image" caption="3a6fdbbb-9d63-48c9-bda7-06080e262e21" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/3a6fdbbb-9d63-48c9-bda7-06080e262e21.jpeg]]></Item>
+                <Item medium="image" caption="9d9e271e-553c-4290-8c90-81da02c5feac" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/9d9e271e-553c-4290-8c90-81da02c5feac.jpeg]]></Item>
+                <Item medium="image" caption="9f5d5709-509d-4bf3-aaa7-e7f2c74b9723" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/9f5d5709-509d-4bf3-aaa7-e7f2c74b9723.jpeg]]></Item>
+                <Item medium="image" caption="533fc201-261a-4650-8b96-ead58e755273" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/533fc201-261a-4650-8b96-ead58e755273.jpeg]]></Item>
+                <Item medium="image" caption="c7fa1b89-1331-4779-890f-3e8ad0edebb0" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/c7fa1b89-1331-4779-890f-3e8ad0edebb0.jpeg]]></Item>
+                <Item medium="image" caption="e9acaed0-3b51-4e7a-904e-532ad41a93ca" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/e9acaed0-3b51-4e7a-904e-532ad41a93ca.jpeg]]></Item>
+                <Item medium="image" caption="76160993-2849-44d9-ae44-c3526b6b1d77" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/76160993-2849-44d9-ae44-c3526b6b1d77.jpeg]]></Item>
+                <Item medium="image" caption="941736db-b487-4ca9-9aea-9d533786b9df" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/941736db-b487-4ca9-9aea-9d533786b9df.jpeg]]></Item>
+                <Item medium="image" caption="5efdf7c4-e72f-4543-98a4-f937fe1ac7c1" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/5efdf7c4-e72f-4543-98a4-f937fe1ac7c1.jpeg]]></Item>
+                <Item medium="image" caption="ea7365ef-e1a7-427b-b1d4-f008540462b9" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/ea7365ef-e1a7-427b-b1d4-f008540462b9.jpeg]]></Item>
+                <Item medium="image" caption="8336725d-8562-43e2-aece-ffbe361c6120" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/8336725d-8562-43e2-aece-ffbe361c6120.jpeg]]></Item>
+                <Item medium="image" caption="3510f18a-3762-4e64-bfd2-6c502660cf39" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/3510f18a-3762-4e64-bfd2-6c502660cf39.jpeg]]></Item>
+                <Item medium="image" caption="b79818ff-d02e-4178-8722-4b7b34e0b973" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/b79818ff-d02e-4178-8722-4b7b34e0b973.jpeg]]></Item>
+                <Item medium="image" caption="5d6c1928-4c44-4a8a-84ed-cd822986787c" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/5d6c1928-4c44-4a8a-84ed-cd822986787c.jpeg]]></Item>
+                <Item medium="image" caption="a5ff23a2-da52-4635-bb45-26e60e322688" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/a5ff23a2-da52-4635-bb45-26e60e322688.jpeg]]></Item>
+                <Item medium="image" caption="692740b5-bad4-4ae2-86e3-c400e9e18880" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/692740b5-bad4-4ae2-86e3-c400e9e18880.jpeg]]></Item>
+                <Item medium="image" caption="fd0a4ada-4aba-466b-b21d-c9a706056e21" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/fd0a4ada-4aba-466b-b21d-c9a706056e21.jpeg]]></Item>
+                <Item medium="image" caption="c46f11e0-4436-4b42-b1a8-374dd7ed407a" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/c46f11e0-4436-4b42-b1a8-374dd7ed407a.jpeg]]></Item>
+                <Item medium="image" caption="1982143f-b156-472c-b795-5ace047efd94" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/1982143f-b156-472c-b795-5ace047efd94.jpeg]]></Item>
+                <Item medium="image" caption="200207af-76e9-410c-b941-6f175f380a0b" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/200207af-76e9-410c-b941-6f175f380a0b.jpeg]]></Item>
+                <Item medium="image" caption="71c6bcaf-bfdd-46cf-88a4-59de996e6afe" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/71c6bcaf-bfdd-46cf-88a4-59de996e6afe.jpeg]]></Item>
+                <Item medium="image" caption="d25c6baa-9abe-44ab-8c20-b3b9493e3938" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/d25c6baa-9abe-44ab-8c20-b3b9493e3938.jpeg]]></Item>
+                <Item medium="image" caption="fe0200df-d31a-49c5-bae8-a92bc514a03d" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/fe0200df-d31a-49c5-bae8-a92bc514a03d.jpeg]]></Item>
+                <Item medium="image" caption="f524be4c-7708-4855-95b5-d7515879bee2" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/f524be4c-7708-4855-95b5-d7515879bee2.jpeg]]></Item>
+                <Item medium="image" caption="8968ec18-9370-491b-9b95-be9004ae3b8c" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/8968ec18-9370-491b-9b95-be9004ae3b8c.jpeg]]></Item>
+                <Item medium="image" caption="70131d43-d1ee-4bec-b46d-ded3b51e5c9a" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/70131d43-d1ee-4bec-b46d-ded3b51e5c9a.jpeg]]></Item>
+                <Item medium="image" caption="ac88086a-110d-4f0b-a5ab-28d5427787f4" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/ac88086a-110d-4f0b-a5ab-28d5427787f4.jpeg]]></Item>
+                <Item medium="image" caption="213f8930-8852-4bbe-b5de-c6807607d4c6" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/213f8930-8852-4bbe-b5de-c6807607d4c6.jpeg]]></Item>
+                <Item medium="image" caption="e461076d-27c6-4c49-9ceb-4270a05a2148" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/e461076d-27c6-4c49-9ceb-4270a05a2148.jpeg]]></Item>
+                <Item medium="image" caption="704964c2-3785-4d7a-973c-c9f9408f5d01" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/704964c2-3785-4d7a-973c-c9f9408f5d01.jpeg]]></Item>
+                <Item medium="image" caption="bb6afaa0-1baa-4af3-b251-4966aec1c059" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/bb6afaa0-1baa-4af3-b251-4966aec1c059.jpeg]]></Item>
+                <Item medium="image" caption="e5270248-f882-41d6-84b5-296dc7906743" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/e5270248-f882-41d6-84b5-296dc7906743.jpeg]]></Item>
+                <Item medium="image" caption="15d61f97-a7f9-4c2f-8bb0-a2366247f9cc" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/15d61f97-a7f9-4c2f-8bb0-a2366247f9cc.jpeg]]></Item>
+                <Item medium="image" caption="6c04a552-9cf4-4525-9eb1-739d36489aa1" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/6c04a552-9cf4-4525-9eb1-739d36489aa1.jpeg]]></Item>
+                <Item medium="image" caption="e38c7765-d970-4f70-b02c-110a9b88af26" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/687962d557b7a9bb3fa9f2ac/images/e38c7765-d970-4f70-b02c-110a9b88af26.jpeg]]></Item>
             </Media>
             <PublicationType>STANDARD</PublicationType>
             <Details>
