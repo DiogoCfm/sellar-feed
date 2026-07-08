@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-07-08T13:21:57</Date>
+  <Date>2026-07-08T19:00:58</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE205</ListingID>
@@ -64641,9 +64641,9 @@ Entre em contato e agende sua visita. Venha conhecer de perto esse imóvel e exp
             </Media>
             <PublicationType>STANDARD</PublicationType>
             <Details>
-                <ListPrice currency="BRL">810000</ListPrice>
+                <ListPrice currency="BRL">790000</ListPrice>
                 <PropertyAdministrationFee currency="BRL">917</PropertyAdministrationFee>
-                <YearlyTax currency="BRL">281</YearlyTax>
+                <YearlyTax currency="BRL">2800</YearlyTax>
                 <Description><![CDATA[Apresentamos uma excelente oportunidade para quem deseja viver com conforto, praticidade e qualidade de vida no moderno Living Privilège. Este belíssimo apartamento à venda combina um projeto inteligente, ambientes aconchegantes e uma infraestrutura completa de lazer e conveniência, ideal para quem busca um imóvel funcional sem abrir mão de sofisticação e bem-estar.
 
 Com 61 m² de área privativa, o apartamento foi planejado para oferecer o máximo aproveitamento dos espaços, criando ambientes integrados, modernos e extremamente acolhedores. São 2 dormitórios, sendo 1 suíte confortável e bem distribuída, além de 2 banheiros, atendendo perfeitamente às necessidades de casais, pequenas famílias ou até mesmo quem busca um imóvel versátil para morar ou investir.
@@ -70684,22 +70684,25 @@ Uma excelente oportunidade para quem procura um apartamento moderno, ensolarado,
             <PublicationType>STANDARD</PublicationType>
             <Details>
                 <YearBuilt>1994</YearBuilt>
-                <ListPrice currency="BRL">2790000</ListPrice>
+                <ListPrice currency="BRL">2680000</ListPrice>
                 <PropertyAdministrationFee currency="BRL">4160</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">28766</YearlyTax>
-                <Description><![CDATA[Apartamento com mais de 200m² com todo conforto. Tudo o que um alto padrão pode oferecer: 
+                <Description><![CDATA[Apartamento de 225m² (considerando útil mais varandas) com 5 vagas, depósito na garagem, mais área de lazer completa!! Tudo isso resulta numa ÁREA TOTAL de 469m².  
+
+Este imóvel oferece tudo o que um alto padrão pode oferecer: 
+
 4 suítes, todas com varanda e ar condicionado
 sala com 3 ambientes, já integradas com a varanda
+Gerador que alimenta o interior do apartamento, além das áreas comuns
 Vista panorâmica permanente
 Lareira
 Ampla cozinha com despensa
+Ponto para carregamento de carro elétrico
 Acabamentos em granito, mármore e madeira maciça
 Muitos armários em todos os cômodos íntimos
 Andar alto
-Gerador que alimenta o interior do apartamento, além das áreas comuns
 Depósito na garagem
 5 vagas grandes sendo que uma é totalmente livre
-Ponto para carregamento de carro elétrico
 Área de lazer completa com quadra de areia
 Sala de ginástica e sauna
 Salão de festas integrado com o espaço gourmet
@@ -70707,11 +70710,13 @@ Sol o dia inteiro
 Piscina rodeada de jardim e área de descanso
 Prédio com vagas de visitantes
 
-Localizado no bairro Sumaré, na rua Havaí, está próximo do comércio local sem perder a tranquilidade. A 15 minutos de caminhada do metrô Vila Madalena.
-Com apenas 15 apartamentos, o condomínio se tornou um ambiente familiar onde os vizinhos convivem
-em perfeita harmonia. 
+Localizado no bairro Sumaré, na rua Havaí, está próximo do comércio local sem perder a tranquilidade. 
+Com apenas 15 apartamentos, o condomínio se tornou um ambiente familiar onde os vizinhos convivem em perfeita harmonia. 
 Muito bem cuidado, este condomínio acompanhou as tendências e foi sendo modernizado. É compatível com qualquer 
 condomínio alto padrão criado recentemente.
+
+A 15 minutos de caminhada do metrô Vila Madalena.
+
 Observe o por do sol nas fotos e venha conferir pessoalmente. Será um prazer te apresentar esta ótima oportunidade de negócio.]]></Description>
                 <PropertyType>Residential / Apartment</PropertyType>
                 <LivingArea unit="square metres">202</LivingArea>
@@ -70719,6 +70724,7 @@ Observe o por do sol nas fotos e venha conferir pessoalmente. Será um prazer te
                 <Features>
                     <Feature>BBQ</Feature>
                     <Feature>Balcony</Feature>
+                    <Feature>Barbecue Balcony</Feature>
                     <Feature>Closet</Feature>
                     <Feature>Cooling</Feature>
                     <Feature>Copa</Feature>
@@ -70727,6 +70733,7 @@ Observe o por do sol nas fotos e venha conferir pessoalmente. Será um prazer te
                     <Feature>Generator</Feature>
                     <Feature>Gourmet Area</Feature>
                     <Feature>Gym</Feature>
+                    <Feature>Home Office</Feature>
                     <Feature>Party Room</Feature>
                     <Feature>Pets Allowed</Feature>
                     <Feature>Playground</Feature>
