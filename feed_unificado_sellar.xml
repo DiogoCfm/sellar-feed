@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-07-10T01:24:33</Date>
+  <Date>2026-07-10T08:54:51</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE205</ListingID>
@@ -13805,6 +13805,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode/>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>240</StreetNumber>
+        <Latitude>-20.42319</Latitude>
+        <Longitude>-49.93193</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento — RESIDENCIAL FORLIFE VERSATO]]></Title>
@@ -23568,6 +23570,8 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <PostalCode/>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>240</StreetNumber>
+        <Latitude>-20.42319</Latitude>
+        <Longitude>-49.93193</Longitude>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento — RESIDENCIAL FORLIFE VERSATO]]></Title>
@@ -62390,7 +62394,7 @@ Aqui, o valor não está apenas no que o imóvel é hoje, mas no que ele pode se
 
 O condomínio complementa com lazer completo para toda a família, incluindo piscina aquecida coberta, academia super bem equipada, amplo salão de festas adulto,  salão de festas infantil integrado aos espaços kids (brinquedoteca e playground), salão de jogos, espaço de massagem, piscina infantil, solarium, coworking e outras áreas sociais bem estruturadas.
 
-Observação: As três primeiras imagens deste anúncio são renderizações criadas por inteligência artificial, utilizadas exclusivamente para ilustrar uma proposta de decoração. O objetivo é demonstrar como um novo projeto de interiores pode valorizar o imóvel, preservando integralmente sua arquitetura, planta e características construtivas. As demais fotos mostram o imóvel em seu estado atual.]]></Description>
+Observação: As três primeiras imagens deste anúncio  foram criadas por inteligência artificial, utilizadas exclusivamente para ilustrar uma proposta de decoração. O objetivo é demonstrar o potencial de valorização do imóvel por meio de um novo projeto de interiores, preservando integralmente sua arquitetura, planta, esquadrias e características construtivas. As demais fotografias retratam o imóvel em seu estado atual. O apartamento possui estrutura para ar-condicionado, porém os equipamentos (máquinas evaporadoras e condensadoras) não estão instalados.]]></Description>
                 <PropertyType>Residential / Apartment</PropertyType>
                 <LivingArea unit="square metres">201</LivingArea>
                 <Features>
