@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-07-22T18:52:07</Date>
+  <Date>2026-07-23T01:23:46</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE205</ListingID>
@@ -1195,7 +1195,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">106846</ListPrice>
@@ -3690,7 +3690,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">146341</ListPrice>
@@ -11162,7 +11162,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">106667</ListPrice>
@@ -22435,7 +22435,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">126927</ListPrice>
@@ -22579,7 +22579,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">129949</ListPrice>
@@ -27825,8 +27825,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">108794</ListPrice>
@@ -66615,7 +66614,7 @@ Agende uma visita e descubra todo o potencial deste imóvel em Vila Anastácio!]
             <Details>
                 <YearBuilt>2005</YearBuilt>
                 <ListPrice currency="BRL">1870000</ListPrice>
-                <PropertyAdministrationFee currency="BRL">1630</PropertyAdministrationFee>
+                <PropertyAdministrationFee currency="BRL">1700</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">750</YearlyTax>
                 <Description><![CDATA[Apartamento 3 Quartos à Venda na Lapa - São Paulo
 
@@ -70659,9 +70658,9 @@ O imóvel aceita financiamento e é possível utilizar o FGTS na aquisição, to
             <PublicationType>STANDARD</PublicationType>
             <Details>
                 <YearBuilt>1983</YearBuilt>
-                <ListPrice currency="BRL">1480000</ListPrice>
+                <ListPrice currency="BRL">1380000</ListPrice>
                 <PropertyAdministrationFee currency="BRL">2246</PropertyAdministrationFee>
-                <YearlyTax currency="BRL">560</YearlyTax>
+                <YearlyTax currency="BRL">5600</YearlyTax>
                 <Description><![CDATA[Apartamento à venda em Perdizes - 155m², 3 dormitórios, 2 vagas | Condomínio Bahamas - Rua Caraíbas, 719
 
 Se você busca espaço, localização estratégica e qualidade de vida em Perdizes, este apartamento no Condomínio Bahamas é uma oportunidade que merece atenção.
@@ -70941,7 +70940,7 @@ Agende sua visita e venha conhecer!]]></Description>
                 </Features>
                 <Bathrooms>2</Bathrooms>
                 <Bedrooms>2</Bedrooms>
-                <Garage>0</Garage>
+                <Garage>1</Garage>
                 <UnitFloor>6</UnitFloor>
                 <Suites>1</Suites>
                 <UsageType>Residential</UsageType>
@@ -73545,8 +73544,8 @@ Agende sua visita e conheça, ao vivo, os diferenciais deste imóvel.
             </Location>
             <Media>
                 <Item medium="video"><![CDATA[https://www.youtube.com/watch?v=7OO0M2aY1xk]]></Item>
-                <Item medium="image" caption="6bbbeea0-40fc-4a01-b732-0061eb16df56" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/69de5b17b4c07d18f324c814/images/6bbbeea0-40fc-4a01-b732-0061eb16df56.jpeg]]></Item>
-                <Item medium="image" caption="910ca3f0-5240-4f5c-93df-60726e6e2869" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69de5b17b4c07d18f324c814/images/910ca3f0-5240-4f5c-93df-60726e6e2869.jpeg]]></Item>
+                <Item medium="image" caption="910ca3f0-5240-4f5c-93df-60726e6e2869" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/69de5b17b4c07d18f324c814/images/910ca3f0-5240-4f5c-93df-60726e6e2869.jpeg]]></Item>
+                <Item medium="image" caption="6bbbeea0-40fc-4a01-b732-0061eb16df56" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69de5b17b4c07d18f324c814/images/6bbbeea0-40fc-4a01-b732-0061eb16df56.jpeg]]></Item>
                 <Item medium="image" caption="33b7b1d5-1656-43ff-ad36-675bbfd2d59d" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69de5b17b4c07d18f324c814/images/33b7b1d5-1656-43ff-ad36-675bbfd2d59d.jpeg]]></Item>
                 <Item medium="image" caption="de8172af-aef3-4196-9860-d437e42b82c6" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69de5b17b4c07d18f324c814/images/de8172af-aef3-4196-9860-d437e42b82c6.jpeg]]></Item>
                 <Item medium="image" caption="3656557d-e6b8-4b61-a585-d9144ff84616" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69de5b17b4c07d18f324c814/images/3656557d-e6b8-4b61-a585-d9144ff84616.jpeg]]></Item>
@@ -73605,7 +73604,7 @@ Agende sua visita e conheça, ao vivo, os diferenciais deste imóvel.
             <PublicationType>STANDARD</PublicationType>
             <Details>
                 <YearBuilt>2020</YearBuilt>
-                <ListPrice currency="BRL">1430000</ListPrice>
+                <ListPrice currency="BRL">1390000</ListPrice>
                 <PropertyAdministrationFee currency="BRL">1196</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">1904</YearlyTax>
                 <Description><![CDATA[Uma verdadeira joia urbana no coração de Pinheiros.
@@ -89448,7 +89447,7 @@ Agende sua visita e venha morar em um apartamento localizado em uma das regiões
             <PublicationType>STANDARD</PublicationType>
             <Details>
                 <YearBuilt>2015</YearBuilt>
-                <ListPrice currency="BRL">680000</ListPrice>
+                <ListPrice currency="BRL">660000</ListPrice>
                 <PropertyAdministrationFee currency="BRL">618</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">3030</YearlyTax>
                 <Description><![CDATA[🏡 Apartamento à Venda no Bosques da Lapa | 55m² | Sacada | Lazer Completo Estilo Resort
