@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-07-23T18:54:36</Date>
+  <Date>2026-07-24T01:19:55</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE205</ListingID>
@@ -2250,8 +2250,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">150550</ListPrice>
@@ -5078,7 +5077,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">102301</ListPrice>
@@ -60353,7 +60352,7 @@ A localização completa o conjunto. Situado em uma rua extremamente tranquila e
             <PublicationType>STANDARD</PublicationType>
             <Details>
                 <YearBuilt>2024</YearBuilt>
-                <ListPrice currency="BRL">560000</ListPrice>
+                <ListPrice currency="BRL">510000</ListPrice>
                 <PropertyAdministrationFee currency="BRL">850</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">1100</YearlyTax>
                 <Description><![CDATA[Noon Small Luxury Apartments | Unidade 26 m² | Vila Madalena.
@@ -99977,168 +99976,6 @@ Se viver em Perdizes é morar em São Paulo, sem parecer que está em São Paulo
                 <Garage>0</Garage>
                 <UnitFloor>15</UnitFloor>
                 <Suites>1</Suites>
-                <UsageType>Residential</UsageType>
-            </Details>
-        </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-            <ListingID>NONSTOP-sellarimoveis#Q9GUP</ListingID>
-            <Title><![CDATA[Apartamento para venda em Alto da Lapa com 4 quartos, sendo 4 suítes, 332m²]]></Title>
-            <TransactionType>For Sale</TransactionType>
-            <Location displayAddress="All">
-                <Country abbreviation="BR">Brasil</Country>
-                <State abbreviation="SP"><![CDATA[São Paulo]]></State>
-                <City><![CDATA[São Paulo]]></City>
-                <Neighborhood><![CDATA[Alto da Lapa]]></Neighborhood>
-                <Address><![CDATA[Rua Pepiguari]]></Address>
-                <StreetNumber><![CDATA[300]]></StreetNumber>
-                <Complement><![CDATA[Residência E]]></Complement>
-                <PostalCode>05059-010</PostalCode>
-                <Longitude>-46.7117455</Longitude>
-                <Latitude>-23.5344007</Latitude>
-            </Location>
-            <Media>
-                <Item medium="image" caption="deea2811-6261-4561-8a76-f37dd8c70626" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/6a4ba3086b7b0fe29a8f54b6/images/deea2811-6261-4561-8a76-f37dd8c70626.jpeg]]></Item>
-                <Item medium="image" caption="e842dd0c-0038-4896-b193-88a17ae30c11" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a4ba3086b7b0fe29a8f54b6/images/e842dd0c-0038-4896-b193-88a17ae30c11.jpeg]]></Item>
-                <Item medium="image" caption="fc8ee5aa-71bd-4d21-beb2-7398d6113d7c" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a4ba3086b7b0fe29a8f54b6/images/fc8ee5aa-71bd-4d21-beb2-7398d6113d7c.jpeg]]></Item>
-                <Item medium="image" caption="634a1971-28d5-4752-bffa-235089096286" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a4ba3086b7b0fe29a8f54b6/images/634a1971-28d5-4752-bffa-235089096286.jpeg]]></Item>
-                <Item medium="image" caption="1dda03fa-b175-47a4-8810-041897b78fe8" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a4ba3086b7b0fe29a8f54b6/images/1dda03fa-b175-47a4-8810-041897b78fe8.jpeg]]></Item>
-                <Item medium="image" caption="23dd31c5-c349-4c6e-9bef-bb59b6d6a9e2" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a4ba3086b7b0fe29a8f54b6/images/23dd31c5-c349-4c6e-9bef-bb59b6d6a9e2.jpeg]]></Item>
-                <Item medium="image" caption="9650e03f-fa33-43b3-a710-dd3ce9a54821" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a4ba3086b7b0fe29a8f54b6/images/9650e03f-fa33-43b3-a710-dd3ce9a54821.jpeg]]></Item>
-                <Item medium="image" caption="d1ab80fd-4d1d-4c12-85f1-1fc685871284" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a4ba3086b7b0fe29a8f54b6/images/d1ab80fd-4d1d-4c12-85f1-1fc685871284.jpeg]]></Item>
-                <Item medium="image" caption="5167c7a0-432a-4cec-b00e-87c4a320d99b" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a4ba3086b7b0fe29a8f54b6/images/5167c7a0-432a-4cec-b00e-87c4a320d99b.jpeg]]></Item>
-                <Item medium="image" caption="3ffee1b4-7283-40bf-99b9-58a38f2f5b03" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a4ba3086b7b0fe29a8f54b6/images/3ffee1b4-7283-40bf-99b9-58a38f2f5b03.jpeg]]></Item>
-                <Item medium="image" caption="5d8f8965-0b40-4d3a-bc7b-a967bd8e9322" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a4ba3086b7b0fe29a8f54b6/images/5d8f8965-0b40-4d3a-bc7b-a967bd8e9322.jpeg]]></Item>
-                <Item medium="image" caption="c2eae59c-0c15-4f21-93cb-c110f859e9df" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a4ba3086b7b0fe29a8f54b6/images/c2eae59c-0c15-4f21-93cb-c110f859e9df.jpeg]]></Item>
-                <Item medium="image" caption="09f0e19e-e74e-45b9-a7e1-9eab932c1f6b" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a4ba3086b7b0fe29a8f54b6/images/09f0e19e-e74e-45b9-a7e1-9eab932c1f6b.jpeg]]></Item>
-                <Item medium="image" caption="1db4933e-0fdc-4bbf-a2f2-600408bc6566" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a4ba3086b7b0fe29a8f54b6/images/1db4933e-0fdc-4bbf-a2f2-600408bc6566.jpeg]]></Item>
-                <Item medium="image" caption="5b2c2067-b03b-4534-ae0d-b30ec4fdc0f5" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a4ba3086b7b0fe29a8f54b6/images/5b2c2067-b03b-4534-ae0d-b30ec4fdc0f5.jpeg]]></Item>
-                <Item medium="image" caption="d599879d-561c-466f-9049-8b4508bce904" primary="true"><![CDATA[https://images.usenonstop.com.br/condo-images/6a4ab1ae08298a7284c1d22e/images/d599879d-561c-466f-9049-8b4508bce904.jpeg]]></Item>
-                <Item medium="image" caption="13c2be64-905a-4046-8001-7b9aa8125114" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/6a4ab1ae08298a7284c1d22e/images/13c2be64-905a-4046-8001-7b9aa8125114.jpeg]]></Item>
-                <Item medium="image" caption="3b065842-b71d-4988-8352-540aeaadecc4" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/6a4ab1ae08298a7284c1d22e/images/3b065842-b71d-4988-8352-540aeaadecc4.jpeg]]></Item>
-                <Item medium="image" caption="14885979-1caf-477d-8c3f-1ff246c7286f" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/6a4ab1ae08298a7284c1d22e/images/14885979-1caf-477d-8c3f-1ff246c7286f.jpeg]]></Item>
-                <Item medium="image" caption="8973c089-a2f0-4b97-9485-f3c22d8daf93" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/6a4ab1ae08298a7284c1d22e/images/8973c089-a2f0-4b97-9485-f3c22d8daf93.jpeg]]></Item>
-                <Item medium="image" caption="8dbe85ae-a6d7-4c9b-96f2-096ec5bcca0f" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/6a4ab1ae08298a7284c1d22e/images/8dbe85ae-a6d7-4c9b-96f2-096ec5bcca0f.jpeg]]></Item>
-                <Item medium="image" caption="88d2ae42-3fc9-4590-aa6e-b2e4abd54afd" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/6a4ab1ae08298a7284c1d22e/images/88d2ae42-3fc9-4590-aa6e-b2e4abd54afd.jpeg]]></Item>
-                <Item medium="image" caption="884fc7f0-c25b-418e-8500-3fca7c6b8b97" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/6a4ab1ae08298a7284c1d22e/images/884fc7f0-c25b-418e-8500-3fca7c6b8b97.jpeg]]></Item>
-                <Item medium="image" caption="65301870-407a-4e55-826f-a46b1267994e" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/6a4ab1ae08298a7284c1d22e/images/65301870-407a-4e55-826f-a46b1267994e.jpeg]]></Item>
-                <Item medium="image" caption="b4dade9e-c119-4da5-a5fa-f65462c8a7f1" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/6a4ab1ae08298a7284c1d22e/images/b4dade9e-c119-4da5-a5fa-f65462c8a7f1.jpeg]]></Item>
-                <Item medium="image" caption="28fe9499-5a8e-4616-a4a4-a4c85c6bc3ef" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/6a4ab1ae08298a7284c1d22e/images/28fe9499-5a8e-4616-a4a4-a4c85c6bc3ef.jpeg]]></Item>
-                <Item medium="image" caption="9a6b0d17-6bd3-48f2-a9e5-bb4860bd4bef" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/6a4ab1ae08298a7284c1d22e/images/9a6b0d17-6bd3-48f2-a9e5-bb4860bd4bef.jpeg]]></Item>
-            </Media>
-            <PublicationType>STANDARD</PublicationType>
-            <Details>
-                <YearBuilt>2027</YearBuilt>
-                <ListPrice currency="BRL">5587326</ListPrice>
-                <YearlyTax currency="BRL">33000</YearlyTax>
-                <Description><![CDATA[Residência de 332 m² com 4 suítes, no Cacau, em Alto de Pinheiros. Uma planta ampla para quem busca privacidade, generosidade de espaços e uma relação privilegiada com a paisagem.
-
-O Cacau reúne apenas 44 residências em duas torres, implantadas entre as ruas Pepiguari e Caativa. 
-O projeto aproveita a topografia do terreno para criar lajes escalonadas, amplos terraços e vistas abertas para o skyline de São Paulo.
-
-As áreas comuns incluem piscina de raia, academia, spa e sauna, salão de festas, espaço gourmet, lounge de jogos, brinquedoteca, coworking com sala de reunião, quadra de pickleball, pet place e três guest houses.
-
-Na Rua Caativa, a fachada ativa integra boulangerie, lojas e escritórios. Pela Rua Pepiguari, ficam os acessos privativos dos moradores e as áreas de lazer integradas ao paisagismo.
-
-Outras metragens e configurações disponíveis. Consulte valores e disponibilidade.]]></Description>
-                <PropertyType>Residential / Apartment</PropertyType>
-                <LivingArea unit="square metres">332</LivingArea>
-                <Features>
-                    <Feature>Balcony</Feature>
-                    <Feature>Elevator</Feature>
-                    <Feature>Fitness Room</Feature>
-                    <Feature>Garden Area</Feature>
-                    <Feature>Gym</Feature>
-                    <Feature>Pet Space</Feature>
-                    <Feature>Pets Allowed</Feature>
-                    <Feature>Pool</Feature>
-                    <Feature>Recreation Area</Feature>
-                    <Feature>Sauna</Feature>
-                </Features>
-                <Bathrooms>6</Bathrooms>
-                <Bedrooms>4</Bedrooms>
-                <Garage>2</Garage>
-                <UnitFloor>3</UnitFloor>
-                <Suites>4</Suites>
-                <UsageType>Residential</UsageType>
-            </Details>
-        </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-            <ListingID>NONSTOP-sellarimoveis#IFD4Q</ListingID>
-            <Title><![CDATA[Apartamento para venda em Alto da Lapa com 4 quartos, sendo 4 suítes, 500m²]]></Title>
-            <TransactionType>For Sale</TransactionType>
-            <Location displayAddress="All">
-                <Country abbreviation="BR">Brasil</Country>
-                <State abbreviation="SP"><![CDATA[São Paulo]]></State>
-                <City><![CDATA[São Paulo]]></City>
-                <Neighborhood><![CDATA[Alto da Lapa]]></Neighborhood>
-                <Address><![CDATA[Rua Pepiguari]]></Address>
-                <StreetNumber><![CDATA[300]]></StreetNumber>
-                <Complement><![CDATA[I1]]></Complement>
-                <PostalCode>05059-010</PostalCode>
-                <Longitude>-46.7117455</Longitude>
-                <Latitude>-23.5344007</Latitude>
-            </Location>
-            <Media>
-                <Item medium="image" caption="a5f44500-6005-4968-9c8a-6851b3707443" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/6a4ba45c10163eb9a2586452/images/a5f44500-6005-4968-9c8a-6851b3707443.jpeg]]></Item>
-                <Item medium="image" caption="97ff856c-a97f-4f2b-b8fe-3f249414952d" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a4ba45c10163eb9a2586452/images/97ff856c-a97f-4f2b-b8fe-3f249414952d.jpeg]]></Item>
-                <Item medium="image" caption="20c2db9f-bfaa-4849-b9da-67e7b005bf1a" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a4ba45c10163eb9a2586452/images/20c2db9f-bfaa-4849-b9da-67e7b005bf1a.jpeg]]></Item>
-                <Item medium="image" caption="de9165a3-e50d-468d-b13f-e2d490d58cc5" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a4ba45c10163eb9a2586452/images/de9165a3-e50d-468d-b13f-e2d490d58cc5.jpeg]]></Item>
-                <Item medium="image" caption="e0657167-a8b1-42f1-8bcc-3244d532e299" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a4ba45c10163eb9a2586452/images/e0657167-a8b1-42f1-8bcc-3244d532e299.jpeg]]></Item>
-                <Item medium="image" caption="8174f6ce-d442-487b-bce5-a02200f60757" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a4ba45c10163eb9a2586452/images/8174f6ce-d442-487b-bce5-a02200f60757.jpeg]]></Item>
-                <Item medium="image" caption="d9b39025-04b6-4e8c-b86a-8f4ab63758ac" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a4ba45c10163eb9a2586452/images/d9b39025-04b6-4e8c-b86a-8f4ab63758ac.jpeg]]></Item>
-                <Item medium="image" caption="30e44076-985a-43e2-a142-1515b5e83f81" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a4ba45c10163eb9a2586452/images/30e44076-985a-43e2-a142-1515b5e83f81.jpeg]]></Item>
-                <Item medium="image" caption="01ac873b-0fc9-44b3-a93e-d3327077a8ef" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a4ba45c10163eb9a2586452/images/01ac873b-0fc9-44b3-a93e-d3327077a8ef.jpeg]]></Item>
-                <Item medium="image" caption="1f5c0b9f-1eac-4c01-bb05-8db113d06a60" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a4ba45c10163eb9a2586452/images/1f5c0b9f-1eac-4c01-bb05-8db113d06a60.jpeg]]></Item>
-                <Item medium="image" caption="cec8275f-8126-47a5-8717-e8b540db5b6e" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a4ba45c10163eb9a2586452/images/cec8275f-8126-47a5-8717-e8b540db5b6e.jpeg]]></Item>
-                <Item medium="image" caption="98c67ee4-69b3-4aa6-9b77-7d71bee73945" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a4ba45c10163eb9a2586452/images/98c67ee4-69b3-4aa6-9b77-7d71bee73945.jpeg]]></Item>
-                <Item medium="image" caption="9a9cc7a9-3d8f-403a-a3ea-9eff804e0d77" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a4ba45c10163eb9a2586452/images/9a9cc7a9-3d8f-403a-a3ea-9eff804e0d77.jpeg]]></Item>
-                <Item medium="image" caption="fcc9a22a-97d9-46e0-95ba-b2f97ff78d6e" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a4ba45c10163eb9a2586452/images/fcc9a22a-97d9-46e0-95ba-b2f97ff78d6e.jpeg]]></Item>
-                <Item medium="image" caption="aa186649-342b-4b7a-a88a-9e5ca38c37d3" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a4ba45c10163eb9a2586452/images/aa186649-342b-4b7a-a88a-9e5ca38c37d3.jpeg]]></Item>
-                <Item medium="image" caption="d599879d-561c-466f-9049-8b4508bce904" primary="true"><![CDATA[https://images.usenonstop.com.br/condo-images/6a4ab1ae08298a7284c1d22e/images/d599879d-561c-466f-9049-8b4508bce904.jpeg]]></Item>
-                <Item medium="image" caption="13c2be64-905a-4046-8001-7b9aa8125114" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/6a4ab1ae08298a7284c1d22e/images/13c2be64-905a-4046-8001-7b9aa8125114.jpeg]]></Item>
-                <Item medium="image" caption="3b065842-b71d-4988-8352-540aeaadecc4" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/6a4ab1ae08298a7284c1d22e/images/3b065842-b71d-4988-8352-540aeaadecc4.jpeg]]></Item>
-                <Item medium="image" caption="14885979-1caf-477d-8c3f-1ff246c7286f" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/6a4ab1ae08298a7284c1d22e/images/14885979-1caf-477d-8c3f-1ff246c7286f.jpeg]]></Item>
-                <Item medium="image" caption="8973c089-a2f0-4b97-9485-f3c22d8daf93" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/6a4ab1ae08298a7284c1d22e/images/8973c089-a2f0-4b97-9485-f3c22d8daf93.jpeg]]></Item>
-                <Item medium="image" caption="8dbe85ae-a6d7-4c9b-96f2-096ec5bcca0f" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/6a4ab1ae08298a7284c1d22e/images/8dbe85ae-a6d7-4c9b-96f2-096ec5bcca0f.jpeg]]></Item>
-                <Item medium="image" caption="88d2ae42-3fc9-4590-aa6e-b2e4abd54afd" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/6a4ab1ae08298a7284c1d22e/images/88d2ae42-3fc9-4590-aa6e-b2e4abd54afd.jpeg]]></Item>
-                <Item medium="image" caption="884fc7f0-c25b-418e-8500-3fca7c6b8b97" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/6a4ab1ae08298a7284c1d22e/images/884fc7f0-c25b-418e-8500-3fca7c6b8b97.jpeg]]></Item>
-                <Item medium="image" caption="65301870-407a-4e55-826f-a46b1267994e" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/6a4ab1ae08298a7284c1d22e/images/65301870-407a-4e55-826f-a46b1267994e.jpeg]]></Item>
-                <Item medium="image" caption="b4dade9e-c119-4da5-a5fa-f65462c8a7f1" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/6a4ab1ae08298a7284c1d22e/images/b4dade9e-c119-4da5-a5fa-f65462c8a7f1.jpeg]]></Item>
-                <Item medium="image" caption="28fe9499-5a8e-4616-a4a4-a4c85c6bc3ef" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/6a4ab1ae08298a7284c1d22e/images/28fe9499-5a8e-4616-a4a4-a4c85c6bc3ef.jpeg]]></Item>
-                <Item medium="image" caption="9a6b0d17-6bd3-48f2-a9e5-bb4860bd4bef" primary="false"><![CDATA[https://images.usenonstop.com.br/condo-images/6a4ab1ae08298a7284c1d22e/images/9a6b0d17-6bd3-48f2-a9e5-bb4860bd4bef.jpeg]]></Item>
-            </Media>
-            <PublicationType>STANDARD</PublicationType>
-            <Details>
-                <YearBuilt>2027</YearBuilt>
-                <ListPrice currency="BRL">9464902</ListPrice>
-                <YearlyTax currency="BRL">50000</YearlyTax>
-                <Description><![CDATA[Residência de 500 m² com 4 suítes, no Cacau, em Alto de Pinheiros. Uma das configurações mais exclusivas do empreendimento, com grandes proporções, terraços e vistas abertas para a cidade.
-
-O Cacau reúne apenas 44 residências em duas torres, implantadas entre as ruas Pepiguari e Caativa. 
-O projeto aproveita a topografia do terreno para criar lajes escalonadas, amplos terraços e vistas abertas para o skyline de São Paulo.
-
-As áreas comuns incluem piscina de raia, academia, spa e sauna, salão de festas, espaço gourmet, lounge de jogos, brinquedoteca, coworking com sala de reunião, quadra de pickleball, pet place e três guest houses.
-
-Na Rua Caativa, a fachada ativa integra boulangerie, lojas e escritórios. Pela Rua Pepiguari, ficam os acessos privativos dos moradores e as áreas de lazer integradas ao paisagismo.
-
-Outras metragens e configurações disponíveis. Consulte valores e disponibilidade.]]></Description>
-                <PropertyType>Residential / Apartment</PropertyType>
-                <LivingArea unit="square metres">500</LivingArea>
-                <Features>
-                    <Feature>Balcony</Feature>
-                    <Feature>Elevator</Feature>
-                    <Feature>Fitness Room</Feature>
-                    <Feature>Garden Area</Feature>
-                    <Feature>Gym</Feature>
-                    <Feature>Pet Space</Feature>
-                    <Feature>Pets Allowed</Feature>
-                    <Feature>Pool</Feature>
-                    <Feature>Recreation Area</Feature>
-                    <Feature>Sauna</Feature>
-                </Features>
-                <Bathrooms>6</Bathrooms>
-                <Bedrooms>4</Bedrooms>
-                <Garage>2</Garage>
-                <UnitFloor>6</UnitFloor>
-                <Suites>4</Suites>
                 <UsageType>Residential</UsageType>
             </Details>
         </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
