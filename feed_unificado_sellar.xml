@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-07-28T19:01:23</Date>
+  <Date>2026-07-29T01:17:31</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE205</ListingID>
@@ -60460,19 +60460,19 @@ Fácil acesso às principais vias e rodovias da cidade]]></Description>
             </Details>
         </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
             <ListingID>NONSTOP-sellarimoveis#IAI51</ListingID>
-            <Title><![CDATA[Apartamento para venda em Vila Romana com 1 quarto, sendo 1 suíte, 24m²]]></Title>
+            <Title><![CDATA[Apartamento para venda em Pinheiros com 1 quarto, 24m²]]></Title>
             <TransactionType>For Sale</TransactionType>
             <Location displayAddress="All">
                 <Country abbreviation="BR">Brasil</Country>
                 <State abbreviation="SP"><![CDATA[São Paulo]]></State>
                 <City><![CDATA[São Paulo]]></City>
-                <Neighborhood><![CDATA[Vila Romana]]></Neighborhood>
-                <Address><![CDATA[Rua Faustolo]]></Address>
-                <StreetNumber><![CDATA[974]]></StreetNumber>
-                <Complement><![CDATA[905]]></Complement>
-                <PostalCode>05041-001</PostalCode>
-                <Longitude>-46.6948753</Longitude>
-                <Latitude>-23.5237718</Latitude>
+                <Neighborhood><![CDATA[Pinheiros]]></Neighborhood>
+                <Address><![CDATA[Rua Fernão Dias]]></Address>
+                <StreetNumber><![CDATA[71]]></StreetNumber>
+                <Complement><![CDATA[2003]]></Complement>
+                <PostalCode>05427-011</PostalCode>
+                <Longitude>-46.6952928</Longitude>
+                <Latitude>-23.5616339</Latitude>
             </Location>
             <Media>
                 <Item medium="image" caption="58041f06-65c5-4a61-8a9d-c4982e4bc3b3" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/68c9abd7455c2cba18a57754/images/58041f06-65c5-4a61-8a9d-c4982e4bc3b3.jpeg]]></Item>
@@ -60505,27 +60505,25 @@ Fácil acesso às principais vias e rodovias da cidade]]></Description>
             </Media>
             <PublicationType>STANDARD</PublicationType>
             <Details>
-                <ListPrice currency="BRL">315000</ListPrice>
-                <PropertyAdministrationFee currency="BRL">246</PropertyAdministrationFee>
-                <YearlyTax currency="BRL">0</YearlyTax>
-                <Description><![CDATA[Aconchegante apartamento de 24,65 m², totalmente mobiliado e pronto para morar. Possui 1 dormitório, cozinha planejada, sala integrada e banheiro moderno.
+                <ListPrice currency="BRL">425000</ListPrice>
+                <PropertyAdministrationFee currency="BRL">447</PropertyAdministrationFee>
+                <YearlyTax currency="BRL">1108</YearlyTax>
+                <Description><![CDATA[Somente para quem quer praticidade e conforto, esse apartamento no coração de Pinheiros esta completo e mobiliado, perfeito para ser o novo lar. Com mobília e planejados de bom gosto, pronto para morar.
 
-Condomínio com lazer completo: academia, salão de festas, churrasqueira, espaço gourmet e lavanderia coletiva. Segurança 24h e portaria remota.
+O condomínio possui uma ampla área de lazer inteiramente equipada e decorada. Estas áreas estão localizadas conforme a seguir: no Térreo, Lazer Descoberto, Playground e Pet Place. No 1o Pavimento, Salão de Festas, Lounge Descoberto, Brinquedoteca, Home Cinema, Fitness, Praça do Fogo, Piscina Adulto com área de Solarium, Deck Molhado e Hidromassagem. No 21o Pavimento, Horta e Pomar Comunitários. No 25o Pavimento, 2 Churrasqueiras com Forno de Pizza.
 
-Excelente localização na Vila Romana, próximo ao Shopping Bourbon, Allianz Parque, metrô e CPTM Água Branca. Fácil acesso a Perdizes, Lapa e Vila Madalena.
-
-Ideal para quem busca praticidade ou investimento com alta liquidez]]></Description>
+Diferenciais : São diferenciais do Viva Benx Faria Lima: Portaria blindada, Lobby Social com Pé-Direito Duplo, Sala para Delivery com Espaço para Higienização de Encomendas, Coworking & Home Office, Lavanderia Coletiva da OMO – equipada com máquinas de nível profissional para serviço pay per use, Ferramentas & Utensílios Compartilhados e Bicicletário. As áreas comuns serão entregues equipadas e decoradas, sem nenhum custo adicional aos compradores.]]></Description>
                 <PropertyType>Residential / Apartment</PropertyType>
                 <LivingArea unit="square metres">24</LivingArea>
                 <Features>
                     <Feature>Barbecue Balcony</Feature>
                     <Feature>Pets Allowed</Feature>
+                    <Feature>Pool</Feature>
                 </Features>
                 <Bathrooms>1</Bathrooms>
                 <Bedrooms>1</Bedrooms>
                 <Garage>0</Garage>
-                <UnitFloor>9</UnitFloor>
-                <Suites>1</Suites>
+                <UnitFloor>20</UnitFloor>
                 <UsageType>Residential</UsageType>
             </Details>
         </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
@@ -73118,7 +73116,7 @@ Venha conhecer e se encantar com este excelente studio!]]></Description>
             </Media>
             <PublicationType>STANDARD</PublicationType>
             <Details>
-                <ListPrice currency="BRL">498000</ListPrice>
+                <ListPrice currency="BRL">495000</ListPrice>
                 <PropertyAdministrationFee currency="BRL">890</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">1200</YearlyTax>
                 <Description><![CDATA[Excelente Apartamento reformado 45m² , 1 suíte, cor ar condicionado, sacada integrada, 1 vg. R. Dr. Rubens Meirelles 99 - B. Funda - SP
@@ -73718,11 +73716,11 @@ Vale a visita. Pode ser exatamente o que você estava procurando.]]></Descriptio
             <Media>
                 <Item medium="video"><![CDATA[https://www.youtube.com/watch?v=gJCdf04-DoU]]></Item>
                 <Item medium="image" caption="d1546e3c-c151-4c42-adf1-a9d1f43855ce" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/d1546e3c-c151-4c42-adf1-a9d1f43855ce.jpeg]]></Item>
-                <Item medium="image" caption="e1f0eee2-3907-4a7e-9606-2d843d696f14" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/e1f0eee2-3907-4a7e-9606-2d843d696f14.jpeg]]></Item>
-                <Item medium="image" caption="eabd65e1-d288-4d01-a0a1-21940878dbe4" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/eabd65e1-d288-4d01-a0a1-21940878dbe4.jpeg]]></Item>
-                <Item medium="image" caption="1394ee78-0a36-4db0-ac6c-628f74f338b8" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/1394ee78-0a36-4db0-ac6c-628f74f338b8.jpeg]]></Item>
-                <Item medium="image" caption="4d348a34-b45b-4cb2-a89c-4a40d11ae2ca" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/4d348a34-b45b-4cb2-a89c-4a40d11ae2ca.jpeg]]></Item>
                 <Item medium="image" caption="fa0e197e-6cee-4462-b80a-90bbfcb3d84f" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/fa0e197e-6cee-4462-b80a-90bbfcb3d84f.jpeg]]></Item>
+                <Item medium="image" caption="eabd65e1-d288-4d01-a0a1-21940878dbe4" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/eabd65e1-d288-4d01-a0a1-21940878dbe4.jpeg]]></Item>
+                <Item medium="image" caption="e1f0eee2-3907-4a7e-9606-2d843d696f14" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/e1f0eee2-3907-4a7e-9606-2d843d696f14.jpeg]]></Item>
+                <Item medium="image" caption="4d348a34-b45b-4cb2-a89c-4a40d11ae2ca" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/4d348a34-b45b-4cb2-a89c-4a40d11ae2ca.jpeg]]></Item>
+                <Item medium="image" caption="1394ee78-0a36-4db0-ac6c-628f74f338b8" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/1394ee78-0a36-4db0-ac6c-628f74f338b8.jpeg]]></Item>
                 <Item medium="image" caption="071bea67-19e8-4fe9-a8d6-e4bd46dd0040" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/071bea67-19e8-4fe9-a8d6-e4bd46dd0040.jpeg]]></Item>
                 <Item medium="image" caption="285c0916-54f8-4ecc-b415-927b717f3c7c" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/285c0916-54f8-4ecc-b415-927b717f3c7c.jpeg]]></Item>
                 <Item medium="image" caption="cf557b83-b406-4a9d-8361-7c84f8908503" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/cf557b83-b406-4a9d-8361-7c84f8908503.jpeg]]></Item>
@@ -73738,8 +73736,8 @@ Vale a visita. Pode ser exatamente o que você estava procurando.]]></Descriptio
                 <Item medium="image" caption="76c4a44c-3557-4bfa-aa58-e3ea1b32c606" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/76c4a44c-3557-4bfa-aa58-e3ea1b32c606.jpeg]]></Item>
                 <Item medium="image" caption="49b6423e-b044-4567-9116-bfd5de992b9a" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/49b6423e-b044-4567-9116-bfd5de992b9a.jpeg]]></Item>
                 <Item medium="image" caption="64a03c2f-2655-4814-adfc-5e8c9cb6b671" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/64a03c2f-2655-4814-adfc-5e8c9cb6b671.jpeg]]></Item>
-                <Item medium="image" caption="6ed6b4e8-6f24-4199-8cb2-826823c4aab8" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/6ed6b4e8-6f24-4199-8cb2-826823c4aab8.jpeg]]></Item>
                 <Item medium="image" caption="28ba6a11-4374-4ce2-bca5-9865dc80dbbb" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/28ba6a11-4374-4ce2-bca5-9865dc80dbbb.jpeg]]></Item>
+                <Item medium="image" caption="6ed6b4e8-6f24-4199-8cb2-826823c4aab8" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/6ed6b4e8-6f24-4199-8cb2-826823c4aab8.jpeg]]></Item>
                 <Item medium="image" caption="9c72965f-22a8-4cbf-a16e-7f084d39d733" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/69b1db0feba4b7c06cd4b9e6/images/9c72965f-22a8-4cbf-a16e-7f084d39d733.jpeg]]></Item>
             </Media>
             <PublicationType>STANDARD</PublicationType>
@@ -73747,7 +73745,7 @@ Vale a visita. Pode ser exatamente o que você estava procurando.]]></Descriptio
                 <ListPrice currency="BRL">560000</ListPrice>
                 <PropertyAdministrationFee currency="BRL">2200</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">9295</YearlyTax>
-                <Description><![CDATA[MELHOR LOCALIZAÇÃO DE PERDIZES A PREÇO DE OPORTUNIDADE!
+                <Description><![CDATA[LOCALIZAÇÃO PRIVILEGIADA EM PERDIZES A PREÇO DE OPORTUNIDADE!
 
 Conjunto comercial à venda no Edifício São Marcelo, localizado na Rua Dr. Homem de Melo,  em uma região estratégica, com fácil acesso às principais vias e completa infraestrutura de comércio e serviços.
 
@@ -80858,7 +80856,7 @@ Este imóvel extraordinário no 4º andar é a escolha perfeita para quem busca 
             <PublicationType>STANDARD</PublicationType>
             <Details>
                 <YearBuilt>2022</YearBuilt>
-                <ListPrice currency="BRL">569000</ListPrice>
+                <ListPrice currency="BRL">540000</ListPrice>
                 <PropertyAdministrationFee currency="BRL">650</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">2000</YearlyTax>
                 <Description><![CDATA[Excelente imóvel de 50 metros quadrados a venda no TEG Coraza, com dois dormitórios, sendo um deles uma suíte. Inclui uma vaga de garagem indeterminada. O condomínio conta com lazer completo, incluindo piscina, academia e salão de festas.]]></Description>
