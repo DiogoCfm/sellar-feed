@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-07-30T19:04:39</Date>
+  <Date>2026-07-31T01:23:54</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE205</ListingID>
@@ -7411,54 +7411,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F844442783603521.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F844442783603521.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-8787717113730</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Apartamento, 83.66 de área total, 39.30 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.
-
-{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
-
- {{descricao_caixa}} 
-
-Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>39.3</LivingArea>
-        <LotArea>83.66</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">97778</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address><![CDATA[AVENIDA GOVERNADOR ORESTES QUERCIA]]></Address>
-        <Complement><![CDATA[Apto 203, BL 17]]></Complement>
-        <City><![CDATA[ARARAQUARA]]></City>
-        <Neighborhood><![CDATA[ALTOS DO JARAGUA]]></Neighborhood>
-        <PostalCode>14804-700</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>1201</StreetNumber>
-        <Latitude>-21.7815482</Latitude>
-        <Longitude>-48.202436</Longitude>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — ALTOS DO JARAGUA]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878771711373021.jpg</Item>
-        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878771711373021.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
@@ -16986,54 +16938,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-8787701961183</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Casa, 45.59 de área total, 45.59 de área privativa, 160.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.
-
-{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
-
- {{descricao_caixa}} 
-
-Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>45.59</LivingArea>
-        <LotArea>45.59</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Home</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita FGTS</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">123905</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address><![CDATA[RUA LOURIVAL PEREIRA LEAL]]></Address>
-        <Complement><![CDATA[LT 21 QD M]]></Complement>
-        <City><![CDATA[MARILIA]]></City>
-        <Neighborhood><![CDATA[RESIDENCIAL SALVADOR BASSALOBRE (PADRE N]]></Neighborhood>
-        <PostalCode>17533-508</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>96</StreetNumber>
-        <Latitude>-22.1715264</Latitude>
-        <Longitude>-50.0146197</Longitude>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — RESIDENCIAL SALVADOR BASSALOBRE (PADRE N]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878770196118321.jpg</Item>
-        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878770196118321.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-8444437397344</ListingID>
       <ContactInfo>
         <Email>contato@sellarimoveis.com.br</Email>
@@ -22029,54 +21933,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878771503314321.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878771503314321.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-1444415933539</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>0</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Casa, 0.00 de área total, 26.18 de área privativa, 140.00 de área do terreno.
-
-{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
-
- {{descricao_caixa}} 
-
-Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
-        <Garage>0</Garage>
-        <LivingArea>26.18</LivingArea>
-        <LotArea>140</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Home</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">264485</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address><![CDATA[RUA JOAO VIEIRA SARDINHA]]></Address>
-        <Complement><![CDATA[LT 03 QD 06]]></Complement>
-        <City><![CDATA[PIRASSUNUNGA]]></City>
-        <Neighborhood><![CDATA[JARDIM SAO VALENTIM]]></Neighborhood>
-        <PostalCode>13635-050</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>553</StreetNumber>
-        <Latitude>-21.9755849</Latitude>
-        <Longitude>-47.4263857</Longitude>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — JARDIM SAO VALENTIM]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F144441593353921.jpg</Item>
-        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F144441593353921.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
@@ -30625,150 +30481,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-8555537344686</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Apartamento, 0.00 de área total, 47.98 de área privativa, 0.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.
-
-{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
-
- {{descricao_caixa}} 
-
-Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>47.98</LivingArea>
-        <LotArea>47.98</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">173282</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address><![CDATA[RUA JOAO BISSOTTO FILHO]]></Address>
-        <Complement><![CDATA[Apto 05, BL A-LIVORNO TERREO]]></Complement>
-        <City><![CDATA[VALINHOS]]></City>
-        <Neighborhood><![CDATA[ORTIZES]]></Neighborhood>
-        <PostalCode>13275-410</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>1181</StreetNumber>
-        <Latitude>-22.9761443</Latitude>
-        <Longitude>-46.9884262</Longitude>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — ORTIZES]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F855553734468621.jpg</Item>
-        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F855553734468621.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-8787714314211</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Apartamento, 89.09 de área total, 47.38 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.
-
-{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
-
- {{descricao_caixa}} 
-
-Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>47.38</LivingArea>
-        <LotArea>89.09</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">198248</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address><![CDATA[RUA MARABAS]]></Address>
-        <Complement><![CDATA[Apto 141, TR A]]></Complement>
-        <City><![CDATA[POA]]></City>
-        <Neighborhood><![CDATA[ARACARE]]></Neighborhood>
-        <PostalCode>08557-570</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>179</StreetNumber>
-        <Latitude>-23.5106603</Latitude>
-        <Longitude>-46.3422024</Longitude>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — ARACARE]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878771431421121.jpg</Item>
-        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878771431421121.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-8787704231178</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Apartamento, 92.36 de área total, 58.69 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.
-
-{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
-
- {{descricao_caixa}} 
-
-Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>58.69</LivingArea>
-        <LotArea>92.36</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">200836</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address><![CDATA[RUA VEREADOR OSCAR ANTONIO GHIRALDELLI]]></Address>
-        <Complement><![CDATA[Apto 94, BL A]]></Complement>
-        <City><![CDATA[HORTOLANDIA]]></City>
-        <Neighborhood><![CDATA[JARDIM SANTA CLARA DO LAGO I]]></Neighborhood>
-        <PostalCode>13186-631</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>361</StreetNumber>
-        <Latitude>-22.8885636</Latitude>
-        <Longitude>-47.1996879</Longitude>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — JARDIM SANTA CLARA DO LAGO I]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878770423117821.jpg</Item>
-        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878770423117821.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-1444415855490</ListingID>
       <ContactInfo>
         <Email>contato@sellarimoveis.com.br</Email>
@@ -35668,52 +35380,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-8787712946571</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Apartamento, 108.39 de área total, 43.06 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.
-
-{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
-
- {{descricao_caixa}} 
-
-Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>43.06</LivingArea>
-        <LotArea>108.39</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">86400</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address><![CDATA[VIA JERÔNIMO ALFREDO AMOR ESPIN]]></Address>
-        <Complement><![CDATA[Apto 11, BL F TORRE 3]]></Complement>
-        <City><![CDATA[RIBEIRAO PRETO]]></City>
-        <Neighborhood><![CDATA[JARDIM FLORESTAN FERNANDES]]></Neighborhood>
-        <PostalCode>14100-000</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>400</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — JARDIM FLORESTAN FERNANDES]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878771294657121.jpg</Item>
-        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878771294657121.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-8555540138544</ListingID>
       <ContactInfo>
         <Email>contato@sellarimoveis.com.br</Email>
@@ -35760,55 +35426,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F855554013854421.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F855554013854421.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-8787707874720</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Apartamento, 80.32 de área total, 41.85 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.
-
-{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
-
- {{descricao_caixa}} 
-
-Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>41.85</LivingArea>
-        <LotArea>80.32</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">91200</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address><![CDATA[RUA JOAO E GUIOMAR SOEIRA]]></Address>
-        <Complement><![CDATA[Apto 401, BL 30]]></Complement>
-        <City><![CDATA[RIBEIRAO PRETO]]></City>
-        <Neighborhood><![CDATA[RESERVA REAL]]></Neighborhood>
-        <PostalCode>14094-645</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>155</StreetNumber>
-        <Latitude>-21.1885212</Latitude>
-        <Longitude>-47.7299764</Longitude>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — RESERVA REAL]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878770787472021.jpg</Item>
-        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878770787472021.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
@@ -50800,54 +50417,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878771768801521.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878771768801521.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-8555531138472</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Apartamento, 96.81 de área total, 44.24 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.
-
-{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
-
- {{descricao_caixa}} 
-
-Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>44.24</LivingArea>
-        <LotArea>96.81</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">179405</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address><![CDATA[AVENIDA DOMINGOS MALDONADO CAMPOY]]></Address>
-        <Complement><![CDATA[Apto 107, BL 01 TERREO VG 07]]></Complement>
-        <City><![CDATA[SAO JOSE DOS CAMPOS]]></City>
-        <Neighborhood><![CDATA[PARQUE RESIDENCIAL FLAMBOYANT]]></Neighborhood>
-        <PostalCode>12227-801</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>161</StreetNumber>
-        <Latitude>-23.2161608</Latitude>
-        <Longitude>-45.8534867</Longitude>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — PARQUE RESIDENCIAL FLAMBOYANT]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F855553113847221.jpg</Item>
-        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F855553113847221.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
