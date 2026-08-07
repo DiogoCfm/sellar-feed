@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-08-07T01:56:35</Date>
+  <Date>2026-08-07T06:55:41</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE205</ListingID>
@@ -1142,7 +1142,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">86063</ListPrice>
@@ -1333,7 +1333,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">104000</ListPrice>
@@ -1523,7 +1523,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">102345</ListPrice>
@@ -1774,7 +1774,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Complement><![CDATA[Apto 104, BL 13 VAGA 187]]></Complement>
         <City><![CDATA[BAURU]]></City>
         <Neighborhood><![CDATA[PARQUE DAS NACOES]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>17053-013</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>13-129</StreetNumber>
         <Latitude>-22.3486719</Latitude>
@@ -2102,7 +2102,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">97571</ListPrice>
@@ -2341,7 +2341,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">94219</ListPrice>
@@ -5750,7 +5750,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">114839</ListPrice>
@@ -6038,7 +6038,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">96297</ListPrice>
@@ -6086,7 +6086,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">96297</ListPrice>
@@ -6180,7 +6180,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">102341</ListPrice>
@@ -6228,7 +6228,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">97778</ListPrice>
@@ -6516,7 +6516,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">120883</ListPrice>
@@ -6848,7 +6848,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">104889</ListPrice>
@@ -7241,7 +7241,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Complement><![CDATA[Apto 01, BL F TORRE 4]]></Complement>
         <City><![CDATA[ARARAQUARA]]></City>
         <Neighborhood><![CDATA[CAMPOS VILLE]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>14800-715</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>485</StreetNumber>
         <Latitude>-21.816158</Latitude>
@@ -7421,7 +7421,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -7806,7 +7805,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">115383</ListPrice>
@@ -9017,7 +9016,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Complement><![CDATA[Apto 302, BL 11 VG 387]]></Complement>
         <City><![CDATA[BIRIGUI]]></City>
         <Neighborhood><![CDATA[JARDIM NOSSA SENHORA DE FATIMA]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>16200-776</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>78</StreetNumber>
       </Location>
@@ -9256,7 +9255,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Complement><![CDATA[Apto 303, BL 19]]></Complement>
         <City><![CDATA[BIRIGUI]]></City>
         <Neighborhood><![CDATA[VILA GIAMPIETRO]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>16200-776</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>78</StreetNumber>
         <Latitude>-21.2865778</Latitude>
@@ -9352,7 +9351,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Complement><![CDATA[Apto 103, BL. 09]]></Complement>
         <City><![CDATA[ARACATUBA]]></City>
         <Neighborhood><![CDATA[CONJUNTO HABITACIONAL CLAUDIONOR CINTI]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>16023-000</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>140</StreetNumber>
         <Latitude>-21.225964</Latitude>
@@ -9824,7 +9823,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">85624</ListPrice>
@@ -9834,7 +9833,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Complement><![CDATA[Apto 201, BL 22 VG 184 E 185 RUA ARMANDO DELLE]]></Complement>
         <City><![CDATA[BIRIGUI]]></City>
         <Neighborhood><![CDATA[VILA GIAMPIETRO]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>16000-000</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>78</StreetNumber>
       </Location>
@@ -9919,7 +9918,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -10595,7 +10593,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">94815</ListPrice>
@@ -12219,7 +12217,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">106667</ListPrice>
@@ -12315,7 +12313,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">107260</ListPrice>
@@ -12325,7 +12323,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Complement><![CDATA[Apto 403, BL 09]]></Complement>
         <City><![CDATA[BAURU]]></City>
         <Neighborhood><![CDATA[PARQUE VIADUTO]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>17055-175</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>13-27</StreetNumber>
         <Latitude>-22.3478692</Latitude>
@@ -16351,7 +16349,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA ADELINO CATTARIN]]></Address>
         <City><![CDATA[BIRIGUI]]></City>
         <Neighborhood><![CDATA[COLINAS PARK RESIDENCIAL]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>16207-004</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>591</StreetNumber>
         <Latitude>-21.3041473</Latitude>
@@ -17540,7 +17538,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">369642</ListPrice>
@@ -17550,7 +17547,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Complement><![CDATA[QD 63, UND 0, LT M]]></Complement>
         <City><![CDATA[BAURU]]></City>
         <Neighborhood><![CDATA[JARDIM SOLANGE]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>17054-664</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>2-44</StreetNumber>
         <Latitude>-22.3510461</Latitude>
@@ -18263,7 +18260,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">535853</ListPrice>
@@ -18309,7 +18306,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">1106217</ListPrice>
@@ -18357,7 +18354,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">791180</ListPrice>
@@ -18405,7 +18402,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">559187</ListPrice>
@@ -18596,7 +18593,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">1571832</ListPrice>
@@ -18693,7 +18690,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">319932</ListPrice>
@@ -18703,7 +18700,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Complement><![CDATA[SL 211 BL D]]></Complement>
         <City><![CDATA[CAMPINAS]]></City>
         <Neighborhood><![CDATA[LOTEAMENTO CENTER SANTA GENEBRA]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>13080-650</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>214</StreetNumber>
         <Latitude>-22.8464799</Latitude>
@@ -19559,7 +19556,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">117432</ListPrice>
@@ -19568,7 +19565,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Address><![CDATA[RUA CAMPOS DO JORDAO]]></Address>
         <City><![CDATA[AGUAS DE LINDOIA]]></City>
         <Neighborhood><![CDATA[PARQUE DAS FONTES]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>13940-000</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>180</StreetNumber>
         <Latitude>-22.4863444</Latitude>
@@ -19750,7 +19747,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">1083434</ListPrice>
@@ -20136,7 +20133,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">701320</ListPrice>
@@ -20329,7 +20325,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">114839</ListPrice>
@@ -20388,7 +20383,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Complement><![CDATA[QD 24 LT QR1]]></Complement>
         <City><![CDATA[BAURU]]></City>
         <Neighborhood><![CDATA[VILA SAO FRANCISCO]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>17054-240</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>1-48</StreetNumber>
         <Latitude>-22.3417651</Latitude>
@@ -21144,7 +21139,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">88148</ListPrice>
@@ -21433,7 +21428,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">115134</ListPrice>
@@ -21443,7 +21438,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Complement><![CDATA[ÁREA REMANESCENTE 01]]></Complement>
         <City><![CDATA[CACHOEIRA PAULISTA]]></City>
         <Neighborhood><![CDATA[BAIRRO DAS PALMEIRAS]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>12630-000</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber/>
         <Latitude>-22.67679</Latitude>
@@ -22579,7 +22574,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">907854</ListPrice>
@@ -22589,7 +22584,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Complement><![CDATA[LT 19 QD 36]]></Complement>
         <City><![CDATA[CAMPINAS]]></City>
         <Neighborhood><![CDATA[CIDADE SATELITE IRIS]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>13059-587</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber/>
         <Latitude>-22.9393458</Latitude>
@@ -24211,7 +24206,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-
+        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">120883</ListPrice>
@@ -25316,7 +25311,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">744463</ListPrice>
@@ -26132,7 +26127,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">115814</ListPrice>
@@ -26142,7 +26137,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Complement><![CDATA[LOTE 5 QUADRA 37]]></Complement>
         <City><![CDATA[BOTUCATU]]></City>
         <Neighborhood><![CDATA[ALVORADA DE BARRA BONITA (VITORIANA)]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>18619-548</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber/>
         <Latitude>-22.9230889</Latitude>
@@ -26712,7 +26707,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">280418</ListPrice>
@@ -26722,7 +26716,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Complement><![CDATA[LT 19, QD M, LOT COLINAS DO ERMITAGE]]></Complement>
         <City><![CDATA[CAMPINAS]]></City>
         <Neighborhood><![CDATA[JARDIM BOTANICO (SOUSAS)]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>13106-202</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber/>
         <Latitude>-22.8823639</Latitude>
@@ -27775,7 +27769,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">1210897</ListPrice>
@@ -27870,7 +27864,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">1769822</ListPrice>
@@ -27880,7 +27873,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Complement><![CDATA[LT 07, QD A]]></Complement>
         <City><![CDATA[BRAGANCA PAULISTA]]></City>
         <Neighborhood><![CDATA[CONDOMINIO RESIDENCIAL VILA AMERICA RESO]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>12902-162</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>101</StreetNumber>
         <Latitude>-22.9626858</Latitude>
@@ -28213,7 +28206,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Complement><![CDATA[LT A]]></Complement>
         <City><![CDATA[CAFELANDIA]]></City>
         <Neighborhood><![CDATA[PENA]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>16503-018</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>677</StreetNumber>
         <Latitude>-21.8037124</Latitude>
@@ -28874,7 +28867,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">1426947</ListPrice>
@@ -29112,7 +29105,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">84482</ListPrice>
@@ -29446,7 +29439,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">104889</ListPrice>
@@ -29504,7 +29497,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Complement><![CDATA[Apto 22, BL B]]></Complement>
         <City><![CDATA[CAMPINAS]]></City>
         <Neighborhood><![CDATA[CONJUNTO HABITACIONAL PADRE ANCHIETA]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>13068-315</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>520</StreetNumber>
         <Latitude>-22.8613176</Latitude>
@@ -29639,7 +29632,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita Financiamento</Feature>
         <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
@@ -31627,7 +31619,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">100208</ListPrice>
@@ -32114,7 +32105,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">120580</ListPrice>
@@ -32124,7 +32114,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Complement><![CDATA[Apto 04, TORRE 12]]></Complement>
         <City><![CDATA[CAMPINAS]]></City>
         <Neighborhood><![CDATA[JARDIM ROSSIN]]></Neighborhood>
-        <PostalCode/>
+        <PostalCode>13059-235</PostalCode>
         <State abbreviation="SP">São Paulo</State>
         <StreetNumber>397</StreetNumber>
         <Latitude>-22.9285841</Latitude>
@@ -33083,7 +33073,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">87819</ListPrice>
@@ -33226,7 +33216,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">81379</ListPrice>
@@ -33994,7 +33984,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">84892</ListPrice>
@@ -34566,7 +34556,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">86649</ListPrice>
@@ -34614,7 +34604,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">86941</ListPrice>
@@ -35334,7 +35324,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">88990</ListPrice>
@@ -36479,7 +36469,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">92445</ListPrice>
@@ -41748,7 +41738,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">114234</ListPrice>
@@ -44442,7 +44432,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">113328</ListPrice>
