@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-08-07T12:33:41</Date>
+  <Date>2026-08-07T18:34:58</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE205</ListingID>
@@ -28945,6 +28945,54 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+      <ListingID>Caixa.Sellar-CAIXA-8787716306046</ListingID>
+      <ContactInfo>
+        <Email>contato@sellarimoveis.com.br</Email>
+        <Name><![CDATA[Painel Caixa]]></Name>
+      </ContactInfo>
+      <Destaque>Nao</Destaque>
+      <Details>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Description><![CDATA[Apartamento, 83.66 de área total, 39.30 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.
+
+{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
+
+ {{descricao_caixa}} 
+
+Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
+        <Garage>1</Garage>
+        <LivingArea>39.3</LivingArea>
+        <LotArea>83.66</LotArea>
+        <PropertyAdministrationFee>0</PropertyAdministrationFee>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Suites>0</Suites>
+        <YearlyTax>0</YearlyTax>
+        <Features>
+        <Feature>Aceita FGTS</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">120883</ListPrice>
+      </Details>
+      <Location displayAddress="All">
+        <Address><![CDATA[AVENIDA GOVERNADOR ORESTES QUERCIA]]></Address>
+        <Complement><![CDATA[Apto 403, BL 10]]></Complement>
+        <City><![CDATA[ARARAQUARA]]></City>
+        <Neighborhood><![CDATA[ALTOS DO JARAGUA]]></Neighborhood>
+        <PostalCode>14804-700</PostalCode>
+        <State abbreviation="SP">São Paulo</State>
+        <StreetNumber>1201</StreetNumber>
+        <Latitude>-21.7815482</Latitude>
+        <Longitude>-48.202436</Longitude>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Apartamento — ALTOS DO JARAGUA]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878771630604621.jpg</Item>
+        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878771630604621.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-8787720102204</ListingID>
       <ContactInfo>
         <Email>contato@sellarimoveis.com.br</Email>
@@ -42949,7 +42997,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">146026</ListPrice>
@@ -56955,7 +57003,7 @@ Agende sua visita e venha conhecer seu novo lar!]]></Description>
             <PublicationType>STANDARD</PublicationType>
             <Details>
                 <YearBuilt>2024</YearBuilt>
-                <ListPrice currency="BRL">507999</ListPrice>
+                <ListPrice currency="BRL">499999</ListPrice>
                 <PropertyAdministrationFee currency="BRL">950</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">696</YearlyTax>
                 <Description><![CDATA[Studio à venda no Condomínio West Side Studios  Vila Madalena.
@@ -59052,7 +59100,7 @@ Agende sua visita e descubra o potencial deste imóvel exclusivo na Vila Ida.]]>
                 <Neighborhood><![CDATA[Jardim Íris]]></Neighborhood>
                 <Address><![CDATA[Avenida Raimundo Pereira de Magalhães]]></Address>
                 <StreetNumber><![CDATA[1652]]></StreetNumber>
-                <Complement><![CDATA[61]]></Complement>
+                <Complement><![CDATA[Apto. 61 - Torre 4]]></Complement>
                 <PostalCode>05145-902</PostalCode>
                 <Longitude>-46.7180127</Longitude>
                 <Latitude>-23.5050573</Latitude>
@@ -61596,13 +61644,13 @@ Ideal para quem busca um investimento seguro na metrópole pulsante de São Paul
             </Details>
         </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
             <ListingID>NONSTOP-sellarimoveis#HW36L</ListingID>
-            <Title><![CDATA[Apartamento para venda em Freguesia Do Ó com 2 quartos, sendo 1 suíte, 87m²]]></Title>
+            <Title><![CDATA[Apartamento para venda em Freguesia do Ó com 2 quartos, sendo 1 suíte, 87m²]]></Title>
             <TransactionType>For Sale</TransactionType>
             <Location displayAddress="All">
                 <Country abbreviation="BR">Brasil</Country>
                 <State abbreviation="SP"><![CDATA[São Paulo]]></State>
                 <City><![CDATA[São Paulo]]></City>
-                <Neighborhood><![CDATA[Freguesia Do Ó]]></Neighborhood>
+                <Neighborhood><![CDATA[Freguesia do Ó]]></Neighborhood>
                 <Address><![CDATA[Rua Balsa]]></Address>
                 <StreetNumber><![CDATA[1301]]></StreetNumber>
                 <Complement><![CDATA[T4]]></Complement>
@@ -68889,7 +68937,7 @@ Conta ainda com espaços exclusivos como boliche, cinema, brinquedoteca, playgro
             <PublicationType>STANDARD</PublicationType>
             <Details>
                 <YearBuilt>2015</YearBuilt>
-                <ListPrice currency="BRL">559980</ListPrice>
+                <ListPrice currency="BRL">554999</ListPrice>
                 <PropertyAdministrationFee currency="BRL">539</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">154</YearlyTax>
                 <Description><![CDATA[Apartamento com Varanda 2 dormitórios sendo 1 Suíte a venda no condomínio Matriz Freguesia do Ó Zona Norte de São Paulo.
@@ -72861,54 +72909,48 @@ Uma casa cheia de história,  muito bem conservada e com excelente potencial par
                 <ListPrice currency="BRL">430000</ListPrice>
                 <PropertyAdministrationFee currency="BRL">463</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">490</YearlyTax>
-                <Description><![CDATA[Se existe um fator que diferencia este imóvel é a localização estratégica em Perdizes, um dos bairros mais desejados e valorizados de São Paulo.
-Este studio de 27 m² no Welconx Perdizes une praticidade, modernidade e mobilidade em uma região que concentra infraestrutura completa, vida cultural ativa e fácil acesso às principais áreas da cidade.
-Ideal tanto para moradia quanto para investimento, atende perfeitamente ao estilo de vida urbano, dinâmico e conectado.
-Localização: O Grande Diferencial
-Morar em Perdizes significa estar cercado por conveniência, mobilidade e lazer.
-O condomínio está próximo de importantes referências da cidade:
-- Estação Palmeiras-Barra Funda
-- PUC-SP Campus Monte Alegre
-- Uninove Campus Barra Funda
-- Allianz Parque
-- Parque da Água Branca
-- Sesc Pompeia
-- Shopping Bourbon
-- West Plaza
-- SENAC Francisco Matarazzo
-Além de ampla oferta de supermercados, padarias, farmácias, restaurantes, escolas e transporte público a poucos minutos  reduzindo deslocamentos e elevando a qualidade de vida.
-Para investidores, trata-se de uma das regiões com maior liquidez e demanda constante por locação, especialmente pelo público universitário e profissional.
-O Studio
-- 27 m² bem distribuídos
-- Dormitório integrado
-- Banheiro
-- Preparação para ar-condicionado
-- Infraestrutura para máquina lava e seca
-- Projeto de design de interiores já desenvolvido e pronto para execução
-Espaço funcional, versátil e ideal para personalização.
+                <Description><![CDATA[Imagine investir em um imóvel que pode gerar renda durante todo o ano, impulsionado por uma demanda constante de turistas, executivos, universitários que visitam São Paulo para participar de shows, eventos, feiras e congressos.
 
-Condomínio Completo
-O Welconx Perdizes foi planejado para o estilo de vida contemporâneo e oferece:
-- Portaria e segurança 24h
-- Coworking
-- Academia interna e externa
-- Piscinas adulto e infantil
-- Lavanderia coletiva
-- Churrasqueira
-- Brinquedoteca
-- Salão de festas
-- Solarium
-Estrutura que agrega valor ao imóvel e aumenta sua atratividade para locação.
+Este studio, localizado no Welconx Perdizes, reúne exatamente as características que investidores procuram: localização estratégica, condomínio moderno, alta liquidez e excelente potencial de valorização.
+Por ser um imóvel NR1-12 (Não Residencial), é uma excelente alternativa para quem deseja explorar o mercado de locação por temporada, um segmento em crescimento nas principais regiões da capital paulista.
 
-Por que este imóvel se destaca?
-- Localização premium em Perdizes
-- Alta demanda para moradia e locação
-- Condomínio moderno e completo
-- Excelente potencial de valorização
+A poucos minutos do condomínio está o Allianz Parque, uma das principais arenas do país, que recebe grandes shows nacionais e internacionais, partidas de futebol, festivais e eventos durante todo o ano.
+A região também abriga importantes espaços de entretenimento e eventos, como o Espaço Unimed, referência em apresentações musicais, e o Memorial da América Latina, palco de feiras, exposições, festivais culturais e congressos.
 
-Seja para morar com praticidade ou investir com segurança, este studio reúne localização estratégica e infraestrutura diferenciada  combinação essencial para um investimento inteligente.
+Esse fluxo constante de pessoas amplia muito o potencial de ocupação do imóvel por meio de plataformas de hospedagem.
 
-Agende sua visita e conheça de perto essa oportunidade em uma das regiões mais valorizadas da cidade.]]></Description>
+A localização também atende diferentes perfis de hóspedes. Além dos visitantes de shows e eventos, a região recebe estudantes, professores, médicos, pacientes, executivos e profissionais que procuram hospedagens práticas e bem localizadas.
+Nas proximidades encontram-se:
+- Estação PalmeirasBarra Funda;
+- PUC-SP  Campus Monte Alegre;
+- Uninove  Campus Barra Funda;
+- SENAC Francisco Matarazzo;
+- Shopping Bourbon;
+- West Plaza;
+- Parque da Água Branca;
+- Sesc Pompeia;
+- hospitais e centros médicos da região.
+
+Essa diversidade de públicos reduz a sazonalidade das locações e contribui para uma ocupação consistente ao longo do ano.
+
+Com 27 m², o imóvel conta com:
+- Dormitório integrado;
+- Banheiro;
+- Infraestrutura para instalação de ar-condicionado; e máquina lava e seca;
+- Projeto completo de design de interiores já desenvolvido e pronto para execução, permitindo colocar o imóvel rapidamente em operação.
+
+O Welconx Perdizes oferece uma infraestrutura que agrega valor à experiência dos hóspedes e aumenta a competitividade do imóvel nas plataformas de locação. Entre as comodidades estão:
+- Portaria e segurança 24 horas;
+- Coworking;
+- Academia interna e externa;
+- Piscinas adulto e infantil;
+- Lavanderia coletiva;
+- Churrasqueira;
+- Salão de festas;
+- Brinquedoteca;
+- Solarium.
+
+Agende sua visita e descubra por que este studio NR1-12 no Welconx Perdizes pode ser o seu próximo investimento.]]></Description>
                 <PropertyType>Residential / Studio</PropertyType>
                 <LivingArea unit="square metres">27</LivingArea>
                 <LotArea unit="square metres">27</LotArea>
@@ -74186,7 +74228,7 @@ Este imóvel extraordinário no 4º andar é a escolha perfeita para quem busca 
             <PublicationType>STANDARD</PublicationType>
             <Details>
                 <YearBuilt>2026</YearBuilt>
-                <ListPrice currency="BRL">1690000</ListPrice>
+                <ListPrice currency="BRL">1595000</ListPrice>
                 <PropertyAdministrationFee currency="BRL">1500</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">200</YearlyTax>
                 <Description><![CDATA[Descubra o luxo moderno neste incrível apartamento disponível para venda, situado no coração de Perdizes, São Paulo. Localizado na Rua Campevas, 239, este imóvel foi projetado com atenção impecável aos detalhes e concluído em janeiro de 2026, garantindo a combinação perfeita de estilo contemporâneo e funcionalidade.
@@ -86881,7 +86923,7 @@ A poucos]]></Description>
             </Media>
             <PublicationType>STANDARD</PublicationType>
             <Details>
-                <ListPrice currency="BRL">1400000</ListPrice>
+                <ListPrice currency="BRL">1250000</ListPrice>
                 <PropertyAdministrationFee currency="BRL">875</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">170</YearlyTax>
                 <Description><![CDATA[São 72 m² muito bem distribuídos, com uma planta moderna e funcional, composta por 2 suítes, ambientes integrados e excelente aproveitamento dos espaços.
@@ -93957,7 +93999,7 @@ Serviços essenciais como bancos, clínicas e co]]></Description>
             <PublicationType>STANDARD</PublicationType>
             <Details>
                 <YearBuilt>1977</YearBuilt>
-                <ListPrice currency="BRL">880000</ListPrice>
+                <ListPrice currency="BRL">850000</ListPrice>
                 <PropertyAdministrationFee currency="BRL">1928</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">524</YearlyTax>
                 <Description><![CDATA[Apartamento à venda no condomínio Las Palmas, ideal para quem busca conforto e praticidade. Em uma região residencial tranquila, com fácil acesso às Avenidas Sumaré, Alfonso Bovero e Pompéia.
@@ -99391,7 +99433,7 @@ Entre em contato agora mesmo e agende sua visita para conhecer pessoalmente esse
             <Details>
                 <ListPrice currency="BRL">1700000</ListPrice>
                 <PropertyAdministrationFee currency="BRL">2450</PropertyAdministrationFee>
-                <YearlyTax currency="BRL">24500</YearlyTax>
+                <YearlyTax currency="BRL">10790</YearlyTax>
                 <Description><![CDATA[Apartamento à venda na Pompéia com 130m², São 3 suítes, lavabo, 4 banheiros, sala para até 3 ambientes, varanda, cozinha espaçosa, área de serviço completa e 3 vagas de garagem.
 
 Condomínio com: Piscina, Churrasqueira, Espaço Gourmet, Academia, Brinquedoteca, Quadra, Piscina Aquecida, Playground, Salão de Festas e Área Verde.]]></Description>
