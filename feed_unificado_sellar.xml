@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-08-10T18:38:01</Date>
+  <Date>2026-08-11T00:43:06</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE205</ListingID>
@@ -5008,54 +5008,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-8787712094761</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Apartamento, 114.48 de área total, 46.51 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.
-
-{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
-
- {{descricao_caixa}} 
-
-Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>46.51</LivingArea>
-        <LotArea>114.48</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">120701</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address><![CDATA[AVENIDA LARANJAL PAULISTA]]></Address>
-        <Complement><![CDATA[Apto 01, BL 06 TORRE 02]]></Complement>
-        <City><![CDATA[PIRACICABA]]></City>
-        <Neighborhood><![CDATA[CAMPESTRE]]></Neighborhood>
-        <PostalCode>13401-630</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>1155</StreetNumber>
-        <Latitude>-22.7747422</Latitude>
-        <Longitude>-47.6588304</Longitude>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — CAMPESTRE]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878771209476121.jpg</Item>
-        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878771209476121.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-8444434866513</ListingID>
       <ContactInfo>
         <Email>contato@sellarimoveis.com.br</Email>
@@ -5291,54 +5243,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878770278782921.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878770278782921.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-8555536356435</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Apartamento, 94.64 de área total, 41.85 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), 1 vaga(s) de garagem.
-
-{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
-
- {{descricao_caixa}} 
-
-Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>41.85</LivingArea>
-        <LotArea>94.64</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita FGTS</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">84892</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address><![CDATA[AVENIDA AUGUSTA VIOLA DA COSTA]]></Address>
-        <Complement><![CDATA[Apto 204, BL 16 1° ANDAR]]></Complement>
-        <City><![CDATA[ARARAS]]></City>
-        <Neighborhood><![CDATA[JARDIM JOSE OMETTO II]]></Neighborhood>
-        <PostalCode>13606-396</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>896</StreetNumber>
-        <Latitude>-22.3578648</Latitude>
-        <Longitude>-47.3409884</Longitude>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — JARDIM JOSE OMETTO II]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F855553635643521.jpg</Item>
-        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F855553635643521.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
@@ -6132,7 +6036,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">97778</ListPrice>
@@ -24470,7 +24374,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">135993</ListPrice>
@@ -78387,7 +78291,7 @@ Entre em contato agora mesmo e agende sua visita para conhecer esse projeto e co
             </Media>
             <PublicationType>STANDARD</PublicationType>
             <Details>
-                <ListPrice currency="BRL">810000</ListPrice>
+                <ListPrice currency="BRL">790000</ListPrice>
                 <PropertyAdministrationFee currency="BRL">723</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">2540</YearlyTax>
                 <Description><![CDATA[Apartamento no Boreal Madalena
@@ -78411,7 +78315,7 @@ OBS.: A iluminação dos spots foi inserido por IA, mas nada foi alterado na uni
                 </Features>
                 <Bathrooms>1</Bathrooms>
                 <Bedrooms>1</Bedrooms>
-                <Garage>1</Garage>
+                <Garage>0</Garage>
                 <UnitFloor>11</UnitFloor>
                 <Suites>1</Suites>
                 <UsageType>Residential</UsageType>
@@ -80445,8 +80349,8 @@ Agende sua visita e venha conhecer seu próximo imóvel.]]></Description>
             </Location>
             <Media>
                 <Item medium="video"><![CDATA[https://www.youtube.com/watch?v=Mhsd2sygxkY]]></Item>
-                <Item medium="image" caption="2106452c-5c7c-4e8e-9891-49d895a9f18f" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/6a0b2b19f83edcf52488f66e/images/2106452c-5c7c-4e8e-9891-49d895a9f18f.jpeg]]></Item>
-                <Item medium="image" caption="9aae3b22-cc6a-460b-b612-ea1f55a768bb" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a0b2b19f83edcf52488f66e/images/9aae3b22-cc6a-460b-b612-ea1f55a768bb.jpeg]]></Item>
+                <Item medium="image" caption="9aae3b22-cc6a-460b-b612-ea1f55a768bb" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/6a0b2b19f83edcf52488f66e/images/9aae3b22-cc6a-460b-b612-ea1f55a768bb.jpeg]]></Item>
+                <Item medium="image" caption="2106452c-5c7c-4e8e-9891-49d895a9f18f" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a0b2b19f83edcf52488f66e/images/2106452c-5c7c-4e8e-9891-49d895a9f18f.jpeg]]></Item>
                 <Item medium="image" caption="cfe79085-e90f-46de-a7ce-ef31f1238ce8" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a0b2b19f83edcf52488f66e/images/cfe79085-e90f-46de-a7ce-ef31f1238ce8.jpeg]]></Item>
                 <Item medium="image" caption="709fa372-4571-4bee-b7e6-474390f137e1" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a0b2b19f83edcf52488f66e/images/709fa372-4571-4bee-b7e6-474390f137e1.jpeg]]></Item>
                 <Item medium="image" caption="8efdd6f0-90d6-45fd-a0cd-2f88a2ade57e" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a0b2b19f83edcf52488f66e/images/8efdd6f0-90d6-45fd-a0cd-2f88a2ade57e.jpeg]]></Item>
@@ -83609,14 +83513,14 @@ Portaria 24 horas e sistema de segurança completam a estrutura.]]></Description
             <VirtualTourLink><![CDATA[https://youtu.be/TEf8Z72Wthg]]></VirtualTourLink>
             <Media>
                 <Item medium="video"><![CDATA[https://www.youtube.com/watch?v=TEf8Z72Wthg]]></Item>
-                <Item medium="image" caption="de4c621e-4e83-4f58-bd8f-e07525eba558" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/6a1881835ccc4bb51de01884/images/de4c621e-4e83-4f58-bd8f-e07525eba558.jpeg]]></Item>
+                <Item medium="image" caption="bba1caad-fca9-4aca-b669-6cde713f9d99" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/6a1881835ccc4bb51de01884/images/bba1caad-fca9-4aca-b669-6cde713f9d99.jpeg]]></Item>
+                <Item medium="image" caption="de4c621e-4e83-4f58-bd8f-e07525eba558" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a1881835ccc4bb51de01884/images/de4c621e-4e83-4f58-bd8f-e07525eba558.jpeg]]></Item>
                 <Item medium="image" caption="04712ad5-aa61-4f7b-bc2f-646059b4372b" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a1881835ccc4bb51de01884/images/04712ad5-aa61-4f7b-bc2f-646059b4372b.jpeg]]></Item>
                 <Item medium="image" caption="acc678c8-da5f-4b4f-954a-30dc4312c685" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a1881835ccc4bb51de01884/images/acc678c8-da5f-4b4f-954a-30dc4312c685.jpeg]]></Item>
                 <Item medium="image" caption="712c1bad-6abd-47f4-86c4-a1d48677cafd" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a1881835ccc4bb51de01884/images/712c1bad-6abd-47f4-86c4-a1d48677cafd.jpeg]]></Item>
                 <Item medium="image" caption="9e4c4423-36a0-4652-b6fc-6f644587dfe6" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a1881835ccc4bb51de01884/images/9e4c4423-36a0-4652-b6fc-6f644587dfe6.jpeg]]></Item>
                 <Item medium="image" caption="d3ab5a8d-e697-4413-ac17-125ae8ed3754" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a1881835ccc4bb51de01884/images/d3ab5a8d-e697-4413-ac17-125ae8ed3754.jpeg]]></Item>
                 <Item medium="image" caption="f7f99dc8-07ad-42e8-bfa1-8196aa42447e" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a1881835ccc4bb51de01884/images/f7f99dc8-07ad-42e8-bfa1-8196aa42447e.jpeg]]></Item>
-                <Item medium="image" caption="bba1caad-fca9-4aca-b669-6cde713f9d99" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a1881835ccc4bb51de01884/images/bba1caad-fca9-4aca-b669-6cde713f9d99.jpeg]]></Item>
                 <Item medium="image" caption="da304423-c523-4b0e-ae2e-21164ef10392" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a1881835ccc4bb51de01884/images/da304423-c523-4b0e-ae2e-21164ef10392.jpeg]]></Item>
                 <Item medium="image" caption="6a1a286b-36aa-44c3-aee7-d1e1987f8fdf" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a1881835ccc4bb51de01884/images/6a1a286b-36aa-44c3-aee7-d1e1987f8fdf.jpeg]]></Item>
                 <Item medium="image" caption="46679fc2-3aa4-4489-b37f-381ccff4b7f2" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a1881835ccc4bb51de01884/images/46679fc2-3aa4-4489-b37f-381ccff4b7f2.jpeg]]></Item>
@@ -83641,7 +83545,7 @@ Portaria 24 horas e sistema de segurança completam a estrutura.]]></Description
             </Media>
             <PublicationType>STANDARD</PublicationType>
             <Details>
-                <ListPrice currency="BRL">449000</ListPrice>
+                <ListPrice currency="BRL">439900</ListPrice>
                 <PropertyAdministrationFee currency="BRL">373</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">0</YearlyTax>
                 <Description><![CDATA[Vibra Lapa
@@ -87379,90 +87283,6 @@ Agende uma visita comigo!]]></Description>
                 <Garage>0</Garage>
                 <UnitFloor>3</UnitFloor>
                 <Suites>1</Suites>
-                <UsageType>Residential</UsageType>
-            </Details>
-        </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-            <ListingID>NONSTOP-sellarimoveis#VM0LP</ListingID>
-            <Title><![CDATA[Apartamento para venda em Pompeia com 2 quartos, 84m²]]></Title>
-            <TransactionType>For Sale</TransactionType>
-            <Location displayAddress="All">
-                <Country abbreviation="BR">Brasil</Country>
-                <State abbreviation="SP"><![CDATA[São Paulo]]></State>
-                <City><![CDATA[São Paulo]]></City>
-                <Neighborhood><![CDATA[Pompeia]]></Neighborhood>
-                <Address><![CDATA[Rua Guiara]]></Address>
-                <StreetNumber><![CDATA[81]]></StreetNumber>
-                <Complement><![CDATA[5]]></Complement>
-                <PostalCode>05025-020</PostalCode>
-                <Longitude>-46.6891511</Longitude>
-                <Latitude>-23.5346925</Latitude>
-            </Location>
-            <Media>
-                <Item medium="image" caption="601301002_68_1_rua_guiara_81_pompeia_vende_1_.jpeg" primary="true"><![CDATA[https://images.usenonstop.com.br/property-images/6a285b387a575a0a629e6b8e/images/1716241547833-601301002_68_1_rua_guiara_81_pompeia_vende_1_.jpeg]]></Item>
-                <Item medium="image" caption="601301002_68_1_rua_guiara_81_pompeia_vende_2_.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285b387a575a0a629e6b8e/images/1716241548312-601301002_68_1_rua_guiara_81_pompeia_vende_2_.jpeg]]></Item>
-                <Item medium="image" caption="601301002_68_1_rua_guiara_81_pompeia_vende_3_.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285b387a575a0a629e6b8e/images/1716241548475-601301002_68_1_rua_guiara_81_pompeia_vende_3_.jpeg]]></Item>
-                <Item medium="image" caption="601301002_68_1_rua_guiara_81_pompeia_vende_4_.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285b387a575a0a629e6b8e/images/1716241548585-601301002_68_1_rua_guiara_81_pompeia_vende_4_.jpeg]]></Item>
-                <Item medium="image" caption="601301002_68_1_rua_guiara_81_pompeia_vende_5_.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285b387a575a0a629e6b8e/images/1716241548703-601301002_68_1_rua_guiara_81_pompeia_vende_5_.jpeg]]></Item>
-                <Item medium="image" caption="601301002_68_1_rua_guiara_81_pompeia_vende_6_.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285b387a575a0a629e6b8e/images/1716241548810-601301002_68_1_rua_guiara_81_pompeia_vende_6_.jpeg]]></Item>
-                <Item medium="image" caption="601301002_68_1_rua_guiara_81_pompeia_vende_7_.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285b387a575a0a629e6b8e/images/1716241548944-601301002_68_1_rua_guiara_81_pompeia_vende_7_.jpeg]]></Item>
-                <Item medium="image" caption="601301002_68_1_rua_guiara_81_pompeia_vende_8_.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285b387a575a0a629e6b8e/images/1716241549081-601301002_68_1_rua_guiara_81_pompeia_vende_8_.jpeg]]></Item>
-                <Item medium="image" caption="601301002_68_1_rua_guiara_81_pompeia_vende_9_.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285b387a575a0a629e6b8e/images/1716241549250-601301002_68_1_rua_guiara_81_pompeia_vende_9_.jpeg]]></Item>
-                <Item medium="image" caption="601301002_68_1_rua_guiara_81_pompeia_vende_10_.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285b387a575a0a629e6b8e/images/1716241549431-601301002_68_1_rua_guiara_81_pompeia_vende_10_.jpeg]]></Item>
-                <Item medium="image" caption="601301002_68_1_rua_guiara_81_pompeia_vende_11_.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285b387a575a0a629e6b8e/images/1716241549616-601301002_68_1_rua_guiara_81_pompeia_vende_11_.jpeg]]></Item>
-                <Item medium="image" caption="601301002_68_1_rua_guiara_81_pompeia_vende_12_.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285b387a575a0a629e6b8e/images/1716241549801-601301002_68_1_rua_guiara_81_pompeia_vende_12_.jpeg]]></Item>
-                <Item medium="image" caption="601301002_68_1_rua_guiara_81_pompeia_vende_13_.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285b387a575a0a629e6b8e/images/1716241549991-601301002_68_1_rua_guiara_81_pompeia_vende_13_.jpeg]]></Item>
-                <Item medium="image" caption="601301002_68_1_rua_guiara_81_pompeia_vende_14_.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285b387a575a0a629e6b8e/images/1716241550193-601301002_68_1_rua_guiara_81_pompeia_vende_14_.jpeg]]></Item>
-                <Item medium="image" caption="601301002_68_1_rua_guiara_81_pompeia_vende_15_.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285b387a575a0a629e6b8e/images/1716241550382-601301002_68_1_rua_guiara_81_pompeia_vende_15_.jpeg]]></Item>
-                <Item medium="image" caption="601301002_68_1_rua_guiara_81_pompeia_vende_16_.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285b387a575a0a629e6b8e/images/1716241550549-601301002_68_1_rua_guiara_81_pompeia_vende_16_.jpeg]]></Item>
-                <Item medium="image" caption="601301002_68_1_rua_guiara_81_pompeia_vende_17_.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285b387a575a0a629e6b8e/images/1716241550716-601301002_68_1_rua_guiara_81_pompeia_vende_17_.jpeg]]></Item>
-                <Item medium="image" caption="601301002_68_1_rua_guiara_81_pompeia_vende_18_.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285b387a575a0a629e6b8e/images/1716241550877-601301002_68_1_rua_guiara_81_pompeia_vende_18_.jpeg]]></Item>
-                <Item medium="image" caption="601301002_68_1_rua_guiara_81_pompeia_vende_19_.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285b387a575a0a629e6b8e/images/1716241551046-601301002_68_1_rua_guiara_81_pompeia_vende_19_.jpeg]]></Item>
-                <Item medium="image" caption="601301002_68_1_rua_guiara_81_pompeia_vende_20_.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285b387a575a0a629e6b8e/images/1716241551200-601301002_68_1_rua_guiara_81_pompeia_vende_20_.jpeg]]></Item>
-                <Item medium="image" caption="601301002_68_1_rua_guiara_81_pompeia_vende_21_.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285b387a575a0a629e6b8e/images/1716241551324-601301002_68_1_rua_guiara_81_pompeia_vende_21_.jpeg]]></Item>
-                <Item medium="image" caption="601301002_68_1_rua_guiara_81_pompeia_vende_22_.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285b387a575a0a629e6b8e/images/1716241551488-601301002_68_1_rua_guiara_81_pompeia_vende_22_.jpeg]]></Item>
-                <Item medium="image" caption="601301002_68_1_rua_guiara_81_pompeia_vende_23_.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285b387a575a0a629e6b8e/images/1716241551704-601301002_68_1_rua_guiara_81_pompeia_vende_23_.jpeg]]></Item>
-                <Item medium="image" caption="601301002_68_1_rua_guiara_81_pompeia_vende_24_.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285b387a575a0a629e6b8e/images/1716241551847-601301002_68_1_rua_guiara_81_pompeia_vende_24_.jpeg]]></Item>
-                <Item medium="image" caption="601301002_68_1_rua_guiara_81_pompeia_vende_25_.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285b387a575a0a629e6b8e/images/1716241552003-601301002_68_1_rua_guiara_81_pompeia_vende_25_.jpeg]]></Item>
-                <Item medium="image" caption="601301002_68_1_rua_guiara_81_pompeia_vende_26_.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285b387a575a0a629e6b8e/images/1716241552156-601301002_68_1_rua_guiara_81_pompeia_vende_26_.jpeg]]></Item>
-                <Item medium="image" caption="601301002_68_1_rua_guiara_81_pompeia_vende_27_.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285b387a575a0a629e6b8e/images/1716241552287-601301002_68_1_rua_guiara_81_pompeia_vende_27_.jpeg]]></Item>
-                <Item medium="image" caption="601301002_68_1_rua_guiara_81_pompeia_vende_28_.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285b387a575a0a629e6b8e/images/1716241552415-601301002_68_1_rua_guiara_81_pompeia_vende_28_.jpeg]]></Item>
-                <Item medium="image" caption="601301002_68_1_rua_guiara_81_pompeia_vende_29_.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285b387a575a0a629e6b8e/images/1716241552526-601301002_68_1_rua_guiara_81_pompeia_vende_29_.jpeg]]></Item>
-                <Item medium="image" caption="601301002_68_1_rua_guiara_81_pompeia_vende_30_.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285b387a575a0a629e6b8e/images/1716241552653-601301002_68_1_rua_guiara_81_pompeia_vende_30_.jpeg]]></Item>
-                <Item medium="image" caption="601301002_68_1_rua_guiara_81_pompeia_vende_31_.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285b387a575a0a629e6b8e/images/1716241552791-601301002_68_1_rua_guiara_81_pompeia_vende_31_.jpeg]]></Item>
-                <Item medium="image" caption="601301002_68_1_rua_guiara_81_pompeia_vende_32_.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285b387a575a0a629e6b8e/images/1716241553020-601301002_68_1_rua_guiara_81_pompeia_vende_32_.jpeg]]></Item>
-                <Item medium="image" caption="601301002_68_1_rua_guiara_81_pompeia_vende_33_.jpeg" primary="false"><![CDATA[https://images.usenonstop.com.br/property-images/6a285b387a575a0a629e6b8e/images/1716241553216-601301002_68_1_rua_guiara_81_pompeia_vende_33_.jpeg]]></Item>
-            </Media>
-            <PublicationType>STANDARD</PublicationType>
-            <Details>
-                <ListPrice currency="BRL">750000</ListPrice>
-                <PropertyAdministrationFee currency="BRL">634</PropertyAdministrationFee>
-                <YearlyTax currency="BRL">1519</YearlyTax>
-                <Description><![CDATA[Lindo apartamento, todo reformado!!! Em EXCELENTE LOCALIZAÇÃO!!!
-
-O apartamento possuía 84m² de área construída, sendo distribuído da seguinte forma:
-
- - 2 dormitórios amplos e com janelas antiruido. Possuí ar condicionado em um dos quartos. 
- - 2 banheiros, social e área de serviço
- - Sala ampla, com piso de madeira
- - Cozinha integrada com sala e acabamento e mercenária impecáveis 
- -Área de serviço com excelente ventilação
- 
-O apartamento foi reformado há 2 anos, incluindo parte hidráulica e elétrica. Possuí designer industrial, sem banheiro, cozinha e área de serviço. Possuí excelente ventilação natural e iluminação. 
-
-A localização do imóvel é bem estratégica, perfeita para quem busca facilidades de locomoção e de infraestrutura de comércio para as tarefas do dia a dia 
-Está à poucos metros da futura estação de metrô da linha laranja Pompéia, prevista para ser entregue em setembro de 2026. Possuí ao seu redor toda a infraestrutura de comércios na região, com fácil acesso a restaurantes, farmácias, mercados, shopping (Bourbon e West Plaza), academias, pet shop e está bem próximo ao Allianz Parque.
-
-Agende sua visita e venha morar em um apartamento localizado em uma das regiões mais cobiçadas de São Paulo.]]></Description>
-                <PropertyType>Residential / Apartment</PropertyType>
-                <LivingArea unit="square metres">84</LivingArea>
-                <Features>
-                    <Feature>Copa</Feature>
-                    <Feature>Pets Allowed</Feature>
-                </Features>
-                <Bathrooms>2</Bathrooms>
-                <Bedrooms>2</Bedrooms>
-                <Garage>1</Garage>
-                <UnitFloor>1</UnitFloor>
                 <UsageType>Residential</UsageType>
             </Details>
         </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
@@ -96395,7 +96215,7 @@ Sal]]></Description>
             </Details>
         </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
             <ListingID>NONSTOP-sellarimoveis#65L9B</ListingID>
-            <Title><![CDATA[Studio para venda em Pinheiros com 1 quarto, 29m²]]></Title>
+            <Title><![CDATA[Studio para venda em Pinheiros com 1 quarto, 22m²]]></Title>
             <TransactionType>For Sale</TransactionType>
             <Location displayAddress="All">
                 <Country abbreviation="BR">Brasil</Country>
@@ -96444,7 +96264,7 @@ Sal]]></Description>
             <PublicationType>STANDARD</PublicationType>
             <Details>
                 <YearBuilt>2026</YearBuilt>
-                <ListPrice currency="BRL">490000</ListPrice>
+                <ListPrice currency="BRL">460000</ListPrice>
                 <Description><![CDATA[Studio à venda – 22 m² | MOD Pinheiros | Pinheiros – São Paulo
 
 Invista em um dos bairros mais desejados de São Paulo. Esta Unidade de Setor Serviços de Moradia , com 22 m², localizada no MOD Pinheiros, apresenta um projeto contemporâneo, inteligente e funcional, ideal para quem busca praticidade, mobilidade e excelente potencial de valorização.
@@ -96480,7 +96300,7 @@ MOD Pinheiros: uma excelente oportunidade para investir em uma Unidade  Setor d 
 
 Previsão de Entrega para Agosto/2026]]></Description>
                 <PropertyType>Residential / Studio</PropertyType>
-                <LivingArea unit="square metres">29</LivingArea>
+                <LivingArea unit="square metres">22</LivingArea>
                 <Features>
                     <Feature>BBQ</Feature>
                     <Feature>Bicycles Place</Feature>
