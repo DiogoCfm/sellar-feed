@@ -3,7 +3,7 @@
  <Header>
   <Provider>Sellar Imoveis Middleware</Provider>
   <Email>contato@sellarimoveis.com.br</Email>
-  <Date>2026-08-13T00:52:08</Date>
+  <Date>2026-08-13T07:05:30</Date>
  </Header>
  <Listings><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>VISTA-SE205</ListingID>
@@ -421,7 +421,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">120883</ListPrice>
@@ -469,7 +469,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">126322</ListPrice>
@@ -517,7 +517,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">128740</ListPrice>
@@ -614,7 +614,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">157975</ListPrice>
@@ -999,7 +999,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">91571</ListPrice>
@@ -1048,7 +1048,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">145422</ListPrice>
@@ -1240,7 +1239,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">159908</ListPrice>
@@ -1309,54 +1308,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878770939825921.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878770939825921.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-8555538279039</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Apartamento, 94.64 de área total, 41.85 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.
-
-{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
-
- {{descricao_caixa}} 
-
-Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>41.85</LivingArea>
-        <LotArea>94.64</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">86063</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address><![CDATA[AVENIDA AUGUSTA VIOLA DA COSTA]]></Address>
-        <Complement><![CDATA[Apto 401, BL 03 VG 48]]></Complement>
-        <City><![CDATA[ARARAS]]></City>
-        <Neighborhood><![CDATA[JARDIM JOSE OMETTO II]]></Neighborhood>
-        <PostalCode>13606-020</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>896</StreetNumber>
-        <Latitude>-22.3578648</Latitude>
-        <Longitude>-47.3409884</Longitude>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — JARDIM JOSE OMETTO II]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F855553827903921.jpg</Item>
-        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F855553827903921.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
@@ -1599,55 +1550,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-8787715392593</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Apartamento, 81.95 de área total, 39.30 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.
-
-{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
-
- {{descricao_caixa}} 
-
-Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>39.3</LivingArea>
-        <LotArea>81.95</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">93949</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address><![CDATA[RUA AUGUSTO PAULO LIMA]]></Address>
-        <Complement><![CDATA[Apto 502, BL 04 VG 105]]></Complement>
-        <City><![CDATA[BAURU]]></City>
-        <Neighborhood><![CDATA[JARDIM COUNTRY CLUB]]></Neighborhood>
-        <PostalCode>17031-483</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>1-166</StreetNumber>
-        <Latitude>-22.319501</Latitude>
-        <Longitude>-49.0138429</Longitude>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — JARDIM COUNTRY CLUB]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878771539259321.jpg</Item>
-        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878771539259321.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-8787716428133</ListingID>
       <ContactInfo>
         <Email>contato@sellarimoveis.com.br</Email>
@@ -1814,7 +1716,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">117861</ListPrice>
@@ -2485,7 +2387,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">648680</ListPrice>
@@ -2533,7 +2435,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">94219</ListPrice>
@@ -2822,7 +2724,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">130825</ListPrice>
@@ -3061,7 +2963,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">120278</ListPrice>
@@ -3639,7 +3541,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">106667</ListPrice>
@@ -3783,7 +3685,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">109457</ListPrice>
@@ -4624,54 +4526,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-8555538952175</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Apartamento, 93.34 de área total, 43.53 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.
-
-{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
-
- {{descricao_caixa}} 
-
-Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
-        <Garage>0</Garage>
-        <LivingArea>43.53</LivingArea>
-        <LotArea>93.34</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">174507</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address><![CDATA[RUA DOUTOR OSWALDO ADIB ABIB]]></Address>
-        <Complement><![CDATA[Apto 106, TR 02]]></Complement>
-        <City><![CDATA[CAMPINAS]]></City>
-        <Neighborhood><![CDATA[PARQUE DAS CACHOEIRAS]]></Neighborhood>
-        <PostalCode>13044-491</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>473</StreetNumber>
-        <Latitude>-22.95422</Latitude>
-        <Longitude>-47.02876</Longitude>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — PARQUE DAS CACHOEIRAS]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F855553895217521.jpg</Item>
-        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F855553895217521.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-8787713684805</ListingID>
       <ContactInfo>
         <Email>contato@sellarimoveis.com.br</Email>
@@ -4888,7 +4742,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">122998</ListPrice>
@@ -5080,7 +4934,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">106667</ListPrice>
@@ -6084,7 +5938,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">111212</ListPrice>
@@ -6562,7 +6416,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">102345</ListPrice>
@@ -6610,7 +6464,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">114839</ListPrice>
@@ -6754,7 +6608,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">108081</ListPrice>
@@ -6994,7 +6848,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">178793</ListPrice>
@@ -7332,7 +7186,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">96297</ListPrice>
@@ -7380,7 +7234,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">96297</ListPrice>
@@ -7474,7 +7328,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">104000</ListPrice>
@@ -7522,7 +7376,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">102341</ListPrice>
@@ -7618,7 +7472,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">117702</ListPrice>
@@ -7714,7 +7568,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">97778</ListPrice>
@@ -7858,7 +7712,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">120883</ListPrice>
@@ -8332,7 +8186,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">104889</ListPrice>
@@ -8717,7 +8571,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">97571</ListPrice>
@@ -8814,7 +8668,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">96297</ListPrice>
@@ -9484,7 +9338,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">99556</ListPrice>
@@ -9580,7 +9434,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">94815</ListPrice>
@@ -9724,7 +9578,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">126927</ListPrice>
@@ -9821,7 +9675,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">353296</ListPrice>
@@ -10590,7 +10443,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">115383</ListPrice>
@@ -11071,7 +10924,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">141414</ListPrice>
@@ -11310,7 +11163,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">140524</ListPrice>
@@ -11457,7 +11310,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">114839</ListPrice>
@@ -11650,7 +11502,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">139217</ListPrice>
@@ -11696,7 +11548,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">95667</ListPrice>
@@ -11744,7 +11596,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">101531</ListPrice>
@@ -11793,7 +11645,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">195086</ListPrice>
@@ -12031,7 +11882,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">94815</ListPrice>
@@ -12316,7 +12167,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">94815</ListPrice>
@@ -12887,7 +12738,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">101926</ListPrice>
@@ -12933,7 +12784,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">103704</ListPrice>
@@ -12980,7 +12831,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">103704</ListPrice>
@@ -13314,7 +13165,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">106667</ListPrice>
@@ -13698,7 +13549,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">111817</ListPrice>
@@ -14605,7 +14456,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">116652</ListPrice>
@@ -15226,7 +15077,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">121487</ListPrice>
@@ -15418,7 +15269,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">124288</ListPrice>
@@ -15562,7 +15413,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">125114</ListPrice>
@@ -16517,7 +16368,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">144504</ListPrice>
@@ -16613,7 +16464,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">147565</ListPrice>
@@ -16901,7 +16752,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">154973</ListPrice>
@@ -17144,7 +16995,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">162873</ListPrice>
@@ -17629,7 +17479,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">116199</ListPrice>
@@ -17773,7 +17623,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">135955</ListPrice>
@@ -18113,7 +17963,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">268418</ListPrice>
@@ -18161,7 +18010,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">369642</ListPrice>
@@ -18378,54 +18226,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-8787708822944</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Casa, 111.90 de área total, 52.30 de área privativa, 111.90 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.
-
-{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
-
- {{descricao_caixa}} 
-
-Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>52.3</LivingArea>
-        <LotArea>111.9</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Home</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">93278</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address><![CDATA[RUA DO MEIO]]></Address>
-        <Complement><![CDATA[CS10 BL 06]]></Complement>
-        <City><![CDATA[CANAS]]></City>
-        <Neighborhood><![CDATA[CENTRO]]></Neighborhood>
-        <PostalCode>12615-000</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>1170</StreetNumber>
-        <Latitude>-22.6927232</Latitude>
-        <Longitude>-45.0567069</Longitude>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa — CENTRO]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878770882294421.jpg</Item>
-        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878770882294421.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-8787718084423</ListingID>
       <ContactInfo>
         <Email>contato@sellarimoveis.com.br</Email>
@@ -18498,7 +18298,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">99556</ListPrice>
@@ -18928,7 +18728,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">122696</ListPrice>
@@ -19072,7 +18872,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">521370</ListPrice>
@@ -19118,7 +18918,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">771401</ListPrice>
@@ -19167,7 +18967,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">704870</ListPrice>
@@ -19216,7 +19015,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">544471</ListPrice>
@@ -19264,7 +19062,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">1106217</ListPrice>
@@ -19455,7 +19253,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">1066912</ListPrice>
@@ -19503,7 +19301,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">1571832</ListPrice>
@@ -19600,7 +19398,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">319932</ListPrice>
@@ -19649,7 +19447,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">2358063</ListPrice>
@@ -19697,7 +19494,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">433374</ListPrice>
@@ -19745,7 +19542,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">91368</ListPrice>
@@ -19793,7 +19590,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">190413</ListPrice>
@@ -19839,7 +19636,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">391333</ListPrice>
@@ -19887,7 +19683,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">235288</ListPrice>
@@ -19936,7 +19731,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">534916</ListPrice>
@@ -19984,7 +19778,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">117432</ListPrice>
@@ -20031,7 +19825,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">816966</ListPrice>
@@ -20080,7 +19874,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">203941</ListPrice>
@@ -20128,7 +19921,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">1183860</ListPrice>
@@ -20175,7 +19968,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">676391</ListPrice>
@@ -20221,7 +20014,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">820500</ListPrice>
@@ -20317,7 +20109,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">704232</ListPrice>
@@ -20365,7 +20157,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">1083434</ListPrice>
@@ -20411,7 +20203,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">159366</ListPrice>
@@ -20459,7 +20251,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">252239</ListPrice>
@@ -20507,7 +20299,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">2569877</ListPrice>
@@ -20554,7 +20346,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">870492</ListPrice>
@@ -20602,7 +20394,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">1249136</ListPrice>
@@ -20650,7 +20441,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">119085</ListPrice>
@@ -20748,7 +20539,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">102460</ListPrice>
@@ -20796,7 +20586,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">94262</ListPrice>
@@ -20844,7 +20634,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">108789</ListPrice>
@@ -20893,7 +20683,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">883318</ListPrice>
@@ -21087,7 +20876,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">252902</ListPrice>
@@ -21135,7 +20924,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">357836</ListPrice>
@@ -21183,7 +20972,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">724872</ListPrice>
@@ -21231,7 +21019,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">795846</ListPrice>
@@ -21280,7 +21068,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">131087</ListPrice>
@@ -21328,7 +21115,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">155635</ListPrice>
@@ -21376,7 +21163,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">231077</ListPrice>
@@ -21425,7 +21212,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">801614</ListPrice>
@@ -21474,7 +21260,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">177094</ListPrice>
@@ -21523,7 +21308,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">503319</ListPrice>
@@ -21667,7 +21451,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">645290</ListPrice>
@@ -21714,7 +21498,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">551003</ListPrice>
@@ -21762,7 +21546,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">88148</ListPrice>
@@ -21859,7 +21643,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">85310</ListPrice>
@@ -21907,7 +21691,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">93582</ListPrice>
@@ -21955,7 +21739,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">86367</ListPrice>
@@ -22003,7 +21787,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">107888</ListPrice>
@@ -22099,7 +21883,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">82961</ListPrice>
@@ -22147,7 +21931,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">115134</ListPrice>
@@ -22195,7 +21979,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">106180</ListPrice>
@@ -22243,7 +22027,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">101231</ListPrice>
@@ -22291,7 +22075,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">89074</ListPrice>
@@ -22339,7 +22123,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">295819</ListPrice>
@@ -22436,7 +22220,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">84421</ListPrice>
@@ -22485,7 +22269,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">701320</ListPrice>
@@ -22532,7 +22315,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">1056749</ListPrice>
@@ -22630,7 +22413,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">2236973</ListPrice>
@@ -22726,7 +22508,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">556867</ListPrice>
@@ -22774,7 +22556,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">81965</ListPrice>
@@ -22822,7 +22604,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">82560</ListPrice>
@@ -22870,7 +22652,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">82831</ListPrice>
@@ -22918,7 +22700,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">87819</ListPrice>
@@ -23062,7 +22844,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">111968</ListPrice>
@@ -24022,7 +23804,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">103111</ListPrice>
@@ -24359,7 +24141,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">81578</ListPrice>
@@ -24407,7 +24189,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">111817</ListPrice>
@@ -24839,7 +24621,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">114597</ListPrice>
@@ -25079,7 +24861,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">114839</ListPrice>
@@ -25626,54 +25408,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878770914446021.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878770914446021.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-8787712661950</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Apartamento, 80.09 de área total, 34.94 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.
-
-{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
-
- {{descricao_caixa}} 
-
-Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>34.94</LivingArea>
-        <LotArea>80.09</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">122696</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address><![CDATA[RUA TEREZA HAGUIHARA CARDOSO]]></Address>
-        <Complement><![CDATA[Apto 14, BL C, VG 79]]></Complement>
-        <City><![CDATA[SUZANO]]></City>
-        <Neighborhood><![CDATA[PARQUE RESIDENCIAL CASA BRANCA]]></Neighborhood>
-        <PostalCode>08663-580</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>1020</StreetNumber>
-        <Latitude>-23.5631678</Latitude>
-        <Longitude>-46.3321142</Longitude>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — PARQUE RESIDENCIAL CASA BRANCA]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878771266195021.jpg</Item>
-        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878771266195021.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
@@ -26421,7 +26155,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">139676</ListPrice>
@@ -26734,54 +26468,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-8787714268937</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Apartamento, 91.41 de área total, 44.62 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), 1 vaga(s) de garagem.
-
-{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
-
- {{descricao_caixa}} 
-
-Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>44.62</LivingArea>
-        <LotArea>91.41</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">156138</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address><![CDATA[AVENIDA CATAGUA]]></Address>
-        <Complement><![CDATA[Apto 12, BL A]]></Complement>
-        <City><![CDATA[CARAPICUIBA]]></City>
-        <Neighborhood><![CDATA[JARDIM SANTA TEREZA]]></Neighborhood>
-        <PostalCode>06332-130</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>802</StreetNumber>
-        <Latitude>-23.5479205</Latitude>
-        <Longitude>-46.8309384</Longitude>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — JARDIM SANTA TEREZA]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878771426893721.jpg</Item>
-        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878771426893721.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-8787710500258</ListingID>
       <ContactInfo>
         <Email>contato@sellarimoveis.com.br</Email>
@@ -26806,7 +26492,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">159044</ListPrice>
@@ -26827,54 +26513,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
       <Media>
         <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878771050025821.jpg</Item>
         <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878771050025821.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-8787713248630</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>0</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Apartamento, 0.00 de área total, 45.72 de área privativa, 0.00 de área do terreno, 1 vaga(s) de garagem.
-
-{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
-
- {{descricao_caixa}} 
-
-Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>45.72</LivingArea>
-        <LotArea>45.72</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">159199</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address><![CDATA[RUA CATAGUA]]></Address>
-        <Complement><![CDATA[Apto 34, BL B]]></Complement>
-        <City><![CDATA[CARAPICUIBA]]></City>
-        <Neighborhood><![CDATA[JARDIM SANTA TEREZA]]></Neighborhood>
-        <PostalCode>06332-130</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>802</StreetNumber>
-        <Latitude>-23.5482215</Latitude>
-        <Longitude>-46.8302258</Longitude>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — JARDIM SANTA TEREZA]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878771324863021.jpg</Item>
-        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878771324863021.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
@@ -27196,7 +26834,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">790460</ListPrice>
@@ -27244,7 +26881,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">115814</ListPrice>
@@ -27292,7 +26929,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">135326</ListPrice>
@@ -27437,7 +27074,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">243341</ListPrice>
@@ -27582,7 +27219,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">280418</ListPrice>
@@ -27630,7 +27266,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">296351</ListPrice>
@@ -27678,7 +27314,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">309097</ListPrice>
@@ -27825,7 +27461,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">519411</ListPrice>
@@ -27874,7 +27509,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">537158</ListPrice>
@@ -27922,7 +27556,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">541717</ListPrice>
@@ -28018,7 +27651,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">586047</ListPrice>
@@ -28115,7 +27747,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">688299</ListPrice>
@@ -28213,7 +27844,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">777523</ListPrice>
@@ -28310,7 +27940,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">959158</ListPrice>
@@ -28408,7 +28037,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">1210897</ListPrice>
@@ -28455,7 +28083,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">1769822</ListPrice>
@@ -28503,7 +28130,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">1816346</ListPrice>
@@ -28551,7 +28178,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">99595</ListPrice>
@@ -28647,7 +28274,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">955545</ListPrice>
@@ -29121,7 +28748,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">141620</ListPrice>
@@ -29268,7 +28895,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">914546</ListPrice>
@@ -29316,7 +28942,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">1426947</ListPrice>
@@ -29365,7 +28991,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">1784480</ListPrice>
@@ -29460,7 +29085,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">84482</ListPrice>
@@ -29744,7 +29369,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">86063</ListPrice>
@@ -29984,7 +29609,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">104889</ListPrice>
@@ -30129,7 +29754,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">172075</ListPrice>
@@ -31765,7 +31389,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">92889</ListPrice>
@@ -31814,7 +31437,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">93452</ListPrice>
@@ -32204,7 +31826,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">100208</ListPrice>
@@ -32302,7 +31923,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">101334</ListPrice>
@@ -32399,7 +32019,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">82770</ListPrice>
@@ -33172,7 +32792,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">86014</ListPrice>
@@ -33318,7 +32938,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">87819</ListPrice>
@@ -33413,7 +33033,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">92445</ListPrice>
@@ -33461,7 +33081,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">92445</ListPrice>
@@ -33558,7 +33178,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">81379</ListPrice>
@@ -33894,7 +33514,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">81965</ListPrice>
@@ -34038,7 +33658,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">82550</ListPrice>
@@ -34086,7 +33706,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">82550</ListPrice>
@@ -34326,7 +33946,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">84307</ListPrice>
@@ -34374,7 +33994,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">84892</ListPrice>
@@ -34946,7 +34566,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">86649</ListPrice>
@@ -34994,7 +34614,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">86941</ListPrice>
@@ -35426,7 +35046,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">87819</ListPrice>
@@ -35474,7 +35094,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">87819</ListPrice>
@@ -35666,7 +35286,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">88405</ListPrice>
@@ -35856,7 +35476,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">88990</ListPrice>
@@ -35904,7 +35524,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">88990</ListPrice>
@@ -36952,7 +36572,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">92445</ListPrice>
@@ -38054,7 +37674,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">94815</ListPrice>
@@ -38340,7 +37960,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">94815</ListPrice>
@@ -38532,7 +38152,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">94815</ListPrice>
@@ -39276,54 +38896,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-      <ListingID>Caixa.Sellar-CAIXA-8787713326267</ListingID>
-      <ContactInfo>
-        <Email>contato@sellarimoveis.com.br</Email>
-        <Name><![CDATA[Painel Caixa]]></Name>
-      </ContactInfo>
-      <Destaque>Nao</Destaque>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Apartamento, 95.60 de área total, 45.99 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.
-
-{{tipo_imovel}} retomado pela Caixa Econômica Federal, disponível na modalidade {{modalidade}} . Valor de avaliação: {{valor_avaliacao}} . Valor de venda: {{valor_venda}} . {{aceita_financiamento}} {{aceita_fgts}} 
-
- {{descricao_caixa}} 
-
-Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializado em imóveis retomados pela Caixa no estado de São Paulo. Acompanhamento completo do lance à escritura, sem custo de comissão para o comprador. Consulte condições de financiamento e uso do FGTS.]]></Description>
-        <Garage>1</Garage>
-        <LivingArea>45.99</LivingArea>
-        <LotArea>95.6</LotArea>
-        <PropertyAdministrationFee>0</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>0</Suites>
-        <YearlyTax>0</YearlyTax>
-        <Features>
-        <Feature>Aceita FGTS</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">97756</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address><![CDATA[RUA PEREIRA BARRETO]]></Address>
-        <Complement><![CDATA[Apto 406, TORRE 04]]></Complement>
-        <City><![CDATA[PIRACICABA]]></City>
-        <Neighborhood><![CDATA[POMPEIA]]></Neighborhood>
-        <PostalCode>13425-825</PostalCode>
-        <State abbreviation="SP">São Paulo</State>
-        <StreetNumber>200</StreetNumber>
-        <Latitude>-22.7586105</Latitude>
-        <Longitude>-47.6069161</Longitude>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento — POMPEIA]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://caixa.sellarimoveis.com.br/api/fotos/F878771332626721.jpg</Item>
-        <Item medium="image" caption="">https://venda-imoveis.caixa.gov.br/fotos/F878771332626721.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing><Listing xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
       <ListingID>Caixa.Sellar-CAIXA-8787716432122</ListingID>
       <ContactInfo>
         <Email>contato@sellarimoveis.com.br</Email>
@@ -39828,7 +39400,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">98371</ListPrice>
@@ -40784,7 +40356,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">100741</ListPrice>
@@ -41548,7 +41120,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">103375</ListPrice>
@@ -42604,7 +42176,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">106667</ListPrice>
@@ -42700,7 +42272,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">106667</ListPrice>
@@ -42845,7 +42417,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">247754</ListPrice>
@@ -42893,7 +42464,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">95408</ListPrice>
@@ -42989,7 +42560,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">111817</ListPrice>
@@ -43037,7 +42608,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">111817</ListPrice>
@@ -43709,7 +43280,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">132971</ListPrice>
@@ -44045,7 +43616,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">140224</ListPrice>
@@ -44189,7 +43760,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">92792</ListPrice>
@@ -44863,7 +44434,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">431462</ListPrice>
@@ -44911,7 +44481,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">764777</ListPrice>
@@ -44959,7 +44529,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">692954</ListPrice>
@@ -45154,7 +44724,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">1167769</ListPrice>
@@ -45251,7 +44820,6 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <YearlyTax>0</YearlyTax>
         <Features>
         <Feature>Aceita Financiamento</Feature>
-        <Feature>Aceita FGTS</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">783094</ListPrice>
@@ -45299,7 +44867,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">97778</ListPrice>
@@ -45443,7 +45011,7 @@ Imóvel intermediado pela Sellar Imóveis — {{creci}} Atendimento especializad
         <Suites>0</Suites>
         <YearlyTax>0</YearlyTax>
         <Features>
-        <Feature>Aceita FGTS</Feature>
+
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">113328</ListPrice>
